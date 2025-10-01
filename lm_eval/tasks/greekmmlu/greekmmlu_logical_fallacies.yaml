@@ -1,0 +1,4 @@
+"dataset_name": "logical_fallacies"
+"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Λογικά Σφάλματα, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
+"include": "_default_template_yaml"
+"task": "greekmmlu_logical_fallacies"

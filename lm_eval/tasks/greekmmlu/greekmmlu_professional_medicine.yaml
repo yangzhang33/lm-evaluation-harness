@@ -1,0 +1,4 @@
+"dataset_name": "professional_medicine"
+"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Επαγγελματική Ιατρική, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
+"include": "_default_template_yaml"
+"task": "greekmmlu_professional_medicine"

@@ -1,0 +1,4 @@
+"dataset_name": "professional_psychology"
+"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Επαγγελματική Ψυχολογία, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
+"include": "_default_template_yaml"
+"task": "greekmmlu_professional_psychology"

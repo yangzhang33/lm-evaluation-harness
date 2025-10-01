@@ -1,0 +1,4 @@
+"dataset_name": "sociology"
+"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Κοινωνιολογία, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
+"include": "_default_template_yaml"
+"task": "greekmmlu_sociology"

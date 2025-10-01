@@ -1,0 +1,4 @@
+"dataset_name": "security_studies"
+"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Σπουδές Ασφαλείας, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
+"include": "_default_template_yaml"
+"task": "greekmmlu_security_studies"
