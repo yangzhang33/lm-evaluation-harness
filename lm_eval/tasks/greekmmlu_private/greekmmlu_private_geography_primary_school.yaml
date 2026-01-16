@@ -1,0 +1,5 @@
+include: _default_greekmmlu_private_template_yaml
+tag: greekmmlu_private_social_sciences_tasks
+task: greekmmlu_private_geography_primary_school
+task_alias: Geography_Primary_School
+dataset_name: Geography_Primary_School

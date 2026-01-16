@@ -1,0 +1,5 @@
+include: _default_greekmmlu_private_template_yaml
+tag: greekmmlu_private_humanities_tasks
+task: greekmmlu_private_greek_history_primary_school
+task_alias: Greek History_Primary_School
+dataset_name: Greek_History_Primary_School
