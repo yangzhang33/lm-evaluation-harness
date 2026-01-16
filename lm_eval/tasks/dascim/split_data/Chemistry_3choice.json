@@ -1,0 +1,288 @@
+[
+  {
+    "question": "Θετική τιμή για την επιφανειακή περίσσεια διαλυμένου συστατικού δηλώνει:",
+    "choices": [
+      "ελαττωμένη συγκέντρωση του συστατικού αυτού στην επιφάνεια σε σχέση με τη μάζα του διαλύτη",
+      "ισχυρή αλληλεπίδραση μεταξύ διαλύτη και διαλυμένου συστατικού",
+      "συσσώρευση του συστατικού αυτού στην επιφάνεια του διαλύτη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Τι μεταβολή του σημείου ζέσεως του νερού προκαλεί η προσθήκη διαλυτής στερεής ουσίας;",
+    "choices": [
+      "αύξηση",
+      "μείωση",
+      "καμία μεταβολή"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αρνητική επιφανειακή τάση διαλυμένου συστατικού δηλώνει:",
+    "choices": [
+      "αδυναμία διασποράς του συστατικού στη μάζα του διαλύτη",
+      "δυσκολία διασποράς του συστατικού στη μάζα του διαλύτη",
+      "ευκολία διασποράς του συστατικού στη μάζα του διαλύτη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η προσρόφηση είναι φαινόμενο που παρατηρείται μεταξύ μίας ή περισσότερων φάσεων, δηλ. είναι διεργασία",
+    "choices": [
+      "ετερογενής",
+      "ομοιογενής",
+      "δεν έχει νόημα το ερώτημα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η εξίσωση Freundlich περιγράφει προσρόφηση σε στερεό με κάλυψη",
+    "choices": [
+      "μικρότερη από μονοστοιβάδα",
+      "μεγαλύτερη από μονοστοιβάδα",
+      "οποιασδήποτε εκτάσεως"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η τιτλοδότηση διαλυμάτων μοριακού ιωδίου πραγματοποιείται",
+    "choices": [
+      "σε υδατική φάση",
+      "σε οργανική φάση",
+      "είτε σε υδατική είτε σε οργανική φάση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Κατά τον διαχωρισμό υδατικής φάσης από φάση υδρογονάνθρακα από πάνω βρίσκεται",
+    "choices": [
+      "η υδατική φάση",
+      "η οργανική φάση",
+      "εξαρτάται από τη θερμοκρασία ποια από τις δύο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Κατά τον διαχωρισμό υδατικής και οργανικής φάσεως, από πάνω βρίσκεται",
+    "choices": [
+      "η υδατική φάση",
+      "η οργανική φάση",
+      "όποια φάση έχει μικρότερη πυκνότητα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποια αντίδραση εξουδετέρωσης με ισχυρή βάση εμφανίζει μεγαλύτερη ενθαλπία, με ισχυρό ή ασθενές οξύ;",
+    "choices": [
+      "με ασθενές οξύ",
+      "με ισχυρό οξύ",
+      "το ίδιο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η σχέση Clausius-Clapeyron δεν ισχύει για ισορροπίες μεταξύ των φάσεων",
+    "choices": [
+      "στερεή και αέρια",
+      "στερεή και υγρή",
+      "υγρή και αέρια"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Τι επηρεάζει πιο πολύ το σημείο ζέσεως ενός λίτρου νερού;",
+    "choices": [
+      "1 mol γλυκόζης",
+      "1 mol NaCl",
+      "το ίδιο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Τι επηρεάζει πιο πολύ το σημείο ζέσεως ενός λίτρου νερού;",
+    "choices": [
+      "1 g KI",
+      "1 g γλυκόζης",
+      "το ίδιο"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αρνητική τιμή για την επιφανειακή περίσσεια διαλυμένου συστατικού δηλώνει:",
+    "choices": [
+      "λυόφιλη αλληλεπίδραση",
+      "λυόφοβη αλληλεπίδραση",
+      "τάση σχηματισμού μικυλλίων"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η εξίσωση BET περιγράφει προσρόφηση σε στερεό με κάλυψη",
+    "choices": [
+      "μικρότερη από μονοστοιβάδα",
+      "μεγαλύτερη από μονοστοιβάδα",
+      "οποιασδήποτε εκτάσεως"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η εξίσωση Langmuir περιγράφει προσρόφηση σε στερεό με κάλυψη",
+    "choices": [
+      "μικρότερη από μονοστοιβάδα",
+      "μεγαλύτερη από μονοστοιβάδα",
+      "οποιασδήποτε εκτάσεως"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιας τάξεως αλλαγή φάσεως είναι η εξάτμιση;",
+    "choices": [
+      "1ης",
+      "2ης",
+      "3ης"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Θετική τιμή για την επιφανειακή περίσσεια διαλυμένου συστατικού δηλώνει:",
+    "choices": [
+      "λυόφιλη αλληλεπίδραση",
+      "λυόφοβη αλληλεπίδραση",
+      "δεν γνωρίζουμε συσχέτιση μεταξύ αυτών των ιδιοτήτων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος αέρας έχει μεγαλύτερη πυκνότητα στην ίδια πίεση;",
+    "choices": [
+      "ο υγρός αέρας",
+      "ο ξηρός αέρας",
+      "ίδια υγρός και ξηρός"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε τι τιμές κυμαίνεται ο δείκτης διαθλάσεως σε συνήθη υλικά;",
+    "choices": [
+      "10⁻⁵ έως 10⁺⁷",
+      "1,00 έως +1,00",
+      "1 έως 4"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αληθεύει ότι τα μόρια τα οποία βρίσκονται κοντά σε μεσεπιφάνεια δεν δέχονται ισότροπες δυνάμεις;",
+    "choices": [
+      "αληθεύει",
+      "δεν αληθεύει",
+      "εξαρτάται από την ταυτότητα των μορίων"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Τι επηρεάζει πιο πολύ το σημείο ζέσεως ενός λίτρου νερού;",
+    "choices": [
+      "1 g AgI",
+      "1 g KI",
+      "το ίδιο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποια θερμοκρασία είναι μεγαλύτερη η πυκνότητα του νερού;",
+    "choices": [
+      "20°C",
+      "30°C",
+      "50°C"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  }
+]

@@ -1,0 +1,3516 @@
+[
+  {
+    "question": "Η μερική πίεση του οξυγόνου στο αίμα του πνευμονικού τριχοειδούς πριν οξυγονωθεί στις κυψελίδες είναι:",
+    "choices": [
+      "60 mmHg",
+      "90 mmHg",
+      "40 mmHg",
+      "105 mmHg"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η εκπόλωση των κοιλιών στο ΗΚΓ φαίνεται με:",
+    "choices": [
+      "το διάστημα P-R",
+      "το έπαρμα T",
+      "το διάστημα S-T",
+      "το σύμπλεγμα QRS"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Κατά τη διάρκεια ενός δυναμικού ενεργείας, ποιος από τους παρακάτω διαύλους ανοίγει πρώτα;",
+    "choices": [
+      "Οι τασεοευαίσθητοι δίαυλοι νατρίου",
+      "Οι τασεοευαίσθητοι δίαυλοι καλίου",
+      "Οι τασεοευαίσθητοι δίαυλοι ασβεστίου",
+      "Αμφότεροι οι τασεοευαίσθητοι δίαυλοι καλίου και νατρίου ανοίγουν ταυτόχρονα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ένα δυναμικό ενέργειας:",
+    "choices": [
+      "μεταδίδεται από το ένα διεγέρσιμο κύτταρο στο άλλο",
+      "έχει ανερέθιστη περίοδο",
+      "έχει κατώφλι πυροδότησης",
+      "όλα τα παραπάνω είναι σωστά"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η αιμάτωση είναι καλύτερη:",
+    "choices": [
+      "στα άνω πνευμονικά πεδία",
+      "στα μέσα πνευμονικά πεδία",
+      "στα κάτω πνευμονικά πεδία",
+      "σε όλα τα πνευμονικά πεδία χωρίς καμία διαφορά"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Το τμήμα του εγκεφάλου που συντονίζει την αναπνοή, τον καρδιακό ρυθμό και την αρτηριακή πίεση είναι:",
+    "choices": [
+      "τα εγκεφαλικά ημισφαίρια",
+      "ο προμήκης",
+      "ο θάλαμος",
+      "η παρεγκεφαλίδα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Πόσα ζεύγη νωτιαίων νεύρων και εγκεφαλικών συζυγιών υπάρχουν στους ανθρώπους;",
+    "choices": [
+      "23",
+      "33",
+      "13",
+      "43"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η μιτροειδής βαλβίδα είναι κλειστή και η αορτική βαλβίδα είναι ανοιχτή κατά τη διάρκεια της:",
+    "choices": [
+      "συστολής & διαστολής των κοιλιών",
+      "συστολής των κοιλιών",
+      "διαστολής των κόλπων",
+      "διαστολής των κοιλιών"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η ρενίνη του πλάσματος αυξάνεται όταν υπάρχει μία πτώση:",
+    "choices": [
+      "στην κορτικοτρόπο ορμόνη",
+      "στα ιόντα ασβεστίου του αίματος",
+      "στην ωσμωτικότητα του αίματος",
+      "στην πίεση του αίματος"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Σε έναν υγιή άνδρα, πόσα λίτρα αίματος αντλεί η καρδιά ανά λεπτό;",
+    "choices": [
+      "10-11",
+      "5-6",
+      "8-9",
+      "1"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Όταν το διάφραγμα συσπάται:",
+    "choices": [
+      "ο όγκος της κοιλιακής κοιλότητας ελαττώνεται",
+      "ο όγκος της θωρακικής κοιλότητας ελαττώνεται",
+      "ο όγκος της κοιλιακής κοιλότητας αυξάνεται",
+      "ο όγκος της θωρακικής κοιλότητας αυξάνεται"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η λευκή ουσία του νωτιαίου μυελού αποτελείται κυρίως από:",
+    "choices": [
+      "εμμύελους νευράξονες",
+      "αμύελους δενδρίτες",
+      "εμμύελους δενδρίτες",
+      "αμύελους νευράξονες"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τις ακόλουθες διαιρέσεις του ΑΝΣ παράγει την αντίδραση 'πάλης-φυγής';",
+    "choices": [
+      "η συμπαθητική διαίρεση",
+      "η εγκεφαλική φλοιώδης διαίρεση",
+      "η παρασυμπαθητική διαίρεση",
+      "η σωματική διαίρεση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιο από τα ακόλουθα δεν θα συμβεί όταν το παρασυμπαθητικό σύστημα είναι ενεργοποιημένο;",
+    "choices": [
+      "η σύσπαση της κόρης των οφθαλμών",
+      "η μείωση της αρτηριακής πίεσης",
+      "η αύξηση του καρδιακού ρυθμού",
+      "η γαστρεντερική δραστηριότητα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η σύσπαση του καρδιακού μυός σχετίζεται καλύτερα με την ενδοκυττάρια συγκέντρωση:",
+    "choices": [
+      "ιόντων νατρίου",
+      "ιόντων ασβεστίου",
+      "ιόντων καλίου",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η ροή του ρεύματος είναι πιο αργή:",
+    "choices": [
+      "στον κολποκοιλιακό κόμβο",
+      "στους κόλπους",
+      "στις ίνες Purkinje",
+      "στο φλεβόκομβο"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ο νωτιαίος μυελός και ο εγκέφαλος προστατεύονται επειδή περιβάλλονται από:",
+    "choices": [
+      "τα κομβία του Ranvier",
+      "τις μήνιγγες",
+      "τις αύλακες",
+      "τις κοιλίες"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η καρδιακή παροχή εξαρτάται από:",
+    "choices": [
+      "την καρδιακή συχνότητα",
+      "τον όγκο παλμού",
+      "από τη λειτουργία του αυτόνομου νευρικού συστήματος",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιοι από τους ακόλουθους μύες εμπλέκονται μεταξύ άλλων στη βαθιά εισπνοή;",
+    "choices": [
+      "το διάφραγμα και οι έσω μεσοπλεύριοι μύες",
+      "οι σκαληνοί και οι στερνοκλειδομαστοειδείς μύες",
+      "οι έξω μεσοπλεύριοι και οι κοιλιακοί μύες",
+      "οι έσω μεσοπλεύριοι και οι εγκάρσιοι θωρακικοί μύες"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η σχέση εισπνοής-εκπνοής είναι:",
+    "choices": [
+      "2:1",
+      "1:1",
+      "1:2",
+      "1:3"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η λευκή ουσία των εγκεφαλικών ημισφαιρίων αποτελείται κυρίως από:",
+    "choices": [
+      "αμύελους νευράξονες",
+      "αμύελους νευράξονες και κυτταρικά σώματα των νευρώνων",
+      "εμμύελους νευράξονες",
+      "κυτταρικά σώματα των νευρώνων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω νευροδιαβιβαστές είναι η μοναδική έκκριση των συμπαθητικών προγαγγλιακών ινών του αυτόνομου νευρικού συστήματος;",
+    "choices": [
+      "Η ακετυλοχολινεστεράση",
+      "Η ακετυλοχολίνη",
+      "Η επινεφρίνη",
+      "Η σεροτονίνη"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Παράγοντες που επηρεάζουν τον αερισμό είναι:",
+    "choices": [
+      "η ροή αέρα",
+      "η ενδοπνευμονική πίεση",
+      "η ενδοϋπεζωκοτική πίεση",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τα ακόλουθα κύτταρα εκκρίνουν τον επιφανειοδραστικό παράγοντα;",
+    "choices": [
+      "Τα κροσσωτά κυλινδρικά κύτταρα",
+      "Τα πλακώδη επιθηλιακά κύτταρα των κυψελιδικών τοιχωμάτων",
+      "Τα κυψελιδικά κύτταρα τύπου Ι",
+      "Τα κυψελιδικά κύτταρα τύπου ΙΙ"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιος είναι ο σκοπός του εγκεφαλονωτιαίου υγρού;",
+    "choices": [
+      "ελαττώνει την πίεση στη βάση του εγκεφάλου",
+      "γεμίζει τον υπαραχνοειδή χώρο",
+      "όλα τα παραπάνω",
+      "ελαττώνει το βάρος του εγκεφάλου"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ο αερισμός είναι καλύτερος:",
+    "choices": [
+      "στα άνω πνευμονικά πεδία",
+      "στα μέσα πνευμονικά πεδία",
+      "στα κάτω πνευμονικά πεδία",
+      "σε όλα τα πνευμονικά πεδία χωρίς καμία διαφορά"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ένα δυναμικό ενέργειας:",
+    "choices": [
+      "μεταδίδεται από το ένα διεγέρσιμο κύτταρο στο άλλο",
+      "έχει ανερέθιστη περίοδο",
+      "έχει κατώφλι πυροδότησης",
+      "όλα τα παραπάνω είναι σωστά"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Κατά τη διάρκεια ενός δυναμικού ενεργείας, ποιος από τους παρακάτω διαύλους ανοίγει πρώτα;",
+    "choices": [
+      "Οι τασεοευαίσθητοι δίαυλοι νατρίου",
+      "Οι τασεοευαίσθητοι δίαυλοι καλίου",
+      "Οι τασεοευαίσθητοι δίαυλοι ασβεστίου",
+      "Αμφότεροι οι τασεοευαίσθητοι δίαυλοι καλίου και νατρίου ανοίγουν ταυτόχρονα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τις ακόλουθες διαιρέσεις του ΑΝΣ παράγει την αντίδραση «πάλης-φυγής»;",
+    "choices": [
+      "η εγκεφαλική φλοιώδης διαίρεση",
+      "η συμπαθητική διαίρεση",
+      "η σωματική διαίρεση",
+      "η εντερική διαίρεση"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η εκπόλωση των κοιλιών στο ΗΚΓ φαίνεται με:",
+    "choices": [
+      "το σύμπλεγμα QRS",
+      "το διάστημα S-T",
+      "το έπαρμα T",
+      "το έπαρμα P"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ο νωτιαίος μυελός και ο εγκέφαλος προστατεύονται επειδή περιβάλλονται από:",
+    "choices": [
+      "τις κοιλίες",
+      "τις μήνιγγες",
+      "τις αύλακες",
+      "τα κομβία του Ranvier"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω νευροδιαβιβαστές είναι η μοναδική έκκριση των συμπαθητικών προγαγγλιακών ινών του αυτόνομου νευρικού συστήματος;",
+    "choices": [
+      "η νορεπινεφρίνη",
+      "η ακετυλοχολινεστεράση",
+      "η ακετυλοχολίνη",
+      "η σεροτονίνη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τα ακόλουθα κύτταρα εκκρίνουν τον επιφανειοδραστικό παράγοντα;",
+    "choices": [
+      "Τα κροσσωτά κυλινδρικά κύτταρα",
+      "Τα πλακώδη επιθηλιακά κύτταρα των κυψελιδικών τοιχωμάτων",
+      "Τα κυψελιδικά κύτταρα τύπου Ι",
+      "Τα κυψελιδικά κύτταρα τύπου ΙΙ"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Επιλέξτε ποιο από τα παρακάτω είναι ΛΑΘΟΣ:",
+    "choices": [
+      "Η έντονη εκπνοή είναι μια ενεργητική διαδικασία που χρειάζεται κατανάλωση ενέργειας",
+      "Η έντονη εκπνοή είναι μια παθητική διαδικασία που εμπλέκει τη χάλαση των εισπνευστικών μυών",
+      "Η έντονη εκπνοή πραγματοποιείται με τη βοήθεια των κοιλιακών μυών",
+      "Η έντονη εκπνοή πραγματοποιείται με τη βοήθεια του διαφράγματος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Όταν το διάφραγμα συσπάται:",
+    "choices": [
+      "ο όγκος της θωρακικής κοιλότητας αυξάνεται",
+      "δεν υπάρχει καμία αλλαγή στον όγκο είτε της θωρακικής είτε της κοιλιακής κοιλότητας",
+      "ο όγκος της κοιλιακής κοιλότητας αυξάνεται",
+      "ο όγκος της θωρακικής κοιλότητας ελαττώνεται"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιοι από τους ακόλουθους μύες εμπλέκονται μεταξύ άλλων στη βαθιά εισπνοή;",
+    "choices": [
+      "το διάφραγμα και οι έσω μεσοπλεύριοι μύες",
+      "οι έξω μεσοπλεύριοι και οι κοιλιακοί μύες",
+      "οι έσω μεσοπλεύριοι και οι εγκάρσιοι θωρακικοί μύες",
+      "οι σκαληνοί και οι στερνοκλειδομαστοειδείς μύες"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Παράγοντες που παράγουν τον αερισμό είναι:",
+    "choices": [
+      "η ενδοπνευμονική πίεση",
+      "η ενδοπλευρική πίεση",
+      "όλα τα παραπάνω",
+      "η πίεση και ο όγκος αερίων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τις παρακάτω βλάβες εντοπίζεται συνήθως σε πρόσθια περιοχή (τομείς-κυνόδοντες);",
+    "choices": [
+      "σύμπλεκτο οδόντωμα",
+      "όγκος του Pindborg",
+      "αδενοματοειδής οδοντογενής όγκος",
+      "οστεοποιό ίνωμα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το οδόντωμα και ο αδενωματοειδής οδοντογενής όγκος εμφανίζονται σε ηλικία:",
+    "choices": [
+      "20-40 ετών",
+      "μεγαλύτερη των 40 ετών",
+      "μεγάλες ηλικίες άνω των 50 ετών",
+      "στην 1η και 2η δεκαετία"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η σύσπαση του καρδιακού μυός σχετίζεται καλύτερα με την ενδοκυττάρια συγκέντρωση:",
+    "choices": [
+      "ιόντων νατρίου",
+      "ιόντων ασβεστίου",
+      "ιόντων καλίου",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η μερική πίεση του οξυγόνου στο αίμα του πνευμονικού τριχοειδούς πριν οξυγονωθεί στις κυψελίδες είναι:",
+    "choices": [
+      "90 mmHg",
+      "60 mmHg",
+      "105 mmHg",
+      "40 mmHg"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Όλες οι παρακάτω μικτές βλάβες εντοπίζονται πιο συχνά στην άνω γνάθο, εκτός από μία:",
+    "choices": [
+      "αδενοματοειδής οδοντογενής όγκος",
+      "ενασβεστιούμενη οδοντογενής κύστη",
+      "όγκος του Pindborg",
+      "σύνθετο οδόντωμα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Ποια από τις παρακάτω καλοήθεις μικτές βλάβες έχει ασαφή ακτινογραφικά όρια;",
+    "choices": [
+      "εντοπισμένη οστεΐνική δυσπλασία",
+      "ινώδης δυσπλασία",
+      "οστεοποιό ίνωμα",
+      "νόσος Paget των οστών"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Ποια από τις παρακάτω μικτές βλάβες εντοπίζεται συνήθως στην άνω γνάθο;",
+    "choices": [
+      "ινώδης δυσπλασία",
+      "εντοπισμένη οστεΐνική δυσπλασία",
+      "οστεοποιό ίνωμα",
+      "χρόνια οστεομυελίτιδα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η νόσος Paget των οστών εμφανίζεται συνήθως σε ηλικία:",
+    "choices": [
+      "μεγαλύτερη των 55 ετών",
+      "μέση ηλικία τα 27 έτη",
+      "5-20 ετών",
+      "30-50 ετών"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η αιμάτωση είναι καλύτερη:",
+    "choices": [
+      "στα άνω πνευμονικά πεδία",
+      "στα μέσα πνευμονικά πεδία",
+      "στα κάτω πνευμονικά πεδία",
+      "σε όλα τα πνευμονικά πεδία χωρίς καμία διαφορά"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιος είναι ο σκοπός του εγκεφαλονωτιαίου υγρού;",
+    "choices": [
+      "προστατεύει το ΚΝΣ",
+      "γεμίζει τον υπαραχνοειδή χώρο",
+      "ελαττώνει την πίεση στη βάση του εγκεφάλου",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Σε έναν υγιή άνδρα, πόσα λίτρα αίματος αντλεί η καρδιά ανά λεπτό;",
+    "choices": [
+      "5-6",
+      "2-3",
+      "10-11",
+      "8-9"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η ρενίνη του πλάσματος αυξάνεται όταν υπάρχει μία πτώση:",
+    "choices": [
+      "στο pH του αίματος",
+      "στην πίεση του αίματος",
+      "στην ωσμωτικότητα του αίματος",
+      "στην κορτικοτρόπο ορμόνη"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η ροή του ρεύματος είναι πιο αργή:",
+    "choices": [
+      "στον φλεβόκομβο",
+      "στον κολποκοιλιακό κόμβο",
+      "στα σκέλη του δεματίου του His",
+      "στις ίνες Purkinje"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η καρδιακή παροχή εξαρτάται από:",
+    "choices": [
+      "την καρδιακή συχνότητα",
+      "τον όγκο παλμού",
+      "από τη λειτουργία του αυτόνομου νευρικού συστήματος",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποιο από τα ακόλουθα δεν θα συμβεί όταν το παρασυμπαθητικό σύστημα είναι ενεργοποιημένο;",
+    "choices": [
+      "η μείωση της αρτηριακής πίεσης",
+      "η αποβολή ούρων",
+      "η αύξηση του καρδιακού ρυθμού",
+      "η σύσπαση της κόρης των οφθαλμών"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η μιτροειδής βαλβίδα είναι κλειστή και η αορτική βαλβίδα είναι ανοιχτή κατά τη διάρκεια της:",
+    "choices": [
+      "συστολής & διαστολής των κοιλιών",
+      "συστολής των κοιλιών",
+      "διαστολής των κόλπων",
+      "συστολής των κόλπων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τις παρακάτω βλάβες δε σχετίζεται με έγκλειστα δόντια;",
+    "choices": [
+      "ενασβεστιούμενη οδοντογενής κύστη",
+      "οστεϊνοβλάστωμα",
+      "οδόντωμα",
+      "αδενοματοειδής οδοντογενής όγκος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η σχέση εισπνοής-εκπνοής είναι:",
+    "choices": [
+      "1:1",
+      "1:2",
+      "1:3",
+      "3:1"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Στη μέτρηση αερίων αίματος ενός ασθενούς μετρούμε: pH= 7,31, PO2 = 82 mmHg, PCO2 = 60 mmHg, HCO3 = 22. Ποια τιμή ΔΕΝ είναι φυσιολογική;",
+    "choices": [
+      "Το PO2",
+      "Το PCO2",
+      "Το HCO3",
+      "Όλες οι τιμές είναι φυσιολογικές"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Στη μέτρηση αερίων αίματος ενός ασθενούς μετρούμε: pH = 7,31, PO₂ = 82 mmHg, PCO₂ = 60 mmHg, HCO₃ = 22. Ποια τιμή ΔΕΝ είναι φυσιολογική;",
+    "choices": [
+      "Το pH",
+      "Το PO₂",
+      "Το HCO₃",
+      "Όλες οι τιμές είναι φυσιολογικές"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ο αερισμός είναι καλύτερος:",
+    "choices": [
+      "στα άνω πνευμονικά πεδία",
+      "στα μέσα πνευμονικά πεδία",
+      "στα κάτω πνευμονικά πεδία",
+      "σε όλα τα πνευμονικά πεδία χωρίς καμία διαφορά"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Το τμήμα του εγκεφάλου που συντονίζει την αναπνοή, τον καρδιακό ρυθμό και την αρτηριακή πίεση είναι:",
+    "choices": [
+      "ο θάλαμος",
+      "τα εγκεφαλικά ημισφαίρια",
+      "ο προμήκης",
+      "η παρεγκεφαλίδα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ποια από τις παρακάτω βλάβες εμφανίζει 2 διαφορετικές ακτινογραφικές εικόνες (από τις οποίες η μία είναι διαύγαση και η άλλη μικτή βλάβη);",
+    "choices": [
+      "οστεοποιό ίνωμα",
+      "οστεϊνοβλάστωμα",
+      "όγκος του Pindborg",
+      "αδενοματοειδής οδοντογενής όγκος"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Πόσα ζεύγη νωτιαίων νεύρων και εγκεφαλικών συζυγιών υπάρχουν στους ανθρώπους;",
+    "choices": [
+      "43",
+      "13",
+      "53",
+      "23"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η λευκή ουσία του νωτιαίου μυελού αποτελείται κυρίως από:",
+    "choices": [
+      "εμμύελους νευράξονες",
+      "αμύελους δενδρίτες",
+      "εμμύελους δενδρίτες",
+      "αμύελους νευράξονες"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η λευκή ουσία των εγκεφαλικών ημισφαιρίων αποτελείται κυρίως από:",
+    "choices": [
+      "αμύελους νευράξονες και κυτταρικά σώματα των νευρώνων",
+      "εμμύελους νευράξονες",
+      "δενδρίτες",
+      "κυτταρικά σώματα των νευρώνων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Ειδικά κλινικά σημεία ασκιτικής συλλογής είναι τα ακόλουθα, εκτός από ένα:",
+    "choices": [
+      "Σημείο αντιτυπίας.",
+      "Επίφλεβο.",
+      "Σημείο επιπλέοντος πάγου.",
+      "Αμβλύτητα στην πλάγια κοιλία."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια είναι η πρωιμότερη διαταραχή του ΗΚΓ σε ασθενή με υπερκαλιαιμία;",
+    "choices": [
+      "Η παραμόρφωση των QRS.",
+      "Τα υψηλά οξυκόρυφα Τ.",
+      "Η εμφάνιση torsades de pointes.",
+      "Η εμφάνιση SI, QIII, TIII."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η ρευματοειδής αρθρίτιδα – νόσος πολυπαραγοντική – προσβάλλει περίπου το 1% του πληθυσμού με αναλογία ανδρών/γυναικών 1/3 και ορίζεται ως ένα εκ των παρακάτω:",
+    "choices": [
+      "Συμμετρική, φλεγμονώδης πολυαρθρίτιδα, μικρών και μεγάλων αρθρώσεων.",
+      "Φλεγμονώδης σπονδυλαρθρίτιδα, με συχνή συμμετοχή περιφερικών αρθρώσεων.",
+      "Φλεγμονώδης σπονδυλαρθρίτιδα, με σπάνια συμμετοχή περιφερικών αρθρώσεων.",
+      "Αυτοάνοση συμμετρική, φλεγμονώδης πολυαρθρίτιδα, των αρθρώσεων των χεριών."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στα παιδιά, η πάθηση η οποία συχνά είναι πολύ πιθανό να διαγνωστεί εσφαλμένα ως οξεία σκωληκοειδίτιδα, είναι:",
+    "choices": [
+      "Η οξεία τοπική εντερίτιδα",
+      "Η οξεία μεσεντέριος λεμφαδενίτιδα",
+      "Ο εγκολεασμός",
+      "Το εκκόλπωμα Meckel"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας 16χρονος μεταφέρεται στο ΤΕΠ μετά από επίθεση που δέχθηκε στο κεφάλι με έναν μεταλλικό σωλήνα, μετά από συμπλοκή προ 20 λεπτών. Ανοίγει τα μάτια του για λίγο σε επώδυνα ερεθίσματα, μουρμουρίζει ακατανόητους ήχους, και αποσύρει στα επώδυνα ερεθίσματα. Τι βαθμολογία της κλίμακας Γλασκώβης έχει ο ασθενής μας;",
+    "choices": [
+      "7.",
+      "5.",
+      "8.",
+      "9."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οι νάρθηκες έλξης αποτελούν βασικό εξοπλισμό στην Επείγουσα Προνοσοκομειακή Φροντίδα και χρησιμοποιούνται για την αντιμετώπιση καταγμάτων στα μεγάλα οστά, εφαρμοζόμενοι κατά μήκος του ποδιού. Σε ασθενή, από σοβαρό τροχαίο, με πολλαπλά κατάγματα κορμού και άκρων, ποια από τις παρακάτω τραυματικές κακώσεις, αποτελεί βασική αντένδειξη για την εφαρμογή του μηριαίου νάρθηκα έλξης;",
+    "choices": [
+      "Κάταγμα πυέλου.",
+      "Γωνίωση κατάγματος κνήμης.",
+      "Κάταγμα μηριαίου οστού.",
+      "Κάταγμα ποδοκνημικής (ΠΔΚ)."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένα εύρημα εκ των παρακάτω δεν παρατηρείται στην οξεία παγκρεατίτιδα:",
+    "choices": [
+      "Λευκοκυττάρωση.",
+      "Απώλεια υγρών.",
+      "Υπερασβεστιαιμία.",
+      "Αύξηση της LDH."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η «δοκιμασία Καπτοπρίλης» συμβάλλει στη διάγνωση:",
+    "choices": [
+      "Του συνδρόμου Cushing",
+      "Τίποτα από τα παραπάνω",
+      "Της ιδιοπαθούς υπέρτασης",
+      "Της νεφραγγειακής υπέρτασης"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα, ηλικίας 38 ετών, με έντονη αγχώδη διαταραχή, παχύσαρκη, προσέρχεται στο Κ.Υ. λόγω αισθήματος παλμών από 24ώρου και αρρυθμίας. Η ασθενής λαμβάνει από 2ετίας, 1 δισκίο 75 μg θυροξίνης ημερησίως, λόγω πολυοζώδους βρογχοκήλης. Στο ΗΚΓ διαπιστώνεται κολπική μαρμαρυγή. Ποια είναι η πιθανότερη διάγνωση;",
+    "choices": [
+      "Νόσος του Graves.",
+      "Τοξική πολυοζώδης βρογχοκήλη.",
+      "Εστιακή θυρεοειδίτιδα.",
+      "Αύξηση της δόσης της θυροξίνης, αυτοβούλως, με στόχο την απώλεια βάρους."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Από τα παρακάτω νοσήματα, που συνοδεύονται συχνά από οξύ θωρακικό πόνο, όλα συνιστούν πιθανό άμεσο κίνδυνο για τη ζωή και απαιτούν επείγουσα αντιμετώπιση, εκτός από ένα:",
+    "choices": [
+      "Ρήξη οισοφάγου.",
+      "Πνευμονική εμβολή.",
+      "Πλευρίτιδα με υπεζωκοτική συλλογή.",
+      "Οξύ έμφραγμα μυοκαρδίου."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω προτάσεις σχετίζονται με το σύνδρομο Mallory-Weiss, εκτός από:",
+    "choices": [
+      "Η θεραπεία είναι κατεξοχήν συντηρητική.",
+      "Παθολογοανατομικά, αφορά αυτόματη διάτρηση όλων των χιτώνων του οισοφάγου.",
+      "Το κύριο σύμπτωμα είναι η γαστρεντερική αιμορραγία μετά από εμετό.",
+      "Η υπερέμεση της κύησης μπορεί να είναι μια αιτία εμφάνισης του συνδρόμου."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Κατά την παθογένεια της οξείας διάρροιας, ποιος μικροοργανισμός χαρακτηριστικά διαπερνά τον εντερικό βλεννογόνο του άπω λεπτού εντέρου, πολλαπλασιάζεται στις πλάκες του Peyer, και στη συνέχεια διασπείρεται στην κυκλοφορία του αίματος;",
+    "choices": [
+      "Clostridium difficile.",
+      "Τα Α + Ε.",
+      "Salmonella typhi.",
+      "Vibrio cholerae."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι ακόλουθες προτάσεις είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Στη δηλητηρίαση από εκλεκτικούς αναστολείς επαναπρόσληψης της σεροτονίνης (SSRIs) μπορεί να εμφανιστεί το «σύνδρομο σεροτονίνης» που χαρακτηρίζεται από την κλινική τριάδα: διαταραχές επιπέδου συνείδησης, υπερδραστηριότητα του Αυτόνομου Νευρικού Συστήματος (ΑΝΣ) και νευρομυϊκές διαταραχές.",
+      "Η ομεπραζόλη αλληλεπιδρά συχνά με άλλα φάρμακα και βάσει τούτου επιβραδύνει την απορρόφηση της βαρφαρίνης, της διαζεπάμης και της φαινυτοΐνης.",
+      "Ως οισοφάγος Barrett χαρακτηρίζεται η ανάπτυξη γαστρικού τύπου επιθηλίου σε ασθενείς με εμμένουσα σοβαρή ΓΟΠΝ, στο κατώτερο τριτημόριο του οισοφάγου, που προδιαθέτει για την ανάπτυξη γαστρικού καρκινώματος.",
+      "Η χορήγηση μοξιφλοξασίνης απαιτεί ιδιαίτερη προσοχή στους ασθενείς που λαμβάνουν αντιαρρυθμικά φάρμακα ή έχουν προδιαθεσικούς παράγοντες για εμφάνιση αρρυθμιών, διότι μπορεί να προκαλέσει παράταση του διαστήματος QT."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στο \"Alvarado score\" (ή αλλιώς στο μνημονικό \"MANTRELS\") το οποίο περιγράφηκε το 1986 από τον Αμερικανό χειρουργό Alfredo Alvarado, που χρησιμοποιείται πλέον ευρέως στην καθ' ημέρα κλινική πράξη για τη διάγνωση της οξείας σκωληκοειδίτιδας, όλα όσα αναφέρονται παρακάτω αποτελούν ορθές παραμέτρους για τη διάγνωση της επείγουσας αυτής κλινικής κατάστασης, εκτός από μία:",
+    "choices": [
+      "Άλγος στον δεξιό λαγόνιο βόθρο.",
+      "Θερμοκρασία > 38,5 βαθμούς Κελσίου.",
+      "Ανορεξία.",
+      "Ναυτία/έμετοι."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το κλινικό «σημείο Homans», το οποίο περιγράφηκε το 1944 από τον John Homans, έναν Αμερικανό χειρουργό, ανευρίσκεται σε μία από τις κάτωθι κλινικές καταστάσεις:",
+    "choices": [
+      "Εν τω βάθει φλεβική θρόμβωση.",
+      "Ανεύρυσμα κοιλιακής αορτής.",
+      "Ρήξη έσω μηνίσκου.",
+      "Κάκωση ποδοκνημικής άρθρωσης."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε οξεία δηλητηρίαση από την κατάποση καυστικών οξέος ή αλκάλεως, οι βασικές θεραπευτικές παρεμβάσεις στο επίπεδο της ΠΦΥ, πρέπει να περιλαμβάνουν:",
+    "choices": [
+      "Διενέργεια πλύσης στομάχου.",
+      "Χορήγηση ενεργού άνθρακα.",
+      "Όλα τα παραπάνω.",
+      "Τίποτα από τα παραπάνω."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οι παροξύνσεις της Χρόνιας Αποφρακτικής Πνευμονοπάθειας (ΧΑΠ) και τα συνοδά νοσήματα συνεισφέρουν στη βαρύτητα της νόσου σε κάθε ασθενή, καθώς και στη συνολική θνητότητα. Ποιο είναι το συχνότερο αίτιο παρόξυνσης της ΧΑΠ;",
+    "choices": [
+      "Συμφορητική καρδιακή ανεπάρκεια",
+      "Περιβαλλοντικές μεταβολές",
+      "Αυτόματος πνευμοθώρακας",
+      "Λοιμώξεις αναπνευστικού"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Αναλάβατε την παρακολούθηση ενός νεοδιαγνωσμένου μεσήλικα διαβητικού ασθενή. Ποιο από τα παρακάτω (κλινικές εξετάσεις ή εργαστηριακές μετρήσεις) θεωρείται ως λιγότερο χρήσιμο κατά τη μακροχρόνια διαχείριση του σακχαρώδους διαβήτη;",
+    "choices": [
+      "Έλεγχος της HbA1c",
+      "Έλεγχος ηπατικών ενζύμων",
+      "Έλεγχος των οφθαλμών",
+      "Έλεγχος των λιπιδίων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένα από τα παρακάτω αίτια δεν προκαλεί δυσκοιλιότητα:",
+    "choices": [
+      "Χρήση οπιοειδών.",
+      "Υπερθυρεοειδισμός.",
+      "Μακροχρόνια κατάκλιση.",
+      "Καρκίνος ορθού."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι προτάσεις για την ομοιόσταση του ασβεστίου είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Τα ενδοφλέβια Διφωσφονικά (Zoledronate, Ibandronate) χορηγούνται αμέσως μετά τη διάγνωση σοβαρής υπερασβεστιαιμίας, επειδή η μέγιστη δράση τους εκδηλώνεται μετά από 2-5 ημέρες και χρειάζεται ιδιαίτερη προσοχή σε ασθενείς με νεφρική ανεπάρκεια.",
+      "Το «σύνδρομο του αδηφάγου οστού – Hungry Bone Syndrome», παρατηρείται μετά από επεμβάσεις στον θυρεοειδή και τους παραθυρεοειδείς, μετά από έναρξη χορήγησης βιταμίνης D σε ασθενείς με ραχίτιδα και χαρακτηρίζεται από υπερβολική μετακίνηση ασβεστίου στα οστά με επακόλουθη υπασβεστιαιμία.",
+      "Η καλσιτονίνη αυξάνει το ασβέστιο του αίματος, μέσω διέγερσης της οστεοκλαστικής δραστηριότητας.",
+      "Αίτια υπερασβεστιαιμίας εκτός του πολλαπλού μυελώματος και του καρκίνου μαστού, μπορεί να είναι η φυματίωση, η σαρκοείδωση, η βηριλλίωση, το λέμφωμα Hodgkin."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Από τους παρακάτω κλινικούς συνδυασμούς, ένας δεν ισχύει:",
+    "choices": [
+      "Σύνδρομο Plummer-Vinson – Σιδηροπενική αναιμία.",
+      "Αναιμία Biermer – Γαστρική υπερέκκριση.",
+      "Σύνδρομο Imerslund-Gräsbeck – Έλλειψη βιταμίνης Β12.",
+      "Εκκόλπωμα μεσότητος οισοφάγου – Παλαιά φυματίωση."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το σύνδρομο της άνω μεσεντέριας αρτηρίας (σύνδρομο Wilkie) χαρακτηρίζεται από όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Συχνά παρατηρείται σε νεαρές, πολύ αδύνατες και νευρωσικές γυναίκες.",
+      "Η απόφραξη της άνω μεσεντέριας αρτηρίας οδηγεί σε υποάρδευση των σπλάγχνων.",
+      "Επιπλοκές μπορεί να είναι: ηλεκτρολυτικές διαταραχές, αφυδάτωση, ειλεός, υποθρεψία.",
+      "Το επιγαστρικό άλγος υποχωρεί μετά τον εμετό και σε αριστερή πλάγια ή πρηνή θέση."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα ασθενής, 37 ετών, προσέρχεται στο ΤΕΠ με πυρετό 38,4°C και μετωπο-βρεγματιαία κεφαλαλγία. Δεν παρουσιάζει αυχενική δυσκαμψία, ούτε επίσης εστιακή νευρολογική σημειολογία ή οίδημα των οπτικών θηλών. Η γενική αίματος ανέδειξε λευκά αιμοσφαίρια (WBC) 14.700/μl, με πολυμορφοπυρηνικό τύπο (gran: 82%). Ποια εξέταση πρέπει να πραγματοποιηθεί κατά προτεραιότητα;",
+    "choices": [
+      "Ακτινογραφίες ιγμορείων.",
+      "Μαγνητική τομογραφία εγκεφάλου.",
+      "Ακτινογραφία κρανίου.",
+      "Οσφυονωτιαία παρακέντηση."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο οξύς τραυματικός καρδιακός επιπωματισμός αντιμετωπίζεται με τα εξής:",
+    "choices": [
+      "Χορήγηση αντιαρρυθμικών φαρμάκων.",
+      "Παρακέντηση περικαρδίου.",
+      "Χορήγηση δακτυλίτιδας.",
+      "Ταχεία ελεγχόμενη πτώση της Α.Π."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενείς με επεισόδια ζάλης ή ιλίγγου, όλα τα παρακάτω αποτελούν συμπτώματα και κλινικά σημεία απειλητικής για τη ζωή καταστάσεως, εκτός από ένα:",
+    "choices": [
+      "Προοδευτική έναρξη ετερόπλευρης απώλειας της ακοής και εμβοές.",
+      "Δυσαρθρία.",
+      "Διπλωπία.",
+      "Οριζόντιος νυσταγμός."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένα εκ των κατωτέρω δεν παρατηρείται στη Λοιμώδη Μονοπυρήνωση:",
+    "choices": [
+      "Αύξηση ουδετεροφίλων.",
+      "Λεμφαδενοπάθεια.",
+      "Τρανσαμινασαιμία.",
+      "Διόγκωση αμυγδαλών."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οξεοβασική διαταραχή είναι η μεταβολή της φυσιολογικής τιμής του εξωκυττάριου pH, η οποία μπορεί να συμβεί όταν υπάρχει διαταραχή της νεφρικής ή αναπνευστικής λειτουργίας ή όταν ένα φορτίο οξέος ή βάσεως υπερνικά την απεκκριτική ικανότητα του οργανισμού. Τα επίπεδα του φυσιολογικού pH του αρτηριακού αίματος είναι:",
+    "choices": [
+      "6,30-7,30.",
+      "7,45-7,65.",
+      "6,85-7,45.",
+      "7,35-7,45."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η βρουκέλλωση ή Μελιταίος πυρετός είναι μια ζωονόσος με παγκόσμια κατανομή, που προσβάλλει κυρίως κτηνοτρόφους, κτηνιάτρους, εργαζόμενους σε σφαγεία και άτομα που καταναλώνουν ωμά ή μη παστεριωμένα γαλακτοκομικά προϊόντα. Η βρουκέλλωση μπορεί να εκδηλωθεί, ενίοτε, με:",
+    "choices": [
+      "Τα Α + Β.",
+      "Όλα τα παραπάνω.",
+      "Οστεοαρθρίτιδα-Ιερολαγονίτιδα.",
+      "Ψυχρό απόστημα σπονδύλων."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι κάτωθι θεωρήσεις είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Ο εγγενής ρυθμός του κολποκοιλιακού κόμβου είναι 40-60 σφύξεις/λεπτό.",
+      "Στον 3ου βαθμού κολποκοιλιακό (πλήρη) αποκλεισμό μπορεί τα συμπλέγματα QRS να είναι περισσότερα από τα κύματα P.",
+      "Φάρμακα εκλογής για την αντιμετώπιση της υπέρτασης στην Εκλαμψία θεωρούνται η Υδραλαζίνη και οι β-αποκλειστές, σε συνδυασμό με Θειικό Μαγνήσιο.",
+      "Για να χορηγηθούν με ασφάλεια οι ανταγωνιστές της Αλδοστερόνης ως θεραπεία στη Χρόνια Καρδιακή Ανεπάρκεια, πρέπει η κρεατινίνη ορού να είναι σε επίπεδα < 2,5 mg/dl και το Κάλιο ορού να είναι < 5,0 mmol/l."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω αποτελούν βασικούς τρόπους δράσης των κορτικοστεροειδών στην περίπτωση πνευμονικών παθήσεων, εκτός από έναν:",
+    "choices": [
+      "Αναστέλλουν την απελευθέρωση φλεγμονωδών μεσολαβητών.",
+      "Μειώνουν την απάντηση στις κατεχολαμίνες.",
+      "Μειώνουν την αντίσταση των πνευμονικών αγγείων.",
+      "Μειώνουν την υπερβολική παραγωγή βλέννης."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω προτάσεις είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Η χορήγηση Ν-Ακετυλοκυστεΐνης (NAC) ως βλεννολυτικό φάρμακο, μπορεί να μειώσει τη δραστικότητα αντιβιοτικών όπως Πενικιλλίνη, Ερυθρομυκίνη, Τετρακυκλίνη.",
+      "Η Λοπεραμίδη (Imodium) έχει αποδεδειγμένα ένδειξη χορήγησης, σε οξείες διάρροιες, σε έδαφος ελκώδους κολίτιδας, ψευδομεμβρανώδους κολίτιδας και αμοιβαδικής δυσεντερίας.",
+      "Η λευκοπενία είναι ένα σύνηθες εύρημα που παρατηρείται σε πνευμονίες της κοινότητας από MRSA-CA που παράγει την τοξίνη PVL (Panton-Valentine Leukocidin).",
+      "Η εξέταση β-χοριακής γοναδοτροπίνης (β-HCG) μπορεί να είναι θετική, σε περιπτώσεις μύλης κύησης, χοριοκαρκινώματος και Ca όρχεως."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια από τις παρακάτω θεωρήσεις είναι σωστή, σχετικά με ασθενή που παρουσιάζει υποτροπιάζοντα επεισόδια χολαγγειίτιδας;",
+    "choices": [
+      "Η κατάσταση μπορεί να βελτιωθεί με χρόνια χορήγηση αντιβιοτικών.",
+      "Μπορεί να οδηγήσει σε ανάπτυξη δευτερογενούς χολικής κίρρωσης.",
+      "Κανένα από τα παραπάνω δεν είναι σωστό.",
+      "Όλα τα παραπάνω είναι σωστά."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής, άρρεν 65 ετών, καπνιστής, με ιστορικό ΑΥ και δυσλιπιδαιμίας υπό αγωγή, παρουσιάζει αιφνίδιο άλγος στην κοιλιά και την οσφύ και έντονη ζάλη από 30 λεπτών. Μεταφέρεται στο ΤΕΠ, όπου μεταξύ άλλων ψηλαφάται σφύζουσα κοιλιακή μάζα. Η ΑΠ είναι 195/105 mmHg, οι σφύξεις 112 bpm και ο κορεσμός οξυγόνου SpO2: 93%. Η πιθανότερη αρχική φαρμακευτική παρέμβαση, με βάση τη διάγνωσή σας, θα είναι:",
+    "choices": [
+      "Κλονιδίνη + Προπρανολόλη.",
+      "Αμιοδαρόνη.",
+      "Νιτρώδη + Κλοπιδογρέλη.",
+      "Νιτρώδη + Εσμολόλη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σημαντικό ποσοστό ουροπαθογόνων μικροβίων και ειδικά των E. coli εμφανίζουν πλέον παραγωγή ευρέως φάσματος β-λακταμασών [ESBL (+)]. Ποια/ες από τις παρακάτω ουσίες ανήκουν στους αναστολείς των β-λακταμασών;",
+    "choices": [
+      "Τα Α + Β.",
+      "Κλαβουλανικό οξύ.",
+      "Σουλμπακτάμη.",
+      "Όλα τα παραπάνω."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα 37 ετών, στην 32η εβδομάδα της κύησης, προσέρχεται στο ΤΕΠ αιτιώμενη δύσπνοια, ζάλη, επιδεινούμενο οίδημα κάτω άκρων από 3ημέρου, καθώς και έντονη ψυχοκινητική διέγερση. Από την κλινική εξέταση διαπιστώνετε ΑΠ: 175/105 mmHg, SpO2: 95%, HR: 115 bpm, RR: 22/min και Θ: 36,8 βαθμούς Κελσίου. Όλες οι κάτωθι ουσίες μπορεί να φανούν χρήσιμες στην κλινική αυτή περίπτωση, εκτός από:",
+    "choices": [
+      "Τα Α+Β.",
+      "Υδραλαζίνη.",
+      "Λαβεταλόλη.",
+      "Θειικό Μαγνήσιο."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω αντιβιοτικά εμφανίζουν δραστικότητα (μικρή ή μεγάλη) κατά των Gram θετικών (+) μικροβίων, εκτός από ένα:",
+    "choices": [
+      "Αζτρεονάμη.",
+      "Λινεζολίδη.",
+      "Μοξιφλοξασίνη.",
+      "Κλινδαμυκίνη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής άρρεν 58 ετών, με ιστορικό κίρρωσης ήπατος, παρουσιάζει μεγάλη αύξηση της α-φετοπρωτεΐνης (α-FP) και ήπια αύξηση των τρανσαμινασών (AST και ALT), σε τακτικό έλεγχο που υπεβλήθη προ ημερών. Αυτό είναι πλέον πιθανό να οφείλεται σε:",
+    "choices": [
+      "Ανάπτυξη λοιμώξεως",
+      "Ανάπτυξη ηπατοκυτταρικού Ca",
+      "Εργαστηριακό λάθος",
+      "Σύνδρομο Budd-Chiari"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Τι διακρίνει την οξεία πυελονεφρίτιδα από την οξεία κυστίτιδα;",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Η παρουσία νεφρολιθίασης.",
+      "Η παρουσία πυρετού με ρίγος.",
+      "Η θετική καλλιέργεια ούρων."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η δακτυλίτιδα (Digoxin) είναι ένα από τα παλαιότερα φάρμακα που χρησιμοποιούνται ακόμη στην καρδιολογία, ιδιαίτερα σε ασθενείς με κολπική μαρμαρυγή και καρδιακή ανεπάρκεια με μειωμένο κλάσμα εξώθησης. Λόγω του στενού θεραπευτικού της εύρους και της νεφρικής αποβολής της, είναι εύκολο να οδηγηθεί ο ασθενής σε τοξικότητα, είτε από λανθασμένη δόση, είτε από νεφρική δυσλειτουργία, είτε από αλληλεπιδράσεις. Στα κλινικά επακόλουθα του τοξικού δακτυλιδισμού, δεν περιλαμβάνονται:",
+    "choices": [
+      "Έκτακτες κοιλιακές συστολές.",
+      "Ναυτία και έμετοι.",
+      "Ίλιγγος και κεφαλαλγία.",
+      "Οξεία νεφρική ανεπάρκεια."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιος μηχανισμός είναι υπεύθυνος για την εμφάνιση θρομβοπενίας στην περίπτωση ασθενούς με ανεπάρκεια της βιταμίνης Β12;",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Ταχεία καταστροφή αιμοπεταλίων.",
+      "Ανακατανομή στο αγγειακό δίκτυο.",
+      "Μειωμένη παραγωγή αιμοπεταλίων."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο ανάκροτος σφυγμός αποτελεί εύρημα που χαρακτηρίζει την εξής κατάσταση:",
+    "choices": [
+      "Κύηση.",
+      "Πνευμονική εμβολή.",
+      "Υπερθυρεοειδισμός.",
+      "Στένωση αορτής."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω αντιβιοτικά εμφανίζουν δραστικότητα (μικρή ή μεγάλη) κατά των Gram αρνητικών (-) μικροβίων, εκτός από ένα:",
+    "choices": [
+      "Σιπροφλοξασίνη.",
+      "Αζτρεονάμη.",
+      "Τιγκεκυκλίνη.",
+      "Βανκομυκίνη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Νεαρός άνδρας 17 ετών, προσέρχεται στην εφημερία με έντονη δύσπνοια, κεφαλαλγία, εμβοές, ερυθρότητα και οίδημα του προσώπου. Από τον αδρό εργαστηριακό έλεγχο που διενεργήθηκε, εμφανίζει τριπλάσια τιμή LDH ορού, αυξημένη CRP και ΤΚΕ, ήπια αναιμία, με υψηλή όμως τιμή φερριτίνης και λευκοκυττάρωση. Η πιο πιθανή υποκρυπτόμενη νόσος είναι:",
+    "choices": [
+      "Σαρκοείδωση.",
+      "Φυματίωση.",
+      "Λέμφωμα.",
+      "Περικαρδίτιδα."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ποιο από τα κατωτέρω νοσήματα η Υπερασβεστιαιμία είναι συνήθης εκδήλωση;",
+    "choices": [
+      "Πολλαπλό Μυέλωμα.",
+      "Χρόνια Μυελομονοκυτταρική Λευχαιμία.",
+      "Χρόνια Μυελογενής Λευχαιμία.",
+      "Οξεία Μυελογενής Λευχαιμία."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Διαβητικός ασθενής με λευκωματουρία. Ποιος φαρμακευτικός παράγοντας βελτιώνει περισσότερο την πρόγνωση και καθυστερεί την επιδείνωση της νεφρικής βλάβης;",
+    "choices": [
+      "αναστολέας μετατρεπτικού ενζύμου.",
+      "αναστολέας διαύλων ασβεστίου.",
+      "β-αναστολέας.",
+      "α-αναστολέας."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οι ακτινογραφίες για τον αρχικό έλεγχο στο ΤΕΠ ενός πολυτραυματία είναι:",
+    "choices": [
+      "Κρανίου, κοιλίας, πυέλου.",
+      "ΑΜΣΣ, κρανίου, κοιλίας.",
+      "ΑΜΣΣ, θώρακος, πυέλου.",
+      "Θώρακος, κοιλίας, πυέλου."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις για την Παροξυσμική Υπερκοιλιακή Ταχυκαρδία (PSVT) και την αντιμετώπισή της είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Στους ασθενείς με διαταραγμένη την καρδιακή λειτουργία τους μπορεί να επιχειρηθεί φαρμακευτική ανάταξη της PSVT με χορήγηση Αμιωδαρόνης.",
+      "Στους ασθενείς με ταχυκαρδία με στενά συμπλέγματα QRS και κανονική καρδιακή λειτουργία μπορεί να επιχειρηθεί φαρμακευτική ανάταξη και με β-blockers.",
+      "Κατά την προσπάθεια ανάταξης της PSVT ή εμμένουσας PSVT με Βεραπαμίλη πρέπει να προηγείται χορήγηση γλυκονικού ασβεστίου για την αποφυγή υπότασης.",
+      "Η χορήγηση της Αδενοσίνης αντενδείκνυται στους ασθενείς με σύνδρομο νοσούντος φλεβόκομβου, κολποκοιλιακό αποκλεισμό 2ου και 3ου βαθμού, σε ασθενείς με υπόταση, καθώς και σε ασθενείς με βρογχικό άσθμα."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στον ίλιγγο κεντρικής αιτιολογίας παρατηρούμε όλα τα παρακάτω εκτός από:",
+    "choices": [
+      "Ήπια συμπτώματα από το αυτόνομο.",
+      "Ιστορικό ελαφράς ΚΕΚ ή ΑΕΕ.",
+      "Αιφνίδια εισβολή του επεισοδίου.",
+      "Οριζόντιος και κάθετος νυσταγμός."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η Ταχύτητα Καθίζησης των Ερυθρών (ΤΚΕ), καθιερώθηκε ως εργαστηριακός δείκτης στις αρχές του 20ού αιώνα από τον Robin Fahraeus, ο οποίος αρχικά τη μελέτησε ως μέσο διάγνωσης της εγκυμοσύνης, για να αναγνωριστεί αργότερα από τον Westergren ως δείκτης φλεγμονής και κακοήθειας. Το Πολλαπλό Μυέλωμα, καθώς και όλες οι παρακάτω κλινικές οντότητες, μπορεί να προκαλέσουν την εμφάνιση τριψήφιας ΤΚΕ (δηλ. ΤΚΕ > 100 mm/1η ώρα), εκτός από:",
+    "choices": [
+      "Σήψη.",
+      "Ρευματική πολυμυαλγία.",
+      "Εγκυμοσύνη.",
+      "Μακροσφαιριναιμία Waldenström."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Με βάση την παραπάνω πιθανή διάγνωση, η δέουσα θεραπευτική παρέμβαση που πρέπει να εφαρμοστεί, μπορεί να στηριχθεί σε έναν από τους κάτωθι συνδυασμούς φαρμάκων:",
+    "choices": [
+      "Ακυκλοβίρη/Βανκομυκίνη/Μαννιτόλη/Διαζεπάμη",
+      "Κεφτριαξόνη/Βανκομυκίνη/Παρακεταμόλη",
+      "Προπυλθειουρακίλη/Γαστρογραφίνη/Δεξαμεθαζόνη",
+      "Φλουμαζενίλη/Ναλοξόνη/Θειαμίνη/Ριφαξιμίνη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η αριστερή ενδοκαρδίτιδα (LSE) είναι μία λοίμωξη του συνόλου ή του τμήματος της μιτροειδούς και/ή της αορτικής βαλβίδας και των δομών που γειτνιάζουν ανατομικά. Μπορεί να προκληθεί από διάφορα παθογόνα, αλλά η βακτηριακή προέλευση είναι η πιο κοινή. Ποιος μικροοργανισμός δεν θεωρείται πιθανός αιτιολογικός παράγοντας λοιμώδους ενδοκαρδίτιδας των αριστερών κοιλοτήτων;",
+    "choices": [
+      "Streptococcus viridans.",
+      "Enterococcus.",
+      "Streptococcus bovis.",
+      "Clostridium spp."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω προτάσεις σχετίζονται με την παραοισοφαγοκήλη, εκτός από:",
+    "choices": [
+      "Η θολοπλαστική αφορά κυρίως ασθενείς με αναγωγές και πνευμονικά συμπτώματα.",
+      "Συμπτώματα που μπορεί να εκδηλωθούν, μεταξύ άλλων, είναι απόφραξη και αιμορραγία.",
+      "Το προπίπτον τμήμα του στομάχου μπορεί να στραγγαλιστεί και να διατρηθεί.",
+      "Το αίσθημα του οπισθοστερνικού καύσου είναι το κύριο σύμπτωμα των ασθενών."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η Πνευμονική Εμβολή μπορεί να εμφανιστεί με ένα φάσμα κλινικών εκδηλώσεων, που κυμαίνονται από ήπια μη ειδικά συμπτώματα έως κυκλοφορική καταπληξία. Στα κριτήρια, που έθεσε το 2001 ο Philip S. Wells, για τη διάγνωση της πνευμονικής εμβολής, συμπεριλαμβάνονται όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Απουσία εναλλακτικής διάγνωσης πιο πιθανής από την πνευμονική εμβολή.",
+      "Πρόσφατη χειρουργική επέμβαση ή παρατεταμένη ακινησία τις τελευταίες 30 ημέρες.",
+      "Προηγούμενο ιστορικό πνευμονικής εμβολής (ΠΕ) ή εν τω βάθει φλεβοθρόμβωσης.",
+      "Έντονο άλγος στον θώρακα και δύσπνοια."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Υπερτασικός ασθενής προσέρχεται στο ιατρείο για τη ρύθμιση της ΑΥ. Πάσχει από σοβαρή χρόνια αποφρακτική πνευμονοπάθεια (ΧΑΠ) με συχνές παροξύνσεις ανά έτος, με εμφάνιση οξείας δύσπνοιας και βρογχόσπασμου κατά τη διάρκεια των επεισοδίων. Ποιος αντιυπερτασικός φαρμακευτικός παράγοντας αντενδείκνυται;",
+    "choices": [
+      "Ιβαμπραδίνη.",
+      "Τελμισαρτάνη.",
+      "Φουροσεμίδη.",
+      "Προπρανολόλη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής, άρρεν, 69 ετών, εμφανίζει διαλείπουσα χωλότητα και των δύο κάτω άκρων, ανικανότητα και άλγος στη δεξιά κνήμη κατά την κατάκλιση. Πιθανή διάγνωση είναι:",
+    "choices": [
+      "Ισθμική στένωση αορτής.",
+      "Σύνδρομο Lesch-Nyhan.",
+      "Σύνδρομο Leriche.",
+      "Σύνδρομο Lemiere."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το πολύμορφο ερύθημα περιγράφεται ως μια οξεία, υποτροπιάζουσα συνδρομή, με δερματικές βλάβες μορφολογίας δίκην ίριδας ή στόχου. Παρουσιάζει ετήσια επίπτωση περίπου 1%, αφορά κυρίως ηλικίες 20-40 ετών, με ήπια επικράτηση των ανδρών. Ποιο από τα παρακάτω δεν αποτελεί αίτιο εμφάνισης του πολύμορφου ερυθήματος;",
+    "choices": [
+      "Χρήση κοτριμοξαζόλης.",
+      "Λοίμωξη από απλό έρπητα.",
+      "Χρήση αντισυλληπτικών δισκίων.",
+      "Λοίμωξη από μυκόπλασμα."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Εκτός από τον συστηματικό ερυθηματώδη λύκο (ΣΕΛ), άλλα νοσήματα ή καταστάσεις με θετικά αντιπυρηνικά αντισώματα (ΑΝΑ), μπορεί να είναι:",
+    "choices": [
+      "Λεμφώματα.",
+      "Βακτηριακή ενδοκαρδίτιδα.",
+      "Όλα τα ανωτέρω.",
+      "Λοίμωξη HIV."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Αίτια μεμονωμένης μακροκυττάρωσης, χωρίς την εμφάνιση αναιμίας, μπορεί να είναι όλα τα παρακάτω, εκτός από:",
+    "choices": [
+      "Εγκυμοσύνη.",
+      "Θεραπεία με κυτταροστατικά.",
+      "Χρόνιος αλκοολισμός.",
+      "Έλλειψη βιταμίνης Β12."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο διαχωρισμός των πρωτεϊνών του ορού με την ηλεκτροφόρηση αποκαλύπτει πέντε (5) χαρακτηριστικές ζώνες, οι οποίες αποτελούνται από ένα ή περισσότερα διαφορετικά είδη πρωτεϊνικών μορίων. Η ηλεκτροφόρηση των πρωτεϊνών του ορού αποτελεί τη διαγνωστική εξέταση για ένα από τα παρακάτω:",
+    "choices": [
+      "Σπλαχνική Λεϊσμανίαση",
+      "Σύνδρομο Goodpasture",
+      "Συστηματικό Ερυθηματώδη Λύκο",
+      "Πολλαπλό Μυέλωμα"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η πρώτη περιγραφή του κοκκύτη αναφέρεται σε κείμενα για την επιδημία στο Παρίσι το 1578, ενώ το υπεύθυνο μικρόβιο (Gram αρνητικός κοκκοβάκιλλος) ανακαλύφθηκε το 1906. Θεραπεία εκλογής για τον κοκκύτη, σε παιδί 5 ετών, είναι μία από τις παρακάτω:",
+    "choices": [
+      "Κεφουροξίμη για 10 ημέρες.",
+      "Πενικιλλίνη για 21 ημέρες.",
+      "Κεφουροξίμη για 14 ημέρες.",
+      "Αζιθρομυκίνη για 5 ημέρες."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο παραπάνω 24χρονος κωματώδης ασθενής, μετά από παρέλευση 10 λεπτών από την άφιξή του στο ΤΕΠ, έχει ζωτικά σημεία: ΑΠ: 70/30, σφύξεις: 130 bpm, SpO2: 88%, αναπνευστική συχνότητα 30/min και εμφανίζεται μυδρίαση άμφω. Τι από τα παρακάτω μπορεί να συμβεί;",
+    "choices": [
+      "Αποτελεί ένδειξη πιθανής λήψης οπιούχων.",
+      "Αποτελεί ένδειξη για τη διενέργεια ΟΝΠ και MRI εγκεφάλου.",
+      "Μπορεί να υποχωρήσει με την αποκατάσταση της οξυγόνωσης και της ΑΠ.",
+      "Αποτελεί ένδειξη για άμεση διενέργεια CT εγκεφάλου & ΑΜΣΣ."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το κάλιο αποτελεί το κύριο ενδοκυττάριο κατιόν και οι παθολογικές διαταραχές στη συγκέντρωσή του - είτε υποκαλιαιμία είτε υπερκαλιαιμία - μπορεί να προκαλέσουν σοβαρές αρρυθμίες, έντονη μυϊκή αδυναμία ή και αναπνευστική καταστολή. Η φυσιολογική συγκέντρωση του καλίου [K+] στο αίμα είναι:",
+    "choices": [
+      "2,5-3,5 mEq/lt.",
+      "3,5-5,0 mEq/lt.",
+      "2,5-4,5 mEq/lt.",
+      "5,0-7,0 mEq/lt."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής γυναίκα 52 ετών, με ιστορικό ΣΔ τύπου 2 από 8ετίας, με κάκιστη συμμόρφωση και τελευταία μέτρηση HbA1c: 9,8%, μεταφέρεται από οικείους της στο ΤΕΠ του ΚΥ με αναφερόμενο εμπύρετο με ρίγος από 48ώρου, περιοδικά έντονο άλγος στην κοιλιά και στην οσφύ και έντονη τάση προς έμετο. Κατά την κλινική εξέταση παρουσιάζει: ΑΠ: 110/65 mmHg, SpO2: 94%, HR: 118 bpm, RR: 24/min, Θ: 38,8 βαθμούς Κελσίου, από τον εργαστηριακό έλεγχο Glu: 480 mg/dl, WBC: 22.800/μl και από τη γενική εξέταση ούρων: πυουρία, κετονουρία και αιματουρία. Στη διαφοροδιαγνωστική σκέψη μας, η πιθανότερη κλινική οντότητα η οποία πρέπει να διερευνηθεί και να αντιμετωπιστεί άμεσα και κατάλληλα, είναι:",
+    "choices": [
+      "Οξεία εκκολπωματίτιδα.",
+      "Εμφυσηματική πυελονεφρίτιδα.",
+      "Οξεία παγκρεατίτιδα.",
+      "Οξεία εξαρτηματίτιδα."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Εκτός από την οξεία ισχαιμική βλάβη του μυοκαρδίου και τον οξύ αορτικό διαχωρισμό, άλλα πιθανά αίτια αύξησης των επιπέδων Τροπονίνης στον ορό, μπορεί να είναι όλα τα παρακάτω, εκτός από:",
+    "choices": [
+      "Σύνδρομο Cushing",
+      "Σύνδρομο Takot subo",
+      "Φαιοχρωμοκύττωμα",
+      "Πνευμονική εμβολή"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας μοτοσικλετιστής 24 ετών μεταφέρεται από το ΕΚΑΒ στο ΤΕΠ σε κωματώδη κατάσταση. Είχε βρεθεί στην άκρη του δρόμου, χωρίς κανείς να δει τι ακριβώς συνέβη. Κατά την άφιξή του στο ΤΕΠ εμφανίζει: ΑΠ: 90/40, σφύξεις: 120 bpm, SpO2: 91%, αναπνευστική συχνότητα 22/min και GCS: 7/15. Ποια είναι η άμεση προτεραιότητα;",
+    "choices": [
+      "Διασωλήνωση & μηχανικός αερισμός",
+      "Χορήγηση Μαννιτόλης",
+      "Χορήγηση 1 lit κρυσταλλοειδών",
+      "Ακτινογραφία θώρακος & κρανίου"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω σύνδρομα και κλινικές καταστάσεις μπορεί να προκαλέσουν μείωση των επιπέδων του ολικού ασβεστίου του ορού, εκτός από:",
+    "choices": [
+      "Μακροχρόνια θεραπεία με αντιπηκτικά.",
+      "Ανεπάρκεια βιταμίνης D.",
+      "Θυρεοτοξίκωση.",
+      "Οξεία παγκρεατίτιδα."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω αντιβιοτικά έχουν τις κλινικές ενδείξεις και χρησιμοποιούνται στις περιπτώσεις οξείας πυελονεφρίτιδας, εκτός από ένα:",
+    "choices": [
+      "Αμικασίνη.",
+      "Σιπροφλοξασίνη.",
+      "Νορφλοξασίνη.",
+      "Κεφεπίμη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλοι οι παρακάτω αντιμικροβιακοί ή αντιικοί παράγοντες έχουν σχετική ένδειξη χορήγησης στην κύηση, σε περίπτωση λοίμωξης, με επίπεδο ασφαλείας Β (δηλαδή μελέτες σε ζώα δεν έδειξαν κάποιον κίνδυνο για το έμβρυο, αλλά δεν έγιναν ελεγχόμενες μελέτες σε ανθρώπους, ή οι μελέτες σε ζώα έδειξαν έναν κίνδυνο για το έμβρυο αλλά οι καλά ελεγχόμενες μελέτες σε ανθρώπους δεν έδειξαν τέτοιο κίνδυνο), εκτός από έναν:",
+    "choices": [
+      "Αζιθρομυκίνη.",
+      "Κεφουροξίμη.",
+      "Αμικασίνη.",
+      "Ακυκλοβίρη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο ασθενής που ετοιμάζεστε να διακομίσετε στο νοσοκομείο, ξεκίνησε να λαμβάνει ένα ενδοφλέβιο διάλυμα με ρυθμό 100 ml/h. Η συσκευή έγχυσης που χρησιμοποιούμε έχει σύστημα χορήγησης δόσης 10 drops/ml. Στις πόσες σταγόνες ανά λεπτό πρέπει να τιτλοποιήσουμε για να επιτύχουμε τον περιγραφόμενο ρυθμό έγχυσης;",
+    "choices": [
+      "10 drops/min.",
+      "32 drops/min.",
+      "17 drops/min.",
+      "45 drops/min."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η οξεία παγκρεατίτιδα μπορεί να προκληθεί από μια πληθώρα φαρμάκων και από ομάδες φαρμάκων, όπως οι αναστολείς διαύλων ασβεστίου, οι SSRIs, οι στατίνες, κ.ά. Ποια από τα παρακάτω φάρμακα δεν σχετίζονται με την οξεία παγκρεατίτιδα;",
+    "choices": [
+      "Ηπαρίνη και LMWH.",
+      "Μακρολίδες και Κινολόνες.",
+      "Η2 αναστολείς και PPIs.",
+      "Φουροσεμίδη και Θειαζίδες."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενή με οξεία γαστρεντερίτιδα, ποια από τις παρακάτω θεωρήσεις είναι σωστή;",
+    "choices": [
+      "Σε περίπτωση γαστρεντερίτιδας από στέλεχος E. coli O157:H7, πρέπει να χορηγούνται άμεσα αντιβιοτικά, για τη μείωση της πιθανότητας εμφάνισης αιμολυτικού-ουραιμικού συνδρόμου (HUS).",
+      "Η χορήγηση κατάλληλων αντιβιοτικών μειώνει σαφώς τη διάρκεια της νόσου και πρέπει να θεωρείται ως θεραπεία εκλογής σε όλους τους ασθενείς.",
+      "Η χορήγηση αντιδιαρροϊκών φαρμάκων κρίνεται απαραίτητη σε όλους τους ασθενείς.",
+      "Η εκτίμηση της απώλειας υγρών και ηλεκτρολυτών κρίνεται απαραίτητη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Αυξημένος αριθμός δικτυοερυθροκυττάρων (ΔΕΚ) παρατηρείται σε:",
+    "choices": [
+      "Μυελοδυσπλαστικό σύνδρομο.",
+      "Κανένα από τα παραπάνω.",
+      "Αυτοάνοση αιμολυτική αναιμία.",
+      "Μυελοΐνωση."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής με μικρή διόγκωση του θυρεοειδούς έρχεται στο ιατρείο με τις ακόλουθες εργαστηριακές εξετάσεις TSH: μη ανιχνεύσιμη, T4: φυσιολογική, T3: φυσιολογική και αντιθυρεοειδικά αντισώματα: θετικά. Ποια είναι η πιθανότερη διάγνωση;",
+    "choices": [
+      "Υποξεία θυρεοειδίτιδα De Quervain",
+      "Θηλώδες καρκίνωμα θυρεοειδούς",
+      "Αυτοάνοση θυρεοειδίτιδα",
+      "Νόσος του Graves"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ποια από τις παρακάτω φλεγμονώδεις ρευματικές παθήσεις παρατηρείται συχνά προσβολή των άπω φαλαγγοφαλαγγικών αρθρώσεων;",
+    "choices": [
+      "Στη συστηματική σκληροδερμία.",
+      "Στον Σ.Ε.Λ.",
+      "Τα Α + Β",
+      "Στην ψωριασική αρθρίτιδα."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι κάτωθι θεωρήσεις για τις φαρμακευτικές δράσεις ή τις αλληλεπιδράσεις της Μετοκλοπραμίδης (Primperan) είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Δεν έχει ιδιαίτερη κλινική αποτελεσματικότητα στη ΓΟΠΝ, τη διαβητική γαστροπάρεση και την ιδιοπαθή γαστρική στάση.",
+      "Αναστέλλει τη χαλάρωση του σώματος του στομάχου και ενισχύει τον ΚΟΣ.",
+      "Είναι λιποδιαλυτή, με per os βιοδιαθεσιμότητα > 75% και έχει χρόνο ημιζωής 4,5-9 ώρες.",
+      "Στον μετεγχειρητικό παραλυτικό ειλεό, βελτιώνει τη ναυτία, τον έμετο και το κοιλιακό άλγος και βοηθά στην επανεμφάνιση εντερικών ήχων και τη διευκόλυνση της αποβολής αερίων και κοπράνων."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε προνοσοκομειακό επίπεδο, η «κλίμακα Cincinnati» ή «CPSSS» ή «C-STAT», μας προσφέρει μια καλή αρχική εκτίμηση, για τον ασθενή, στην περίπτωση:",
+    "choices": [
+      "Επιληπτικής κρίσης.",
+      "Διαβητικής κετοξέωσης.",
+      "Τίποτα από τα παραπάνω.",
+      "Αγγειακού εγκεφαλικού επεισοδίου."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια από τις παρακάτω θεραπευτικές επιλογές για την ενδοφλέβια χορήγηση ηπαρίνης είναι η αρμόζουσα στην περίπτωση που αντιμετωπίζουμε ασθενή με ΟΕΜ;",
+    "choices": [
+      "Καμία από τις παραπάνω.",
+      "Φόρτιση με 1000 iu αρχικώς και μετά συνεχής χορήγηση με ρυθμό 1200 iu/h.",
+      "Φόρτιση με 75 iu/kg αρχικώς και μετά συνεχής χορήγηση με ρυθμό 12 iu/kg/h.",
+      "Χωρίς αρχική δόση φόρτισης, αλλά συνεχής χορήγηση 5000 iu/h."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Μαζί με τις περιπτώσεις ουρικής αρθρίτιδας καθώς και νεφρικής ανεπάρκειας, άλλες καταστάσεις που σχετίζονται με αυξημένο ουρικό οξύ στο αίμα, μπορεί να είναι όλες οι παρακάτω, εκτός από:",
+    "choices": [
+      "Αλκοολισμός.",
+      "Χημειο-ακτινοθεραπεία.",
+      "Πολλαπλό Μυέλωμα.",
+      "Νόσος Wilson."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε στερητικό σύνδρομο από αλκοόλ, σε 52χρονο ασθενή που αντιμετωπίζουμε στο ΤΕΠ, χορηγούμε μεταξύ άλλων Κλονιδίνη ενδοφλεβίως, για την αντιμετώπιση των έντονων εκδηλώσεων από το αυτόνομο νευρικό σύστημα. Παρ' όλα αυτά, μετά από 15 λεπτά ο ασθενής εμφανίζει υπόταση, βραδυκαρδία και καταστολή του ΚΝΣ, οπότε έχουμε τη βάσιμη υποψία ότι πρόκειται για παρενέργεια της Κλονιδίνης. Με τη χορήγηση ποιας ουσίας μπορεί να αναστραφούν οι δράσεις της Κλονιδίνης;",
+    "choices": [
+      "Θειικό Μαγνήσιο.",
+      "Πραλιδοξίμη.",
+      "Αδρεναλίνη.",
+      "Ναλοξόνη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής θήλυ 54 ετών, με γνωστή χολολιθίαση, εμφανίζει επεισόδιο κολικού χοληφόρων οδών. Όλα τα παρακάτω φάρμακα μπορεί να έχουν θεραπευτική ένδειξη, εκτός από ένα:",
+    "choices": [
+      "Σιμετιδίνη.",
+      "ΜΣΑΦ.",
+      "Μορφίνη.",
+      "Παρακεταμόλη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής 62 ετών, με γνωστό χρόνιο πρόβλημα αλκοολισμού, εμφανίζει από 48ώρου κρίση ουρικής αρθρίτιδας στη δεξιά ποδοκνημική άρθρωση. Όλα τα κάτωθι φάρμακα μπορεί να έχουν ένδειξη στη θεραπεία της χρόνιας υπερουριχαιμίας ή της οξείας κρίσης ουρικής αρθρίτιδας, εκτός από ένα:",
+    "choices": [
+      "Φεμπουξοστάτη",
+      "Διφωσφονικά",
+      "Κολχικίνη",
+      "Τετρακοσακτίδη"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στην περίπτωση νεαρού ασθενούς με θερμοπληξία, που διακομίζεται με το ΕΚΑΒ στο ΤΕΠ, σε ημικωματώδη κατάσταση, με σοβαρή υπόταση (ΣΑΠ: 80 mmHg), με έντονο μυϊκό τρόμο και σπασμούς και θερμοκρασία 40,1 βαθμούς Κελσίου, όλες οι παρακάτω θεραπευτικές παρεμβάσεις μπορεί να έχουν βάσιμα θέση, εκτός από μία:",
+    "choices": [
+      "Χορήγηση Χλωροπρομαζίνης.",
+      "Χορήγηση Διαζεπάμης.",
+      "Χορήγηση αντιπυρετικών.",
+      "Χορήγηση κρυσταλλοειδών."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Πιθανά αίτια μεταβολικής οξέωσης, με αυξημένο χάσμα ανιόντων, μπορεί να είναι όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Απώλεια γαστρικών υγρών – έμετοι.",
+      "Τοξική λήψη σαλικυλικών.",
+      "Γαλακτική οξέωση.",
+      "Ουραιμία."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Πολλά αντιβιοτικά δρουν αναστέλλοντας τη σύνθεση πρωτεϊνών των μικροβίων μέσω σύνδεσης με τα ριβοσώματα, επηρεάζοντας είτε την υπομονάδα 30S είτε την 50S. Τα φάρμακα αυτής της κατηγορίας είναι συχνά βακτηριοστατικά και χρησιμοποιούνται ευρέως έναντι Gram (+) και Gram (-) μικροοργανισμών, εκτός από ένα:",
+    "choices": [
+      "Μετρονιδαζόλη.",
+      "Κλαριθρομυκίνη.",
+      "Χλωραμφαινικόλη.",
+      "Κλινδαμυκίνη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Φάρμακα ή ομάδες φαρμάκων που έχουν σαφώς συσχετισθεί ή ενοχοποιηθεί για την εμφάνιση οξείας παγκρεατίτιδας, είναι όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Θειαζιδικά διουρητικά.",
+      "Φουροσεμίδη.",
+      "Βαλπροϊκό οξύ.",
+      "Ηπαρίνη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλοι οι παρακάτω φαρμακευτικοί παράγοντες έχουν θέση στην άμεση αντιμετώπιση της θυρεοτοξικής κρίσης, εκτός από έναν:",
+    "choices": [
+      "Γαστρογραφίνη.",
+      "Ασπιρίνη.",
+      "Παρακεταμόλη.",
+      "Προπρανολόλη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στους ασθενείς με δρεπανοκυτταρική αναιμία, ο μικροοργανισμός που ενοχοποιείται συχνότερα για την πρόκληση σηπτικής αρθρίτιδας, είναι:",
+    "choices": [
+      "Salmonella.",
+      "Streptococcus group B.",
+      "Staphylococcus aureus.",
+      "Pseudomonas."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ως γνωστόν το GLP-1 επάγει την εξαρτώμενη από τη γλυκόζη έκκριση ινσουλίνης από τα β-κύτταρα του παγκρέατος και καταστέλλει επίσης την ηπατική αποβολή γλυκόζης αναστέλλοντας την απόκριση της γλυκαγόνης από τα α-κύτταρα με τρόπο που εξαρτάται από τα επίπεδα γλυκόζης. Ποια από τις παρακάτω αντιδιαβητικές ουσίες (που χορηγούνται στην καθ' ημέρα κλινική πράξη) ανήκει στους αγωνιστές GLP-1;",
+    "choices": [
+      "Λιραγλουτίδη.",
+      "Νατεγλινίδη.",
+      "Πιογλιταζόνη.",
+      "Γλικλαζίδη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενή με πνευμοθώρακα, κατά την κλινική εξέταση του θώρακα παρουσιάζεται:",
+    "choices": [
+      "Επικρουστικώς τυμπανικότης και ακροαστικώς ελάττωση αναπνευστικού ψιθυρίσματος.",
+      "Επικρουστικώς τυμπανικότης και ακροαστικώς αύξηση αναπνευστικού ψιθυρίσματος.",
+      "Επικρουστικώς αμβλύτης και ψηλαφητικώς αύξηση φωνητικών δονήσεων.",
+      "Επικρουστικώς αμβλύτης και ήχος τριβής στην κορυφή του πάσχοντος πνεύμονα."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η ωσμωτικότητα του πλάσματος αντανακλά τη συγκέντρωση διαλυμένων σωματιδίων ανά μονάδα ύδατος και επηρεάζει άμεσα τη μετακίνηση υγρών μεταξύ ενδοκυττάριου και εξωκυττάριου χώρου. Ποια θεωρείται η φυσιολογική τιμή της ωσμωτικής πίεσης του πλάσματος στον ενήλικα;",
+    "choices": [
+      "260-360 mOsm/L",
+      "195-205 mOsm/L",
+      "225-275 mOsm/L",
+      "285-295 mOsm/L"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Παρενέργειες των γλυκοκορτικοστεροειδών είναι όλες, εκτός από μία:",
+    "choices": [
+      "Καταρράκτης",
+      "Εκχυμώσεις δέρματος",
+      "Ιατρογενές σύνδρομο Cushing",
+      "Υπογλυκαιμία"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο λεμφαδένας του Virchow, εκτός της γνωστής σημειολογίας του, μπορεί να είναι ένα από τα πρώιμα συμπτώματα μεταστατικού καρκίνου του πνεύμονα, του ουροποιογεννητικού και του γαστρεντερικού συστήματος, όπως επίσης μπορεί σπανιότερα να είναι επακόλουθο αιματολογικής κακοήθειας ή μιας χρόνιας φλεγμονώδους νόσου. Πού εντοπίζεται ανατομικά ο λεμφαδένας του Virchow;",
+    "choices": [
+      "Στη δεξιά μασχάλη.",
+      "Στην οπίσθια τραχηλική χώρα.",
+      "Στην πρόσθια τραχηλική χώρα.",
+      "Στην αριστερή υπερκλείδια χώρα."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο αντίδοτο πρέπει να χορηγηθεί σε ασθενή που εμφανίζεται στο ΤΕΠ του ΚΥ ή του Νοσοκομείου με σημεία και συμπτώματα σοβαρής δηλητηρίασης με Παρακεταμόλη;",
+    "choices": [
+      "Ακετυλοκυστεΐνη.",
+      "Βιταμίνη Κ.",
+      "Ναλοξόνη.",
+      "Φλουμαζενίλη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιος θεωρείται γενικά ο καλύτερος και ενδεδειγμένος τρόπος παρακολούθησης της κλινικής πορείας ενός πολυτραυματία, ιδιαίτερα κατά τις κρίσιμες πρώτες ώρες μετά τον τραυματισμό του;",
+    "choices": [
+      "Όλα τα ανωτέρω.",
+      "Συχνός απεικονιστικός έλεγχος.",
+      "Συχνός αιματολογικός και βιοχημικός έλεγχος.",
+      "Συχνή κλινική επανεκτίμηση."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Άνδρας ασθενής 34 ετών, σας προσκομίζει γενική εξέταση αίματος που τον είχατε παραπέμψει να κάνει για αδυναμία, καταβολή και επεισόδια ρινορραγίας από 2μήνου, η οποία παρουσιάζει λευκοκυττάρωση (WBC: 19.500/μl) με πολυμορφοπύρηνα 10%, λεμφοκύτταρα 15%, μονοπύρηνα 5% και βλάστες (με παρουσία ραβδίων Auer) 60%. Η πιθανότερη διάγνωση για τον ασθενή αυτόν, είναι:",
+    "choices": [
+      "Οξεία μυελογενής λευχαιμία.",
+      "Χρόνια λεμφοβλαστική λευχαιμία.",
+      "Λέμφωμα Hodgkin.",
+      "Πολλαπλό Μυέλωμα."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Άνδρας ασθενής, 48 ετών, αγροτοκτηνοτρόφος, προσέρχεται στο Κέντρο Υγείας με υψηλό πυρετό μέχρι 39,5°C, κεφαλαλγία, μυαλγίες, ίκτερο, διάχυτο κοιλιακό άλγος και εμέτους από 12ώρου, ενώ από τον εργαστηριακό έλεγχο διαπιστώθηκε έκπτωση της νεφρικής λειτουργίας, αυξημένα επίπεδα CPK, CRP και ήπια λευκοκυττάρωση. Με βάση τα παραπάνω δεδομένα, ποια είναι η πιο πιθανή διάγνωση;",
+    "choices": [
+      "Τουλαραιμία.",
+      "Τυφοειδής πυρετός.",
+      "Βρουκέλλωση.",
+      "Λεπτοσπείρωση."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το πιο σίγουρο και αξιόπιστο διαγνωστικό μέσο για την πνευμονία είναι:",
+    "choices": [
+      "Καλλιέργεια αίματος.",
+      "CRP.",
+      "ΤΚΕ.",
+      "Ακτινογραφία θώρακος."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ποιο κλειστό κάταγμα -από αυτά που αναφέρονται παρακάτω- μπορεί δυνητικά να παρατηρηθεί η πιο μεγάλη αιμορραγία;",
+    "choices": [
+      "Οστά της πυέλου.",
+      "Βραχιόνιο οστό.",
+      "Συντριπτικό οσφυϊκού σπονδύλου.",
+      "Οστό της κνήμης."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Άνδρας ασθενής 52 ετών, καπνιστής, με ιστορικό ΑΥ και δυσλιπιδαιμίας, υπέρβαρος με χρόνια προβλήματα οσφυαλγίας, παρουσιάζει από 30-45 λεπτών αιφνίδιο άλγος στη ράχη και στην οσφύ, με έντονη ζάλη και αδυναμία. Μεταφέρεται άμεσα με ασθενοφόρο στο ΤΕΠ του περιφερειακού νοσοκομείου, όπου κατά την κλινική εξέταση ψηλαφάται σφύζουσα κοιλιακή μάζα. Η ΑΠ είναι 185/95 mmHg, οι σφύξεις: 118/λεπτό και το SpO2: 97%. Η 1η και 2η μέτρηση Τροπονίνης (TnI) είναι εντός φυσιολογικών ορίων. Το επόμενο βήμα στην κλινική αντιμετώπιση του ασθενούς είναι:",
+    "choices": [
+      "Επείγουσα διενέργεια αξονικής τομογραφίας (CT) ή μαγνητικής τομογραφίας (MRI) της ΟΜΣΣ, για αποκλεισμό οξείας νευρολογικής συνδρομής από το νωτιαίο σωλήνα.",
+      "Το μόνο που απαιτείται είναι εντατική παρακολούθηση και monitoring για 12-24 ώρες, αναλγησία για την οσφυαλγία και ρύθμιση της ΑΠ και της καρδιακής συχνότητας.",
+      "Συνιστάται επείγουσα αγγειογραφία, για να αποκλειστεί το ενδεχόμενο διαχωρισμού ή ρήξης ανευρύσματος της κοιλιακής αορτής.",
+      "Να υποβληθεί επειγόντως σε CT άνω/κάτω κοιλίας και οπισθοπεριτοναϊκού χώρου, προς διερεύνηση οξέος διαχωρισμού ή ρήξης ανευρύσματος κοιλιακής αορτής."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω κλινικά σημεία μπορεί να είναι θετικό σε αποφρακτικό ίκτερο νεοπλασματικής αιτιολογίας;",
+    "choices": [
+      "Σημείο Cruveilhier",
+      "Σημείο Chilaiditi",
+      "Σημείο Courvoisier",
+      "Σημείο Chvostek"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής, γυναίκα 48 ετών, προσέρχεται στο ΤΕΠ του Κέντρου Υγείας και αναφέρει έντρομη ότι προ 2 ωρών έλαβε, για απόπειρα αυτοκτονίας, 20 δισκία Ζολπιδέμης. Φάρμακο εκλογής, σε αυτή την περίπτωση, είναι ένα από τα παρακάτω:",
+    "choices": [
+      "Διττανθρακικά",
+      "Γλυκαγόνη",
+      "Πραλιδοξίμη",
+      "Φλουμαζενίλη"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η όραση αποτελεί μία από τις πιο ευαίσθητες λειτουργίες του ΚΝΣ και κάθε διαταραχή στην ανατομική διαδρομή του οπτικού ερεθίσματος - από τον αμφιβληστροειδή έως τον ινιακό φλοιό - μπορεί να οδηγήσει σε χαρακτηριστικά πρότυπα απώλειας οπτικού πεδίου. Έτσι, η αμφοτερόπλευρη κροταφική ημιανοψία οφείλεται συνήθως σε:",
+    "choices": [
+      "Αδένωμα της υπόφυσης.",
+      "Βλάβη του ενός οπτικού νεύρου.",
+      "Βλάβες του αμφιβληστροειδούς.",
+      "Σκλήρυνση κατά πλάκας."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η φυματίωση είναι ένα από τα πιο συνήθη αίτια αιμόπτυσης. Αιμόπτυση ενδέχεται επίσης να παρατηρηθεί και σε όλα τα παρακάτω νοσήματα, εκτός από ένα:",
+    "choices": [
+      "Ενδομητρίωση.",
+      "Βρογχεκτασίες.",
+      "Πνευμονική εμβολή.",
+      "Πνευμονική ίνωση."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Από την αρχική περιγραφή του Fitz, το 1889, η οξεία παγκρεατίτιδα περιλαμβάνει ένα ευρύ φάσμα παθολογοανατομικών αλλοιώσεων του παγκρέατος, που κυμαίνονται από απλό οίδημα του παρεγχύματος του οργάνου μέχρι βαριά προσβολή του με αιμορραγία και νέκρωση, καθώς και των πέριξ ιστών αλλά και απομακρυσμένων οργάνων. Ποιο από τα παρακάτω εργαστηριακά ευρήματα θεωρείται ως κακός προγνωστικός δείκτης στην εξέλιξη της οξείας παγκρεατίτιδας;",
+    "choices": [
+      "Η παράταση του χρόνου πήξης (INR, aPTT).",
+      "Τα υψηλά επίπεδα αμυλάσης των ούρων (AMY U).",
+      "Η υπεργλυκαιμία και η γλυκοζουρία.",
+      "Η ελάττωση των επιπέδων του ασβεστίου του ορού."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενή με χρόνια ηπατίτιδα Β ή ηπατίτιδα C, ποιος έλεγχος πρέπει να διενεργείται περιοδικά – στο πλαίσιο της μακροχρόνιας τακτικής παρακολούθησής του – ώστε να είμαστε σε θέση να επιτύχουμε την πρώιμη διάγνωση ανάπτυξης καρκίνου του ήπατος;",
+    "choices": [
+      "Χολερυθρίνη και γ-GT.",
+      "α-FP και υπερηχογράφημα κοιλίας.",
+      "Σπινθηρογράφημα ήπατος.",
+      "Τρανσαμινάσες και γ-GT."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η πρόγνωση της βαρύτητας της πνευμονίας της κοινότητας (σε ασθενή στο ΤΕΠ) σύμφωνα με την κλίμακα CURB-65, που αναπτύχθηκε το 2002 στο Πανεπιστήμιο του Νότινγχαμ από τον W.S. Lim και συν., περιλαμβάνει:",
+    "choices": [
+      "Κανένα από τα παραπάνω.",
+      "ΔΑΠ < 65 mmHg & ΣΑΠ < 80 mmHg.",
+      "Επίπεδα ουρίας > 65 mg/dl.",
+      "Όλα τα παραπάνω."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Αγρότης 65 ετών, προσέρχεται κάθιδρος στο ΤΕΠ του ΚΥ, όπου αναφέρει τοξική έκθεση σε Παραθείο προ 15 λεπτών, στο αγρόκτημά του. Ο ασθενής εμφανίζει επίσης βραδυκαρδία, βρογχόσπασμο, έντονη δύσπνοια, μύση, έντονη σιελόρροια, καθώς και ήπιο τρόμο με μεμονωμένους μυϊκούς ινιδισμούς. Θεραπεία εκλογής σε αυτή την περίπτωση, είναι:",
+    "choices": [
+      "Η χορήγηση Ατροπίνης σε υψηλές δόσεις και Πραλιδοξίμης.",
+      "Η χορήγηση Αδρεναλίνης σε χαμηλή δόση και Πυριδοξίνης.",
+      "Η χορήγηση Ο₂ σε υψηλές συγκεντρώσεις και βρογχοδιασταλτικών.",
+      "Τα Β + Δ είναι σωστά."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας 70χρονος ασθενής με ΣΔ2 από 20ετίας παρουσιάζεται στο ΤΕΠ παραπονούμενος για έντονο πόνο στο αριστερό αυτί με εκροή πύου. Στην κλινική εξέταση ο ασθενής είναι απύρετος. Το πτερύγιο του ωτός είναι διογκωμένο και ο έξω ακουστικός πόρος είναι εξέρυθρος και οιδηματώδης. Στη γενική αίματος ο αριθμός των WBC είναι 8.700/μl. Ο μικροοργανισμός που είναι πιθανότερο να απομονωθεί από το πύον, είναι:",
+    "choices": [
+      "Staphylococcus aureus.",
+      "Streptococcus saprophyticus.",
+      "Pseudomonas aeruginosa.",
+      "Candida albicans."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Εφόσον η θεραπευτική παρέμβαση με διττανθρακικό νάτριο (NaHCO3) αποδεικνύεται τελικά αναποτελεσματική, ποιο από τα παρακάτω αντιαρρυθμικά φάρμακα μπορεί να χρησιμοποιηθεί για την αντιμετώπιση της υπερκοιλιακής αρρυθμίας που σχετίζεται με υπερβολική (τοξική) δόση τρικυκλικών αντικαταθλιπτικών (TCA);",
+    "choices": [
+      "Αμιωδαρόνη.",
+      "Β-αναστολέας.",
+      "Λιδοκαΐνη.",
+      "Αναστολέας διαύλων ασβεστίου."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Λοιμώξεις από Μυκοβακτηρίδια υποδηλώνουν μία από τις παρακάτω καταστάσεις:",
+    "choices": [
+      "Ένδεια/δυσλειτουργία Β-λεμφοκυττάρων.",
+      "Μετά από σπληνεκτομή.",
+      "Ένδεια/δυσλειτουργία Τ-λεμφοκυττάρων.",
+      "Όλα τα παραπάνω."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις για τις φαρμακευτικές δράσεις ή τις αλληλεπιδράσεις της Αμιωδαρόνης (Angoron) είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Ελαττώνει το χρόνο προθρομβίνης σε ταυτόχρονη λήψη Βαρφαρίνης, οπότε η δόση της Βαρφαρίνης πρέπει να αυξάνεται τουλάχιστον κατά 33% για να έχουμε θεραπευτικό INR.",
+      "Το φάρμακο αναστέλλει την περιφερειακή μετατροπή της Τ4 σε Τ3 αυξάνοντας έτσι τα επίπεδα της Τ4, οπότε μέχρι και 6% των λαμβανόντων εμφανίζει υποθυρεοειδισμό.",
+      "Ανήκει στα αντιαρρυθμικά τάξης ΙΙΙ και μπλοκάρει τους διαύλους καλίου.",
+      "Κατά τη διάρκεια χορήγησης, μπορεί να εμφανιστεί από το ΚΝΣ, εγγύς μυϊκή αδυναμία, περιφερική νευροπάθεια, οπτική νευρίτιδα, διαταραχές μνήμης και διαταραχές ύπνου."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ως ηωσινοφιλία ορίζεται η αύξηση του αριθμού των ηωσινόφιλων κοκκιοκυττάρων στο αίμα πάνω από το όριο των 500/μl. Χαρακτηρίζεται ως: ήπια όταν ο αριθμός τους κυμαίνεται από 500-1500/μl, μέτρια με αριθμό ηωσινόφιλων 1500-5000/μl και σοβαρή όταν ο αριθμός τους υπερβαίνει τα 5000/μl. Όλες οι παρακάτω κλινικές καταστάσεις ή κλινικά σύνδρομα μπορεί να προκαλέσουν ηωσινοφιλία, εκτός από:",
+    "choices": [
+      "Σύνδρομο Stevens-Johnson",
+      "Σύνδρομο Cushing",
+      "Σαρκοείδωση",
+      "Βρογχικό άσθμα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένα παιδί 9 ετών, έρχεται με τη μητέρα του στο ΤΕΠ, λόγω επιμολυσμένου δήγματος σκύλου στο αριστερό αντιβράχιό του, που έλαβε χώρα πριν 8 ημέρες. Με έναν στειλεό πήρατε δείγμα από την περιοχή και το αποστείλατε για καλλιέργεια που ανέδειξε gram αρνητικό βακτηρίδιο. Η πιθανότερη αιτία της λοίμωξης είναι:",
+    "choices": [
+      "Campylobacter cuniculorum.",
+      "Haemophilus influenzae.",
+      "Klebsiella rhinoscleromatis.",
+      "Pasteurella multocida."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις που αφορούν αντιβιοτικά, αντιιικά και αντιμυκητιασικά φάρμακα, είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Η Ακυκλοβίρη είναι δραστική έναντι ερπητοϊών (HSV 1 και 2), του VZV, του CMV και του EBV. Συνδέεται με πρωτεΐνες του πλάσματος > 70% και αποβάλλεται με τα κόπρανα.",
+      "Οι Τετρακυκλίνες (π.χ. Δοξυκυκλίνη) είναι βακτηριοστατικά αντιβιοτικά. Συνδέονται με το μικροβιακό ριβοσωμικό σύμπλεγμα 30S και το σύμπλεγμα 70S των μιτοχονδρίων και αναστέλλουν την πρωτεϊνοσύνθεση.",
+      "Η Λινεζολίδη είναι φάρμακο 1ης γραμμής για βαριές επιπλεγμένες λοιμώξεις δέρματος και μαλακών μορίων, πρέπει να αποφεύγεται να συγχορηγείται με αναστολείς ΜΑΟ και SSRIs, ενώ μπορεί να προκαλέσει ψευδομεμβρανώδη κολίτιδα, ναυτία και θρομβοπενία.",
+      "Η ημερήσια δόση της Μετρονιδαζόλης δεν πρέπει να ξεπερνά τα 4 gr και δεν πρέπει να χορηγείται σε ασθενείς με επιληψία ή άλλη ενεργό νόσο του ΚΝΣ. Ενισχύει τη δράση των κουμαρινικών αυξάνοντας το INR και αναστέλλει το μεταβολισμό της φαινυτοΐνης."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η τετανία, εκτός από τις περιπτώσεις υπεραερισμού σε κρίση άγχους-πανικού, σοβαρής υπασβεστιαιμίας ή κύησης, μπορεί να εμφανιστεί και σε ένα από τα κάτωθι:",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Θυρεοτοξική κρίση.",
+      "Οξεία παγκρεατίτιδα.",
+      "Πρωτοπαθής υπερπαραθυρεοειδισμός."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Φάρμακα πρώτης γραμμής για την αντιμετώπιση της οξείας ουρικής αρθρίτιδας είναι:",
+    "choices": [
+      "Αλλοπουρινόλη.",
+      "Α + Β.",
+      "ΜΣΑΦ.",
+      "Φεμπουξοστάτη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το σύνδρομο Dressler εμφανίζεται συνήθως μετά από καρδιοχειρουργικές επεμβάσεις, έμφραγμα μυοκαρδίου ή καρδιακό τραύμα και περιγράφηκε για πρώτη φορά από τον καρδιολόγο William Dressler, στο Maimonides Medical Center των ΗΠΑ, το 1956. Το σύνδρομο Dressler χαρακτηρίζεται από όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Μεσοθωρακίτιδα.",
+      "Περικαρδίτιδα.",
+      "Πυρετός.",
+      "Θωρακαλγία."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Τρεις εβδομάδες μετά από μια λοίμωξη του ανώτερου αναπνευστικού, ένας 25χρονος ασθενής εμφανίζεται στο ΤΕΠ με μουδιάσματα και αδυναμία στα χέρια και στα πόδια εδώ και 3-4 ημέρες. Κατά τη φυσική εξέταση εμφανίζεται ταχυπνοϊκός με ρηχές αναπνοές και συμμετρική μυϊκή αδυναμία και στα δύο χέρια και πόδια. Δεν υπάρχει εμφανές αισθητικό έλλειμμα στα άκρα, αλλά τα αντανακλαστικά των άκρων δεν εκλύονται. Η πιθανότερη διάγνωση είναι:",
+    "choices": [
+      "Μυασθένεια gravis",
+      "Σύνδρομο Guillain-Barré",
+      "Οξεία εγκάρσια μυελίτιδα",
+      "Οξεία τοξική νευροπάθεια"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η νόσος των Λεγεωναρίων έχει θνησιμότητα που μπορεί να φτάσει μέχρι το 15%, ενώ σε νοσηλευόμενους ασθενείς μπορεί να φτάσει μέχρι 50% εφόσον η αντιβιοτική αγωγή δεν χορηγηθεί έγκαιρα. Ποιο από τα παρακάτω κλινικά ή εργαστηριακά ευρήματα δεν ανευρίσκεται συχνά στη νόσο των Λεγεωναρίων (πνευμονία από Legionella pneumophila);",
+    "choices": [
+      "Τρανσαμινασαιμία.",
+      "Υπονατριαιμία.",
+      "Υπερνατριαιμία.",
+      "Διαταραχές επιπέδου συνείδησης."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Σε περίπτωση διάρροιας που το αίτιο είναι το E. Coli (O157:H7), δεν πρέπει να δίδεται αντιμικροβιακή αγωγή, γιατί αυξάνει ο κίνδυνος εκδήλωσης ουραιμικού-αιμολυτικού συνδρόμου, με θρομβοπενία, αιμολυτική αναιμία και οξεία νεφρική βλάβη.",
+      "Πολλαπλές δόσεις ενεργού άνθρακα (κάθε 2-6 ώρες για διάστημα 24-48 ωρών) μπορεί να χρειαστεί να χορηγηθούν σε υπερδοσολογία ουσιών όπως η αμινοφυλλίνη, η κινίνη, η καρβαμαζεπίνη, η φαινοβαρβιτάλη, η φαινκυκλιδίνη και η δαψόνη.",
+      "Η γλυκαγόνη αποτελεί το αντίδοτο σε περιπτώσεις δηλητηρίασης από β-αναστολείς, αναστολείς διαύλων ασβεστίου, ινσουλίνη και υπογλυκαιμικά δισκία.",
+      "Σε περίπτωση δηλητηρίασης από οργανοφωσφορικούς εστέρες (παραθείο/μαλαθείο) και φυτοφάρμακα/ζιζανιοκτόνα (Paraquat), η άμεση αντιμετώπιση – μεταξύ άλλων – περιλαμβάνει την υποστήριξη των ζωτικών σημείων με άμεση χορήγηση ενδοφλεβίως κρυσταλλοειδών, οξυγόνο (O2) σε υψηλές συγκεντρώσεις και χορήγηση ατροπίνης."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η αντίδραση Δισουλφιράμης αποτελεί μια οξεία αντίδραση, που χαρακτηρίζεται από ερυθρότητα προσώπου (flushing), αύξηση παλμών, δίψα, θωρακαλγία, δυσκολία στην αναπνοή, ταχυκαρδία, υπόταση, ναυτία, έμετο και εμφανίζεται συνήθως μετά από λήψη:",
+    "choices": [
+      "Αλκοόλης ή Μετρονιδαζόλης.",
+      "Τρικυκλικών αντικαταθλιπτικών.",
+      "Οπιοειδών ή SSRI.",
+      "Βανκομυκίνης."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα ασθενής 58 ετών, με ΒΜΙ: 18,6, καπνίστρια, με ατομικό αναμνηστικό ΑΥ, οστεοπόρωσης και υπερθυρεοειδισμού με πλημμελή συμμόρφωση, προσκομίζεται από το σύζυγό της στο ΤΕΠ σε ημικωματώδη κατάσταση, από διώρου. Από την κλινική εξέταση παρουσιάζει ΑΠ: 165/90 mmHg, HR: 138 bpm, RR: 20/min, Θ: 39,7°C. Η ασθενής παρουσιάζει, επίσης, αίσθημα παλμών με ΗΚΓφικά ευρήματα κολπικής μαρμαρυγής, έντονη εφίδρωση, εμέτους και διάρροιες από 48ώρου, ικτερική χροιά των επιπεφυκότων, έντονη αδυναμία και παροδική ψυχοκινητική διέγερση. Από τη γενική αίματος, εμφανίζει: ήπια αναιμία, σχετική λεμφοκυττάρωση και ήπια θρομβοπενία. Από τον αδρό βιοχημικό έλεγχο, εμφανίζει: υπεργλυκαιμία, υποκαλιαιμία, υπερασβεστιαιμία, αυξημένη CPK και αύξηση τρανσαμινασών. Με βάση τα ανωτέρω κλινικά & εργαστηριακά ευρήματα, η πιθανότερη διάγνωση είναι:",
+    "choices": [
+      "Θυρεοτοξική κρίση.",
+      "Μυξοιδηματικό κώμα.",
+      "Ισχαιμικό ή αιμορραγικό ΑΕΕ.",
+      "Βακτηριακή ή ιογενής μηνιγγίτιδα."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις για τις Μακρολίδες είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Αντένδειξη για τη χρήση Μακρολίδων είναι το σύνδρομο μακρού QT.",
+      "Σε πάσχοντες από ΧΑΠ, η χορήγηση Αζιθρομυκίνης βρέθηκε ότι προκαλεί μείωση των λευκοκυττάρων, των αιμοπεταλίων, της CRP και της ιντερλευκίνης-8 στο αίμα.",
+      "Σε ασθενείς με ΧΝΑ και GFR ≤ 30 ml/min δεν απαιτείται προσαρμογή της δόσης της Κλαριθρομυκίνης, ενώ η Αζιθρομυκίνη απαιτεί προσεκτική προσαρμογή της δόσης.",
+      "Μετά από 24 ώρες από τη χορήγηση Αζιθρομυκίνης και Ερυθρομυκίνης, η συγκέντρωση της πρώτης μέσα στα ανθρώπινα ουδετερόφιλα είναι 10 φορές μεγαλύτερη από αυτήν της δεύτερης."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στα αίτια ιλίγγου (περιφερικού ή κεντρικού) μπορεί να περιλαμβάνονται:",
+    "choices": [
+      "Όλα τα ανωτέρω.",
+      "Τα Α + Β.",
+      "Ακουστικό Νευρίνωμα.",
+      "Νόσος Menière."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οι εγκαυματικοί τραυματισμοί είναι η δεύτερη πιο συχνή αιτία θανάτου μετά από τα τροχαία ατυχήματα σε όλες τις χώρες του κόσμου. Ωστόσο τα ποσοστά επιβίωσης μετά από ένα έγκαυμα έχουν αυξηθεί, διότι εξελίσσεται όλο και περισσότερο ο τρόπος αντιμετώπισης και δίνεται ιδιαίτερη σημασία στην αποκατάσταση των εγκαυματιών. Ποιος από τους παρακάτω εγκαυματίες ασθενείς χρειάζεται άμεση διακομιδή στο νοσοκομείο, εισαγωγή και περίθαλψη σε ειδική Μονάδα Εγκαυμάτων;",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Ένας 35χρονος ασθενής, με εκτεταμένα μερικού πάχους εγκαύματα, στην πλάτη, τους ώμους και τους γλουτούς.",
+      "Τα Α + Β.",
+      "Μία 24χρονη γυναίκα, με εγκαύματα ολικού πάχους των δύο χεριών και αντιβραχίων."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Υπεργλυκαιμία και γλυκοζουρία, εκτός από τις περιπτώσεις υπάρξεως σακχαρώδους διαβήτη, μπορεί να παρατηρηθεί και σε:",
+    "choices": [
+      "Κάταγμα κρανίου.",
+      "Όλα τα ανωτέρω.",
+      "Φαιοχρωμοκύττωμα.",
+      "Σύνδρομο Cushing."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η ανάγκη προσαρμογής της δόσης ενός αντιμικροβιακού φαρμάκου σε ασθενείς με έκπτωση της νεφρικής λειτουργίας εξαρτάται από την φαρμακοκινητική του: ειδικά από το ποσοστό νεφρικής αποβολής του αμετάβλητου φαρμάκου, τη διάρκεια ημιζωής του και την πιθανότητα συσσώρευσης. Όλα τα παρακάτω αντιμικροβιακά φάρμακα δεν χρειάζονται προσαρμογή της δόσης σε ασθενείς με έκπτωση της νεφρικής λειτουργίας (δηλ. ανεξαρτήτως GFR), εκτός από:",
+    "choices": [
+      "Αζιθρομυκίνη.",
+      "Δοξυκυκλίνη.",
+      "Δικλοξακιλλίνη.",
+      "Σιπροφλοξασίνη."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Πολλοί από τους μικροοργανισμούς που σήμερα αναγνωρίζουμε ως αίτια διάρροιας, ανακαλύφθηκαν κατά την «χρυσή εποχή της Μικροβιολογίας» (1870-1920), όταν ερευνητές, όπως ο Robert Koch, ο Theodor Escherich, ο David Bruce, ο Galli-Valerio και ο Kiyoshi Shiga, ταυτοποίησαν τις αιτίες των επιδημιών σε Ευρώπη και Ασία. Όλα τα παρακάτω παθογόνα, λοιπόν, αποτελούν πιθανούς αιτιολογικούς παράγοντες για την πρόκληση μη φλεγμονώδους διάρροιας, εκτός από ένα:",
+    "choices": [
+      "Rotavirus.",
+      "Bacillus cereus.",
+      "Shigella.",
+      "Staphylococcus aureus."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε απώλεια αίματος έως 15%, η αιμοδυναμική κατάσταση παραμένει συνήθως σταθερή. Στην περίπτωση όμως που η απώλεια ανέλθει στο 20% του συνολικού όγκου αίματος (Class II αιμορραγικό shock), εμφανίζονται συγκεκριμένες πρώιμες κλινικές εκδηλώσεις. Ποιο ή ποια από τα παρακάτω ευρήματα αναμένουμε συνήθως σε αυτή τη φάση;",
+    "choices": [
+      "Υπόταση.",
+      "Ταχυκαρδία.",
+      "Ανάγκη μετάγγισης αίματος.",
+      "Σύγχυση."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η ζητούμενη φαρμακευτική ουσία περιλαμβάνει έναν εξαιρετικά επιλεκτικό, άμεσο αναστολέα του παράγοντα Xa, με από του στόματος (per os) βιοδιαθεσιμότητα. Η αναστολή του παράγοντα Xa διακόπτει την ενδογενή και εξωγενή οδό του καταρράκτη της πήξης του αίματος, αναστέλλοντας τη δημιουργία θρομβίνης και την ανάπτυξη θρόμβων. Η ουσία αυτή δεν αναστέλλει τη θρομβίνη (ενεργοποιημένος παράγοντας II) και δεν έχει καμία επίδραση στα αιμοπετάλια. Ποια είναι η ζητούμενη ουσία;",
+    "choices": [
+      "Κλοπιδογρέλη.",
+      "Ριβαροξαμπάνη.",
+      "Τικαγρελόρη.",
+      "Βαρφαρίνη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Οι παρακάτω θεωρήσεις για τα πνευμονικά νοσήματα είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Αντίθετα με την «κλασική» γνώση, οι ασθενείς με ΧΑΠ εμφανίζουν συχνότερα αναιμία απ' ό,τι πολυερυθραιμία (17% έναντι 6% σε μελέτες) και η αναιμία αυτή χαρακτηρίζεται χρονίας νόσου και σχετίζεται με μειωμένη επιβίωση των ασθενών με ΧΑΠ.",
+      "Η διάχυτη κυψελιδική αιμορραγία είναι ένα σύνδρομο που χαρακτηρίζεται από τη συσσώρευση ερυθροκυττάρων στους κυψελιδικούς χώρους, μέσω των κυψελιδικών τριχοειδών. Μεταξύ των φαρμάκων που έχουν ενοχοποιηθεί για τέτοιες αιμορραγίες, είναι: Αμιοδαρόνη, Νιτροφουραντοΐνη, Πενικιλλίνη, Προπυλθειουρακίλη, Υδραλαζίνη.",
+      "Οι πνευμονικές επιδράσεις της κοκαΐνης μπορεί να είναι: Βαρότραυμα από φυσαλιδώδες εμφύσημα, πνευμονικό οίδημα, κυψελιδική αιμορραγία, αποφρακτική βρογχιολίτιδα με οργανούμενη πνευμονία, πνευμονική υπέρταση, διάμεση ίνωση.",
+      "Η μακροχρόνια χορήγηση κορτικοστεροειδών και αντιβιοτικών στη ΧΑΠ σταδίου ΙΙΙ και IV, έδειξε ότι σε βάθος χρόνου έχει ευνοϊκή επίδραση στη μείωση των παροξύνσεων και των λοιμώξεων κατά 33% τους χειμερινούς μήνες και κατά 12% το καλοκαίρι."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής προσέρχεται στο ιατρείο και προσκομίζει το πόρισμα γαστροσκόπησης στην οποία υπεβλήθη προ 4ημέρου, από το οποίο διαπιστώσατε ότι έχει αποικισθεί με ελικοβακτηρίδιο του πυλωρού. Κατά τη συζήτηση, τον ενημερώνετε για τη θεραπεία εκρίζωσης που πρέπει να ακολουθήσει, καθώς επίσης και για το τι προκαλεί ο χρόνιος αποικισμός με το μικρόβιο. Ενημερώνετε λοιπόν τον ασθενή, ότι ο χρόνιος αποικισμός από Helicobacter pylori ενοχοποιείται για τα παρακάτω, εκτός από:",
+    "choices": [
+      "Ιδιοπαθή θρομβοπενική πορφύρα.",
+      "Έλκος 12δακτύλου βολβού.",
+      "Χρόνια ενεργό γαστρίτιδα.",
+      "Ατροφική γαστρίτιδα τύπου Α."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η τιμή ολικού ασβεστίου, που μετράμε στο αίμα, πρέπει να διορθώνεται κατά 0,8 mg/dl για κάθε μεταβολή της συγκέντρωσης της λευκωματίνης κατά 1 gr/dl. Η φυσιολογική τιμή του ολικού ασβεστίου του πλάσματος είναι:",
+    "choices": [
+      "6,0-12,0 mg/dl.",
+      "10,0-14,0 mg/dl.",
+      "8,5-10,5 mg/dl.",
+      "6,5-8,5 mg/dl."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω αντιβιοτικά ή κατηγορία αντιβιοτικών δεν χρησιμοποιείται για την εξωνοσοκομειακή αντιμετώπιση της πνευμονίας κοινότητας;",
+    "choices": [
+      "Νεότερες κινολόνες (Λεβοφλοξασίνη, Μοξιφλοξασίνη).",
+      "Κεφτριαξόνη.",
+      "Μακρολίδες (Κλαριθρομυκίνη, Αζιθρομυκίνη).",
+      "Αμινογλυκοσίδες (Αμικασίνη)."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια από τις παρακάτω θεωρήσεις δεν ισχύει αναφορικά με τις κλινικο-εργαστηριακές εκδηλώσεις της λοιμώδους μονοπυρηνώσεως;",
+    "choices": [
+      "Ο πυρετός είναι κυματοειδής και διαρκεί μέχρι 2 βδομάδες.",
+      "Υπάρχει λεμφοκυττάρωση.",
+      "Οίδημα του άνω βλεφάρου, άμφω (σημείο Hoagland), τις πρώτες ημέρες της νόσου.",
+      "Μπορεί να εμφανισθεί κηλιδοβλατιδώδες εξάνθημα."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Πέραν των μυελοϋπερπλαστικών συνδρόμων, άλλα πιθανά αίτια θρομβοκυττάρωσης (πρωτοπαθούς ή δευτεροπαθούς) μπορεί να είναι όλες οι παρακάτω κλινικές οντότητες, εκτός από:",
+    "choices": [
+      "Χρόνια Μυελογενής Λευχαιμία",
+      "Νόσος του Crohn",
+      "Μετά από σπληνεκτομή",
+      "Νόσος Moschcowitz"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις για την οξεία βακτηριακή προστατίτιδα (ΟΒΠ) είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Η δακτυλική εξέταση και η μάλαξη του προστάτη αποτελεί τον ακρογωνιαίο λίθο στην κλινική εξέταση, για τη διάγνωση της ΟΒΠ, μαζί με την καλλιέργεια ούρων.",
+      "Σε νοσηλευόμενους ασθενείς με ΟΒΠ, πρέπει να ξεκινά άμεσα θεραπεία με τη χορήγηση αντιβιοτικών, αφού πρώτα ληφθούν καλλιέργειες αίματος και ούρων.",
+      "Η εμπειρική αντιβιοτική αγωγή της ΟΒΠ, μέχρι να ληφθούν τα αποτελέσματα των καλλιεργειών, περιλαμβάνει Κινολόνες και Κοτριμοξαζόλη.",
+      "Η ΟΒΠ συνήθως προκύπτει από ανιούσα λοίμωξη της ουρήθρας και παλινδρόμηση μολυσμένων ούρων μέσα στους προστατικούς πόρους, ενώ παράγοντες κινδύνου συχνά αποτελούν η φίμωση, οι συγγενείς ανωμαλίες του ουρητήρα, η διουρηθρική βιοψία, κ.ά."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις σχετικά με την εμφάνιση Λοιμώδους Ερυθήματος στα παιδιά είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Το εξάνθημα μπορεί να επιδεινώνεται μετά από έκθεση στον ήλιο, σωματική κόπωση ή ζεστό μπάνιο.",
+      "Σπανίως επηρεάζονται οι παλάμες και τα πέλματα, αλλά η περιστοματική ωχρότητα αποτελεί χαρακτηριστικό εύρημα της νόσου.",
+      "Η χρήση μακρολιδών θεωρείται ως θεραπεία εκλογής και συνιστάται σε συμπτωματικά παιδιά, καθώς μειώνει τη διάρκεια της νόσου και την πιθανότητα μετάδοσης.",
+      "Τα σχετιζόμενα με τη νόσο συμπτώματα μπορεί να είναι: πυρετός, κακουχία, βήχας, πονόλαιμος, κεφαλαλγία, μυαλγίες, ναυτία, έμετος, διάρροια."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλα τα παρακάτω νοσήματα και φάρμακα αποτελούν συχνές αιτίες για την εμφάνιση διάχυτων αμφοτερόπλευρων διάμεσων πνευμονικών διηθήσεων, εκτός από ένα:",
+    "choices": [
+      "Πνευμονία από Pneumocystis jirovecii",
+      "Πνευμονικό οίδημα",
+      "Σαρκοείδωση",
+      "Μεσοθηλίωμα"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής, γυναίκα 32 ετών, προσέρχεται στο ιατρείο με πρόσφατη κλινικο-εργαστηριακή διάγνωση χλαμυδιακής κολπίτιδας. Ποιο ή ποια αντιβιοτικά αποτελούν την κατάλληλη θεραπευτική αγωγή για το συγκεκριμένο νόσημα;",
+    "choices": [
+      "Αζιθρομυκίνη.",
+      "Κεφουροξίμη.",
+      "Τα Α+Β+Γ.",
+      "Κοτριμοξαζόλη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενή 68 ετών, με ασκιτική συλλογή, που χρήζει θεραπείας με Σπιρονολακτόνη (S) και Φουροσεμίδη (F), ποια πρέπει να είναι η αναλογία των δύο φαρμάκων που πρέπει να χορηγηθούν ώστε να ελαχιστοποιηθεί η πιθανότητα πρόκλησης υποκαλιαιμίας;",
+    "choices": [
+      "S/F: 50 mg/100 mg.",
+      "S/F: 100 mg/100 mg.",
+      "S/F: 100 mg/40 mg.",
+      "S/F: 100 mg/120 mg."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Με το μνημοτεχνικό ακρωνύμιο \"ESKAPE\" περιγράφεται μια ομάδα από έξι ισχυρούς παθογόνους μικροοργανισμούς που αποτελούν σοβαρή απειλή για τον άνθρωπο, αφού εμφανίζουν διαρκώς αυξανόμενη αντοχή στα νεότερα και προχωρημένα αντιβιοτικά. Ένας εκ των παρακάτω μικροοργανισμών δεν αποτελεί μέλος της απειλητικής αυτής ομάδας. Ποιος;",
+    "choices": [
+      "Acinetobacter baumannii.",
+      "Enterobacter species.",
+      "Streptococcus pneumoniae.",
+      "Enterococcus faecium."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Όλες οι παρακάτω θεωρήσεις στη διάγνωση και αντιμετώπιση επειγόντων περιστατικών προνοσοκομειακά ή στην ΠΦΥ ή στο ΤΕΠ είναι σωστές, εκτός από μία:",
+    "choices": [
+      "Στους ασθενείς με θρομβωτική θρομβοπενική πορφύρα (ΘΘΠ-σύνδρομο Moschowitz), ταυτόχρονα με την πλασμαφαίρεση χορηγούνται κορτικοστεροειδή (μεθυλπρεδνιζολόνη 5 gr/24h επί 10 ημέρες), ενώ η έναρξη ασπιρίνης σε υψηλές δόσεις συνιστάται πάντοτε όταν τα αιμοπετάλια (PLT) είναι λιγότερα από 50.000/μl.",
+      "Αμέσως μετά από μια ΚΕΚ ακολουθεί μια περίοδος παρατεταμένης υποάρδευσης του εγκεφάλου. Ο προφυλακτικός υπεραερισμός μειώνει περαιτέρω την εγκεφαλική αιματική ροή, προκαλώντας εγκεφαλική ισχαιμία ή έμφρακτο και επιδεινώνει την τελική έκβαση.",
+      "Οι συστηματικές εκδηλώσεις του «Λατροδεκτισμού» ξεκινούν 20-120 λεπτά μετά από δήγμα αράχνης του είδους «μαύρη χήρα» και είναι: εφίδρωση, σιελόρροια, δακρύρροια, βρογχόρροια, έμετοι, έντονο άλγος στην κοιλιά και οσφύ, μυϊκές συσπάσεις, κεφαλαλγία, ταχυκαρδία, υπέρταση, οίδημα προσώπου, αναπνευστική δυσχέρεια, σπασμοί.",
+      "Η οξεία εμφυσηματική χολοκυστίτιδα έχει υψηλή θνητότητα (15%), προκαλείται από μικτό πληθυσμό μικροβίων (κολοβακτηρίδια, στρεπτόκοκκοι και αεριογόνα κλωστηρίδια), συχνά είναι αλιθιασική, προσβάλλει κυρίως διαβητικούς και γυναίκες/άνδρες: 3/1."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής άνδρας 24 ετών, προσέρχεται θορυβημένος στο ιατρείο, διότι σε γενική αίματος που έκανε σήμερα το πρωί, ως τακτικό έλεγχο, ανευρέθη λευκοπενία (WBC: 2400/μl). Εκτός της ιδιοπαθούς καλοήθους λευκοπενίας, όλα τα παρακάτω αίτια είναι πιθανό να προκαλέσουν λευκοπενία, εκτός από ένα:",
+    "choices": [
+      "Ουραιμία.",
+      "Σύνδρομο Goodpasture.",
+      "Βρουκέλλωση.",
+      "Ιστοπλάσμωση."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Άνδρας ασθενής, 64 ετών, εμφανίζεται στο ιατρείο παραπονούμενος για από μηνός νεοεμφανιζόμενη κεφαλαλγία, πρωινή δυσκαμψία ώμων και χαμηλό απογευματινό πυρετό. Ο εργαστηριακός έλεγχος ανέδειξε ορθόχρωμη, ορθοκυτταρική αναιμία και ταχύτητα καθίζησης ερυθρών (ΤΚΕ) 110 mm την πρώτη ώρα. Ποια είναι η πιθανότερη διάγνωση από τις παρακάτω;",
+    "choices": [
+      "Οζώδης πολυαρτηρίτιδα.",
+      "Κροταφική αρτηρίτιδα.",
+      "Ημικρανία.",
+      "Μακροσφαιριναιμία Waldenström."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Αίτια φλεβοκομβικής βραδυκαρδίας είναι όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Στεφανιαία νόσος.",
+      "Θεραπεία με αντιϊσταμινικά.",
+      "Θεραπεία με β-αποκλειστές.",
+      "Ενδοκράνια υπέρταση."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας πολυτραυματίας εμφανίζει shock, διατεταμένες σφαγίτιδες, παρεκτόπιση της τραχείας και ηλεκτρομηχανικό διαχωρισμό. Ποια είναι η πιθανότερη διάγνωση;",
+    "choices": [
+      "Τραυματική ρήξη αορτής.",
+      "Πνευμοθώρακας υπό τάση.",
+      "Καρδιακός επιπωματισμός.",
+      "Κανένα από τα παραπάνω."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η υπερκαλιαιμία, που παρατηρείται σε ορισμένους ασθενείς που υποβάλλονται σε χρόνια περιοδική αιμοκάθαρση, μπορεί να οφείλεται στη λήψη τροφών με υψηλή περιεκτικότητα καλίου ή/και σε μειωμένη δοσολογία αιμοκάθαρσης. Η ηλικία δεν παίζει ρόλο στην εμφάνιση της υπερκαλιαιμίας, ενώ η λήψη β-αποκλειστών καθώς και αναστολέων του συστήματος ρενίνης-αγγειοτενσίνης παίζει ρόλο στην εμφάνιση των υψηλών τιμών καλίου στον ορό. Η θεραπεία της υπερκαλιαιμίας δεν περιλαμβάνει:",
+    "choices": [
+      "Δακτυλίτιδα (Διγοξίνη).",
+      "Β2-διεγέρτες.",
+      "Ασβέστιο.",
+      "Γλυκόζη & Ινσουλίνη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η πιο συχνή συγγενής ανωμαλία του γαστρεντερικού συστήματος, η οποία απαντάται σε συχνότητα 1-3% του πληθυσμού, είναι η Μεκέλειος απόφυση. Ποια από τις παρακάτω κλινικές οντότητες αποτελεί επιπλοκή της Μεκελείου απόφυσης;",
+    "choices": [
+      "Τίποτα από τα παραπάνω.",
+      "Η απόφραξη του λεπτού εντέρου.",
+      "Ο εγκολεασμός.",
+      "Όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια είναι η συχνότερη αιτία πρόκλησης οξείας παγκρεατίτιδας στη χώρα μας;",
+    "choices": [
+      "Χολολιθίαση.",
+      "Λήψη αλκοόλης.",
+      "Λήψη φαρμάκων.",
+      "Νυγμός σκορπιού."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Με βάση το προαναφερθέν περιστατικό που εξετάσατε στο ΤΕΠ, η καταλληλότερη αντιβιοτική αγωγή, για τον ύποπτο μικροβιακό παράγοντα, είναι:",
+    "choices": [
+      "Αμικασίνη.",
+      "Πενικιλλίνη.",
+      "Ερυθρομυκίνη.",
+      "Δοξυκυκλίνη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας 49χρονος άνδρας με γνωστό ιστορικό περιορισμένου μικροκυτταρικού καρκίνου στον πνεύμονα εμφανίζεται στο ΤΕΠ με έκδηλη ταραχή και σύγχυση, νυσταγμό, αταξία, περιφερική απώλεια αισθητικότητας και γενικευμένη αδυναμία. Η πιο πιθανή αιτιολογία αυτής της διαταραχής είναι:",
+    "choices": [
+      "Παρανεοπλασματικό σύνδρομο.",
+      "Υπερασβεστιαιμία.",
+      "Μυασθένεια gravis.",
+      "Σύνδρομο υπεργλοιότητας."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιος μηχανισμός είναι υπεύθυνος για την εμφάνιση θρομβοπενίας στην περίπτωση διάχυτης ενδαγγειακής πήξης (DIC);",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Ταχεία καταστροφή αιμοπεταλίων.",
+      "Ανοσολογικά αίτια.",
+      "Μειωμένη επιβίωση αιμοπεταλίων."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η λοιμώδης ενδοκαρδίτιδα εμφανίζεται συχνά σε χρήστες ενδοφλέβιων ναρκωτικών ουσιών (IVDU). Η δομή που προσβάλλεται συχνότερα σε αυτούς τους ασθενείς, είναι:",
+    "choices": [
+      "Η μιτροειδής βαλβίδα.",
+      "Η τριγλώχινα βαλβίδα.",
+      "Η πνευμονική βαλβίδα.",
+      "Το ωτίο του αριστερού κόλπου."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Διιδρωματική υπεζωκοτική συλλογή μπορεί να προκληθεί από μία εκ των κατωτέρω ασθενειών:",
+    "choices": [
+      "Σαρκοείδωση.",
+      "Βακτηριακή πνευμονία.",
+      "Κίρρωση ήπατος.",
+      "Ιογενής λοίμωξη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Μία 42χρονη παχύσαρκη γυναίκα με γνωστή χολολιθίαση παρουσιάζεται στο ΤΕΠ αιτιώμενη συμπτώματα ναυτίας και εμέτου από 48ώρου, μαζί με έντονο συνεχή πόνο στο επιγάστριο. Κατά τη φυσική εξέταση εμφανίζει μόνο χαμηλή πυρετική κίνηση, ενώ κατά τον εργαστηριακό έλεγχο ανευρίσκεται ελαφρώς αυξημένος αριθμός λευκών αιμοσφαιρίων (WBC: 12.300/μl), αυξημένη τιμή CRP και αυξημένα επίπεδα αμυλάσης του ορού και των ούρων. Η πιθανότερη διάγνωση είναι:",
+    "choices": [
+      "Διάτρηση πεπτικού έλκους.",
+      "Πρώιμη φάση οξείας σκωληκοειδίτιδας.",
+      "Ρήξη ανευρύσματος κοιλιακής αορτής.",
+      "Οξεία παγκρεατίτιδα."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω αποτελεί χαρακτηριστικό κλινικό εύρημα στην περίπτωση διάτρησης πεπτικού έλκους;",
+    "choices": [
+      "Η τυμπανικότητα της κοιλίας κατά την επίκρουση.",
+      "Η εξεσημασμένη ταχυκαρδία.",
+      "Η ευαισθησία του επιγαστρίου κατά την ψηλάφηση.",
+      "Η εξάλειψη της ηπατικής αμβλύτητας."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω δεν ενοχοποιείται ως αίτιο οξείας παγκρεατίτιδας;",
+    "choices": [
+      "Ο υπερθυρεοειδισμός.",
+      "Ο υπερπαραθυρεοειδισμός.",
+      "Η υπερλιπιδαιμία.",
+      "Ο νυγμός σκορπιού."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η πνευμονία που εμφανίζεται στον δεξιό μέσο λοβό, σέβεται την ελάσσονα μεσολόβιο και η σκίαση που σχηματίζεται στην ακτινογραφία θώρακος έχει το κυρτό προς τα κάτω, συνήθως οφείλεται σε:",
+    "choices": [
+      "Legionella pneumophila.",
+      "Klebsiella pneumoniae.",
+      "Pneumocystis jirovecii.",
+      "Streptococcus pneumoniae."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Μεταξύ των παραγόντων που μπορεί να μειώσουν την απορρόφηση της βιταμίνης Β12 - εκτός από την έλλειψη του ενδογενούς παράγοντα (IF) που παρατηρείται σε αυτοάνοση γαστρίτιδα και μετά από γαστρεκτομή - και να προκαλέσουν δυνητικά την εμφάνιση κλινικών εκδηλώσεων μεγαλοβλαστικής αναιμίας, είναι:",
+    "choices": [
+      "Φάρμακα (Μετφορμίνη, ASA, Ακυκλοβίρη, Νεομυκίνη, Υδροξυουρία).",
+      "Όλα τα ανωτέρω.",
+      "Το ανοσολογικής αρχής σύνδρομο Imerslund-Gräsbeck.",
+      "Τα Α + Β."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής 62 ετών αγροτοκτηνοτρόφος, προσέρχεται στο ΤΕΠ του ΚΥ με έντονο πυρετό με ρίγος (39,2°C), ταχυκαρδία (HR: 120 bpm), ΑΠ: 165/95 mmHg, με έντονη κεφαλαλγία, μυαλγίες, ερυθρότητα προσώπου και έντονη ταχύπνοια. Ο ασθενής αναφέρει ότι πριν από 5 ημέρες ξεκίνησε διπλή αντιβιοτική θεραπεία (Δοξυκυκλίνη/Γενταμυκίνη) για τη θεραπεία Μελιταίου πυρετού, που του διαγνώστηκε στο νοσοκομείο. Η πιθανότερη διάγνωση για την παρούσα κλινική κατάσταση, είναι:",
+    "choices": [
+      "Προσβολή του ΚΝΣ από Βρουκέλλα.",
+      "Τίποτα από τα ανωτέρω.",
+      "Αντίδραση Jarisch-Herxheimer.",
+      "Αλλεργική αντίδραση στη Γενταμυκίνη."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποια από τις παρακάτω ενέργειες είναι λιγότερο σημαντική στην αρχική αντιμετώπιση ενός θύματος παρ' ολίγον πνιγμού;",
+    "choices": [
+      "Η εξασφάλιση αεραγωγού",
+      "Έλεγχος θερμοκρασίας πυρήνα",
+      "Μέτρηση ηλεκτρολυτών",
+      "Προφύλαξη της Σ.Σ."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η κανονική τιμή της περιεκτικότητας νερού στα κόπρανα είναι περίπου 10 ml/kg/ημέρα σε βρέφη και μικρά παιδιά ή στα 200 gr/ημέρα σε εφήβους και ενήλικες. Ποιος από τους παρακάτω ασθενείς με διάρροια, έχει ανάγκη χορήγησης αντιβιοτικού;",
+    "choices": [
+      "Ένας 10χρονος ασθενής με θετική καλλιέργεια κοπράνων για Σαλμονέλλα του οποίου οι εντερικές κινήσεις έχουν μειωθεί σε συχνότητα και ένταση.",
+      "Ένας μικρός ασθενής 14 μηνών με ήπια αφυδάτωση που η πρωκτική καλλιέργεια με στυλεό, από προηγούμενη επίσκεψη στο ΤΕΠ, έδειξε ανάπτυξη Σαλμονέλλας.",
+      "Τα Β + Γ.",
+      "Ένα 3 μηνών βρέφος του οποίου το αποτέλεσμα της 3ήμερης καλλιέργειας μετά από λήψη με στυλεό από τον πρωκτό, έδειξε ανάπτυξη Σαλμονέλλας."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής άρρεν 27 ετών, χρόνιος χρήστης ενδοφλεβίως εξαρτησιογόνων ουσιών (IVDU), μεταφέρεται από οικείους του στο ΤΕΠ, όπου εφημερεύετε, με αναφερόμενο εμπύρετο με ρίγος από 4ημέρου, υπνηλία τις περισσότερες ώρες της ημέρας και τάση προς έμετο. Ο ασθενής και οι οικείοι του επιμένουν ότι ο ασθενής είναι «καθαρός» από τη χρήση ουσιών εδώ και τρεις (3) περίπου μήνες. Κατά την κλινική εξέταση παρουσιάζει: ΑΠ: 105/55 mmHg, SpO2: 92%, HR: 125 bpm, RR: 22/min, Θ: 39,6 βαθμούς Κελσίου και WBC: 18700/μl. Με βάση όλα τα ανωτέρω, στη διαφοροδιαγνωστική σκέψη μας, η πρώτη πιθανότερη κλινική οντότητα που πρέπει να διερευνηθεί και να αντιμετωπιστεί άμεσα, είναι:",
+    "choices": [
+      "Λοιμώδης ενδοκαρδίτιδα.",
+      "Γρίπη τύπου Α.",
+      "Εμφυσηματική πυελονεφρίτιδα.",
+      "Πρωτολοίμωξη από HIV."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε ασθενή με οξύ διαρροϊκό σύνδρομο που προκαλείται από ένα από τα παρακάτω μικρόβια, δεν πρέπει να δίδεται αντιβιοτική αγωγή, διότι αυξάνεται η πιθανότητα εκδήλωσης «ουραιμικού-αιμολυτικού» συνδρόμου. Ποιο είναι το μικρόβιο;",
+    "choices": [
+      "Bacillus cereus.",
+      "Rota virus.",
+      "Escherichia coli O157:H7.",
+      "Yersinia enterocolitica."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η SGLT-2 είναι μια πρωτεΐνη που επαναρροφά γλυκόζη από τα ούρα, καθώς το αίμα φιλτράρεται στους νεφρούς και τη διοχετεύει στην κυκλοφορία του αίματος. Ποιο από τα παρακάτω φάρμακα (που αποτελεί σημαντικό όπλο στη ρύθμιση του ΣΔ τύπου 2) αναστέλλοντας τη δράση της SGLT-2 αυξάνει την αποβολή της γλυκόζης μέσω των ούρων, μειώνοντας κατ' αυτόν τον τρόπο τα επίπεδα γλυκόζης στο αίμα;",
+    "choices": [
+      "Νατεγλινίδη.",
+      "Εμπαγλιφλοζίνη.",
+      "Αλογλιπτίνη.",
+      "Εξενατίδη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Έγκυος γυναίκα 22 ετών, στην 32η εβδομάδα της κύησης, προσέρχεται μετά από μαχαιριά στο άνω δεξιό ημιθωράκιο. Στο ΤΕΠ εμφανίζει: ΑΠ: 80/55 mmHg, SpO2: 91%, δύσπνοια, είναι ανήσυχη και ζητάει έντονα βοήθεια. Το αναπνευστικό ψιθύρισμα στο δεξιό ημιθωράκιο είναι ελαττωμένο. Ποιο είναι το καταλληλότερο πρώτο βήμα να γίνει;",
+    "choices": [
+      "Εφησυχάζουμε την άρρωστη και ζητάμε γυναικολογική εκτίμηση από τον ειδικό.",
+      "Μετατοπίζουμε με τα χέρια μας την έγκυο μήτρα στα αριστερά της κοιλιάς.",
+      "Μεριμνούμε για διενέργεια ακτινογραφίας θώρακα, άμεσα.",
+      "Αποσυμπίεση του δεξιού ημιθωρακίου με βελόνα."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ο ζητούμενος φαρμακευτικός παράγοντας ασκεί μία ιδιαίτερα ευνοϊκή επιρροή στην ακινησία, την ακαμψία, τον τρόμο και τον βραδυψυχισμό σε ασθενείς με νόσο του Parkinson. Επίσης, είναι ιδιαίτερα δραστικός κατά των ιών της γρίπης του τύπου:",
+    "choices": [
+      "Αμανταδίνη.",
+      "Ποιος είναι ο ζητούμενος φαρμακευτικός παράγοντας;",
+      "Ρασαγιλίνη.",
+      "Λεβοντόπα."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω κλινικά σημεία, σε έναν ενήλικα πολυτραυματία, χρήζει άμεσης αντιμετώπισης στην πρωτοβάθμια αντιμετώπιση του τραύματος;",
+    "choices": [
+      "Συχνότητα αναπνοών: 40 /min.",
+      "Καρδιακή συχνότητα: 128 bpm.",
+      "G.C.S.: 11/15.",
+      "Διάταση κοιλίας."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Το σύνδρομο που φέρει το όνομα του Harvey W. Cushing, κορυφαίου νευροχειρουργού και πρωτοπόρου στην έρευνα της υπόφυσης, περιγράφηκε για πρώτη φορά το 1932 και αποτέλεσε σταθμό στην κατανόηση των ενδοκρινολογικών νοσημάτων. Ποιο από τα παρακάτω θεωρείται αναμενόμενη εκδήλωση του συνδρόμου Cushing;",
+    "choices": [
+      "Όλα τα παραπάνω.",
+      "Χαμηλές τιμές κορτιζόλης όλο το 24ωρο.",
+      "Μαρφανοειδές προσωπείο.",
+      "Τίποτα από τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Άνδρας, 60 ετών, με χρόνια προβλήματα κατάχρησης οινοπνεύματος, διακομίζεται με ασθενοφόρο στο ΤΕΠ έχοντας εμφανίσει οξέως σύγχυση, αμφοτερόπλευρη παράλυση του απαγωγού και αταξία. Ποια από τις παρακάτω ουσίες πρέπει να χορηγηθεί επειγόντως στον ασθενή;",
+    "choices": [
+      "Θειαμίνη (Βιταμίνη Β1).",
+      "Βιταμίνη Β12.",
+      "Φαινυτοΐνη.",
+      "Φλουμαζενίλη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο αντιδιαβητικό φάρμακο, από τα παρακάτω, μπορεί να προκαλέσει γαλακτική οξέωση, ιδίως σε ασθενείς με έκπτωση της νεφρικής λειτουργίας και GFR < 30 ml/min, ενώ επίσης μπορεί να μειώσει την απορρόφηση της βιταμίνης Β12 από τον οργανισμό;",
+    "choices": [
+      "Λιραγλουτίδη (Victoza).",
+      "Μετφορμίνη (Glucophage).",
+      "Πιογλιταζόνη (Actos).",
+      "Σιταγλιπτίνη (Januvia)."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στις αρχές Ιουνίου εξετάσατε μία καταβεβλημένη 76χρονη ασθενή, η οποία μάλλον χρειάζεται φροντίδα στο σπίτι. Η ασθενής ασχολείται μόνο με οικιακές εργασίες και με τη φροντίδα του κήπου της και δεν έχει εμβολιαστεί καθόλου εδώ και πολλά χρόνια, εκτός από το εμβόλιο του Πνευμονιόκοκκου που έκανε προ 3 ετών, όταν νοσηλεύτηκε στο νοσοκομείο για πνευμονία. Μεταξύ των κατάλληλων συμβουλών που θα δώσετε στη νοσηλεύτρια της «κατ' οίκον φροντίδας» για την γηραιά ασθενή σας, είναι και:",
+    "choices": [
+      "Επανεμβολιασμός για Πνευμονιόκοκκο.",
+      "Εμβολιασμός για Αιμόφιλο.",
+      "Εμβολιασμός για Ηπατίτιδα Β.",
+      "Εμβολιασμός για Τέτανο."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Μία 70χρονη ασθενής παραπονιέται για αδυναμία, κόπωση, δυσπεψία και ενίοτε δύσπνοια από τριμήνου. Η κόρη της, που την συνοδεύει στο ιατρείο, αναφέρει ότι η μητέρα της έχει επίσης κάποια μικρή απώλεια μνήμης τους τελευταίους μήνες και περιστασιακά αναφέρει έντονες αιμωδίες στις παλάμες και στα δύο κάτω άκρα. Ο εργαστηριακός έλεγχος που παραγγείλατε εμφανίζει, μεταξύ άλλων: Hb: 9,8 g/dL και τιμή του MCV: 114 fl. Η πιο πιθανή αιτία εμφάνισης των συμπτωμάτων είναι:",
+    "choices": [
+      "Αυτοαντισώματα έναντι των ιστονών.",
+      "Αυτοαντισώματα έναντι της διπλής έλικας του DNA (Anti-dsDNA).",
+      "Αυτοαντισώματα έναντι των γαστρικών τοιχωματικών κυττάρων (APCA).",
+      "Αυτοαντισώματα έναντι Καρδιολιπίνης (ACA)."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η Πρωτοπαθής Χολική Κίρρωση (ΠΧΚ) είναι μια νόσος που προσβάλλει κατά 90% γυναίκες μέσης ηλικίας μεταξύ 40 και 59 ετών (γυναίκες/άνδρες: 9/1). Η ΠΧΚ δεν έχει περιγραφεί ποτέ σε παιδιά και είναι σπάνια πριν την ηλικία των 30 ετών. Ποιο από τα παρακάτω εργαστηριακά ευρήματα παρατηρείται πιο συχνά σε ασθενείς με πρωτοπαθή χολική κίρρωση;",
+    "choices": [
+      "Αυξημένα επίπεδα φερριτίνης.",
+      "Θετικά αντισώματα ANA.",
+      "Θετικά αντισώματα AMA.",
+      "Θετικά αντισώματα c-ANCA."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η εφαρμογή στρατηγικών προσυμπτωματικού ελέγχου (screening) για κακοήθειες ποικίλλει ανάλογα με την ηλικία, το φύλο και την επιδημιολογική επιβάρυνση. Ποια από τις παρακάτω στρατηγικές αποτελεί τον ενδεδειγμένο προσυμπτωματικό έλεγχο για καρκίνο σε ασυμπτωματική γυναίκα 29 ετών, σύμφωνα με τις διεθνείς οδηγίες (π.χ. USPSTF, WHO);",
+    "choices": [
+      "Διενέργεια ακτινογραφίας θώρακος, κάθε 5 χρόνια.",
+      "Τεστ Παπανικολάου τουλάχιστον κάθε 3 χρόνια.",
+      "Φυσική εξέταση του μαστού από γιατρό, κάθε χρόνο.",
+      "Έλεγχος των κοπράνων για μικροσκοπική απώλεια αίματος."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα 35 ετών χωρίς παιδιά, με ιστορικό πνευμονικής εμβολής προ 25 ημερών, λαμβάνει Βαρφαρίνη από το στόμα και βρίσκεται σε άριστη κατάσταση. Προσέρχεται στο ιατρείο και αναφέρει ότι ανακάλυψε μόλις χθες ότι είναι έγκυος. Τι πρέπει να γίνει από τα παρακάτω;",
+    "choices": [
+      "Διακοπή Βαρφαρίνης και έναρξη Κλοπιδογρέλης.",
+      "Διακοπή Βαρφαρίνης και έναρξη LMWH μέχρι τον τοκετό.",
+      "Διακοπή της κύησης, άμεσα.",
+      "Διακοπή Βαρφαρίνης και έναρξη Ασπιρίνης."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στους καρκινικούς δείκτες ανήκουν όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Φερριτίνη",
+      "α-εμβρυϊκή πρωτεΐνη",
+      "Χοριακή γοναδοτροπίνη",
+      "α1-Αντιθρυψίνη"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Η Pseudomonas aeruginosa, Gram (-) αερόβιο βακτήριο, περιγράφηκε για πρώτη φορά το 1882 από τον Carle Gessard, ο οποίος παρατήρησε την πράσινη χρωστική που παρήγαγε σε καλλιέργεια. Από τότε, αποτελεί έναν από τους κυριότερους εκπροσώπους ενδονοσοκομειακών παθογόνων, με έμφυτη και επίκτητη αντοχή στα αντιβιοτικά. Παράγοντες κινδύνου για την εμφάνιση λοίμωξης του κατώτερου αναπνευστικού από Pseudomonas aeruginosa, αποτελούν όλα τα παρακάτω, εκτός από ένα:",
+    "choices": [
+      "Χρόνια παραρρινοκολπίτιδα.",
+      "Διαταραχές θρέψης-Υποσιτισμός.",
+      "Λήψη αντιβίωσης ευρέως φάσματος, διάρκειας > 7 ημέρες, τον τελευταίο μήνα.",
+      "Δομική νόσος πνεύμονα (Βρογχεκτασίες πνεύμονα)."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Μία 75χρονη ασθενής νοσηλεύτηκε στην κλινική για πνευμονία και έλαβε ενδοφλεβίως αντιβιοτική αγωγή. Κατά την 3η ημέρα της νοσηλείας της, εμφάνισε σοβαρή διάρροια. Η εξέταση κοπράνων απέβη θετική για τοξίνη Clostridium difficile. Ποια είναι η ενδεδειγμένη θεραπεία σε αυτήν την περίπτωση;",
+    "choices": [
+      "Μετρονιδαζόλη.",
+      "Αμοξικιλλίνη-Κλαβουλανικό.",
+      "Σιπροφλοξασίνη.",
+      "Κλινδαμυκίνη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Εκτός των περιπτώσεων όπου διάφορα φάρμακα μπορεί να αυξήσουν τα επίπεδα της προλακτίνης (αντιψυχωσικά, ρισπεριδόνη, τρικυκλικά αντικαταθλιπτικά, μεθυλντόπα, φαινυτοΐνη, κοκαΐνη, μορφίνη, σιμετιδίνη, μετοκλοπραμίδη, εναλαπρίλη, βεραπαμίλη, φουροσεμίδη, λαβετολόλη, ινσουλίνη, αντισυλληπτικά), η τιμή της προλακτίνης μπορεί να είναι αυξημένη σε όλες τις παρακάτω περιπτώσεις, εκτός από μία:",
+    "choices": [
+      "Σαρκοείδωση.",
+      "Αδένωμα υπόφυσης.",
+      "Σύνδρομο Sheehan.",
+      "Έντονο stress."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ως οστεοπόρωση ορίζεται σήμερα, από τον ΠΟΥ, η διαταραχή του σκελετού η οποία χαρακτηρίζεται από ελαττωμένη οστική αντοχή, που προδιαθέτει σε αυξημένο κίνδυνο κατάγματος. Όλοι οι παρακάτω φαρμακευτικοί παράγοντες χρησιμοποιούνται για την πρόληψη και τη θεραπεία της οστεοπόρωσης, εκτός από έναν:",
+    "choices": [
+      "Αλισκιρένη.",
+      "Δενοσουμάμπη.",
+      "Ρισεδρονάτη.",
+      "Παραθορμόνη."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Σε εγκαυματία ασθενή 38 ετών και βάρους 95 κιλών, που έχει έγκαυμα έκτασης 25% της επιφάνειας σώματος, πόση ποσότητα, ποιου κρυσταλλοειδούς διαλύματος, πρέπει να χορηγηθεί, σύμφωνα με τον κανόνα Parkland, κατά το πρώτο 8ωρο μετά το συμβάν;",
+    "choices": [
+      "4750 ml R/L.",
+      "3000 ml NaCl 0,9% & 1500 ml D 5W.",
+      "3000 ml R/L & 1500 ml D 5W.",
+      "4750 ml NaCl 0,9%."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ασθενής με παροξυσμική κολπική μαρμαρυγή που δεν λαμβάνει αντιπηκτική αγωγή, κινδυνεύει από:",
+    "choices": [
+      "Οξύ στεφανιαίο σύνδρομο.",
+      "Αρτηριακή εμβολή άκρου ποδός.",
+      "Όλα τα παραπάνω.",
+      "Εμβολή μεσεντερίου."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Στην απλή κνιδωτική ή στη συστηματική αναφυλακτική αντίδραση, έχουν κλινική ένδειξη και μπορεί να χρησιμοποιηθούν όλα τα παρακάτω φάρμακα, εκτός από ένα:",
+    "choices": [
+      "Η2 αναστολείς.",
+      "Ατροπίνη.",
+      "Αδρεναλίνη.",
+      "Αντιϊσταμινικά (Η1 αναστολείς)."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ευρήματα αποτελεί το βαρύτερο προγνωστικό σημείο σε οξεία ικτερική ηπατίτιδα;",
+    "choices": [
+      "Η αύξηση των τρανσαμινασών.",
+      "Ο βαθμός της αναιμίας.",
+      "Η παράταση του χρόνου προθρομβίνης.",
+      "Μικρό μέγεθος ήπατος στο U/S κοιλίας."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Γυναίκα ηλικίας 70 ετών, με γνωστό ιστορικό χολολιθίασης, προσέρχεται με κλασική συμπτωματολογία ειλεού. Ποιο από τα παρακάτω ευρήματα, στην απλή ακτινογραφία κοιλίας, θέτει με βεβαιότητα τη διάγνωση του «ειλεού εκ χολολίθου»;",
+    "choices": [
+      "Η παρουσία υδραερικών επιπέδων στο έντερο.",
+      "Η παρουσία αέρα στο εξωηπατικό χοληφόρο δένδρο.",
+      "Η παρουσία ελεύθερου αέρα στην περιτοναϊκή κοιλότητα.",
+      "Η παρουσία εγκυστωμένου αέρα στην περιτοναϊκή κοιλότητα."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  },
+  {
+    "question": "Ένας 25χρονος οδηγός αυτοκινήτου μεταφέρεται στο ΤΕΠ μετά από πλάγιο-μετωπική σύγκρουση υψηλής ενέργειας. Κατά τη φυσική εξέταση παρουσίαζε ΑΠ: 70/40 mmHg, σφύξεις: 140/λεπτό, SpO2: 92%, άλγος και ευαισθησία σε ολόκληρη την κοιλία και ένα εκτεταμένο αιμάτωμα σε όλη την κοιλιακή χώρα χωρίς εμφανές θλαστικό τραύμα. Ποιο από τα παρακάτω όργανα είναι πιθανότερο να έχει υποστεί βλάβη;",
+    "choices": [
+      "Ήπαρ.",
+      "Ουροδόχος κύστη.",
+      "Σπλήν.",
+      "Λεπτό έντερο."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "professional",
+    "source": "file:///Users/nino/Downloads/-ver.25.10.9.1.pdf"
+  }
+]

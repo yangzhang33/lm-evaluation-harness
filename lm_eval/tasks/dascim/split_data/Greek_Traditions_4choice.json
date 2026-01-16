@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Τι είναι η μαγειρίτσα;",
+    "choices": [
+      "Μαγειρευτό φαγητό που τρώγεται την πρώτη μέρα του νέου έτους",
+      "Το εθνικό φαγητό των Ελλήνων",
+      "Παραδοσιακή σούπα με κρέας, που τρώγεται το βράδυ του Μεγάλου Σαββάτου",
+      "Παραδοσιακή ηπειρώτικη πίτα με κρέας"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Greek Traditions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Την παραμονή της Πρωτοχρονιάς συνηθίζουμε να κόβουμε:",
+    "choices": [
+      "τη Βασιλόπιτα",
+      "τη Φανουρόπιτα",
+      "το Χριστόψωμο",
+      "Τσουρέκια"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Greek Traditions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

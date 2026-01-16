@@ -1,0 +1,968 @@
+[
+  {
+    "question": "Ποια από τα παρακάτω ισχύει για τη Μεγάλη Μητέρα των Μινωιτών;",
+    "choices": [
+      "Ήταν η θεά της ειρήνης",
+      "Ήταν η θεά της γονιμότητας",
+      "Ήταν η θεά του πολέμου",
+      "Ήταν η θεά της θάλασσας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ο όρος τροφοσυλλέκτης;",
+    "choices": [
+      "Κάποιος που μαζεύει τρόφιμα από τα καταστήματα",
+      "Κάποιος που κυνηγάει μεγάλα ζώα",
+      "Κάποιος που παράγει τρόφιμα σε αγρόκτημα",
+      "Κάποιος που συλλέγει καρπούς, ρίζες και μικρά ζώα για να επιβιώσει"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος αρχαιολόγος ανέσκαψε συστηματικά και ανέδειξε το ανάκτορο της Κνωσού στις αρχές του 20ού αιώνα;",
+    "choices": [
+      "Ο Ερρίκος Σλίμαν",
+      "Ο Μίνως Καλοκαιρινός",
+      "Ο Χάουαρντ Κάρτερ",
+      "Ο Άρθουρ Έβανς"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια περιοχή αναπτύχθηκε ο Κυκλαδικός πολιτισμός;",
+    "choices": [
+      "Στην ηπειρωτική Ελλάδα",
+      "Στην Κρήτη",
+      "Στα νησιά των Κυκλάδων στο Αιγαίο",
+      "Στα νησιά του Ιονίου πελάγους"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος πολιτισμός πήρε το όνομά του από τον μυθικό βασιλιά Μίνωα;",
+    "choices": [
+      "Μινωϊκός",
+      "Μυκηναϊκός",
+      "Αιγυπτιακός",
+      "Κυκλαδικός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού δραστηριοποιούνταν κυρίως οι Κυκλαδίτες έμποροι;",
+    "choices": [
+      "Στην Κρήτη",
+      "Στην Πελοπόννησο",
+      "Στο Αιγαίο Πέλαγος",
+      "Στην Αθήνα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς αλλιώς ονομάζονταν οι Μυκηναίοι;",
+    "choices": [
+      "Δωριείς",
+      "Ίωνες",
+      "Κρήτες",
+      "Αχαιοί"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στις μυκηναϊκές ακροπόλεις, πού ζούσαν οι αξιωματούχοι και οι φρουροί;",
+    "choices": [
+      "Μέσα στην ακρόπολη",
+      "Σε σκηνές",
+      "Σε άλλη πόλη",
+      "Έξω από τα τείχη της ακρόπολης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σχέση είχαν οι Μυκηναίοι με την Κύπρο;",
+    "choices": [
+      "Δεν είχαν καμία επαφή με το νησί",
+      "Δημιούργησαν εργαστήρια και εγκαταστάθηκαν μόνιμα",
+      "Ήταν εχθρικοί προς τους Κυπρίους",
+      "Απλώς πέρασαν από το νησί χωρίς να εγκατασταθούν"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκαναν οι Κυκλαδίτες σχετικά με την άμυνα των οικισμών τους;",
+    "choices": [
+      "Σε μερικούς οικισμούς έχτιζαν τείχη, ειδικά όταν υπήρχε κίνδυνος",
+      "Ποτέ δεν έχτιζαν τείχη",
+      "Έχτιζαν πάντα τείχη γύρω από όλους τους οικισμούς τους",
+      "Δεν ασχολούνταν καθόλου με την άμυνα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού εμπνέονταν κυρίως οι μινωικές τοιχογραφίες;",
+    "choices": [
+      "Από πολεμικές σκηνές",
+      "Από γεωμετρικά σχέδια",
+      "Από τη φύση και τις θρησκευτικές τελετές",
+      "Από αρχιτεκτονικά μοτίβα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις είναι σωστή;",
+    "choices": [
+      "Πολλοί πρωτόγονοι άνθρωποι ζωγράφιζαν στις σπηλιές ζώα που ήθελαν να κυνηγήσουν",
+      "Ο πρωτόγονος άνθρωπος άρχισε να τρέφεται αμέσως με μεγάλα ζώα",
+      "Τα πρώτα εργαλεία ήταν φτιαγμένα από ξύλο",
+      "Η φωτιά βοήθησε τον άνθρωπο να γίνει κυνηγός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι επέτρεψε στον άνθρωπο η ανακάλυψη της φωτιάς;",
+    "choices": [
+      "Να μαγειρεύει την τροφή του και να ζεσταίνεται",
+      "Να αρχίσει να καλλιεργεί τη γη",
+      "Να εφεύρει τη γραφή",
+      "Να ταξιδεύει με πλοία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού πραγματοποιούσαν κυρίως εμπόριο οι Μυκηναίοι;",
+    "choices": [
+      "Μόνο στο Αιγαίο Πέλαγος",
+      "Μόνο στην Ελλάδα",
+      "Μόνο στην Κρήτη",
+      "Σε όλη τη Μεσόγειο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού προήλθαν οι Αχαιοί και πού εγκαταστάθηκαν;",
+    "choices": [
+      "Από τον Βορρά και εγκαταστάθηκαν στην κεντρική και νότια Ελλάδα",
+      "Από την Ανατολή και εγκαταστάθηκαν στην κεντρική και νότια Ελλάδα",
+      "Από τη Δύση και εγκαταστάθηκαν στη βόρεια Ελλάδα",
+      "Από την Αφρική και εγκαταστάθηκαν στην Πελοπόννησο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ήταν διακοσμημένοι οι τοίχοι στα μινωικά ανάκτορα;",
+    "choices": [
+      "Με λευκό χρώμα",
+      "Με απλές γραμμές",
+      "Με θαυμάσιες τοιχογραφίες",
+      "Χωρίς καμία διακόσμηση"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι η Πύλη των Λεόντων στις Μυκήνες;",
+    "choices": [
+      "Ένα απλό παράθυρο",
+      "Μία αποθήκη αγαθών",
+      "Η κεντρική πύλη της Ακρόπολης των Μυκηνών",
+      "Ένα διακοσμητικό γλυπτό χωρίς λειτουργία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω συνδυασμούς περιλαμβάνει μόνο μυκηναϊκά κέντρα;",
+    "choices": [
+      "Η Αθήνα, το Άργος και η Κνωσός",
+      "Η Θεσσαλονίκη, η Πάτρα και η Λάρισα",
+      "Η Καλαμάτα, η Χαλκίδα και τα Χανιά",
+      "Η Θήβα, ο Ορχομενός και οι Μυκήνες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ρόλους είχαν οι γυναίκες στη μινωική κοινωνία;",
+    "choices": [
+      "Ήταν στρατιωτικοί",
+      "Ήταν πολιτικοί αρχηγοί",
+      "Ασχολούνταν μόνο με τις δουλειές του σπιτιού",
+      "Είχαν ποικίλες δραστηριότητες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συμβόλιζαν οι Μινωίτες με τους ταύρους;",
+    "choices": [
+      "Τον πόλεμο",
+      "Την ορμή και τη δύναμη της ζωής",
+      "Τη θρησκεία",
+      "Τη γεωργία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι γνωρίζουμε για τη χρήση γραφής από τους Κυκλαδίτες;",
+    "choices": [
+      "Δεν έχει βρεθεί σύστημα γραφής στους Κυκλαδίτες",
+      "Είχαν πολύπλοκη γραφή",
+      "Είχαν δική τους γραφή και ανάγνωση",
+      "Χρησιμοποιούσαν την ελληνική γραφή"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού κατοικούσε ο βασιλιάς των Μυκηνών;",
+    "choices": [
+      "Έξω από τα τείχη της Ακρόπολης",
+      "Μέσα στο ανάκτορο της Ακρόπολης",
+      "Σε μια κοντινή πόλη",
+      "Σε σκηνή έξω από την πόλη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με τι υλικά έφτιαχναν αρχικά τα σπίτια τους οι άνθρωποι;",
+    "choices": [
+      "Μόνο με πέτρες",
+      "Με τούβλα",
+      "Με δέρματα ζώων και κλαδιά",
+      "Μόνο με ξύλα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού ανακαλύφθηκε ο δίσκος της Φαιστού;",
+    "choices": [
+      "Στη Φαιστό",
+      "Στην Κνωσό",
+      "Στα Μάλια",
+      "Στο Ηράκλειο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ονομάζουμε κτερίσματα στον Μυκηναϊκό πολιτισμό;",
+    "choices": [
+      "Τα όπλα των πολεμιστών",
+      "Τα στολίδια των γυναικών",
+      "Τα προσωπικά αντικείμενα που συνόδευαν τον νεκρό στον τάφο",
+      "Τα εργαλεία των τεχνιτών"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν η νεκρική προσωπίδα στον Μυκηναϊκό πολιτισμό;",
+    "choices": [
+      "Ένα διακοσμητικό αντικείμενο",
+      "Ένα αγγείο",
+      "Χρυσή νεκρική μάσκα που σκέπαζε το πρόσωπο του νεκρού",
+      "Ένα όπλο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο γεγονός στη Θήρα (Σαντορίνη) προκάλεσε τεράστια κύματα και μεγάλες καταστροφές στην Κρήτη, συμβάλλοντας στην παρακμή του Μινωικού πολιτισμού;",
+    "choices": [
+      "Από πόλεμο με τους Μυκηναίους",
+      "Από επιδημία",
+      "Από έκρηξη ηφαιστείου που προκάλεσε τεράστια κύματα",
+      "Από σεισμό"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος πολιτισμός επηρέασε σε μεγάλο βαθμό την τέχνη των Μυκηναίων;",
+    "choices": [
+      "Οι Μινωίτες",
+      "Οι Σπαρτιάτες",
+      "Οι Αθηναίοι",
+      "Οι Περσικοί πολιτισμοί"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη μυθολογία, πόσο διήρκεσε ο Τρωϊκός Πόλεμος και ποιο ήταν το αποτέλεσμά του;",
+    "choices": [
+      "Κράτησε μόνο έναν χρόνο και οι Αχαιοί ηττήθηκαν",
+      "Κράτησε πέντε χρόνια και έμεινε αδιευκρίνιστος",
+      "Κράτησε δέκα χρόνια και οι Αχαιοί κατέκτησαν την Τροία",
+      "Κράτησε είκοσι χρόνια και δεν τελείωσε ποτέ"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν η χρυσή μάσκα που βρισκόταν στους μυκηναϊκούς τάφους;",
+    "choices": [
+      "Ένα διακοσμητικό αντικείμενο",
+      "Ένα όπλο πολέμου",
+      "Ένα κόσμημα για τους ζωντανούς",
+      "Μία νεκρική προσωπίδα που σκέπαζε το πρόσωπο του νεκρού"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού βρίσκονται οι σημαντικοί οικισμοί Σέσκλο και Διμήνι;",
+    "choices": [
+      "Στη Θεσσαλονίκη",
+      "Στη Θεσσαλία",
+      "Στην Αθήνα",
+      "Στα Κυκλαδονήσια"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ντύνονταν οι γυναίκες στον Μινωικό πολιτισμό;",
+    "choices": [
+      "Με φανταχτερές και πολυτελείς φορεσιές",
+      "Με απλά και λιτά ρούχα",
+      "Μόνο με λευκά ρούχα",
+      "Χωρίς καθόλου στολισμό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνήθιζαν κυρίως να ζωγραφίζουν οι Μυκηναίοι;",
+    "choices": [
+      "Ειρηνικές σκηνές από τη φύση",
+      "Θρησκευτικές τελετές",
+      "Καθημερινές δραστηριότητες",
+      "Πολεμικές σκηνές"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού βρίσκονταν οι σπουδαιότεροι Νεολιθικοί οικισμοί στην Ελλάδα;",
+    "choices": [
+      "Στη Θεσσαλονίκη",
+      "Στην Αθήνα",
+      "Στη Θεσσαλία",
+      "Στα νησιά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με ποιά υλικά κατασκεύαζαν μικρά αγαλματίδια οι Μυκηναίοι τεχνίτες;",
+    "choices": [
+      "Πέτρα, πηλό και ελεφαντόδοντο",
+      "Μόνο ξύλο",
+      "Μόνο χαλκό",
+      "Μόνο άργιλο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Για ποια τέχνη ήταν ιδιαίτερα γνωστοί οι Κυκλαδίτες;",
+    "choices": [
+      "μεταλλουργία",
+      "επεξεργασία μαρμάρου",
+      "υφαντική",
+      "αγγειοπλαστική"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι αποθήκευαν συνήθως οι Μινωίτες στις αποθήκες του ανακτόρου;",
+    "choices": [
+      "Χρυσαφικά και πετράδια",
+      "Γεωργικά προϊόντα όπως δημητριακά και λάδι",
+      "Όπλα και ασπίδες",
+      "Κεραμικά αγγεία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Για ποιο πράγμα ήταν γνωστοί οι Κυκλαδίτες;",
+    "choices": [
+      "Ως έμποροι και ναυτικοί",
+      "Ως αγρότες",
+      "Ως κτηνοτρόφοι",
+      "Ως πολεμιστές"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ανακάλυψε τις Μυκήνες;",
+    "choices": [
+      "Ο Έλληνας αρχαιολόγος Σπυρίδων Μαρινάτος",
+      "Ο Γερμανός αρχαιολόγος Ερρίκος Σλήμαν",
+      "Ο Ρώσος Ερρίκος Σλάμμαν",
+      "Κανείς από τους παραπάνω"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι κατοικούσαν στο ανάκτορο της Κνωσού;",
+    "choices": [
+      "Μόνο οι στρατιώτες",
+      "Μόνο ο βασιλιάς",
+      "Μόνο οι ιερείς",
+      "Ο βασιλιάς, η οικογένειά του και οι υπηρέτες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι ήταν οι Μινωίτες ως προς τη ναυτιλία και το εμπόριο;",
+    "choices": [
+      "Ήταν έμποροι και ναυτικοί",
+      "Ήταν μόνο αγρότες",
+      "Ήταν μόνο κτηνοτρόφοι",
+      "Δεν ασχολούνταν καθόλου με το εμπόριο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρόσφεραν στις θυσίες τους οι Μυκηναίοι;",
+    "choices": [
+      "Μόνο ζώα",
+      "Μόνο φρούτα",
+      "Φρούτα, σπόρους, μέλι, γάλα και μερικές φορές ζώα",
+      "Δεν πρόσφεραν τίποτα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι φορούσαν συνήθως οι Μυκηναίες γυναίκες;",
+    "choices": [
+      "Απλά και λιτά ρούχα",
+      "Παντελόνια",
+      "Στρατιωτικές στολές",
+      "Μακριές και πολύχρωμες φούστες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ίσχυε για τη γραφή στον Κυκλαδικό πολιτισμό;",
+    "choices": [
+      "Δεν υπήρχε σύστημα γραφής.",
+      "Υπήρχε πλήρης αλφαβητική γραφή.",
+      "Χρησιμοποιούσαν τη Γραμμική Β.",
+      "Χρησιμοποιούσαν τη Γραμμική Α."
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς διασκέδαζαν οι Κυκλαδίτες;",
+    "choices": [
+      "Μόνο με γεωργικές εργασίες",
+      "Τραγουδώντας, παίζοντας μουσική και κάνοντας αθλήματα",
+      "Μόνο με ψάρεμα",
+      "Καθόλου, δούλευαν συνέχεια"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς παρίσταναν οι Μινωίτες τη Μεγάλη Θεά;",
+    "choices": [
+      "Σαν γυναίκα με περιστέρια και φίδια",
+      "Σαν άνδρα πολεμιστή",
+      "Σαν ταύρο",
+      "Σαν θάλασσα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια πρόταση σχετικά με τη Νεολιθική εποχή είναι σωστή;",
+    "choices": [
+      "Οι πάγοι κάλυπταν το μεγαλύτερο μέρος της γης",
+      "Οι άνθρωποι παρέμεναν κυνηγοί",
+      "Το μοναδικό όπλο τους ήταν το πέτρινο τσεκούρι",
+      "Οι άνθρωποι έγιναν γεωργοί και άρχισαν να παράγουν μόνοι τους την τροφή τους"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν η Γραμμική Β;",
+    "choices": [
+      "Μία ξένη γλώσσα",
+      "Ένα είδος μουσικού οργάνου",
+      "Η πρώτη ελληνική γραφή των Μυκηναίων",
+      "Ένα αρχαίο όπλο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς άναβαν φωτιά οι πρωτόγονοι άνθρωποι;",
+    "choices": [
+      "Με ηλεκτρικές συσκευές",
+      "Χρησιμοποιώντας σπίρτα",
+      "Με τη βοήθεια ενός μαγικού ραβδιού",
+      "Χτυπώντας πέτρες μεταξύ τους και παράγοντας σπίθες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στη μινωϊκή εποχή, πώς είναι γνωστοί οι Κρήτες για τη δύναμή τους στη θάλασσα;",
+    "choices": [
+      "Απλοί αγρότες",
+      "Μόνο κτηνοτρόφοι",
+      "Θαλασσοκράτορες",
+      "Μόνο έμποροι"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού αναπτύχθηκε ο Μινωικός πολιτισμός;",
+    "choices": [
+      "Στην Κρήτη",
+      "Στην Πελοπόννησο",
+      "Στις Κυκλάδες",
+      "Στη Μικρά Ασία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες από τις παρακάτω πόλεις ήταν σημαντικές για τους Μυκηναίους στην Κύπρο;",
+    "choices": [
+      "Έγκωμη και Κίτιον",
+      "Αθήνα και Σπάρτη",
+      "Τροία και Μυκήνες",
+      "Κόρινθος και Θήβα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού πήρε το όνομά του ο Μινωικός πολιτισμός;",
+    "choices": [
+      "Από τον Μινώταυρο",
+      "Από τον Δία",
+      "Από τον μυθικό βασιλιά Μίνωα",
+      "Από την Κρήτη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ζώα δεν ήταν εξημερωμένο κατά τη Νεολιθική εποχή;",
+    "choices": [
+      "Σκύλος",
+      "Λιοντάρι",
+      "Πρόβατο",
+      "Κατσίκα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι κατασκεύαζαν κυρίως οι Μυκηναίοι μεταλλοτεχνίτες;",
+    "choices": [
+      "Κοσμήματα",
+      "Χάλκινα αγγεία, πανοπλίες, ξίφη",
+      "Κεραμικά",
+      "Ξύλινα έπιπλα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι τα κτερίσματα;",
+    "choices": [
+      "Εργαλεία μαγειρικής",
+      "Κοσμήματα",
+      "Όπλα πολέμου",
+      "Αντικείμενα που έβαζαν στον τάφο του νεκρού"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ήταν σημαντική η θέση της Τροίας;",
+    "choices": [
+      "Ήταν πολύ σημαντική για το εμπόριο",
+      "Ήταν κοντά σε βουνά",
+      "Ήταν πολύ μακριά από τη θάλασσα",
+      "Δεν είχε καμία ιδιαίτερη σημασία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο περιβάλλον ήταν χτισμένος ο οικισμός του Σέσκλου;",
+    "choices": [
+      "Δίπλα στη θάλασσα",
+      "Σε πεδιάδα",
+      "Σε βουνό",
+      "Πάνω σε λόφο ανάμεσα σε χειμάρρους"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο υλικό χρησιμοποιούσαν κυρίως οι Κυκλαδίτες για να φτιάξουν τα ειδώλιά τους;",
+    "choices": [
+      "Χαλκό",
+      "Πηλό",
+      "Ξύλο",
+      "Μάρμαρο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς φρόντιζαν τον εαυτό τους οι Μυκηναίοι;",
+    "choices": [
+      "Δεν έδιναν σημασία στην εμφάνισή τους",
+      "Έκαναν μόνο στρατιωτικές ασκήσεις",
+      "Δεν έπαιρναν καθόλου μπάνιο",
+      "Έκαναν λουτρά και αλείφονταν με αρωματικά λάδια"
+    ],
+    "answer": 4,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι κατασκεύαζαν οι Μινωίτες χρυσοχόοι;",
+    "choices": [
+      "Χάλκινα εργαλεία",
+      "Χρυσές σφραγίδες και κοσμήματα",
+      "Αργυρά νομίσματα",
+      "Σιδερένια όπλα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι απεικόνιζαν συνήθως τα κυκλαδικά ειδώλια;",
+    "choices": [
+      "Θεούς πολέμου",
+      "Στρατιώτες",
+      "Γυναίκες με διπλωμένα χέρια",
+      "Ζώα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκαναν οι άνθρωποι στη Νεολιθική εποχή που άλλαξε τον τρόπο ζωής τους;",
+    "choices": [
+      "Συνέχισαν να κυνηγούν",
+      "Άρχισαν να καλλιεργούν φυτά",
+      "Μετακινούνταν συνέχεια",
+      "Έφτιαχναν μόνο εργαλεία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια εποχή τελούνταν κυρίως τα ταυροκαθάψια στη Μινωική Κρήτη;",
+    "choices": [
+      "Την άνοιξη",
+      "Το καλοκαίρι",
+      "Το φθινόπωρο",
+      "Τον χειμώνα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις σχετικά με τους Μυκηναίους στην Κύπρο είναι σωστή;",
+    "choices": [
+      "Οι Μυκηναίοι έφτιαξαν εργαστήρια και εγκαταστάθηκαν στην Κύπρο",
+      "Δεν υπήρχαν καθόλου Μυκηναίοι στην Κύπρο",
+      "Η Εγκώμη και το Κίτιον δεν ήταν σημαντικά κέντρα κατά την ύστερη Εποχή του Χαλκού",
+      "Οι Μυκηναίοι δεν επηρέασαν την κυπριακή κοινωνία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο συνηθέστερος τρόπος με τον οποίο οι Μινωίτες φορούσαν τους σφραγιδόλιθούς τους;",
+    "choices": [
+      "Σαν δαχτυλίδι",
+      "Σαν περιδέραιο",
+      "Σαν ζώνη",
+      "Σαν κάδρο"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα περίπου σπίτια είχε ο οικισμός του Σέσκλου;",
+    "choices": [
+      "20 σπίτια",
+      "100 σπίτια",
+      "50 σπίτια",
+      "10 σπίτια"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ανάκτορο θεωρείται το πιο σημαντικό στην Κρήτη;",
+    "choices": [
+      "Το ανάκτορο της Φαιστού",
+      "Το ανάκτορο της Ζακύνθου",
+      "Το ανάκτορο της Κνωσού",
+      "Το ανάκτορο της Λαμίας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Κοντά σε ποια σύγχρονη πόλη της Πελοποννήσου βρίσκεται η ακρόπολη των Μυκηνών;",
+    "choices": [
+      "Στο Άργος",
+      "Στη Σπάρτη",
+      "Στην Πάτρα",
+      "Στην Καλαμάτα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Prehistory",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  }
+]

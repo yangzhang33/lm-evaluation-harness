@@ -1,0 +1,8 @@
+dataset_name: Government_and_Politics_Primary_School_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Government_and_Politics_Primary_School
+  with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Government_and_Politics_Primary_School_4choice
+task_alias: Government_and_Politics_Primary_School (4choice)

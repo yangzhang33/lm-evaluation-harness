@@ -1,0 +1,7 @@
+dataset_name: Chemistry_3choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Chemistry with 3choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_stem_tasks
+task: greekmmlu_split_Chemistry_3choice
+task_alias: Chemistry (3choice)

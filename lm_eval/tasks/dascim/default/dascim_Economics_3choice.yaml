@@ -1,0 +1,8 @@
+"description": "The following are multiple choice questions (with answers) about Economics.\\\
+  n\\n"
+"include": "base_dascim_3choice.yaml"
+"tag": "dascim_social_sciences_tasks"
+"task": "dascim_Economics_3choice"
+"task_alias": "Economics (3choice)"
+"dataset_kwargs":
+  "dataset_name": "Economics_3choice"

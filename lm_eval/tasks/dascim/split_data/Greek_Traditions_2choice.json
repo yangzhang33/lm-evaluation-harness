@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Όταν κάποιος αρρωσταίνει φτιάχνουμε φανουρόπιτα για να γίνει καλά.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Greek Traditions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Όταν ξεκινάει η καινούργια σχολική χρονιά τελούμε αγιασμό.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Greek Traditions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Οι καλικάντζαροι, σύμφωνα με την παράδοση, είναι τα καλά πνεύματα των Χριστουγέννων που φέρνουν καλοτυχία.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Greek Traditions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

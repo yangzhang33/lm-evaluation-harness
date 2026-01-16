@@ -1,0 +1,5 @@
+include: _default_greekmmlu_qa_template_yaml
+tag: greekmmlu_qa_other_tasks
+task: greekmmlu_qa_driving_rules
+task_alias: Driving Rules
+dataset_name: Driving_Rules

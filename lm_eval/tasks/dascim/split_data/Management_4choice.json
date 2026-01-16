@@ -1,0 +1,100 @@
+[
+  {
+    "question": "Ποια από τις παρακάτω επιλογές είναι βασική πηγή εσωτερικής προσέλκυσης;",
+    "choices": [
+      "Αναγγελία θέσεων εργασίας",
+      "Προσέλκυση μέσω Διαδικτύου",
+      "Υπηρεσίες εύρεσης εργασίας",
+      "Προσέλκυση μέσω πανεπιστημίων"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποια από τις παρακάτω συγκαταλέγεται στις μη-οικονομικές αμοιβές;",
+    "choices": [
+      "Άμεσες σταθερές απολαβές",
+      "Παροχές",
+      "Αναγνώριση",
+      "Έμμεσες μεταβλητές απολαβές – κίνητρα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω παράγοντες επηρεάζει τη λειτουργία της Διοίκησης Ανθρώπινου Δυναμικού;",
+    "choices": [
+      "Δημογραφικές αλλαγές",
+      "Κανένας από τους παραπάνω",
+      "Τεχνολογία",
+      "Οικονομικές μεταρρυθμίσεις"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποια από τις παρακάτω επιλογές είναι βασική πηγή εσωτερικής προσέλκυσης;",
+    "choices": [
+      "Προσέλκυση μέσω Διαδικτύου",
+      "Αρχεία προσωπικού",
+      "Υπηρεσίες εύρεσης εργασίας",
+      "Προσέλκυση μέσω πανεπιστημίων"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποια από τις παρακάτω συγκαταλέγεται στις μη-οικονομικές αμοιβές;",
+    "choices": [
+      "Άυλες ανταμοιβές",
+      "Άμεσες σταθερές απολαβές",
+      "Παροχές",
+      "Έμμεσες μεταβλητές απολαβές – κίνητρα"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποια από τις παρακάτω συγκαταλέγεται στις μη-οικονομικές αμοιβές;",
+    "choices": [
+      "Άμεσες σταθερές απολαβές",
+      "Παροχές",
+      "Δυνατότητα εξέλιξης",
+      "Έμμεσες μεταβλητές απολαβές – κίνητρα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  },
+  {
+    "question": "Ποια από τις παρακάτω συγκαταλέγεται στις μη-οικονομικές αμοιβές;",
+    "choices": [
+      "Άμεσες σταθερές απολαβές",
+      "Παροχές",
+      "Έμμεσες μεταβλητές απολαβές – κίνητρα",
+      "Ανάπτυξη"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Management",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=PHILOSOPHY863"
+  }
+]

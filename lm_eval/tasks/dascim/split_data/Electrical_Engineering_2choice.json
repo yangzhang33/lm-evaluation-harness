@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Για να διατηρείται όλη η πληροφορία πρέπει να μεταδίδονται δύο πλευρικές ζώνες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Για να διατηρείται όλη η πληροφορία πρέπει να μεταδίδονται δύο πλευρικές ζώνες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  }
+]

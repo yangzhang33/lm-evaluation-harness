@@ -1,0 +1,10 @@
+aggregate_metric_list:
+-   aggregation: mean
+    metric: acc
+    weight_by_size: true
+group: greekmmlu_cot
+task:
+- greekmmlu_cot_social_sciences
+- greekmmlu_cot_stem
+- greekmmlu_cot_other
+- greekmmlu_cot_humanities

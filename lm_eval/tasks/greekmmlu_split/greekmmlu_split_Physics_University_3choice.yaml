@@ -1,0 +1,7 @@
+dataset_name: Physics_University_3choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Physics_University with 3choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Physics_University_3choice
+task_alias: Physics_University (3choice)

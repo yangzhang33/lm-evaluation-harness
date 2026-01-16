@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Το Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών ιδρύθηκε το 1837 και αποτέλεσε το πρώτο Πανεπιστήμιο στο νεοσύστατο ελληνικό κράτος;",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Το Πανεπιστήμιο Αθηνών έχει Σχολή Επιστημών Υγείας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Το Πανεπιστήμιο Αθηνών έχει Θεολογική Σχολή.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Το Πανεπιστήμιο Αθηνών έχει Αρχιτεκτονική Σχολή.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Το Πανεπιστήμιο Αθηνών έχει Σχολή Θετικών Επιστημών.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Το Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών ιδρύθηκε το 1837 και αποτέλεσε το πρώτο Πανεπιστήμιο στο νεοσύστατο ελληνικό κράτος;",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  }
+]

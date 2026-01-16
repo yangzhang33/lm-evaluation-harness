@@ -1,0 +1,26 @@
+[
+  {
+    "question": "Η Ευρωπαϊκή Ένωση είναι ένα ομοσπονδιακό κράτος.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "International Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Οι πολίτες των κρατών που ανήκουν στην Ευρωπαϊκή Ένωση δεν μπορούν να κατοικούν χωρίς περιορισμό σε άλλο κράτος της Ένωσης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "International Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

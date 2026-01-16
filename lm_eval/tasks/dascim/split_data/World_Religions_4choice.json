@@ -1,0 +1,2606 @@
+[
+  {
+    "question": "Σε πόσες και ποιες ομάδες διακρίνονται τα Ευλογητάρια;",
+    "choices": [
+      "Σε τρεις ομάδες, του Εσπερινού και του Όρθρου",
+      "Σε δύο ομάδες, τα αναστάσιμα και τα νεκρώσιμα",
+      "Σε τέσσερις ομάδες, της Α΄, Γ΄, ΣΤ΄ και Θ΄ Ώρας",
+      "Σε δύο ομάδες, του Τριωδίου και του Πεντηκοσταρίου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι τα «Σταυροθεοτοκία»;",
+    "choices": [
+      "Τα Θεοτοκία της Παρασκευής, στα οποία εκτός από την Θεοτόκο εξυμνείται και ο Σταυρός",
+      "Τροπάρια της Τετάρτης",
+      "Τροπάρια της Μ. Εβδομάδας",
+      "Τροπάρια κατά την εορτή της Υψώσεως του Τιμίου Σταυρού"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιον εκκλησιαστικό συγγραφέα αποδίδεται η δημιουργία του πρώτου πυρήνα του βιβλίου της Παρακλητικής;",
+    "choices": [
+      "Στον Θεόδωρο Στουδίτη",
+      "Στον Κοσμά Μελωδό",
+      "Στον Ιωάννη Δαμασκηνό",
+      "Στον Ανδρέα Κρήτης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Ακάθιστος Ύμνος»;",
+    "choices": [
+      "Υμνογράφημα σχετικό με τα Πάθη του Κυρίου",
+      "Υμνογράφημα σχετικό με την Κοίμηση της Θεοτόκου",
+      "Υμνογράφημα σχετικό με τα Χριστούγεννα",
+      "Το Κοντάκιο του Όρθρου του Σαββάτου της Ε΄ εβδομάδας της Μ. Τεσσαρακοστής"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποιον εκκλησιαστικό συγγραφέα εξαίρεται η σημασία του υμνογραφικού έργου της Κασσιανής;",
+    "choices": [
+      "Από τον Ιωάννη Δαμασκηνό",
+      "Από τον Θεόδωρο Στουδίτη",
+      "Από τον Ανδρέα Κρήτης",
+      "Από τον Κοσμά Μελωδό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια παράδοση ακολουθούν οι εκκλησιαστικοί συγγραφείς στα ποιητικά τους κείμενα;",
+    "choices": [
+      "Την παράδοση των Ομηρικών επών",
+      "Την παράδοση των Ελεγειακών κειμένων",
+      "Την κλασική και ελληνιστική παράδοση των πεζών κειμένων με υμνογραφικό χαρακτήρα",
+      "Την παράδοση της προσωδιακής ποίησης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η προσφορά των «χριστιανικών ποιητικών Ομιλιών» των Πατέρων των πρώτων αιώνων;",
+    "choices": [
+      "Ότι προέβαλαν το γεγονός της Αναστάσεως του Κυρίου",
+      "Ότι διευκόλυναν τη μετάβαση από τον αρχαίο πεζό παγανιστικό λόγο στη βυζαντινή υμνογραφία",
+      "Ότι τόνισαν την ανάγκη υπομονής στους διωγμούς",
+      "Ότι ανέλυσαν το θέμα της αιωνιότητας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιοι είναι οι λόγοι καθυστέρησης της ανάπτυξης της υμνογραφίας κατά τους τρεις πρώτους αιώνες;",
+    "choices": [
+      "Η ανάμειξη των αυτοκρατόρων στα εσωτερικά της Εκκλησίας",
+      "Η ανυπαρξία ικανών υμνογράφων",
+      "Ο συνδυασμός των δύο παραπάνω λόγων",
+      "Οι διωγμοί και οι αιρέσεις"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον Νεομάρτυρα συνέγραψε ακολουθία ο Ιάκωβος Γκιγκίλας, Μητροπολίτης Μυτιλήνης (1878-1958);",
+    "choices": [
+      "Για την αγία Ακυλίνα",
+      "Για τον άγιο Κωνσταντίνο τον Υδραίο",
+      "Για τον νέο οσιομάρτυρα Δαμιανό τον εκ Μυριχόβου της Θεσσαλίας",
+      "Για τον άγιο Θεόδωρο τον Βυζάντιο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιο θέμα σχετικό με τη Θεοτόκο συνέγραψε ακολουθία ο Μεθόδιος Κοντοστάνος, Μητροπολίτης Κερκύρας (1881-1972);",
+    "choices": [
+      "Για την Κοίμηση της Θεοτόκου",
+      "Για τη Θεοτόκο ως «Αγία Σκέπη»",
+      "Για τα Εισόδια της Θεοτόκου",
+      "Για τον Ευαγγελισμό της Θεοτόκου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποια είναι η σχέση του αρχαγγέλου Γαβριήλ με τους Προφήτες;",
+    "choices": [
+      "Ο αρχάγγελος αναφέρεται ως Προφήτης",
+      "Ο αρχάγγελος λαμβάνει πληροφορία περί της Σαρκώσεως κατά παρόμοιο τρόπο που έλαβαν οι Προφήτες",
+      "Οι Προφήτες παρουσιάζονται ως άγγελοι",
+      "Ο αρχάγγελος φαίνεται ότι γνωρίζει τις προφητείες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα βασικά θέματα που φανερώνονται στους ύμνους των ποιητικών βιβλίων της Παλαιάς Διαθήκης;",
+    "choices": [
+      "Η αναμονή του Μεσσία",
+      "Η ανάγκη ενισχύσεως της προσευχής",
+      "Η συγχωρητικότητα μεταξύ του λαού του Θεού",
+      "Η αμαρτωλότητα του ανθρώπου και η μεγαλοσύνη και παντοδυναμία του Θεού"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το γλωσσικό ιδίωμα των ύμνων του Ρωμανού του Μελωδού;",
+    "choices": [
+      "Η κοινή της εποχής",
+      "Η αρχαΐζουσα",
+      "Η ομηρική",
+      "Η μεσαιωνική"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποιο γεγονός προτυπώνει τη Θεοτόκο;",
+    "choices": [
+      "Η καιομένη και μη φλεγομένη βάτος",
+      "Το περιστατικό των Τριών Παίδων στην κάμινο",
+      "Η διάβαση της Ερυθράς Θάλασσας",
+      "Το μάννα της ερήμου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το περιεχόμενο του μαθήματος της Υμνολογίας;",
+    "choices": [
+      "Η συστηματική έρευνα της γένεσης και εξέλιξης των ελληνικών εκκλησιαστικών ύμνων της Ορθόδοξης Εκκλησίας (ιστορική, φιλολογική και θεολογική διάσταση)",
+      "Η εκμάθηση του τρόπου ψαλμώδησης των ύμνων",
+      "Η έρευνα του βίου των Πατέρων της Εκκλησίας",
+      "Η έρευνα των Κανόνων της Εκκλησίας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πότε η Υμνολογία καθίσταται ακαδημαϊκός κλάδος στις Φιλοσοφικές Σχολές;",
+    "choices": [
+      "Από τον 18ο αι.",
+      "Από τον 20ό αι.",
+      "Από τον 19ο αι.",
+      "Στις αρχές του 21ου αι."
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προήλθε ο όρος «Κοντάκιο»;",
+    "choices": [
+      "Από το βραχύ περιεχόμενό του",
+      "Από τον «κοντό», το ξύλο, γύρω από το οποίο περιτυλισσόταν η μεμβράνη (ειλητάριο) που περιείχε τον ύμνο",
+      "Από τις προσπάθειες σμίκρυνσής του (κόντεμα)",
+      "Δεν υπάρχει σαφές συμπέρασμα της έρευνας για την προέλευση του όρου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός χαρακτήρας του Κοντακίου;",
+    "choices": [
+      "Ο δογματικός",
+      "Ο απολογητικός",
+      "Ο φιλοσοφικός",
+      "Ο διηγηματικός"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια τμήματα διαιρείται το περιεχόμενο του Ακάθιστου Ύμνου;",
+    "choices": [
+      "Στα δογματικά και στα ποιητικά",
+      "Στο ιστορικό (οίκοι Α-Μ) και στο θεολογικό (οίκοι Ν-Ω)",
+      "Στο εσχατολογικό και στο απολογητικό",
+      "Στο βιβλικό και στο αρχαιολογικό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η διαφορά Κοντακίων και Κανόνων ως προς τη γλώσσα;",
+    "choices": [
+      "Τα Κοντάκια είναι γραμμένα σε απλή και δημώδη γλώσσα, ενώ οι Κανόνες έχουν αρχαιοπρεπή γλώσσα και συνθετότερη έκφραση",
+      "Τα Κοντάκια είναι γραμμένα σε ομηρική διάλεκτο, ενώ οι Κανόνες σε αρχαιοελληνική",
+      "Τα Κοντάκια είναι γραμμένα σε μεσαιωνική διάλεκτο, ενώ οι Κανόνες σε κλασική",
+      "Τα Κοντάκια είναι γραμμένα σε αττική διάλεκτο, ενώ οι Κανόνες σε κοινή ελληνιστική"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Να αναφέρετε ένα από τα σημαντικότερα υμνολογικά κείμενα των αιρετικών-γνωστικών κατά τον 2ο αι.",
+    "choices": [
+      "Οι ύμνοι που διασώζει ο Ειρηναίος Λυώνος",
+      "Οι Ωδές Σολομώντος",
+      "Οι ύμνοι που διασώζει ο Τερτυλλιανός",
+      "Οι ύμνοι που διασώζει ο Πολύκαρπος Σμύρνης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η ποιητική ιδιαιτερότητα του Ψαλτηρίου;",
+    "choices": [
+      "Ότι τονίζονται οι απόψεις περί του Μεσσία",
+      "Ότι τονίζεται η ανάγκη μετάνοιας",
+      "Ότι ο λαός προτρέπεται σε εντονότερη προσευχή",
+      "Ότι τα θρησκευτικά θέματα της ποιήσεως εκφράζονται εντονότερα και βαθύτερα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα μορφολογικά χαρακτηριστικά των ύμνων της Καινής Διαθήκης;",
+    "choices": [
+      "Διακρίνονται για τον εσχατολογικό τους χαρακτήρα",
+      "Είναι γραμμένοι σε γλώσσα και μέτρα αρχαϊκά",
+      "Είναι γραμμένοι σε ρυθμικό πεζό λόγο και χωρίζονται σε στροφές με τον ίδιο αριθμό λέξεων και συλλαβών",
+      "Είναι γραμμένοι σε ομηρική διάλεκτο και σε αντίστοιχα μέτρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος ιστορικός μαρτυρεί ότι ο αντιφωνικός τρόπος ψαλμωδίας χρησιμοποιείτο από τους αιρετικούς οπαδούς του Αρείου;",
+    "choices": [
+      "Ο Θεοδώρητος Κύρου",
+      "Ο Παλλάδιος",
+      "Ο Σωζομενός",
+      "Ο Σωκράτης ο Σχολαστικός"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια εποχή έζησε ο Ρωμανός ο Μελωδός;",
+    "choices": [
+      "Τον 4ο αι.",
+      "Τον 7ο αι.",
+      "Τον 9ο αι.",
+      "Τον 6ο αι."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πότε και από ποιον διασώζεται η μαρτυρία περί χρησιμοποίησης ύμνων από τους αναχωρητές της Νιτρίας;",
+    "choices": [
+      "Από τα Ψευδο-Αρεοπαγιτικά συγγράμματα στις αρχές του 6ου αι.",
+      "Από τον Παλλάδιο Ελενουπόλεως στα τέλη του 4ου αι.",
+      "Από τον Μ. Βασίλειο, τον 4ο αι.",
+      "Από τον Κύριλλο Αλεξανδρείας, τον 5ο αι."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «Προσωδία»;",
+    "choices": [
+      "Ο τρόπος ψαλμωδήσεως ενός ύμνου",
+      "Το είδος του ύμνου, σύμφωνα με το περιεχόμενό του",
+      "Είδος ύμνων σχετικών με τη δοξολογία της Αγίας Τριάδος",
+      "Η ποσότητα των συλλαβών (του μακρού και του βραχέος) ενός ύμνου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η αρχαιότερη μαρτυρία ύμνων στην Καινή Διαθήκη;",
+    "choices": [
+      "Ο Μυστικός Δείπνος ως πρώτη λειτουργική σύναξη του Χριστού με τους Μαθητές Του",
+      "Η προσευχή του Κυρίου κατά την επιτέλεση θαυμάτων",
+      "Η επί του Όρους Ομιλία",
+      "Η διδασκαλία του Κυρίου προς τους Μαθητές μετά από την Ανάσταση"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «Υπακοή»;",
+    "choices": [
+      "Τροπάριο που λέγεται (κατά την ακολουθία του Όρθρου) μετά από τα Ευλογητάρια και πριν από τους Αναβαθμούς",
+      "Τροπάριο που ψάλλεται μετά τους Αίνους",
+      "Τροπάριο που ψάλλεται στο Μεσονυκτικό",
+      "Τροπάριο που ψάλλεται κατά τις Ώρες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είδους Κανόνες περιλαμβάνει το λειτουργικό βιβλίο του Τριωδίου;",
+    "choices": [
+      "Κανόνες με πέντε ωδές",
+      "Κανόνες με τρεις ωδές",
+      "Κανόνες με εννέα ωδές",
+      "Κανόνες με ακανόνιστο αριθμό ωδών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι περιλαμβάνει το λειτουργικό βιβλίο του Πεντηκοσταρίου;",
+    "choices": [
+      "Τις ακολουθίες των κινητών εορτών, από την Κυριακή του Πάσχα μέχρι την Κυριακή των Αγίων Πάντων",
+      "Τις ακολουθίες της Μ. Εβδομάδας",
+      "Τις ακολουθίες του Δεκαπενταύγουστου",
+      "Τις ακολουθίες των Χριστουγέννων"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο ήταν το βασικό λειτουργικό βιβλίο των Εβραίων;",
+    "choices": [
+      "Το Ταλμούδ",
+      "Η Μίσνα",
+      "Το Ψαλτήριο",
+      "Τα απόκρυφα κείμενα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιο βιβλίο της Παλαιάς Διαθήκης αναφέρονται οι παύλειοι όροι «ψαλμοί» και «ύμνοι»;",
+    "choices": [
+      "Στο βιβλίο της Εξόδου",
+      "Στο βιβλίο των Ψαλμών",
+      "Στο βιβλίο του Δανιήλ",
+      "Στο βιβλίο της Σοφίας Σολομώντος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «ακροστιχίδα» στο Κοντάκιο;",
+    "choices": [
+      "Το τέλος των στίχων",
+      "Η λέξη ή φράση που σχηματίζεται από το πρώτο γράμμα του κάθε τροπαρίου",
+      "Το ποιητικό μέτρο του Κοντακίου",
+      "Οι επαναλαμβανόμενες λέξεις"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «εφύμνιο ή ανακλώμενο» στο Κοντάκιο;",
+    "choices": [
+      "Ο τελευταίος στίχος του Προοιμίου, ο οποίος επαναλαμβάνεται στο τέλος του κάθε τροπαρίου",
+      "Ο επίλογος του Κοντακίου",
+      "Το εισαγωγικό τμήμα του Κοντακίου",
+      "Το δοξολογικό περιεχόμενο του Κοντακίου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής των ένδεκα εωθινών δοξαστικών;",
+    "choices": [
+      "Ο Λέων ΣΤ΄ ο Σοφός",
+      "Ο Ανδρέας Κρήτης",
+      "Ο Κοσμάς Μαϊουμά",
+      "Ο Θεόδωρος Στουδίτης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποια ημερομηνία αρχίζει η περίοδος προετοιμασίας των Χριστουγέννων, με αντίστοιχους ύμνους;",
+    "choices": [
+      "Από τις αρχές Δεκεμβρίου",
+      "Από τις 20 Δεκεμβρίου",
+      "Από τα τέλη Νοεμβρίου",
+      "Από τις 15 Νοεμβρίου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποιο γεγονός προτυπώνει την επενέργεια του Αγίου Πνεύματος κατά τη Σάρκωση του Κυρίου;",
+    "choices": [
+      "Η καιομένη και μη φλεγομένη βάτος",
+      "Το μάννα της ερήμου",
+      "Η διάβαση της Ερυθράς Θάλασσας",
+      "Το περιστατικό των Τριών Παίδων στην κάμινο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι απαντούν οι ύμνοι στο «πώς» της Ενανθρωπήσεως;",
+    "choices": [
+      "Ότι ερμηνεύεται με την πίστη",
+      "Ότι κατανοείται μέσα από τις προτυπώσεις της Παλαιάς Διαθήκης",
+      "Ότι αποτελεί «παράδοξο μυστήριο»",
+      "Ότι κατανοείται μέσα από την πατερική θεολογία της Εκκλησίας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι αναφέρουν οι ύμνοι των Χριστουγέννων σχετικά με τη συνύπαρξη των δύο φύσεων στο Χριστό;",
+    "choices": [
+      "Ότι ήταν ακατανόητη",
+      "Ότι ήταν αρμονική",
+      "Ότι ερμηνεύεται μέσα από την Αγία Γραφή",
+      "Ότι κατανοείται μέσα από την πατερική θεολογία της Εκκλησίας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Με ποιον τρόπο ο άνθρωπος οικειοποιείται την εν Χριστώ σωτηρία σύμφωνα με τους ύμνους του Μ. Αποδείπνου;",
+    "choices": [
+      "Με τη μετάνοια",
+      "Με την πίστη στην αιωνιότητα",
+      "Με τη νηστεία",
+      "Με τη σιωπή"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο συγγραφέας του Ακάθιστου Ύμνου;",
+    "choices": [
+      "Παραμένει άγνωστος",
+      "Ο Σέργιος, Πατριάρχης Κωνσταντινουπόλεως",
+      "Ο Γεώργιος Πισίδης",
+      "Ο Ρωμανός ο Μελωδός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προήλθε ο αριθμός «εννέα» ως προς τις Ωδές του Κανόνα;",
+    "choices": [
+      "Από τις εννέα βιβλικές Ωδές",
+      "Από τα εννέα τάγματα των Αγγέλων",
+      "Από βαθύτερους συμβολισμούς του αριθμού εννέα",
+      "Από παγανιστικές παραδόσεις σχετικές με τον αριθμό εννέα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποιον εκκλησιαστικό συγγραφέα αρύεται ολόκληρες φράσεις ο Κοσμάς ο Μελωδός;",
+    "choices": [
+      "Από το Μ. Βασίλειο",
+      "Από το Γρηγόριο Θεολόγο",
+      "Από τον Ιωάννη Χρυσόστομο",
+      "Από τον Κύριλλο Ιεροσολύμων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η συμβολή Θεοδώρου του Στουδίτου στη διαμόρφωση του βιβλίου της Οκτωήχου;",
+    "choices": [
+      "Η διευθέτηση της σειράς των αναστάσιμων τροπαρίων",
+      "Η αναθεώρηση των Αναβαθμών της Οκτωήχου",
+      "Η ερμηνεία των αναστάσιμων Ευλογηταρίων",
+      "Η αναμόρφωση των Κανόνων των Κυριακών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο νόμος της ομοτονίας και ισοσυλλαβίας των τροπαρίων;",
+    "choices": [
+      "Ο τρόπος μελώδησής τους",
+      "Το είδος του ποιητικού μέτρου",
+      "Το γεγονός ότι τα διάφορα τροπάρια ενός υμνογραφήματος (π.χ. του Κανόνα) αποτελούνται από ίσο αριθμό στίχων και συλλαβών και με καθορισμένους τόνους",
+      "Η αντιστοιχία μέτρου και μουσικής"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον άγιο από τους Κολλυβάδες συνέγραψε ακολουθία ο Μιχαήλ Κωνσταντινίδης, Μητροπολίτης Κορινθίας (1892-1958);",
+    "choices": [
+      "Για τον άγιο Μακάριο, αρχιεπίσκοπο Κορίνθου τον Νοταρά.",
+      "Για τον άγιο Νικόδημο Αγιορείτη",
+      "Για τον άγιο Αθανάσιο Πάριο",
+      "Για τον άγιο Νεόφυτο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού έλαβε την ονομασία του ο ύμνος του «Κοινωνικού»;",
+    "choices": [
+      "Από την έννοια της κοινωνικότητας των ανθρώπων",
+      "Από την έννοια της Εκκλησίας ως κοινωνίας πιστών",
+      "Από την έννοια της επικοινωνίας",
+      "Από το γεγονός ότι ψάλλεται κατά την ώρα προετοιμασίας για τη Θεία Κοινωνία"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιον αιώνα εκδηλώθηκε μία συντηρητική μοναστική αντίδραση στους ύμνους της Εκκλησίας;",
+    "choices": [
+      "Τον 4ο αι.",
+      "Τον 7ο αι.",
+      "Στα τέλη του 5ου αι.",
+      "Στα μέσα του 8ου αι."
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες ήταν οι αιτίες της αντίδρασης του Μοναχισμού στη χρησιμοποίηση ύμνων;",
+    "choices": [
+      "Η έλλειψη ικανών υμνογράφων",
+      "Η ύπαρξη πολλών άλλων προσευχών που καθιστούσε υπερβολική τη δημιουργία επιπλέον ύμνων",
+      "Η χρήση των ύμνων από τους αιρετικούς και οι πιθανές ακρότητες κατά την εκτέλεση των ύμνων",
+      "Η έλλειψη ικανών εκτελεστών των ύμνων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το περιεχόμενο των τροπαρίων του Κανόνα;",
+    "choices": [
+      "Η ανάγκη άμυνας έναντι των αιρέσεων",
+      "Η προβολή του εσχατολογικού στοιχείου",
+      "Το εορταζόμενο πρόσωπο ή γεγονός, στο οποίο είναι αφιερωμένος ο Κανόνας",
+      "Η ανάλυση του ορθοδόξου δόγματος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το βασικό θέμα του Μ. Κανόνα και πότε ψάλλεται;",
+    "choices": [
+      "Η ελπίδα στην αιωνιότητα. Ψάλλεται τη Μ. Εβδομάδα",
+      "Η ορθόδοξη πίστη. Ψάλλεται την αναστάσιμη περίοδο",
+      "Η μετάνοια. Ψάλλεται στον Όρθρο της Πέμπτης της Ε΄ εβδομάδας της Μ. Τεσσαρακοστής",
+      "Η αντίσταση στις αιρέσεις. Ψάλλεται την περίοδο πριν από τα Χριστούγεννα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής του φημισμένου τροπαρίου των Χριστουγέννων «Η Παρθένος σήμερον, τον προαιώνιον Λόγον...»;",
+    "choices": [
+      "Ο Ρωμανός ο Μελωδός",
+      "Ο Κοσμάς ο Μελωδός",
+      "Ο Ιωάννης ο Δαμασκηνός",
+      "Ο Ιωσήφ Θεσσαλονίκης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο νόμος της «τονής» ή «συγκοπής»;",
+    "choices": [
+      "Η εναλλαγή της προσωδίας",
+      "Η κυριαρχία του ελεγειακού μέτρου",
+      "Η ίση κατανομή των συλλαβών",
+      "Η επέκταση ή σύμπτυξη των συλλαβών (δηλαδή, η μουσική επιβραχύνει ή επιμηκύνει τις συλλαβές με τον ίδιο τρόπο)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες είναι οι βασικές πτυχές Χριστολογίας στο υμνογραφικό έργο της Κασσιανής;",
+    "choices": [
+      "Η έννοια του Κυρίου ως Κριτή",
+      "Η έννοια του Κυρίου ως θαυματουργού",
+      "Η έννοια του Κυρίου ως Αναστάντος",
+      "Η έννοια της Ενανθρωπήσεως του Θεού-Λόγου και του σωτηριολογικού έργου Του"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στην υμνογραφία της Κασσιανής, ποια αναφέρονται ως «ατομικά καθήκοντα» του Χριστιανού;",
+    "choices": [
+      "Τα καθήκοντα προς τον Θεό και τα καθήκοντα προς τον εαυτό του",
+      "Τα καθήκοντα προς την κοινωνία",
+      "Τα καθήκοντα προς την πατρίδα",
+      "Τα καθήκοντα προς τη Θεοτόκο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια περίοδο της ιστορίας της η ελληνική Υμνογραφία έφθασε στο υψηλότερο σημείο ακμής;",
+    "choices": [
+      "Κατά την πρώτη περίοδο",
+      "Κατά την τρίτη περίοδο, με την εμφάνιση των Κανόνων",
+      "Κατά τη δεύτερη περίοδο",
+      "Κατά την τέταρτη περίοδο"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιον εκκλησιαστικό συγγραφέα αποδίδονται οι Αναβαθμοί;",
+    "choices": [
+      "Στον Μ. Βασίλειο",
+      "Στον Ιωάννη Χρυσόστομο",
+      "Στον Ανδρέα Κρήτης",
+      "Στον Θεόδωρο Στουδίτη"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια Ακολουθία της Εκκλησίας ψάλλεται το Απολυτίκιο;",
+    "choices": [
+      "Στο Μεσονυκτικό",
+      "Στην Γ΄ Ώρα",
+      "Στο Απόδειπνο",
+      "Στο τέλος του Εσπερινού και στην αρχή του Όρθρου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Αυτόμελο»;",
+    "choices": [
+      "Το τροπάριο που έχει δική του μελωδία, την οποία μιμούνται άλλα τροπάρια",
+      "Τροπάριο που αναφέρεται στους βίους των Αγίων",
+      "Τροπάριο που αναφέρεται στη Γέννηση του Χριστού",
+      "Τροπάριο σχετικό με τις Θεομητορικές εορτές"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Ειρμός»;",
+    "choices": [
+      "Το τελευταίο τροπάριο του Κανόνα",
+      "Το πρώτο τροπάριο του Κοντακίου",
+      "Η πρωτότυπη πρώτη στροφή μιας ωδής του Κανόνα",
+      "Το πρώτο τροπάριο των Αίνων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πού οφείλεται η ονομασία «Εξαποστειλάριο»;",
+    "choices": [
+      "Σε φράσεις από τη διδασκαλία του απ. Παύλου",
+      "Στη συχνή χρησιμοποίηση της λέξης «ἐξαπόστειλον»",
+      "Σε ορολογία από τη θεολογία Ιωάννου του Δαμασκηνού",
+      "Σε ορολογία Ιουστίνου του Φιλοσόφου και Μάρτυρος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προέρχεται ο όρος «Καταβασία»;",
+    "choices": [
+      "Από το γεγονός ότι κατά την ψαλμώδησή τους, οι ψάλτες «κατεβαίνουν» («Καταβασία») από το στασίδι τους",
+      "Από την έννοια της «συγκαταβάσεως» του Θεού προς τους ανθρώπους",
+      "Από την έννοια της συγκαταβατικότητας που πρέπει να έχουν οι άνθρωποι",
+      "Από την παύλεια θεολογία περί της Ενανθρωπήσεως"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Κάθισμα»;",
+    "choices": [
+      "Τροπάριο μοναστικής προελεύσεως",
+      "Τροπάριο αφιερωμένο στους Αγίους",
+      "Τροπάριο της Μ. Εβδομάδας",
+      "Υποδιαίρεση του Ψαλτηρίου (οι 150 Ψαλμοί διαιρούνται σε είκοσι Καθίσματα)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Οίκος»;",
+    "choices": [
+      "Ύμνος σχετικά με τις οικίες",
+      "Ύμνος που αναφέρεται στην ανάγκη οικειότητας μεταξύ των ανθρώπων",
+      "Ύμνος που διαβάζεται στον Όρθρο, ανάμεσα στην έκτη και στην έβδομη Ωδή, πριν από το Συναξάριο",
+      "Ύμνος που αναφέρεται στο Ναό ως «Οίκο του Θεού»"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Προκείμενο»;",
+    "choices": [
+      "Ύμνος προς τιμή της Θεοτόκου",
+      "Ύμνος προς τιμή των Αγγέλων",
+      "Μικρός ψαλμικός στίχος που ψάλλεται πριν από το αποστολικό ανάγνωσμα της Θ. Λειτουργίας και πριν από τα βιβλικά αναγνώσματα του Εσπερινού",
+      "Τροπάριο του Κανόνα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Προσόμοιο»;",
+    "choices": [
+      "Τροπάριο προς τιμή των Αγγέλων",
+      "Τροπάριο που ψάλλεται κατά τα μέτρα (ισοσυλλαβία) και τη μελωδία (ομοτονία) ενός άλλου τροπαρίου",
+      "Τροπάριο που ψάλλεται κατά τον Όρθρο",
+      "Τροπάριο που ψάλλεται κατά τον Εσπερινό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Χερουβικό»;",
+    "choices": [
+      "Ύμνος προς τιμή των Αγγέλων",
+      "Τροπάριο προς τιμή του Ιωάννου του Προδρόμου",
+      "Ύμνος δοξολογικός προς την Αγία Τριάδα",
+      "Ύμνος που ψάλλεται στη Θ. Λειτουργία κατά τη Μεγάλη Είσοδο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε τι βοηθά η γνώση της αιρετικής υμνογραφίας;",
+    "choices": [
+      "Στη μελέτη των θέσεων των αιρετικών",
+      "Στη γνώση των επιχειρημάτων των Ορθοδόξων εναντίον των αιρετικών",
+      "Στη γνώση των επιχειρημάτων των Ορθοδόξων εναντίον των αιρετικών",
+      "Στη μελέτη των αρχαιοελληνικών ποιητικών σχημάτων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Να αναφέρετε ένα από τα βασικά υμνογραφήματα των Αρειανών;",
+    "choices": [
+      "Οι παραλλαγές ψαλμικών στίχων",
+      "Οι παραλλαγές φράσεων από τη διδασκαλία του Κυρίου",
+      "Ο ύμνος της δόξας του Θεού",
+      "Το υμνογράφημα με τον τίτλο «Θάλεια»"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες είναι οι βασικές πηγές του περιεχομένου των Κοντακίων;",
+    "choices": [
+      "Τα δόγματα των Οικουμενικών Συνόδων",
+      "Η Αγία Γραφή και τα Συναξάρια",
+      "Η Αγία Γραφή και τα Συναξάρια",
+      "Τα Εγκώμια των εκκλησιαστικών συγγραφέων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι οι «Χαιρετισμοί»;",
+    "choices": [
+      "Μία αποχαιρετιστήρια ακολουθία της Εκκλησίας",
+      "Η ακολουθία που σχετίζεται με την Κοίμηση της Θεοτόκου",
+      "Η τμηματική ψαλμώδηση του Κοντακίου κατά την ακολουθία του Μικρού Αποδείπνου κάθε Παρασκευή κατά τις τέσσερις πρώτες εβδομάδες της Μ. Τεσσαρακοστής",
+      "Ακολουθία προς τιμήν των Αγγέλων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προέρχεται ο όρος «Ακάθιστος» για τη σχετική Ακολουθία;",
+    "choices": [
+      "Από το γεγονός ότι οι μοναχοί έψαλλαν το υμνογράφημα όρθιοι",
+      "Από το γεγονός ότι το υμνογράφημα αναπέμφθηκε από τους κατοίκους της Κωνσταντινούπολης «ορθοστάδην» (παρέμειναν όρθιοι, χωρίς να κάθονται) στις 8 Αυγούστου του 626",
+      "Από την όρθια θέση των ψαλτών",
+      "Από την ανυπαρξία καθισμάτων στους ναούς, στους οποίους ψαλλόταν"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια δυνατότητα παρέχουν οι ακροστιχίδες των Κανόνων;",
+    "choices": [
+      "Να αντιληφθούμε το βασικό θέμα του περιεχομένου τους",
+      "Να γνωρίσουμε το είδος της ποίησής τους",
+      "Να γνωρίσουμε κάποιες μελλοντικές εξαγγελίες των υμνογράφων τους",
+      "Να μάθουμε το όνομα του υμνογράφου (καθορισμός της πατρότητας του ύμνου)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι τα «Μεσώδια»;",
+    "choices": [
+      "Τροπάρια που ψάλλονται στο τέλος των Κανόνων",
+      "Τροπάρια που προηγούνται της ψαλμωδήσεως του Κανόνα",
+      "Ύμνοι που ψάλλονται σε Ακολουθία μετά από αυτήν του Κανόνα",
+      "Τροπάρια που ψάλλονται μεταξύ των Ωδών του Κανόνα (καθίσματα, κοντάκιο, οίκος)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο ιστορικό γεγονός επέδρασε στη διαμόρφωση του Κανόνα;",
+    "choices": [
+      "Οι Οικουμενικές Σύνοδοι",
+      "Το Σχίσμα",
+      "Η Εικονομαχία",
+      "Η εμφάνιση του Ισλάμ"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Με ποιο λειτουργικό τυπικό συνδέεται η εμφάνιση των Κανόνων;",
+    "choices": [
+      "Με το τυπικό της Κωνσταντινούπολης",
+      "Με το τυπικό των Ιεροσολύμων (Μονή Αγ. Σάββα)",
+      "Με το τυπικό του Σινά",
+      "Με το τυπικό του Αγίου Όρους"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «τονική ρυθμοποιία» στους ύμνους;",
+    "choices": [
+      "Η σύνθεση με βάση τη μελωδία",
+      "Η ποιητική σύνθεση με βάση τον ρυθμό",
+      "Ο τονισμός με βάση τις συλλαβές",
+      "Ο αριθμός των συλλαβών κάθε στροφής"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον Νεομάρτυρα συνέγραψε ακολουθία ο Ιεζεκιήλ Φιλόστρατος Στρούμπος-Βελανιδιώτης, Μητροπολίτης Θεσσαλιώτιδος και Φαναριοφερσάλων (1874-1953);",
+    "choices": [
+      "Για τον Άγιο Γεώργιο εξ Ιωαννίνων",
+      "Για τον Άγιο Κωνσταντίνο τον Υδραίο",
+      "Για τον νέο οσιομάρτυρα Δαμιανό τον εκ Μυριχόβου της Θεσσαλίας",
+      "Για τον Άγιο Μιχαήλ Πακνανά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η αιτία της εχθρότητας της φύσης προς τον άνθρωπο, σύμφωνα με τους ύμνους των Χριστουγέννων;",
+    "choices": [
+      "Η άρνηση του Μεσσία από τον εκλεκτό λαό",
+      "Η αδελφοκτονία του Άβελ από τον Κάιν",
+      "Η πτώση του ανθρώπου",
+      "Η αποστασία του εκλεκτού λαού από την πίστη στον Θεό"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον άγιο από τους Κολλυβάδες συνέγραψε ακολουθία ο Ιάκωβος Μαλλιαρός, Μητροπολίτης Μηθύμνης (1911-1984);",
+    "choices": [
+      "Για τον Άγιο Αθανάσιο Πάριο",
+      "Για τον Άγιο Νεόφυτο",
+      "Για τον βίο και τα συγγράμματα του Αγίου Νικοδήμου του Αγιορείτου",
+      "Για τον Άγιο Μακάριο, Αρχιεπίσκοπο Κορίνθου τον Νοταρά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού λαμβάνουν οι υμνογράφοι των Χριστουγέννων πληροφορίες περί του Ιωσήφ του Μνήστορος;",
+    "choices": [
+      "Από τα Εγκώμια των εκκλησιαστικών συγγραφέων",
+      "Από τα κανονικά βιβλία της Καινής Διαθήκης",
+      "Από τα κανονικά βιβλία της Παλαιάς Διαθήκης",
+      "Από τα απόκρυφα βιβλία της Καινής Διαθήκης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πώς αποκαλείται ο Χριστός στους ύμνους του Ακαθίστου Ύμνου;",
+    "choices": [
+      "Ως Μεσσίας",
+      "Ως Κύριος",
+      "Ως ο «Λόγος του Πατρός»",
+      "Ως Υιός του Ανθρώπου"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Όταν στα ποιητικά βιβλία της Παλαιάς Διαθήκης τα λυρικά στοιχεία πλέκονται με τα ιστορικά, ποιο χαρακτήρα λαμβάνει η ποίηση;",
+    "choices": [
+      "Λαμβάνει «διδακτικό» ή «γνωμικό» χαρακτήρα",
+      "Λαμβάνει εσχατολογικό χαρακτήρα",
+      "Λαμβάνει μόνο ιστορικό χαρακτήρα",
+      "Λαμβάνει μόνο λυρικό χαρακτήρα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι ήταν οι «κοινωνικοί ύμνοι»;",
+    "choices": [
+      "Ύμνοι κατάλληλοι για τις διαφορετικές ανθρώπινες κοινωνίες",
+      "Κατηγορία παλαιότατων χριστιανικών υμνογραφημάτων",
+      "Ύμνοι με τους οποίους οι Χριστιανοί εξέφραζαν τις κοινωνικές τους θέσεις",
+      "Ύμνοι που εξέφραζαν την αγαπητική επικοινωνία των Χριστιανών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα είδη των Οίκων στον Ακάθιστο Ύμνο;",
+    "choices": [
+      "Κάθε Οίκος αποτελεί ιδιαίτερο είδος",
+      "Τα είδη των Οίκων είναι δύο: οι γραμμένοι σε ποιητικό και οι γραμμένοι σε πεζό λόγο",
+      "Δώδεκα Οίκοι αναφέρονται στη Θεοτόκο και δώδεκα στον Χριστό",
+      "Τα είδη των Οίκων είναι δύο: οι άρτιοι και οι περιττοί, οι οποίοι είναι εκτενέστεροι (αποτελούνται από 18 στίχους και κατακλείονται από το εφύμνιο «Χαίρε, νύμφη ανύμφευτε»)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα μοναστικά κέντρα που απέβησαν οι βασικοί τόποι ποιήσεως Κανόνα;",
+    "choices": [
+      "Η Μονή του Αγίου Σάββα στα Ιεροσόλυμα και η Μονή του Στουδίου στην Κωνσταντινούπολη",
+      "Οι Μονές του Αγίου Όρους",
+      "Η Μονή του Σινά",
+      "Η Μονή της Πάτμου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιο μεταγενέστερο υμνογράφημα επέδρασε η Ομιλία εις το Πάσχα του Μελίτωνος Σάρδεων;",
+    "choices": [
+      "Στον Κανόνα των Χριστουγέννων",
+      "Στα Κοντάκια Ρωμανού του Μελωδού",
+      "Στη μεταγενέστερη βυζαντινή υμνογραφία της Μ. Παρασκευής",
+      "Στην υμνογραφία της εορτής της Πεντηκοστής"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής του ύμνου «Ο Μονογενής Υιός και Λόγος του Θεού...»;",
+    "choices": [
+      "Ο Ιωάννης Δαμασκηνός",
+      "Ο Θεοδόσιος Β΄",
+      "Ο Ιουστινιανός",
+      "Ο Ηράκλειος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η ποιητική προσφορά στο υμνογραφικό έργο του Ιωάννου του Δαμασκηνού;",
+    "choices": [
+      "Η αναβίωση των ελεγειακών μέτρων",
+      "Η επαναφορά των χαρακτηριστικών της ομηρικής ποίησης",
+      "Η επαναφορά των μέτρων της βιβλικής ποίησης",
+      "Η επάνοδος στην αρχή της προσωδίας και η ένωση της ρυθμικής με τη μετρική ποίηση"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το βασικό υμνογραφικό έργο του Ευθυμίου Καββαθά, Επισκόπου Κυθήρων (1901-1915);",
+    "choices": [
+      "Η ακολουθία της Μυρτιδιωτίσσης (συμπλήρωσε παλαιότερη έκδοση)",
+      "Ακολουθίες των αγίων των Κυθήρων",
+      "Παρακλητικοί Κανόνες προς τη Θεοτόκο",
+      "Κανόνες στον Τίμιο Σταυρό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής των ένδεκα εωθινών δοξαστικών;",
+    "choices": [
+      "Ο Λέων ΣΤ΄ ο Σοφός",
+      "Ο Ανδρέας Κρήτης",
+      "Ο Κοσμάς Μαϊουμά",
+      "Ο Θεόδωρος Στουδίτης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες είναι οι βασικές πτυχές Χριστολογίας στο υμνογραφικό έργο της Κασσιανής;",
+    "choices": [
+      "Η έννοια του Κυρίου ως Κριτή",
+      "Η έννοια του Κυρίου ως θαυματουργού",
+      "Η έννοια του Κυρίου ως Αναστάντος",
+      "Η έννοια της Ενανθρωπήσεως του Θεού-Λόγου και του σωτηριολογικού έργου Του"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιον αιώνα εκδηλώθηκε μία συντηρητική μοναστική αντίδραση στους ύμνους της Εκκλησίας;",
+    "choices": [
+      "Τον 4ο αι.",
+      "Τον 7ο αι.",
+      "Στα τέλη του 5ου αι.",
+      "Στα μέσα του 8ου αι."
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποια είναι η σχέση του αρχαγγέλου Γαβριήλ με τους Προφήτες;",
+    "choices": [
+      "Ο αρχάγγελος αναφέρεται ως Προφήτης",
+      "Ο αρχάγγελος λαμβάνει πληροφορία περί της Σαρκώσεως κατά παρόμοιο τρόπο που έλαβαν οι Προφήτες",
+      "Οι Προφήτες παρουσιάζονται ως άγγελοι",
+      "Ο αρχάγγελος φαίνεται ότι γνωρίζει τις προφητείες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιοι είναι οι λόγοι καθυστέρησης της ανάπτυξης της υμνογραφίας κατά τους τρεις πρώτους αιώνες;",
+    "choices": [
+      "Η ανάμειξη των αυτοκρατόρων στα εσωτερικά της Εκκλησίας",
+      "Η ανυπαρξία ικανών υμνογράφων",
+      "Ο συνδυασμός των δύο παραπάνω λόγων",
+      "Οι διωγμοί και οι αιρέσεις"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα μοναστικά κέντρα που απέβησαν οι βασικοί τόποι ποιήσεως Κανόνων;",
+    "choices": [
+      "Η Μονή του Αγίου Σάββα στα Ιεροσόλυμα και η Μονή του Στουδίου στην Κωνσταντινούπολη",
+      "Οι Μονές του Αγίου Όρους",
+      "Η Μονή του Σινά",
+      "Η Μονή της Πάτμου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον Νεομάρτυρα συνέγραψε ακολουθία ο Ιάκωβος Γκιγκίλας, Μητροπολίτης Μυτιλήνης (1878-1958);",
+    "choices": [
+      "Για την αγία Ακυλίνα",
+      "Για τον άγιο Κωνσταντίνο τον Υδραίο",
+      "Για τον νέο οσιομάρτυρα Δαμιανό τον εκ Μυριχόβου της Θεσσαλίας",
+      "Για τον άγιο Θεόδωρο τον Βυζάντιο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο ιστορικό γεγονός επέδρασε στη διαμόρφωση του Κανόνα;",
+    "choices": [
+      "Οι Οικουμενικές Σύνοδοι",
+      "Το Σχίσμα",
+      "Η Εικονομαχία",
+      "Η εμφάνιση του Ισλάμ"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε τι βοηθά η γνώση της αιρετικής υμνογραφίας;",
+    "choices": [
+      "Στη μελέτη των θέσεων των αιρετικών",
+      "Στη γνώση των επιχειρημάτων των Ορθοδόξων εναντίον των αιρετικών",
+      "Στη γνώση των επιχειρημάτων των Ορθοδόξων εναντίον των αιρετικών",
+      "Στη μελέτη των αρχαιοελληνικών ποιητικών σχημάτων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η αιτία της εχθρότητας της φύσης προς τον άνθρωπο, σύμφωνα με τους ύμνους των Χριστουγέννων;",
+    "choices": [
+      "Η άρνηση του Μεσσία από τον εκλεκτό λαό",
+      "Η αδελφοκτονία του Άβελ από τον Κάιν",
+      "Η πτώση του ανθρώπου",
+      "Η αποστασία του εκλεκτού λαού από την πίστη στον Θεό"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Με ποιον τρόπο ο άνθρωπος οικειοποιείται την εν Χριστώ σωτηρία σύμφωνα με τους ύμνους του Μ. Αποδείπνου;",
+    "choices": [
+      "Με τη μετάνοια",
+      "Με την πίστη στην αιωνιότητα",
+      "Με τη νηστεία",
+      "Με τη σιωπή"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πώς αποκαλείται ο Χριστός στους ύμνους του Ακαθίστου Ύμνου;",
+    "choices": [
+      "Ως Μεσσίας",
+      "Ως Κύριος",
+      "Ως ο «Λόγος του Πατρός»",
+      "Ως Υιός του Ανθρώπου"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «Υπακοή»;",
+    "choices": [
+      "Τροπάριο που λέγεται (κατά την ακολουθία του Όρθρου) μετά από τα Ευλογητάρια και πριν από τους Αναβαθμούς",
+      "Τροπάριο που ψάλλεται μετά τους Αίνους",
+      "Τροπάριο που ψάλλεται στο Μεσονυκτικό",
+      "Τροπάριο που ψάλλεται κατά τις Ώρες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είδους Κανόνες περιλαμβάνει το λειτουργικό βιβλίο του Τριωδίου;",
+    "choices": [
+      "Κανόνες με πέντε ωδές",
+      "Κανόνες με τρεις ωδές",
+      "Κανόνες με εννέα ωδές",
+      "Κανόνες με ακανόνιστο αριθμό ωδών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποιο γεγονός προτυπώνει την επενέργεια του Αγίου Πνεύματος κατά τη Σάρκωση του Κυρίου;",
+    "choices": [
+      "Η καιομένη και μη φλεγομένη βάτος",
+      "Το μάννα της ερήμου",
+      "Η διάβαση της Ερυθράς Θάλασσας",
+      "Το περιστατικό των Τριών Παίδων στην κάμινο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα μορφολογικά χαρακτηριστικά των ύμνων της Καινής Διαθήκης;",
+    "choices": [
+      "Διακρίνονται για τον εσχατολογικό τους χαρακτήρα",
+      "Είναι γραμμένοι σε γλώσσα και μέτρα αρχαϊκά",
+      "Είναι γραμμένοι σε ρυθμικό πεζό λόγο και χωρίζονται σε στροφές με τον ίδιο αριθμό λέξεων και συλλαβών",
+      "Είναι γραμμένοι σε ομηρική διάλεκτο και σε αντίστοιχα μέτρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια εποχή έζησε ο Ρωμανός ο Μελωδός;",
+    "choices": [
+      "Τον 4ο αι.",
+      "Τον 7ο αι.",
+      "Τον 9ο αι.",
+      "Τον 6ο αι."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το γλωσσικό ιδίωμα των ύμνων του Ρωμανού του Μελωδού;",
+    "choices": [
+      "Η κοινή της εποχής",
+      "Η αρχαΐζουσα",
+      "Η ομηρική",
+      "Η μεσαιωνική"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Ακάθιστος Ύμνος»;",
+    "choices": [
+      "Υμνογράφημα σχετικό με τα Πάθη του Κυρίου",
+      "Υμνογράφημα σχετικό με την Κοίμηση της Θεοτόκου",
+      "Υμνογράφημα σχετικό με τα Χριστούγεννα",
+      "Το Κοντάκιο του Όρθρου του Σαββάτου της Ε΄ εβδομάδας της Μ. Τεσσαρακοστής"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προέρχεται ο όρος «Ακάθιστος» για τη σχετική Ακολουθία;",
+    "choices": [
+      "Από το γεγονός ότι οι μοναχοί έψαλλαν το υμνογράφημα όρθιοι",
+      "Από το γεγονός ότι το υμνογράφημα αναπέμφθηκε από τους κατοίκους της Κωνσταντινούπολης «ορθοστάδην» (παρέμειναν όρθιοι, χωρίς να καθίσουν) στις 8 Αυγούστου του 626",
+      "Από την όρθια θέση των ψαλτών",
+      "Από την ανυπαρξία καθισμάτων στους ναούς, στους οποίους ψαλλόταν"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το περιεχόμενο των τροπαρίων του Κανόνα;",
+    "choices": [
+      "Η ανάγκη άμυνας έναντι των αιρέσεων",
+      "Η προβολή του εσχατολογικού στοιχείου",
+      "Το εορταζόμενο πρόσωπο ή γεγονός, στο οποίο είναι αφιερωμένος ο Κανόνας",
+      "Η ανάλυση του ορθοδόξου δόγματος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι περιλαμβάνει το λειτουργικό βιβλίο του Πεντηκοσταρίου;",
+    "choices": [
+      "Τις ακολουθίες των κινητών εορτών, από την Κυριακή του Πάσχα μέχρι την Κυριακή των Αγίων Πάντων",
+      "Τις ακολουθίες της Μ. Εβδομάδας",
+      "Τις ακολουθίες του Δεκαπενταύγουστου",
+      "Τις ακολουθίες των Χριστουγέννων"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα βασικά θέματα που φανερώνονται στους ύμνους των ποιητικών βιβλίων της Παλαιάς Διαθήκης;",
+    "choices": [
+      "Η αναμονή του Μεσσία",
+      "Η ανάγκη ενισχύσεως της προσευχής",
+      "Η συγχωρητικότητα μεταξύ του λαού του Θεού",
+      "Η αμαρτωλότητα του ανθρώπου και η μεγαλοσύνη και παντοδυναμία του Θεού"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η ποιητική προσφορά στο υμνογραφικό έργο του Ιωάννου του Δαμασκηνού;",
+    "choices": [
+      "Η αναβίωση των ελεγειακών μέτρων",
+      "Η επαναφορά των χαρακτηριστικών της ομηρικής ποίησης",
+      "Η επαναφορά των μέτρων της βιβλικής ποίησης",
+      "Η επάνοδος στην αρχή της προσωδίας και η ένωση της ρυθμικής με τη μετρική ποίηση"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε πόσες και ποιες ομάδες διακρίνονται τα Ευλογητάρια;",
+    "choices": [
+      "Σε τρεις ομάδες, του Εσπερινού και του Όρθρου",
+      "Σε δύο ομάδες, τα αναστάσιμα και τα νεκρώσιμα",
+      "Σε τέσσερις ομάδες, της Α΄, Γ΄, ΣΤ΄ και Θ΄ Ώρας",
+      "Σε δύο ομάδες, του Τριωδίου και του Πεντηκοσταρίου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες ήταν οι αιτίες της αντίδρασης του Μοναχισμού στη χρησιμοποίηση ύμνων;",
+    "choices": [
+      "Η έλλειψη ικανών υμνογράφων",
+      "Η ύπαρξη πολλών άλλων προσευχών που καθιστούσε υπερβολική τη δημιουργία επιπλέον ύμνων",
+      "Η χρήση των ύμνων από τους αιρετικούς και οι πιθανές ακρότητες κατά την εκτέλεση των ύμνων",
+      "Η έλλειψη ικανών εκτελεστών των ύμνων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στην υμνογραφία ποιων εορτών μαρτυρείται η χρήση ιαμβικών κανόνων με βάση την προσωδία;",
+    "choices": [
+      "Στην υμνογραφία των εορτών των Χριστουγέννων, Θεοφανείων και Πεντηκοστής",
+      "Στην υμνογραφία της εορτής της Μεταμορφώσεως",
+      "Στην υμνογραφία της εορτής της Αναλήψεως",
+      "Στην υμνογραφία της εορτής της Κοιμήσεως της Θεοτόκου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον άγιο από τους Κολλυβάδες συνέγραψε ακολουθία ο Ιάκωβος Μαλλιαρός, Μητροπολίτης Μηθύμνης (1911-1984);",
+    "choices": [
+      "Για τον άγιο Αθανάσιο Πάριο",
+      "Για τον άγιο Νεόφυτο",
+      "Για τον βίο και τα συγγράμματα του αγίου Νικοδήμου του Αγιορείτου",
+      "Για τον άγιο Μακάριο, αρχιεπίσκοπο Κορίνθου τον Νοταρά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι ήταν οι «κοινωνικοί ύμνοι»;",
+    "choices": [
+      "Ύμνοι κατάλληλοι για τις διαφορετικές ανθρώπινες κοινωνίες",
+      "Κατηγορία παλαιότατων χριστιανικών υμνογραφημάτων",
+      "Ύμνοι με τους οποίους οι Χριστιανοί εξέφραζαν τις κοινωνικές τους θέσεις",
+      "Ύμνοι που εξέφραζαν την αγαπητική επικοινωνία των Χριστιανών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος ιστορικός μαρτυρεί ότι ο αντιφωνικός τρόπος ψαλμωδίας χρησιμοποιείτο από τους αιρετικούς οπαδούς του Αρείου;",
+    "choices": [
+      "Ο Θεοδώρητος Κύρου",
+      "Ο Παλλάδιος",
+      "Ο Σωζομενός",
+      "Ο Σωκράτης ο Σχολαστικός"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Να αναφέρετε ένα από τα βασικά υμνογραφήματα των Αρειανών;",
+    "choices": [
+      "Οι παραλλαγές ψαλμικών στίχων",
+      "Οι παραλλαγές φράσεων από τη διδασκαλία του Κυρίου",
+      "Ο ύμνος της δόξας του Θεού",
+      "Το υμνογράφημα με τον τίτλο «Θάλεια»"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποιον εκκλησιαστικό συγγραφέα αρύεται ολόκληρες φράσεις ο Κοσμάς ο Μελωδός;",
+    "choices": [
+      "Από το Μ. Βασίλειο",
+      "Από το Γρηγόριο Θεολόγο",
+      "Από τον Ιωάννη Χρυσόστομο",
+      "Από τον Κύριλλο Ιεροσολύμων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια περίοδο της ιστορίας της η ελληνική Υμνογραφία έφθασε στο υψηλότερο σημείο ακμής;",
+    "choices": [
+      "Κατά την πρώτη περίοδο",
+      "Κατά την τρίτη περίοδο, με την εμφάνιση των Κανόνων",
+      "Κατά τη δεύτερη περίοδο",
+      "Κατά την τέταρτη περίοδο"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Ειρμός»;",
+    "choices": [
+      "Το τελευταίο τροπάριο του Κανόνα",
+      "Το πρώτο τροπάριο του Κοντακίου",
+      "Η πρωτότυπη πρώτη στροφή μιας ωδής του Κανόνα",
+      "Το πρώτο τροπάριο των Αίνων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η προσφορά των «χριστιανικών ποιητικών Ομιλιών» των Πατέρων των πρώτων αιώνων;",
+    "choices": [
+      "Ότι προέβαλαν το γεγονός της Αναστάσεως του Κυρίου",
+      "Ότι διευκόλυναν τη μετάβαση από τον αρχαίο πεζό παγανιστικό λόγο στη βυζαντινή υμνογραφία",
+      "Ότι τόνισαν την ανάγκη υπομονής στους διωγμούς",
+      "Ότι ανέλυσαν το θέμα της αιωνιότητας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια τμήματα διαιρείται το περιεχόμενο του Ακάθιστου Ύμνου;",
+    "choices": [
+      "Στα δογματικά και στα ποιητικά",
+      "Στο ιστορικό (οίκοι Α-Μ) και στο θεολογικό (οίκοι Ν-Ω)",
+      "Στο εσχατολογικό και στο απολογητικό",
+      "Στο βιβλικό και στο αρχαιολογικό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο νόμος της «τονής» ή «συγκοπής»;",
+    "choices": [
+      "Η εναλλαγή της προσωδίας",
+      "Η κυριαρχία του ελεγειακού μέτρου",
+      "Η ίση κατανομή των συλλαβών",
+      "Η επέκταση ή σύμπτυξη των συλλαβών (δηλαδή, η μουσική επιβραχύνει ή επιμηκύνει τις συλλαβές με τον ίδιο τρόπο)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον άγιο από τους Κολλυβάδες συνέγραψε ακολουθία ο Μιχαήλ Κωνσταντινίδης, Μητροπολίτης Κορινθίας (1892-1958);",
+    "choices": [
+      "Για τον άγιο Μακάριο, αρχιεπίσκοπο Κορίνθου τον Νοταρά.",
+      "Για τον άγιο Νικόδημο Αγιορείτη",
+      "Για τον άγιο Αθανάσιο Πάριο",
+      "Για τον άγιο Νεόφυτο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιον εκκλησιαστικό συγγραφέα αποδίδονται οι Αναβαθμοί;",
+    "choices": [
+      "Στον Μ. Βασίλειο",
+      "Στον Ιωάννη Χρυσόστομο",
+      "Στον Ανδρέα Κρήτης",
+      "Στον Θεόδωρο Στουδίτη"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προέρχεται ο όρος «Καταβασία»;",
+    "choices": [
+      "Από το γεγονός ότι κατά την ψαλμώδησή τους, οι ψάλτες «κατεβαίνουν» («Καταβασία») από το στασίδι τους",
+      "Από την έννοια της «συγκαταβάσεως» του Θεού προς τους ανθρώπους",
+      "Από την έννοια της συγκαταβατικότητας που πρέπει να έχουν οι άνθρωποι",
+      "Από την παύλεια θεολογία περί της Ενανθρωπήσεως"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιο βιβλίο της Παλαιάς Διαθήκης αναφέρονται οι παύλειοι όροι «ψαλμοί» και «ύμνοι»;",
+    "choices": [
+      "Στο βιβλίο της Εξόδου",
+      "Στο βιβλίο των Ψαλμών",
+      "Στο βιβλίο του Δανιήλ",
+      "Στο βιβλίο της Σοφίας Σολομώντος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια παράδοση ακολουθούν οι εκκλησιαστικοί συγγραφείς στα ποιητικά τους κείμενα;",
+    "choices": [
+      "Την παράδοση των Ομηρικών επών",
+      "Την παράδοση των Ελεγειακών κειμένων",
+      "Την κλασική και ελληνιστική παράδοση των πεζών κειμένων με υμνογραφικό χαρακτήρα",
+      "Την παράδοση της προσωδιακής ποίησης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιο μεταγενέστερο υμνογράφημα επέδρασε η Ομιλία εις το Πάσχα του Μελίτωνος Σάρδεων;",
+    "choices": [
+      "Στον Κανόνα των Χριστουγέννων",
+      "Στα Κοντάκια Ρωμανού του Μελωδού",
+      "Στη μεταγενέστερη βυζαντινή υμνογραφία της Μ. Παρασκευής",
+      "Στην υμνογραφία της εορτής της Πεντηκοστής"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Να αναφέρετε ένα από τα σημαντικότερα υμνολογικά κείμενα των αιρετικών-γνωστικών κατά τον 2ο αι.",
+    "choices": [
+      "Οι ύμνοι που διασώζει ο Ειρηναίος Λυώνος",
+      "Οι Ωδές Σολομώντος",
+      "Οι ύμνοι που διασώζει ο Τερτυλλιανός",
+      "Οι ύμνοι που διασώζει ο Πολύκαρπος Σμύρνης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πότε και από ποιον διασώζεται η μαρτυρία περί χρησιμοποιήσεως ύμνων από τους αναχωρητές της Νιτρίας;",
+    "choices": [
+      "Από τα Ψευδο-Αρεοπαγιτικά συγγράμματα στις αρχές του 6ου αι.",
+      "Από τον Παλλάδιο Ελενουπόλεως στα τέλη του 4ου αι.",
+      "Από τον Μ. Βασίλειο, τον 4ο αι.",
+      "Από τον Κύριλλο Αλεξανδρείας, τον 5ο αι."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «Προσωδία»;",
+    "choices": [
+      "Ο τρόπος ψαλμωδήσεως ενός ύμνου",
+      "Το είδος του ύμνου, σύμφωνα με το περιεχόμενό του",
+      "Είδος ύμνων σχετικών με τη δοξολογία της Αγίας Τριάδος",
+      "Η ποσότητα των συλλαβών (του μακρού και του βραχέος) ενός ύμνου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής του ύμνου «Ο Μονογενής Υιός και Λόγος του Θεού...»;",
+    "choices": [
+      "Ο Ιωάννης Δαμασκηνός",
+      "Ο Θεοδόσιος Β΄",
+      "Ο Ιουστινιανός",
+      "Ο Ηράκλειος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι οι «Χαιρετισμοί»;",
+    "choices": [
+      "Μία αποχαιρετιστήρια ακολουθία της Εκκλησίας",
+      "Η ακολουθία που σχετίζεται με την Κοίμηση της Θεοτόκου",
+      "Η τμηματική ψαλμώδηση του Κοντακίου κατά την ακολουθία του Μικρού Αποδείπνου κάθε Παρασκευής κατά τις τέσσερις πρώτες εβδομάδες της Μ. Τεσσαρακοστής",
+      "Ακολουθία προς τιμήν των Αγγέλων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προήλθε ο αριθμός «εννέα» ως προς τις Ωδές του Κανόνα;",
+    "choices": [
+      "Από τις εννέα βιβλικές Ωδές",
+      "Από τα εννέα τάγματα των Αγγέλων",
+      "Από βαθύτερους συμβολισμούς του αριθμού εννέα",
+      "Από παγανιστικές παραδόσεις σχετικές με τον αριθμό εννέα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το βασικό θέμα του Μ. Κανόνα και πότε ψάλλεται;",
+    "choices": [
+      "Η ελπίδα στην αιωνιότητα. Ψάλλεται τη Μ. Εβδομάδα",
+      "Η ορθόδοξη πίστη. Ψάλλεται την αναστάσιμη περίοδο",
+      "Η μετάνοια. Ψάλλεται στον Όρθρο της Πέμπτης της Ε΄ εβδομάδας της Μ. Τεσσαρακοστής",
+      "Η αντίσταση στις αιρέσεις. Ψάλλεται την περίοδο πριν από τα Χριστούγεννα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο ποιητής του φημισμένου τροπαρίου των Χριστουγέννων «Η Παρθένος σήμερον, τον προαιώνιον Λόγον...»;",
+    "choices": [
+      "Ο Ρωμανός ο Μελωδός",
+      "Ο Κοσμάς ο Μελωδός",
+      "Ο Ιωάννης ο Δαμασκηνός",
+      "Ο Ιωσήφ Θεσσαλονίκης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι αναφέρουν οι ύμνοι των Χριστουγέννων σχετικά με τη συνύπαρξη των δύο φύσεων στο Χριστό;",
+    "choices": [
+      "Ότι ήταν ακατανόητη",
+      "Ότι ήταν αρμονική",
+      "Ότι ερμηνεύεται μέσα από την Αγία Γραφή",
+      "Ότι κατανοείται μέσα από την πατερική θεολογία της Εκκλησίας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού λαμβάνουν οι υμνογράφοι των Χριστουγέννων πληροφορίες περί του Ιωσήφ του Μνήστορος;",
+    "choices": [
+      "Από τα Εγκώμια των εκκλησιαστικών συγγραφέων",
+      "Από τα κανονικά βιβλία της Καινής Διαθήκης",
+      "Από τα κανονικά βιβλία της Παλαιάς Διαθήκης",
+      "Από τα απόκρυφα βιβλία της Καινής Διαθήκης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στην υμνογραφία της Κασσιανής, ποια αναφέρονται ως «ατομικά καθήκοντα» του Χριστιανού;",
+    "choices": [
+      "Τα καθήκοντα προς τον Θεό και τα καθήκοντα προς τον εαυτό του",
+      "Τα καθήκοντα προς την κοινωνία",
+      "Τα καθήκοντα προς την πατρίδα",
+      "Τα καθήκοντα προς τη Θεοτόκο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποια Ακολουθία της Εκκλησίας ψάλλεται το Απολυτίκιο;",
+    "choices": [
+      "Στο Μεσονυκτικό",
+      "Στην Γ΄ Ώρα",
+      "Στο Απόδειπνο",
+      "Στο τέλος του Εσπερινού και στην αρχή του Όρθρου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι τα «Σταυροθεοτοκία»;",
+    "choices": [
+      "Τα Θεοτοκία της Παρασκευής, στα οποία εκτός από την Θεοτόκο εξυμνείται και ο Σταυρός",
+      "Τροπάρια της Τετάρτης",
+      "Τροπάρια της Μ. Εβδομάδας",
+      "Τροπάρια κατά την εορτή της Υψώσεως του Τιμίου Σταυρού"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Προκείμενο»;",
+    "choices": [
+      "Ύμνος προς τιμή της Θεοτόκου",
+      "Ύμνος προς τιμή των Αγγέλων",
+      "Μικρός ψαλμικός στίχος που ψάλλεται πριν από το αποστολικό ανάγνωσμα της Θ. Λειτουργίας και πριν από τα βιβλικά αναγνώσματα του Εσπερινού",
+      "Τροπάριο του Κανόνα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Προσόμοιο»;",
+    "choices": [
+      "Τροπάριο προς τιμή των Αγγέλων",
+      "Τροπάριο που ψάλλεται κατά τα μέτρα (ισοσυλλαβία) και τη μελωδία (ομοτονία) ενός άλλου τροπαρίου",
+      "Τροπάριο που ψάλλεται κατά τον Όρθρο",
+      "Τροπάριο που ψάλλεται κατά τον Εσπερινό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η ποιητική ιδιαιτερότητα του Ψαλτηρίου;",
+    "choices": [
+      "Ότι τονίζονται οι απόψεις περί του Μεσσία",
+      "Ότι τονίζεται η ανάγκη μετάνοιας",
+      "Ότι ο λαός προτρέπεται σε εντονότερη προσευχή",
+      "Ότι τα θρησκευτικά θέματα της ποιήσεως εκφράζονται εντονότερα και βαθύτερα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η αρχαιότερη μαρτυρία ύμνων στην Καινή Διαθήκη;",
+    "choices": [
+      "Ο Μυστικός Δείπνος ως πρώτη λειτουργική σύναξη του Χριστού με τους Μαθητές Του",
+      "Η προσευχή του Κυρίου κατά την επιτέλεση θαυμάτων",
+      "Η επί του Όρους Ομιλία",
+      "Η διδασκαλία του Κυρίου προς τους Μαθητές μετά από την Ανάσταση"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός χαρακτήρας του Κοντακίου;",
+    "choices": [
+      "Ο δογματικός",
+      "Ο απολογητικός",
+      "Ο φιλοσοφικός",
+      "Ο διηγηματικός"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «ακροστιχίδα» στο Κοντάκιο;",
+    "choices": [
+      "Το τέλος των στίχων",
+      "Η λέξη ή φράση που σχηματίζεται από το πρώτο γράμμα του κάθε τροπαρίου",
+      "Το ποιητικό μέτρο του Κοντακίου",
+      "Οι επαναλαμβανόμενες λέξεις"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «εφύμνιο ή ανακλώμενο» στο Κοντάκιο;",
+    "choices": [
+      "Ο τελευταίος στίχος του Προοιμίου, ο οποίος επαναλαμβάνεται στο τέλος του κάθε τροπαρίου",
+      "Ο επίλογος του Κοντακίου",
+      "Το εισαγωγικό τμήμα του Κοντακίου",
+      "Το δοξολογικό περιεχόμενο του Κοντακίου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιες είναι οι βασικές πηγές του περιεχομένου των Κοντακίων;",
+    "choices": [
+      "Τα δόγματα των Οικουμενικών Συνόδων",
+      "Η Αγία Γραφή και τα Συναξάρια",
+      "Η Αγία Γραφή και τα Συναξάρια",
+      "Τα Εγκώμια των εκκλησιαστικών συγγραφέων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια δυνατότητα παρέχουν οι ακροστιχίδες των Κανόνων;",
+    "choices": [
+      "Να αντιληφθούμε το βασικό θέμα του περιεχομένου τους",
+      "Να γνωρίσουμε το είδος της ποίησής τους",
+      "Να γνωρίσουμε κάποιες μελλοντικές εξαγγελίες των υμνογράφων τους",
+      "Να μάθουμε το όνομα του υμνογράφου (καθορισμός της πατρότητας του ύμνου)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποιον εκκλησιαστικό συγγραφέα εξαίρεται η σημασία του υμνογραφικού έργου της Κασσιανής;",
+    "choices": [
+      "Από τον Ιωάννη Δαμασκηνό",
+      "Από τον Θεόδωρο Στουδίτη",
+      "Από τον Ανδρέα Κρήτης",
+      "Από τον Κοσμά Μελωδό"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Με ποιο λειτουργικό τυπικό συνδέεται η εμφάνιση των Κανόνων;",
+    "choices": [
+      "Με το τυπικό της Κωνσταντινούπολης",
+      "Με το τυπικό των Ιεροσολύμων (Μονή Αγ. Σάββα)",
+      "Με το τυπικό του Σινά",
+      "Με το τυπικό του Αγίου Όρους"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η διαφορά Κοντακίων και Κανόνων ως προς τη γλώσσα;",
+    "choices": [
+      "Τα Κοντάκια είναι γραμμένα σε απλή και δημώδη γλώσσα, ενώ οι Κανόνες έχουν αρχαιοπρεπή γλώσσα και συνθετότερη έκφραση",
+      "Τα Κοντάκια είναι γραμμένα σε ομηρική διάλεκτο, ενώ οι Κανόνες σε αρχαιοελληνική",
+      "Τα Κοντάκια είναι γραμμένα σε μεσαιωνική διάλεκτο, ενώ οι Κανόνες σε κλασική",
+      "Τα Κοντάκια είναι γραμμένα σε αττική διάλεκτο, ενώ οι Κανόνες σε κοινή ελληνιστική"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το βασικό υμνογραφικό έργο του Ευθυμίου Καββαθά, Επισκόπου Κυθήρων (1901-1915);",
+    "choices": [
+      "Η ακολουθία της Μυρτιδιωτίσσης (συμπλήρωσε παλαιότερη έκδοση)",
+      "Ακολουθίες των αγίων των Κυθήρων",
+      "Παρακλητικοί Κανόνες προς τη Θεοτόκο",
+      "Κανόνες στον Τίμιο Σταυρό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιον Νεομάρτυρα συνέγραψε ακολουθία ο Ιεζεκιήλ Φιλόστρατος Στρούμπος-Βελανιδιώτης, Μητροπολίτης Θεσσαλιώτιδος και Φαναριοφερσάλων (1874-1953);",
+    "choices": [
+      "Για τον Άγιο Γεώργιο εξ Ιωαννίνων",
+      "Για τον Άγιο Κωνσταντίνο τον Υδραίο",
+      "Για τον νέο οσιομάρτυρα Δαμιανό τον εκ Μυριχόβου της Θεσσαλίας",
+      "Για τον Άγιο Μιχαήλ Πακνανά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Στους ύμνους των Χριστουγέννων, ποιο γεγονός προτυπώνει τη Θεοτόκο;",
+    "choices": [
+      "Η καιομένη και μη φλεγομένη βάτος",
+      "Το περιστατικό των Τριών Παίδων στην κάμινο",
+      "Η διάβαση της Ερυθράς Θάλασσας",
+      "Το μάννα της ερήμου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι απαντούν οι ύμνοι στο «πώς» της Ενανθρωπήσεως;",
+    "choices": [
+      "Ότι ερμηνεύεται με την πίστη",
+      "Ότι κατανοείται μέσα από τις προτυπώσεις της Παλαιάς Διαθήκης",
+      "Ότι αποτελεί «παράδοξο μυστήριο»",
+      "Ότι κατανοείται μέσα από την πατερική θεολογία της Εκκλησίας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο είναι το περιεχόμενο του μαθήματος της Υμνολογίας;",
+    "choices": [
+      "Η συστηματική έρευνα της γένεσης και εξέλιξης των ελληνικών εκκλησιαστικών ύμνων της Ορθόδοξης Εκκλησίας (ιστορική, φιλολογική και θεολογική διάσταση)",
+      "Η εκμάθηση του τρόπου ψαλμώδησης των ύμνων",
+      "Η έρευνα του βίου των Πατέρων της Εκκλησίας",
+      "Η έρευνα των Κανόνων της Εκκλησίας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Σε ποιον εκκλησιαστικό συγγραφέα αποδίδεται η δημιουργία του πρώτου πυρήνα του βιβλίου της Παρακλητικής;",
+    "choices": [
+      "Στον Θεόδωρο Στουδίτη",
+      "Στον Κοσμά Μελωδό",
+      "Στον Ιωάννη Δαμασκηνό",
+      "Στον Ανδρέα Κρήτης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Όταν στα ποιητικά βιβλία της Παλαιάς Διαθήκης τα λυρικά στοιχεία πλέκονται με τα ιστορικά, ποιο χαρακτήρα λαμβάνει η ποίηση;",
+    "choices": [
+      "Λαμβάνει «διδακτικό» ή «γνωμικό» χαρακτήρα",
+      "Λαμβάνει εσχατολογικό χαρακτήρα",
+      "Λαμβάνει μόνο ιστορικό χαρακτήρα",
+      "Λαμβάνει μόνο λυρικό χαρακτήρα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Αυτόμελο»;",
+    "choices": [
+      "Το τροπάριο που έχει δική του μελωδία, την οποία μιμούνται άλλα τροπάρια",
+      "Τροπάριο που αναφέρεται στους βίους των Αγίων",
+      "Τροπάριο που αναφέρεται στη Γέννηση του Χριστού",
+      "Τροπάριο σχετικό με τις Θεομητορικές εορτές"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο «Οίκος»;",
+    "choices": [
+      "Ύμνος σχετικά με τις οικίες",
+      "Ύμνος που αναφέρεται στην ανάγκη οικειότητας μεταξύ των ανθρώπων",
+      "Ύμνος που διαβάζεται στον Όρθρο, ανάμεσα στην έκτη και στην έβδομη Ωδή, πριν από το Συναξάριο",
+      "Ύμνος που αναφέρεται στο Ναό ως «Οίκο του Θεού»"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Κάθισμα»;",
+    "choices": [
+      "Τροπάριο μοναστικής προελεύσεως",
+      "Τροπάριο αφιερωμένο στους Αγίους",
+      "Τροπάριο της Μ. Εβδομάδας",
+      "Υποδιαίρεση του Ψαλτηρίου (οι 150 Ψαλμοί διαιρούνται σε είκοσι Καθίσματα)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι το «Χερουβικό»;",
+    "choices": [
+      "Ύμνος προς τιμή των Αγγέλων",
+      "Τροπάριο προς τιμή του Ιωάννου του Προδρόμου",
+      "Ύμνος δοξολογικός προς την Αγία Τριάδα",
+      "Ύμνος που ψάλλεται στη Θ. Λειτουργία κατά τη Μεγάλη Είσοδο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιο ήταν το βασικό λειτουργικό βιβλίο των Εβραίων;",
+    "choices": [
+      "Το Ταλμούδ",
+      "Η Μίσνα",
+      "Το Ψαλτήριο",
+      "Τα απόκρυφα κείμενα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού προήλθε ο όρος «Κοντάκιο»;",
+    "choices": [
+      "Από το βραχύ περιεχόμενό του",
+      "Από τον «κοντό», το ξύλο, γύρω από το οποίο περιτυλισσόταν η μεμβράνη (ειλητάριο) που περιείχε τον ύμνο",
+      "Από τις προσπάθειες σμίκρυνσής του (κόντεμα)",
+      "Δεν υπάρχει σαφές συμπέρασμα της έρευνας για την προέλευση του όρου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποιος είναι ο συγγραφέας του Ακάθιστου Ύμνου;",
+    "choices": [
+      "Παραμένει άγνωστος",
+      "Ο Σέργιος, Πατριάρχης Κωνσταντινουπόλεως",
+      "Ο Γεώργιος Πισίδης",
+      "Ο Ρωμανός ο Μελωδός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι τα είδη των Οίκων στον Ακάθιστο Ύμνο;",
+    "choices": [
+      "Κάθε Οίκος αποτελεί ιδιαίτερο είδος",
+      "Τα είδη των Οίκων είναι δύο: οι γραμμένοι σε ποιητικό και οι γραμμένοι σε πεζό λόγο",
+      "Δώδεκα Οίκοι αναφέρονται στη Θεοτόκο και δώδεκα στον Χριστό",
+      "Τα είδη των Οίκων είναι δύο: οι άρτιοι και οι περιττοί, οι οποίοι είναι εκτενέστεροι (αποτελούνται από 18 στίχους και κατακλείονται από το εφύμνιο «Χαίρε, νύμφη ανύμφευτε»)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από ποια ημερομηνία αρχίζει η περίοδος προετοιμασίας των Χριστουγέννων, με αντίστοιχους ύμνους;",
+    "choices": [
+      "Από τις αρχές Δεκεμβρίου",
+      "Από τις 20 Δεκεμβρίου",
+      "Από τα τέλη Νοεμβρίου",
+      "Από τις 15 Νοεμβρίου"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι ο νόμος της ομοτονίας και ισοσυλλαβίας των τροπαρίων;",
+    "choices": [
+      "Ο τρόπος μελώδησής τους",
+      "Το είδος του ποιητικού μέτρου",
+      "Το γεγονός ότι τα διάφορα τροπάρια ενός υμνογραφήματος (π.χ. του Κανόνα) αποτελούνται από ίσο αριθμό στίχων και συλλαβών και με καθορισμένους τόνους",
+      "Η αντιστοιχία μέτρου και μουσικής"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Για ποιο θέμα σχετικό με τη Θεοτόκο συνέγραψε ακολουθία ο Μεθόδιος Κοντοστάνος, Μητροπολίτης Κερκύρας (1881-1972);",
+    "choices": [
+      "Για την Κοίμηση της Θεοτόκου",
+      "Για τη Θεοτόκο ως «Αγία Σκέπη»",
+      "Για τα Εισόδια της Θεοτόκου",
+      "Για τον Ευαγγελισμό της Θεοτόκου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πότε η Υμνολογία καθίσταται ακαδημαϊκός κλάδος στις Φιλοσοφικές Σχολές;",
+    "choices": [
+      "Από τον 18ο αι.",
+      "Από τον 20ό αι.",
+      "Από τον 19ο αι.",
+      "Στις αρχές του 21ου αι."
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Πού οφείλεται η ονομασία «Ἐξαποστειλάριο»;",
+    "choices": [
+      "Σε φράσεις από τη διδασκαλία του απ. Παύλου",
+      "Στη συχνή χρησιμοποίηση της λέξης «ἐξαπόστειλον»",
+      "Σε ορολογία από τη θεολογία Ιωάννου του Δαμασκηνού",
+      "Σε ορολογία Ιουστίνου του Φιλοσόφου και Μάρτυρος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Από πού έλαβε την ονομασία του ο ύμνος του «Κοινωνικού»;",
+    "choices": [
+      "Από την έννοια της κοινωνικότητας των ανθρώπων",
+      "Από την έννοια της Εκκλησίας ως κοινωνίας πιστών",
+      "Από την έννοια της επικοινωνίας",
+      "Από το γεγονός ότι ψάλλεται κατά την ώρα προετοιμασίας για τη Θεία Κοινωνία"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι τα «Μεσώδια»;",
+    "choices": [
+      "Τροπάρια που ψάλλονται στο τέλος των Κανόνων",
+      "Τροπάρια που προηγούνται της ψαλμώδησης του Κανόνα",
+      "Ύμνοι που ψάλλονται σε Ακολουθία μετά από αυτήν του Κανόνα",
+      "Τροπάρια που ψάλλονται μεταξύ των Ωδών του Κανόνα (καθίσματα, κοντάκιο, οίκος)"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ποια είναι η συμβολή Θεοδώρου του Στουδίτου στη διαμόρφωση του βιβλίου της Οκτωήχου;",
+    "choices": [
+      "Η διευθέτηση της σειράς των αναστάσιμων τροπαρίων",
+      "Η αναθεώρηση των Αναβαθμών της Οκτωήχου",
+      "Η ερμηνεία των αναστάσιμων Ευλογηταρίων",
+      "Η αναμόρφωση των Κανόνων των Κυριακών"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Τι είναι η «τονική ρυθμοποιία» στους ύμνους;",
+    "choices": [
+      "Η σύνθεση με βάση τη μελωδία",
+      "Η ποιητική σύνθεση με βάση τον ρυθμό",
+      "Ο τονισμός με βάση τις συλλαβές",
+      "Ο αριθμός των συλλαβών κάθε στροφής"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL104"
+  },
+  {
+    "question": "Ένα από τα πιο χαρακτηριστικά έθιμα είναι να εκδράμουν οι οικογένειες στην εξοχή και τα παιδιά να πετούν χαρταετούς:",
+    "choices": [
+      "τη Μεγάλη Παρασκευή",
+      "την Καθαρά Δευτέρα",
+      "την Πρωτοχρονιά",
+      "τη Δευτέρα του Πάσχα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Αποκορύφωση της Μεγάλης Εβδομάδας του Πάσχα είναι να συγκεντρώνονται οι πιστοί στους ναούς, να λαμβάνουν σε λαμπάδες το Άγιο Φως και να ακολουθούν πυροτεχνήματα κατά τη νύχτα:",
+    "choices": [
+      "της Μεγάλης Παρασκευής",
+      "του Μεγάλου Σαββάτου",
+      "της Κυριακής του Πάσχα",
+      "των Θεοφανίων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο Επιτάφιος, που συμβολίζει τον τάφο του Χριστού, περιφέρεται στις συνοικίες πόλεων και χωριών κατά τη Μεγάλη Παρασκευή:",
+    "choices": [
+      "του Πάσχα",
+      "των Χριστουγέννων",
+      "της Πρωτομαγιάς",
+      "του Δεκαπενταύγουστου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

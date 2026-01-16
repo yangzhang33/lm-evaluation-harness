@@ -1,0 +1,3026 @@
+[
+  {
+    "question": "Ποιος βοήθησε τον Ηρακλή να σκοτώσει τη Λερναία Ύδρα;",
+    "choices": [
+      "Ο Ιόλαος",
+      "Ο Διομήδης",
+      "Ο Δίας",
+      "Ο Ευρυσθέας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο κατόρθωμα έκανε ο Ηρακλής όταν ήταν ακόμα μωρό;",
+    "choices": [
+      "Ποιο κατόρθωμα έκανε ο Ηρακλής όταν ήταν ακόμα μωρό;",
+      "Έπιασε τον Ερυμάνθιο κάπρο",
+      "Έπνιξε τα δύο φίδια που έστειλε η θεά Ήρα",
+      "Εξόντωσε τις Στυμφαλίδες όρνιθες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο ήταν το όνομα του πατέρα του Θησέα, ο οποίος ήταν βασιλιάς της Αθήνας;",
+    "choices": [
+      "Αιγέας",
+      "Περσέας",
+      "Ηρακλής",
+      "Οδυσσέας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο ηγέτης των Τρώων κατά τη διάρκεια του Τρωικού Πολέμου;",
+    "choices": [
+      "Ο Θησέας",
+      "Ο Ηρακλής",
+      "Ο Αχιλλέας",
+      "Ο Πρίαμος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποια θεά βοήθησε τον Οδυσσέα στις περιπέτειές του;",
+    "choices": [
+      "Η Αθηνά",
+      "Η Αφροδίτη",
+      "Η Ήρα",
+      "Η Καλυψώ"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήρωας των Αργοναυτών συνόδευε τον Ιάσονα στην Αργοναυτική Εκστρατεία;",
+    "choices": [
+      "Ο Αχιλλέας",
+      "Ο Οδυσσέας",
+      "Ο Ηρακλής",
+      "Ο Περσέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο αναγνωρισμένος αρχηγός των Ελλήνων στον Τρωικό Πόλεμο;",
+    "choices": [
+      "Ο Αχιλλέας",
+      "Ο Πάρης",
+      "Ο Αγαμέμνονας",
+      "Ο Οδυσσέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο βασικός αιτιολογικός λόγος που οδήγησε στον Τρωικό Πόλεμο;",
+    "choices": [
+      "Η επιθυμία του Αγαμέμνονα να κατακτήσει νέα εδάφη για την Ελλάδα",
+      "Η απαγωγή της Ελένης από τον Πάρη, ο οποίος την έφερε στην Τροία",
+      "Οι εμπορικές διαφορές ανάμεσα στην Τροία και τις ελληνικές πόλεις",
+      "Η επιθυμία του Οδυσσέα να επιστρέψει στην Ιθάκη μετά την πολύχρονη απουσία του"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο προορισμός της Αργοναυτικής Εκστρατείας;",
+    "choices": [
+      "Τροία",
+      "Χαλκίδα",
+      "Κύπρος",
+      "Κορινθία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιον θησαυρό έψαχναν οι Αργοναύτες στην Αργοναυτική Εκστρατεία;",
+    "choices": [
+      "Το Χρυσόμαλλο Δέρας",
+      "Τα χρυσά μήλα των Εσπερίδων",
+      "Τον θησαυρό της Αθηνάς",
+      "Τους λωτούς"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο θηρίο έπρεπε να νικήσει ο Θησέας κατά την επιστροφή του από την Κρήτη, όταν είχε απαχθεί από τον Μίνωα;",
+    "choices": [
+      "Τον Κένταυρο",
+      "Τον Μινώταυρο",
+      "Τη Μέδουσα",
+      "Τη Χίμαιρα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο πατέρας του Δία;",
+    "choices": [
+      "Χάος",
+      "Κρόνος",
+      "Ουρανός",
+      "Πόντος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η Δήμητρα ήταν η θεά:",
+    "choices": [
+      "Της ομορφιάς",
+      "Της σοφίας",
+      "Του κυνηγιού",
+      "Της γεωργίας"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Τι φύλαγε ο Κέρβερος;",
+    "choices": [
+      "Τον κήπο των Εσπερίδων",
+      "Τον Όλυμπο",
+      "Την είσοδο του Άδη",
+      "Τους στάβλους του Αυγεία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο πρώτος σταθμός του Οδυσσέα μετά την αναχώρησή του από την Τροία;",
+    "choices": [
+      "Το νησί των Λωτοφάγων",
+      "Το νησί των Κικόνων",
+      "Το νησί των Φαιάκων",
+      "Το νησί της Καλυψώς"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιανού σύμβολο ήταν η τρίαινα;",
+    "choices": [
+      "Ποσειδώνας",
+      "Δίας",
+      "Ερμής",
+      "Άρης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποια από τα παρακάτω δεν αντιμετώπισε ο Οδυσσέας;",
+    "choices": [
+      "Τον Κύκλωπα",
+      "Τους μνηστήρες",
+      "Τις Σειρήνες",
+      "Τις Αμαζόνες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο αντικείμενο έδωσε η Αριάδνη στον Θησέα για να τον βοηθήσει να βγει από τον λαβύρινθο του Μινώταυρου;",
+    "choices": [
+      "Ένα μαχαίρι",
+      "Ένα μαγικό φίλτρο",
+      "Ένα κλειδί",
+      "Ένα κουβάρι νήμα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Στην ελληνιστική ποίηση παίζει σημαντικό ρόλο η μετάβαση από την προφορική διάδοση της ποίησης στη γραπτή μορφή της, γεγονός που επιτρέπει:",
+    "choices": [
+      "την ατομική πρόσληψη της ποίησης και όχι μόνο την εκτέλεσή της σε αγώνες και εορτές",
+      "τη σύνθεση πολυεπίπεδης ποίησης, που με κάθε νέα ανάγνωση προσφέρει πολλαπλές ερμηνείες και ευχαρίστηση από την ανακάλυψή τους",
+      "την έντεχνη επεξεργασία των ποιημάτων",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το νεύμα της Δάφνης μετά τη μεταμόρφωσή της σε δέντρο σημαίνει:",
+    "choices": [
+      "την αδιαμφισβήτητη νίκη του Απόλλωνα",
+      "την εκούσια παράδοσή της στον θεό",
+      "την αδυναμία της να πάρει θέση και την απουσία της γυναικείας φωνής και οπτικής στην κατασκευασμένη από άνδρες ποίηση",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιος ήταν ο ηγέτης των Τρώων κατά τη διάρκεια του Τρωικού Πολέμου;",
+    "choices": [
+      "Ο Θησέας",
+      "Ο Ηρακλής",
+      "Ο Αχιλλέας",
+      "Ο Πρίαμος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποια από τα παρακάτω δεν αντιμετώπισε ο Οδυσσέας;",
+    "choices": [
+      "Τον Κύκλωπα",
+      "Τους μνηστήρες",
+      "Τις Σειρήνες",
+      "Τις Αμαζόνες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Στα τέλη του 4ου αι. μ.Χ. ο Θεοδόσιος αποφασίζει με διάταγμα:",
+    "choices": [
+      "την αναστύλωση όλων των αρχαίων ναών",
+      "την αναβίωση των Ολυμπιακών Αγώνων",
+      "την επαναλειτουργία του μαντείου των Δελφών",
+      "την απαγόρευση κάθε θρησκείας της ρωμαϊκής αυτοκρατορίας πλην του Χριστιανισμού"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Ασκληπιός είναι θεός της ιατρικής και γιος του Απόλλωνα και της",
+    "choices": [
+      "Δάφνης",
+      "Κορωνίδας",
+      "Μάρπησσας",
+      "Σεμέλης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αφήγηση που έχει πλοκή με αρχή, μέση και τέλος, ήρωες, σκηνικό χώρου και χρόνου και ρίζες στην προφορική παράδοση ονομάζεται:",
+    "choices": [
+      "θρύλος",
+      "αιτιολογικός μύθος",
+      "ιστορία",
+      "παραμύθι"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Πλάτωνας απορρίπτει τους μύθους:",
+    "choices": [
+      "γιατί δεν καλλιεργούν τον ορθό λόγο",
+      "γιατί απευθύνονται στο συναίσθημα του ανθρώπου",
+      "γιατί φορέας τους είναι η επικίνδυνη ποίηση",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποια θεά βοήθησε τον Οδυσσέα στις περιπέτειές του;",
+    "choices": [
+      "Η Αθηνά",
+      "Η Αφροδίτη",
+      "Η Ήρα",
+      "Η Καλυψώ"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο πρώτος σταθμός του Οδυσσέα μετά την αναχώρησή του από την Τροία;",
+    "choices": [
+      "Το νησί των Λωτοφάγων",
+      "Το νησί των Κικόνων",
+      "Το νησί των Φαιάκων",
+      "Το νησί της Καλυψώς"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Μία ιστορία ονομάζεται «παραδοσιακή» διότι:",
+    "choices": [
+      "οι απαρχές της βρίσκονται στο παρελθόν",
+      "επιβιώνει λόγω της σημασίας της για το ευρύτερο κοινωνικό σύνολο",
+      "μεταφέρεται προφορικά",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Την ερωτεύτηκε ο Απόλλωνας αλλά τον απέρριψε με την αιτιολογία ότι θα γεράσει, ενώ ο θεός θα παραμείνει νέος",
+    "choices": [
+      "η Κασσάνδρα",
+      "η Κορωνίδα",
+      "η Σίβυλλα της Κύμης",
+      "η Μάρπησσα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι απαρχές του μύθου:",
+    "choices": [
+      "μπορούν εύκολα να εντοπιστούν από τους φιλολόγους ακόμα και αιώνες μετά",
+      "θα μπορούσαν να εξακριβωθούν αν είχε σωθεί όλη η γραπτή παράδοση του εκάστοτε πολιτισμού",
+      "δεν είναι δυνατόν να διευκρινιστούν διότι ανήκουν στην προφορική παράδοση",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιος ήταν ο πατέρας του Δία;",
+    "choices": [
+      "Χάος",
+      "Κρόνος",
+      "Ουρανός",
+      "Πόντος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η Δήμητρα ήταν η θεά:",
+    "choices": [
+      "Της ομορφιάς",
+      "Της σοφίας",
+      "Του κυνηγιού",
+      "Της γεωργίας"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήρωας των Αργοναυτών συνόδευε τον Ιάσονα στην Αργοναυτική Εκστρατεία;",
+    "choices": [
+      "Ο Αχιλλέας",
+      "Ο Οδυσσέας",
+      "Ο Ηρακλής",
+      "Ο Περσέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Ξενοφάνης από την Κολοφώνα:",
+    "choices": [
+      "αποδέχεται και κατανοεί την παρουσία των θεών με τη μορφή και τη συμπεριφορά ανθρώπων στους μύθους",
+      "ισχυρίζεται ότι και τα ζώα, αν λάτρευαν θεούς, θα τους απεικόνιζαν όμοιους με τα ίδια",
+      "ερμηνεύει το μύθο ως αλληγορία",
+      "θεωρεί ότι οι μύθοι προσφέρουν πολιτική και φιλοσοφική διδασκαλία."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το μαντείο των Δελφών γνωρίζει αναλαμπή στα μέσα του 4ου αι. μ.Χ. στα χρόνια του αυτοκράτορα",
+    "choices": [
+      "Νέρωνα",
+      "Μάρκου Αυρηλίου",
+      "Ιουλιανού",
+      "Θεοδοσίου"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η τριπλή αναφορά στη Θήβα μέσα στον ομηρικό ύμνο προς τον Πύθιο Απόλλωνα δηλώνει:",
+    "choices": [
+      "τη μνήμη της αρχαιότητας της πόλης",
+      "τη σημασία της κατά την αρχαϊκή περίοδο",
+      "τις ομοιότητες ανάμεσα στην ίδρυση της πόλης και του μαντείου",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η διαφορά ενός λογοτεχνικά καταγεγραμμένου μυθικού επεισοδίου από τον αντίστοιχο ευρύτερο μύθο είναι ότι ο δεύτερος:",
+    "choices": [
+      "δεν έχει επώνυμο συγγραφέα",
+      "βασίζεται στην προφορική παράδοση",
+      "προηγείται χρονικά του πρώτου",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ιδέα του πανελληνισμού και η χρήση του μύθου για τόνωση του 'εθνικού' αισθήματος:",
+    "choices": [
+      "δεν εμφανίζεται σε κανέναν αρχαιοελληνικό μύθο",
+      "κάνει την εμφάνισή της ήδη στην Ιλιάδα",
+      "εμφανίζεται την κλασική περίοδο",
+      "εμφανίζεται την ελληνιστική περίοδο"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Αξιοποίησε τον μύθο για διδακτικούς σκοπούς, κυρίως στην πολιτική ζωή:",
+    "choices": [
+      "ο Σωκράτης και ο Πλάτωνας",
+      "ο Θεαγένης και ο Αναξαγόρας",
+      "ο Ξενοφάνης και ο Θεαγένης",
+      "ο Αισχύλος και ο Ευριπίδης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το αφιερωμένο στον Απόλλωνα μαντείο των Δελφών γνωρίζει ακμή",
+    "choices": [
+      "τον 8ο αι. π.Χ.",
+      "τον 5ο και 4ο αι. π.Χ.",
+      "το 146 π.Χ.",
+      "τον 3ο αι. μ.Χ."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στον μύθο του Απόλλωνα και της Δάφνης στο 1ο βιβλίο των Μεταμορφώσεων του Οβιδίου ο Έρωτας:",
+    "choices": [
+      "τοξεύει τον Απόλλωνα και τον μετατρέπει από επικό σε ελεγειακό ήρωα",
+      "αναγνωρίζει τον Απόλλωνα ως καλύτερο τοξότη",
+      "θαυμάζει το κατόρθωμα του Απόλλωνα που μόλις σκότωσε τον Πύθωνα",
+      "σημαδεύει τη Δάφνη με βέλος με χρυσή μύτη και τον Απόλλωνα με χάλκινη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στον μύθο της Αθηνάς και της Αράχνης στο 6ο βιβλίο των Μεταμορφώσεων η Αράχνη:",
+    "choices": [
+      "αποκτά φήμη χάρη στο ταλέντο και την τέχνη της",
+      "αποτελεί αντανάκλαση της Αθηνάς στο ανθρώπινο επίπεδο, γιατί και οι δύο υφαίνουν και δεν έχουν μητέρα",
+      "είναι υβριστική απέναντι στη θεά",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιο ήταν το όνομα του πατέρα του Θησέα, ο οποίος ήταν βασιλιάς της Αθήνας;",
+    "choices": [
+      "Αιγέας",
+      "Περσέας",
+      "Ηρακλής",
+      "Οδυσσέας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο θηρίο έπρεπε να νικήσει ο Θησέας κατά την επιστροφή του από την Κρήτη, όταν είχε απαχθεί από τον Μίνωα;",
+    "choices": [
+      "Τον Κένταυρο",
+      "Τον Μινώταυρο",
+      "Τη Μέδουσα",
+      "Τη Χίμαιρα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιο αντικείμενο έδωσε η Αριάδνη στον Θησέα για να τον βοηθήσει να βγει από τον λαβύρινθο του Μινώταυρου;",
+    "choices": [
+      "Ένα μαχαίρι",
+      "Ένα μαγικό φίλτρο",
+      "Ένα κλειδί",
+      "Ένα κουβάρι νήμα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Μία αφήγηση με απαρχές σε ιστορικά γεγονότα ονομάζεται:",
+    "choices": [
+      "θρύλος",
+      "παραμύθι",
+      "ψέμα",
+      "μύθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι ερωτικές σχέσεις του Απόλλωνα",
+    "choices": [
+      "είναι πολλές και όλες επιτυχείς",
+      "αποτυγχάνουν να τον οδηγήσουν στην πλήρη ωρίμανση του ως ενήλικα άνδρα",
+      "είναι επιτυχείς σε ό,τι αφορά τις σχέσεις του με νεαρούς",
+      "δεν επιτυγχάνουν, διότι σκότωσε τα παιδιά της Νιόβης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι ποιητές της ελληνιστικής εποχής, όντας φιλόλογοι:",
+    "choices": [
+      "εφάρμοζαν στην ποίησή τους τις αρχές που διείπαν την επιστημονική προσέγγιση των κειμένων",
+      "απευθύνονταν σε κάθε αναγνώστη είτε γνώριζε την προηγούμενη λογοτεχνική παράδοση είτε όχι",
+      "δε φρόντιζαν ιδιαίτερα τη μορφή των ποιημάτων τους",
+      "δεν ενδιαφέρονταν να διαλεχθούν με την παράδοση ή να την ανταγωνιστούν."
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στον Πρόλογο των Αἰτίων του ο Καλλίμαχος:",
+    "choices": [
+      "εγκαταλείπει το μοτίβο του θεόπνευστου ποιητή",
+      "δηλώνει συνεχιστής της προηγούμενης ομηρικού τύπου μακροσκελούς ποίησης",
+      "εν είδει ποιητικού μανιφέστου διατυπώνει τις αρχές της ποιητικής του κατ' αντιδιαστολήν της τέχνης των ομοτέχνων του, των φθονερών «Τελχίνων»",
+      "απορρίπτει την ολιγοστιχία και την προτίμηση σε μικρά θέματα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Βιργίλιος χρησιμοποιεί τον μύθο του Μινώταυρου:",
+    "choices": [
+      "για να επέμβει στον μύθο μεταφέροντας τον Θησέα στην Κύμη",
+      "για να ταυτίσει την περιπλάνηση στον «αξεδιάλυτο λαβύρινθο» (inextricabilis error) με τη διανοητική περιπλάνηση του αναγνώστη της Αινειάδας",
+      "γιατί ο Θησέας και τα ηρωικά του κατορθώματα ήταν σημαντικά στη ρωμαϊκή παράδοση",
+      "για να ανασυνθέσει τον μύθο του Ίκαρου."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιο κατόρθωμα έκανε ο Ηρακλής όταν ήταν ακόμα μωρό;",
+    "choices": [
+      "Ποιο κατόρθωμα έκανε ο Ηρακλής όταν ήταν ακόμα μωρό;",
+      "Έπιασε τον Ερυμάνθιο κάπρο",
+      "Έπνιξε τα δύο φίδια που έστειλε η θεά Ήρα",
+      "Εξόντωσε τις Στυμφαλίδες όρνιθες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος βοήθησε τον Ηρακλή να σκοτώσει τη Λερναία Ύδρα;",
+    "choices": [
+      "Ο Ιόλαος",
+      "Ο Διομήδης",
+      "Ο Δίας",
+      "Ο Ευρυσθέας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο αναγνωρισμένος αρχηγός των Ελλήνων στον Τρωικό Πόλεμο;",
+    "choices": [
+      "Ο Αχιλλέας",
+      "Ο Πάρης",
+      "Ο Αγαμέμνονας",
+      "Ο Οδυσσέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ένας μύθος:",
+    "choices": [
+      "έχει οπωσδήποτε επώνυμο συγγραφέα",
+      "πρώτα καταγράφεται και έπειτα μεταδίδεται και προφορικά",
+      "εμφανίζεται με μία και μόνο εκδοχή",
+      "μπορεί στην πορεία του στον χρόνο να τροποποιηθεί ανάλογα με τις αξίες του πολιτισμού που τον προσλαμβάνει."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο ρωμαϊκός όρος 'fabula' σημαίνει, όπως και ο 'μύθος':",
+    "choices": [
+      "λόγο ενώπιον συνέλευσης λαού",
+      "συμβουλή, νουθεσία",
+      "ιστορία, αφήγηση",
+      "απόφαση, σχέδιο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σε αντίθεση με τους ανατολικούς πολιτισμούς οι ιερείς των μαντείων στην αρχαία Ελλάδα",
+    "choices": [
+      "αποτελούν μία κλειστή τάξη εκλεκτών",
+      "είναι οι μόνοι που γνωρίζουν τη γραφή",
+      "τελούν τις τελετές ιδιωτικά εντός των ιερών",
+      "είναι πολίτες που αναλαμβάνουν καθήκοντα ιερέα εφ' όρου ζωής ή για ένα διάστημα."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με το τελετουργικό της μύησης και της ενηλικίωσης/ηρωοποίησης, πριν τη θριαμβευτική επιστροφή του ώριμου ενήλικα/καταξιωμένου ήρωα προηγείται:",
+    "choices": [
+      "ο αποχωρισμός",
+      "η περιθωριοποίηση",
+      "τα κατορθώματα",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Τυφάωνας και ο Τυφωέας",
+    "choices": [
+      "είναι το ίδιο τέρας στην αρχαϊκή παράδοση",
+      "είναι χθόνιες δυνάμεις που προέρχονται από το θηλυκό για την ανατροπή της θεϊκής τάξης που εκπροσωπεί το αρσενικό",
+      "γεννήθηκαν από την Ήρα",
+      "προστατεύουν την περιοχή της Τελφούσας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το γεγονός ότι στην τέχνη ο Απόλλωνας δεν αναπαριστάται ποτέ γενειοφόρος οφείλεται στο:",
+    "choices": [
+      "ότι ως θεός που βρίσκεται στο μεταίχμιο είναι παγιδευμένος στο στάδιο της μετάβασης από τη νεότητα στην ενηλικίωση",
+      "ότι είναι θεός της μουσικής",
+      "στο ότι ταυτίστηκε σε μεταγενέστερες παραδόσεις με τον Ήλιο",
+      "σε όλα τα παραπάνω."
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιανού σύμβολο ήταν η τρίαινα;",
+    "choices": [
+      "Ποσειδώνας",
+      "Δίας",
+      "Ερμής",
+      "Άρης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο ποιητής της ελληνιστικής εποχής που ανανεώνει το είδος της κωμωδίας είναι ο:",
+    "choices": [
+      "Θεόκριτος",
+      "Απολλώνιος ο Ρόδιος",
+      "Καλλίμαχος",
+      "Μένανδρος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιος ήταν ο προορισμός της Αργοναυτικής Εκστρατείας;",
+    "choices": [
+      "Τροία",
+      "Χαλκίδα",
+      "Κύπρος",
+      "Κορινθία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιος ήταν ο βασικός αιτιολογικός λόγος που οδήγησε στον Τρωικό Πόλεμο;",
+    "choices": [
+      "Η επιθυμία του Αγαμέμνονα να κατακτήσει νέα εδάφη για την Ελλάδα",
+      "Η απαγωγή της Ελένης από τον Πάρη, ο οποίος την έφερε στην Τροία",
+      "Οι εμπορικές διαφορές ανάμεσα στην Τροία και τις ελληνικές πόλεις",
+      "Η επιθυμία του Οδυσσέα να επιστρέψει στην Ιθάκη μετά την πολύχρονη απουσία του"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η πρώτη εμφάνιση του όρου 'μύθος' ή ομόρριζού του στην αρχαία ελληνική λογοτεχνία:",
+    "choices": [
+      "είναι πολύ καθυστερημένη",
+      "εντοπίζεται ήδη στην ομηρική ποίηση",
+      "δηλώνει μία και μόνο σημασία του όρου",
+      "δεν έχει ερμηνευθεί"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τι φύλαγε ο Κέρβερος;",
+    "choices": [
+      "Τον κήπο των Εσπερίδων",
+      "Τον Όλυμπο",
+      "Την είσοδο του Άδη",
+      "Τους στάβλους του Αυγεία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ποιον θησαυρό έψαχναν οι Αργοναύτες στην Αργοναυτική Εκστρατεία;",
+    "choices": [
+      "Το Χρυσόμαλλο Δέρας",
+      "Τα χρυσά μήλα των Εσπερίδων",
+      "Τον θησαυρό της Αθηνάς",
+      "Τους λωτούς"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η εξέλιξη ενός μύθου στην πορεία του χρόνου οφείλεται:",
+    "choices": [
+      "στην προφορική του μορφή",
+      "στην προσαρμογή του στα εκάστοτε πολιτισμικά δεδομένα",
+      "στον διάλογο συγγραφέων με προηγούμενες λογοτεχνικές παραδόσεις",
+      "σε όλα τα παραπάνω ή σε ορισμένα από αυτά, κατά περίπτωση"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Αιτιολογικός ονομάζεται ο μύθος:",
+    "choices": [
+      "που ερμηνεύει τις απαρχές του κόσμου",
+      "που αιτιολογεί την ονομασία ενός προσώπου/φυτού/τοποθεσίας κ.ά.",
+      "που εξηγεί την απαρχή μιας θρησκευτικής τελετουργίας",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο 3ος αι. π.Χ. αποτελεί σταθμό για την πνευματική κίνηση στην Αλεξάνδρεια γιατί:",
+    "choices": [
+      "δημιουργείται ο πρώτος φιλολογικός κύκλος",
+      "ιδρύεται η πρώτη βιβλιοθήκη",
+      "συγκροτούνται οι πρώτες κριτικές εκδόσεις κειμένων",
+      "όλα τα παραπάνω."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το υφαντό της Αθηνάς:",
+    "choices": [
+      "απεικονίζει τις ατασθαλίες των θεών",
+      "παριστάνει την ίδια θριαμβεύτρια στην κεντρική παράσταση μεταξύ των θεών και στις τέσσερις περιφερειακές τιμωρώντας θνητούς υβριστές",
+      "παρουσιάζει θεούς μεταμορφωμένους σε ζώα για να αποπλανήσουν μία θνητή",
+      "εμφανίζει τη Νίκη να στεφανώνει το έργο της Αράχνης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αθηνά τιμωρεί την Αράχνη γιατί:",
+    "choices": [
+      "δεν αξιοποίησε το ταλέντο της",
+      "το υφαντό της ήταν κακοδουλεμένο",
+      "προσέβαλε τον πατέρα της",
+      "δε δάμασε την καλλιτεχνική της ευφυΐα και παρασύρθηκε."
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στην ποίηση του Οβιδίου μεγαλύτερη σημασία έχει:",
+    "choices": [
+      "ο έρωτας",
+      "η γνώση, το ταλέντο και η διανοητική εργασία",
+      "η διατήρηση των μύθων χωρίς μεταβολές",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ποιος προειδοποίησε τον Οδυσσέα να μην φάει τα βόδια του Ήλιου;",
+    "choices": [
+      "Ο Κάλχας",
+      "Ο Ποσειδώνας",
+      "Ο Τειρεσίας",
+      "Ο Δίας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς σκότωσε ο Ηρακλής τον Κένταυρο Νέσσο;",
+    "choices": [
+      "Με το ρόπαλό του",
+      "Με σπαθί",
+      "Με δηλητηριασμένο βέλος",
+      "Με γυμνά χέρια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρότεινε η Πηνελόπη στους μνηστήρες;",
+    "choices": [
+      "Να φύγουν από το παλάτι",
+      "Να διαγωνιστούν και να πετύχουν μία δύσκολη πρόκληση",
+      "Να παντρευτεί όποιον θέλει",
+      "Να πολεμήσουν μεταξύ τους"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος/ποια βοήθησε τον Ιάσονα να πάρει το Χρυσόμαλλο Δέρας;",
+    "choices": [
+      "Ο Πελίας",
+      "Ο Ορφέας",
+      "Ο Αιήτης",
+      "Η Μήδεια"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε η Δηιάνειρα με τον χιτώνα του Ηρακλή;",
+    "choices": [
+      "Τον έκρυψε",
+      "Τον άλειψε με το αίμα του Νέσσου",
+      "Τον πούλησε",
+      "Τον έκαψε"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στον Όλυμπο, ποιοι έτρωγαν αμβροσία και έπιναν νέκταρ;",
+    "choices": [
+      "Οι άνθρωποι",
+      "Οι θεοί",
+      "Οι Τιτάνες",
+      "Οι ήρωες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έγινε με τα χρυσά μήλα αφού τα πήρε ο Ηρακλής;",
+    "choices": [
+      "Ο Ηρακλής τα έδωσε πίσω",
+      "Ο Πλούτωνας θύμωσε",
+      "Ο Ηρακλής τα πούλησε",
+      "Τα μοίρασε στους θεούς"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια θεά ήταν γνωστή για τη ζηλοτυπία της;",
+    "choices": [
+      "Αφροδίτη",
+      "Άρτεμις",
+      "Ήρα",
+      "Εστία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι νίκησαν στην Τιτανομαχία;",
+    "choices": [
+      "Οι Τιτάνες",
+      "Οι θεοί",
+      "Οι άνθρωποι",
+      "Το Χάος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς σκότωσε ο Ηρακλής το λιοντάρι της Νεμέας;",
+    "choices": [
+      "Με ένα βέλος",
+      "Με ένα σπαθί",
+      "Με ένα δόρυ",
+      "Με τα χέρια του, πνίγοντάς το"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο Αίολος;",
+    "choices": [
+      "Ο βασιλιάς των Λαιστρυγόνων",
+      "Ένας σύντροφος του Οδυσσέα",
+      "Ο θεός των ανέμων",
+      "Ο πατέρας της Κίρκης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη όταν οι μνηστήρες προσπάθησαν να τεντώσουν το τόξο του Οδυσσέα;",
+    "choices": [
+      "Όλοι οι μνηστήρες το έσπασαν",
+      "Όλοι οι μνηστήρες το τέντωσαν εύκολα",
+      "Κανένας από τους μνηστήρες δεν μπόρεσε να το τεντώσει",
+      "Το πέταξαν στη θάλασσα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος βοήθησε τον Πάρη να σκοτώσει τον Αχιλλέα;",
+    "choices": [
+      "Ο θεός Άρης",
+      "Ο θεός Ερμής",
+      "Η θεά Αθηνά",
+      "Ο θεός Απόλλωνας"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος προειδοποίησε τους Αργοναύτες για τις Συμπληγάδες πέτρες;",
+    "choices": [
+      "Ο Πελίας",
+      "Ο Χείρων",
+      "Ο Φινέας",
+      "Ο Ιάσονας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Ηρακλής υπηρέτησε 12 χρόνια τον Ευρυσθέα;",
+    "choices": [
+      "Για να εξιλεωθεί από το κακό που έκανε",
+      "Γιατί ήθελε να γίνει ισχυρός",
+      "Γιατί τον διέταξε ο πατέρας του",
+      "Γιατί αγαπούσε τον Ευρυσθέα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια θεά της γεωργίας προστάτευε τις καλλιέργειες και τη βλάστηση;",
+    "choices": [
+      "Άρτεμις",
+      "Αθηνά",
+      "Αφροδίτη",
+      "Δήμητρα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς έκανε η Θέτιδα τον Αχιλλέα σχεδόν αθάνατο;",
+    "choices": [
+      "Τον βούτηξε στα νερά της Στύγας",
+      "Τον έκρυψε σε ένα μαγικό δάσος",
+      "Τον έβαψε σε μαγικό λάδι",
+      "Του έδωσε ένα μαγικό φυλαχτό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι φύλαγαν τα χρυσά μήλα των Εσπερίδων;",
+    "choices": [
+      "Ο Ποσειδώνας",
+      "Ο Ερμής",
+      "Ένας δράκος και οι Εσπερίδες",
+      "Ο Δίας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Αθάμας σκέφτηκε να θυσιάσει τον Φρίξο;",
+    "choices": [
+      "Γιατί τον μισούσε",
+      "Για να σώσει τη σοδειά",
+      "Επειδή ήθελε να ευχαριστήσει την Ινώ",
+      "Για να γίνει βασιλιάς"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν ο Δούρειος Ίππος;",
+    "choices": [
+      "Ένα πραγματικό άλογο",
+      "Ένα μεγάλο ξύλινο άλογο, κούφιο από μέσα",
+      "Ένα καράβι των Ελλήνων",
+      "Ένα ξύλινο παιχνίδι"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο πατέρας του Έκτορα;",
+    "choices": [
+      "Αχιλλέας",
+      "Μενέλαος",
+      "Αγαμέμνονας",
+      "Πρίαμος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος πλήρωνε φόρο στον βασιλιά της Κρήτης;",
+    "choices": [
+      "Η Σπάρτη",
+      "Η Θήβα",
+      "Η Κόρινθος",
+      "Η Αθήνα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι χρησιμοποίησε ο Ηρακλής για να διώξει τις Στυμφαλίδες όρνιθες;",
+    "choices": [
+      "Τόξο",
+      "Σπαθί",
+      "Ασπίδα",
+      "Κρόταλα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος θεός τιμώρησε τους συντρόφους του Οδυσσέα επειδή έφαγαν τα βόδια του Ήλιου;",
+    "choices": [
+      "Ο Δίας",
+      "Ο Άρης",
+      "Ο Ποσειδώνας",
+      "Ο Ήφαιστος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια συμβουλή του Αχιλλέα παράκουσε ο Πάτροκλος;",
+    "choices": [
+      "Να μην πολεμήσει καθόλου",
+      "Να μη φορέσει την πανοπλία του",
+      "Να μην πάρει μαζί του τους Μυρμιδόνες",
+      "Να μη διώξει τους Τρώες ως τα τείχη της Τροίας"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιανού θεού ήταν γιος ο Πολύφημος;",
+    "choices": [
+      "Γιος του Απόλλωνα",
+      "Γιος του Δία",
+      "Γιος του Ποσειδώνα",
+      "Γιος του Άρη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο δίδυμος αδελφός της Αρτέμιδος;",
+    "choices": [
+      "Δίας",
+      "Απόλλων",
+      "Ποσειδώνας",
+      "Άρης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος έστειλε τον Ηρακλή να φέρει το ελάφι με τα χρυσά κέρατα;",
+    "choices": [
+      "Η Αθηνά",
+      "Ο Ευρυσθέας",
+      "Ο Δίας",
+      "Ο Ποσειδώνας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσους νέους και πόσες νέες έπρεπε να στέλνει η Αθήνα στην Κρήτη ως φόρο υποτέλειας στον Μίνωα;",
+    "choices": [
+      "Επτά νέους και επτά νέες",
+      "Πέντε νέους και πέντε νέες",
+      "Εννιά νέους και εννιά νέες",
+      "Δέκα νέους και δέκα νέες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια ήταν η μητέρα του Απόλλωνα;",
+    "choices": [
+      "Άρτεμις",
+      "Ήρα",
+      "Λητώ",
+      "Αθηνά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού βρισκόταν ο κήπος των Εσπερίδων;",
+    "choices": [
+      "Στη μέση της Γης",
+      "Στις παρυφές του Ουρανού",
+      "Στα πέρατα του κόσμου",
+      "Στο κέντρο της Αθήνας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς κατάφερε ο Ηρακλής να καθαρίσει τους στάβλους του Αυγεία;",
+    "choices": [
+      "Με σκούπες",
+      "Με το χέρι",
+      "Με φωτιά",
+      "Με το ρεύμα δύο ποταμών"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Αχιλλέας μονομάχησε με τον Έκτορα;",
+    "choices": [
+      "Για να κερδίσει τιμή και δόξα",
+      "Για να προστατέψει τους Αχαιούς",
+      "Για να εκδικηθεί τον θάνατο του Πάτροκλου",
+      "Για να πάρει λάφυρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη στα πλοία του Οδυσσέα στη γη των Λαιστρυγόνων;",
+    "choices": [
+      "Όλα τα πλοία έφτασαν με ασφάλεια",
+      "Οι Λαιστρυγόνες τα καλωσόρισαν",
+      "Μόνο το πλοίο του Οδυσσέα γλίτωσε",
+      "Τα πλοία ταξίδεψαν μαζί"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ήταν το όνομα του τέρατος που ζούσε στον Λαβύρινθο;",
+    "choices": [
+      "Κένταυρος",
+      "Μινώταυρος",
+      "Κύκλωπας",
+      "Πήγασος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Προμηθέας έκλεψε τη φωτιά;",
+    "choices": [
+      "Για να βοηθήσει τους ανθρώπους",
+      "Για να γίνει αρχηγός των ανθρώπων",
+      "Για να εκδικηθεί τον Δία",
+      "Για να κάνει μαγειρικές δοκιμές"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Αγαμέμνονας κάλεσε τις Οινότροπες στην Τροία;",
+    "choices": [
+      "Για να πολεμήσουν",
+      "Για να προβλέψουν το μέλλον",
+      "Για να προμηθεύσουν τον στρατό με φαγητό",
+      "Για να τραγουδήσουν"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε ο Ηρακλής με τα ανθρωποφάγα άλογα του Διομήδη;",
+    "choices": [
+      "Τα σκότωσε",
+      "Τα ημέρεψε",
+      "Τα πούλησε",
+      "Τα άφησε ελεύθερα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έριξε η Μήδεια στα μάτια του δράκοντα που φύλαγε το Χρυσόμαλλο Δέρας;",
+    "choices": [
+      "Νερό",
+      "Πέτρα",
+      "Φωτιά",
+      "Μαγικό φίλτρο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια θεά προστάτευε το ελάφι με τα χρυσά κέρατα;",
+    "choices": [
+      "Ήρα",
+      "Αφροδίτη",
+      "Άρτεμις",
+      "Δήμητρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο πρώτος Αχαιός που πάτησε στην Τροία και σκοτώθηκε;",
+    "choices": [
+      "Πρωτεσίλαος",
+      "Οδυσσέας",
+      "Αγαμέμνονας",
+      "Αχιλλέας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος θεός συνόδευε τις ψυχές των νεκρών στον Κάτω Κόσμο;",
+    "choices": [
+      "Δίας",
+      "Άρης",
+      "Ήφαιστος",
+      "Ερμής"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια κοπέλα βοήθησε τον Θησέα να νικήσει τον Μινώταυρο;",
+    "choices": [
+      "Μήδεια",
+      "Αριάδνη",
+      "Ελένη",
+      "Πηνελόπη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι σωστό για τους θεούς του Ολύμπου;",
+    "choices": [
+      "Οι Έλληνες λάτρευαν τους θεούς μόνο σε ιερά έξω από τις πόλεις",
+      "Η Αφροδίτη γεννήθηκε μέσα σε ένα μεγάλο κοχύλι",
+      "Η Άρτεμη είναι η θεά του κυνηγιού και αδελφή του Απόλλωνα",
+      "Η Αθηνά γεννήθηκε από την Ήρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω ήταν μία από τις δοκιμασίες που έπρεπε να εκτελέσει ο Ιάσονας για να αποκτήσει το Χρυσόμαλλο Δέρας;",
+    "choices": [
+      "Να ζέψει δύο ταύρους με χάλκινες οπλές και να οργώσει ένα χωράφι",
+      "Να σκοτώσει ένα λιοντάρι",
+      "Να κολυμπήσει σε ένα ποτάμι",
+      "Να σκαρφαλώσει σε ένα βουνό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο βασιλιάς της Τροιζήνας;",
+    "choices": [
+      "Ο Πιτθέας",
+      "Ο Θησέας",
+      "Ο Αιγέας",
+      "Ο Ποσειδώνας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ποτό έπιναν οι θεοί του Ολύμπου σύμφωνα με τη μυθολογία;",
+    "choices": [
+      "Νέκταρ",
+      "Αμβροσία",
+      "Κρασί",
+      "Νερό"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος έστειλε τον χρυσόμαλλο κριό για να σώσει τον Φρίξο και την Έλλη;",
+    "choices": [
+      "Ο Αθάμας",
+      "Η Ινώ",
+      "Ο Δίας",
+      "Η Νεφέλη"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια περιοχή της Ελλάδας ζούσε ο Αθάμας;",
+    "choices": [
+      "Βοιωτία",
+      "Αργολίδα",
+      "Κολχίδα",
+      "Κρήτη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια ήταν η συνέπεια όταν ο Αιγέας είδε τα μαύρα πανιά στο πλοίο του Θησέα;",
+    "choices": [
+      "Πήδηξε στη θάλασσα από τη λύπη του",
+      "Οργάνωσε γιορτή για την επιστροφή του",
+      "Έστειλε τον Θησέα πίσω στην Κρήτη",
+      "Έδωσε το θρόνο στον Μίνωα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα ήταν τα ανθρωποφάγα άλογα του Διομήδη της Θράκης;",
+    "choices": [
+      "Δύο άλογα",
+      "Τέσσερα άλογα",
+      "Πέντε άλογα",
+      "Τρία άλογα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν το χρυσόμαλλο δέρας;",
+    "choices": [
+      "Το δέρμα ενός μαγικού κριαριού",
+      "Το δέρμα λιονταριού",
+      "Μια χρυσή κουβέρτα",
+      "Το δέρμα ενός δράκου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιον δόθηκε ο χρησμός «να φοβάσαι τον μονοσάνδαλο»;",
+    "choices": [
+      "Ο πατέρας του Ιάσονα",
+      "Ο Κένταυρος Χείρωνας",
+      "Ο Πελίας",
+      "Ο Φινέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιον χρόνο του Τρωικού πολέμου μάλωσαν ο Αχιλλέας και ο Αγαμέμνονας;",
+    "choices": [
+      "Πρώτο χρόνο",
+      "Ενδέκατο χρόνο",
+      "Πέμπτο χρόνο",
+      "Δέκατο χρόνο"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έδωσε η Αριάδνη στον Θησέα για να βρει την έξοδο του λαβυρίνθου;",
+    "choices": [
+      "Κουβάρι νήματος",
+      "Μαγικό ξίφος",
+      "Μαγικό λουλούδι",
+      "Χάρτη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε ο Αχιλλέας με το νεκρό σώμα του Έκτορα;",
+    "choices": [
+      "Το έθαψε με τιμές",
+      "Το έσυρε πίσω από το άρμα του",
+      "Το παρέδωσε αμέσως στον Πρίαμο",
+      "Το έκαψε"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την Ιλιάδα, γιατί ο Ήφαιστος ήταν κουτσός;",
+    "choices": [
+      "Από τη γέννησή του",
+      "Τον έριξε ο Δίας από τον Όλυμπο",
+      "Από πάλεμα με τον Άρη",
+      "Από ατύχημα στο εργαστήριό του"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι άφησε κρυμμένο ο Αιγέας κάτω από έναν βράχο;",
+    "choices": [
+      "Ένα γράμμα",
+      "Μία ασπίδα",
+      "Ένα στέμμα",
+      "Ένα σπαθί και χρυσά σανδάλια"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι υπήρχε στην αρχή της δημιουργίας του κόσμου;",
+    "choices": [
+      "Η Γη",
+      "Ο Ουρανός",
+      "Οι Τιτάνες",
+      "Το Χάος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο βασιλιάς που παντρεύτηκε τη Θέτιδα;",
+    "choices": [
+      "Δίας",
+      "Πηλέας",
+      "Πάρης",
+      "Μενέλαος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις για τον Οδυσσέα και τον Άδη είναι σωστή;",
+    "choices": [
+      "Η είσοδος του Άδη βρισκόταν στον Όλυμπο",
+      "Ο Οδυσσέας κατέβηκε στον Άδη για να συναντήσει τον μάντη Τειρεσία",
+      "Ο Οδυσσέας συναντήθηκε με τη μητέρα του Χαρίκλεια στον Άδη",
+      "Ο Οδυσσέας έμεινε στον Άδη για πολλές μέρες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη στον Λαοκόοντα;",
+    "choices": [
+      "Τον βράβευσαν",
+      "Τον φυλάκισαν",
+      "Τον έστειλαν εξορία",
+      "Τον έπνιξαν φίδια"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε ο Ηρακλής με τον κάπρο του Ερύμανθου;",
+    "choices": [
+      "Τον πήρε ζωντανό στις Μυκήνες",
+      "Τον σκότωσε",
+      "Τον άφησε ελεύθερο",
+      "Τον μεταμόρφωσε"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Ποσειδώνας μισούσε τον Οδυσσέα;",
+    "choices": [
+      "Γιατί καθυστερούσε να γυρίσει στην Ιθάκη",
+      "Γιατί πρόσβαλε τους θεούς",
+      "Γιατί τύφλωσε τον Πολύφημο, τον γιο του Ποσειδώνα",
+      "Γιατί δεν του έκανε θυσία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν ο Δούρειος Ίππος;",
+    "choices": [
+      "Ένα μεταλλικό άγαλμα",
+      "Ένα πραγματικό άλογο",
+      "Ένα πέτρινο γλυπτό",
+      "Ένα ξύλινο άλογο κούφιο από μέσα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο γιος της Ρέας που κρύφτηκε στην Κρήτη;",
+    "choices": [
+      "Δίας",
+      "Ποσειδώνας",
+      "Άδης",
+      "Ήφαιστος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν ο Γηρυόνης στη μυθολογία;",
+    "choices": [
+      "Γίγαντας με τρία σώματα",
+      "Βασιλιάς της Κρήτης",
+      "Θεός της θάλασσας",
+      "Μάντης της Θράκης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβαινε σε όποιον έτρωγε λωτό στη χώρα των Λωτοφάγων;",
+    "choices": [
+      "Γινόταν πιο δυνατός",
+      "Ξεχνούσε τα πάντα",
+      "Γινόταν πλούσιος",
+      "Μάθαινε νέες γλώσσες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρότεινε ο Κάλχας στον Αγαμέμνονα για να φυσήξει ούριος άνεμος;",
+    "choices": [
+      "Να προσφέρει ένα ζώο στους θεούς",
+      "Να θυσιάσει την κόρη του, την Ιφιγένεια",
+      "Να παρακαλέσει τη θεά Άρτεμη",
+      "Να εγκαταλείψει την εκστρατεία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος επινόησε το τέχνασμα του Δούρειου Ίππου;",
+    "choices": [
+      "Οδυσσέας",
+      "Αγαμέμνονας",
+      "Αχιλλέας",
+      "Νέστορας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο τελευταίος άθλος του Ηρακλή;",
+    "choices": [
+      "Να σκοτώσει τον Κένταυρο",
+      "Να πιάσει τα μήλα των Εσπερίδων",
+      "Να φέρει τον Κέρβερο από τον Άδη",
+      "Να νικήσει τον Μινώταυρο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιον συμβουλεύτηκε ο Αγαμέμνονας για το πρόβλημα με τον άνεμο;",
+    "choices": [
+      "Τον Οδυσσέα",
+      "Τον Μενέλαο",
+      "Τον Πάρη",
+      "Τον μάντη Κάλχα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη στην Τιτανομαχία;",
+    "choices": [
+      "Πολέμησαν Γίγαντες μεταξύ τους",
+      "Οι Τιτάνες κέρδισαν τους θεούς",
+      "Οι θεοί νίκησαν τους Τιτάνες και τους έριξαν στα Τάρταρα",
+      "Ο Δίας πολέμησε με τον Ποσειδώνα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς αντέδρασε ο Οδυσσέας όταν πρωτοαντίκρισε την πατρίδα του;",
+    "choices": [
+      "Γονάτισε και έκλαψε",
+      "Χόρεψε από χαρά",
+      "Θύμωσε με τους μνηστήρες",
+      "Επιτέθηκε στους μνηστήρες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη στον Ηρακλή στο τέλος της ζωής του, σύμφωνα με τον μύθο;",
+    "choices": [
+      "Έγινε αθάνατος και ανέβηκε στον Όλυμπο",
+      "Πέθανε από τον δηλητηριασμένο χιτώνα",
+      "Τον έθαψαν με απλές τιμές",
+      "Έζησε μέχρι τα βαθιά του γεράματα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού μεγάλωσε ο Ιάσονας;",
+    "choices": [
+      "Στο Πήλιο κοντά στον Κένταυρο Χείρωνα",
+      "Στην Αθήνα",
+      "Στις Μυκήνες",
+      "Στην Κρήτη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έπαθαν οι σύντροφοι του Οδυσσέα στο νησί της Κίρκης;",
+    "choices": [
+      "Τους δώρισε πλούτη",
+      "Τους μεταμόρφωσε σε γουρούνια",
+      "Τους μεταμόρφωσε σε πουλιά",
+      "Τους έστειλε στον Άδη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είδους ράμφη είχαν οι Στυμφαλίδες όρνιθες σύμφωνα με τον μύθο;",
+    "choices": [
+      "Ξύλινα ράμφη",
+      "Μαλακά ράμφη",
+      "Ισχυρά μεταλλικά (χάλκινα) ράμφη",
+      "Λεπτά γυάλινα ράμφη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού πήρε το όνομά του το Αιγαίο πέλαγος;",
+    "choices": [
+      "Από έναν γνωστό καπετάνιο",
+      "Από ένα μεγάλο νησί",
+      "Από ένα αρχαίο λιμάνι",
+      "Από τον βασιλιά Αιγέα που πνίγηκε εκεί"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Κάθε φορά που της έκοβαν ένα κεφάλι, πόσα νέα κεφάλια φύτρωναν στη θέση του στη Λερναία Ύδρα;",
+    "choices": [
+      "8 κεφάλια",
+      "6 κεφάλια",
+      "2 κεφάλια",
+      "10 κεφάλια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο θεός της μουσικής και της ποίησης στην ελληνική μυθολογία;",
+    "choices": [
+      "Ερμής",
+      "Απόλλωνας",
+      "Άρης",
+      "Ποσειδώνας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο άθλος με τον κάπρο του Ερύμανθου;",
+    "choices": [
+      "Ο πρώτος άθλος",
+      "Ο τρίτος άθλος",
+      "Ο τέταρτος άθλος",
+      "Ο δεύτερος άθλος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι ήταν οι πολεμιστές του Αχιλλέα;",
+    "choices": [
+      "Οι Σπαρτιάτες",
+      "Οι Αθηναίοι",
+      "Οι Κορίνθιοι",
+      "Οι Μυρμιδόνες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Για ποιο κατόρθωμα ήταν γνωστός ο Θησέας;",
+    "choices": [
+      "Έγραφε ποιήματα",
+      "Έπαιζε μουσική",
+      "Νικούσε κακοποιούς και ληστές",
+      "Ήταν ζωγράφος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα χρόνια έμεινε ο Οδυσσέας στο νησί της Καλυψώς;",
+    "choices": [
+      "Ένα χρόνο",
+      "Δύο χρόνια",
+      "Επτά χρόνια",
+      "Δέκα χρόνια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο στόχος της Δηιάνειρας όταν άλειψε τον χιτώνα του Ηρακλή με το αίμα του Νέσσου;",
+    "choices": [
+      "Για να εξασφαλίσει ότι ο Ηρακλής θα μείνει πιστός και κοντά της",
+      "Για να τον σκοτώσει",
+      "Για να τον τιμωρήσει",
+      "Για να θεραπεύσει μια πληγή του Ηρακλή"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος έκρυψε το σπαθί και τα χρυσά σανδάλια κάτω από έναν βράχο;",
+    "choices": [
+      "Ο Αιγέας",
+      "Ο Θησέας",
+      "Ο Ηρακλής",
+      "Ο Ιάσονας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσους νέους και πόσες νέες έστελνε η Αθήνα στην Κρήτη ως φόρο υποτέλειας;",
+    "choices": [
+      "Πέντε νέους και πέντε νέες",
+      "Δέκα νέους και δέκα νέες",
+      "Επτά νέους και επτά νέες",
+      "Εννιά νέους και εννιά νέες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος βοήθησε τον Οδυσσέα να μεταμορφωθεί σε ζητιάνο όταν έφτασε στην Ιθάκη;",
+    "choices": [
+      "Η θεά Άρτεμις",
+      "Ο Εύμαιος",
+      "Η θεά Αθηνά",
+      "Η Πηνελόπη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο Κύκλωπας Πολύφημος σύμφωνα με τη μυθολογία;",
+    "choices": [
+      "Βοσκός, γιος του Απόλλωνα",
+      "Θεός της θάλασσας",
+      "Βοσκός, γιος του Ποσειδώνα",
+      "Ήρωας από την Ιθάκη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκαναν οι μνηστήρες στο παλάτι του Οδυσσέα;",
+    "choices": [
+      "Δούλευαν σκληρά και βοηθούσαν την Πηνελόπη",
+      "Φρόντιζαν τα κτήματα του Οδυσσέα",
+      "Έτρωγαν και έπιναν κάθε μέρα",
+      "Βοηθούσαν τον Τηλέμαχο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ήταν το κύριο όπλο του Ηρακλή;",
+    "choices": [
+      "Ένα χρυσό τόξο",
+      "Ένα βαρύ ρόπαλο από ξύλο",
+      "Ένα βαρύ ρόπαλο από σίδερο",
+      "Ένα σιδερένιο σπαθί"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο κύριος λόγος που ο Πάτροκλος φόρεσε την πανοπλία του Αχιλλέα;",
+    "choices": [
+      "Για να βοηθήσει τους Αχαιούς που υποχωρούσαν",
+      "Γιατί ήθελε να εντυπωσιάσει τους Τρώες",
+      "Για να πάρει εκδίκηση από τον Αγαμέμνονα",
+      "Για να δείξει ότι είναι καλύτερος από τον Αχιλλέα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς τίμησαν οι Αχαιοί τον Πάτροκλο;",
+    "choices": [
+      "Με επιτάφιους λόγους",
+      "Με επιτάφιους αγώνες και καύση του νεκρού",
+      "Με στρατιωτική παρέλαση",
+      "Με λιτανεία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος Τιτάνας φοβόταν ότι ένα από τα παιδιά του θα τον εκθρόνιζε;",
+    "choices": [
+      "Ο Ουρανός",
+      "Ο Κρόνος",
+      "Ο Δίας",
+      "Ο Ποσειδώνας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο Δίας προκάλεσε κατακλυσμό;",
+    "choices": [
+      "Για να δείξει τη δύναμή του",
+      "Επειδή τον θύμωσε ο Προμηθέας",
+      "Επειδή βαρέθηκε τους ανθρώπους",
+      "Για να τιμωρήσει τους ανθρώπους που έγιναν κακοί και ανυπάκουοι"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού κατάγεται το όνομα των Ελλήνων;",
+    "choices": [
+      "Από τον Δία",
+      "Από τον Προμηθέα",
+      "Από τον Έλληνα, γιό του Δευκαλίωνα και της Πύρρας",
+      "Από τον Ήφαιστο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ονομαζόταν το περίπλοκο οικοδόμημα όπου κρατούσαν τον Μινώταυρο;",
+    "choices": [
+      "Μίτος",
+      "Δαίδαλος",
+      "Κρήτη",
+      "Λαβύρινθος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ήταν το κίνητρο του Ευρυσθέα όταν έστειλε τον Ηρακλή να εκτελέσει τους 12 άθλους;",
+    "choices": [
+      "Για να τον βοηθήσει να γίνει πιο δυνατός",
+      "Επειδή ήθελε απλώς να τον δοκιμάσει",
+      "Επειδή τον φοβόταν και, με την υποκίνηση της Ήρας, ήλπιζε να σκοτωθεί σε κάποιον άθλο",
+      "Για να τιμωρήσει ο ίδιος τον Ηρακλή για ένα μικρό παράπτωμα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια θεά του Ολύμπου σχετίζεται με την εναλλαγή των εποχών;",
+    "choices": [
+      "Δήμητρα",
+      "Άρτεμις",
+      "Αθηνά",
+      "Εστία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί η θεά Άρτεμις κρατούσε τους ανέμους;",
+    "choices": [
+      "Γιατί δεν της άρεσε ο Αγαμέμνονας",
+      "Επειδή ο Αγαμέμνονας είχε σκοτώσει το ιερό της ελάφι",
+      "Επειδή ήθελε να εμποδίσει τον Τρωικό πόλεμο",
+      "Γιατί της άρεσε να βλέπει τους στρατιώτες να περιμένουν"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε ο Ηρακλής όταν συνάντησε τον Άτλαντα στον άθλο με τα χρυσά μήλα των Εσπερίδων;",
+    "choices": [
+      "Τον σκότωσε",
+      "Κράτησε τον ουρανό στους ώμους του για λίγο",
+      "Πάλεψε και τον νίκησε",
+      "Τον φυλάκισε"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έταξε η Αφροδίτη στον Πάρη;",
+    "choices": [
+      "Να τον κάνει τον πιο μεγάλο βασιλιά",
+      "Να τον κάνει τον πιο σοφό άρχοντα",
+      "Να του δώσει μεγάλο στράτευμα",
+      "Να του βρει την πιο όμορφη γυναίκα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ήταν το μόνο ευάλωτο σημείο του Αχιλλέα;",
+    "choices": [
+      "Η φτέρνα του",
+      "Το κεφάλι του",
+      "Η πλάτη του",
+      "Το στήθος του"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη μυθολογία, από το γάλα ποιας θεάς σχηματίστηκε ο Γαλαξίας;",
+    "choices": [
+      "Η Ήρα",
+      "Ο Δίας",
+      "Ο Ηρακλής",
+      "Η Αφροδίτη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς κατέληξε ο Οδυσσέας στο νησί της Καλυψώς;",
+    "choices": [
+      "Το καράβι του διαλύθηκε",
+      "Με το καράβι του",
+      "Κολυμπώντας",
+      "Τον μετέφεραν οι Φαίακες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην ελληνική μυθολογία, ποιες ήταν οι Αμαζόνες;",
+    "choices": [
+      "Απλοί πολεμιστές",
+      "Αγρότισσες",
+      "Ξακουστές πολεμίστριες",
+      "Ναυτικοί"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι κρατούσε ο Δίας όταν θύμωνε;",
+    "choices": [
+      "Σπαθί",
+      "Ασπίδα",
+      "Αστροπελέκι",
+      "Δόρυ"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην ελληνική μυθολογία, τι ήταν η Αργώ;",
+    "choices": [
+      "Το πλοίο του Ιάσονα και των Αργοναυτών",
+      "Ένα μαγικό σπαθί",
+      "Μία θεά",
+      "Ένα νησί"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι βοήθησαν τον Οδυσσέα να επιστρέψει στην Ιθάκη;",
+    "choices": [
+      "Οι Μυρμιδόνες",
+      "Η Καλυψώ",
+      "Η Ναυσικά",
+      "Οι Φαίακες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την Ιλιάδα, ποιος ήταν ο πατέρας της Βρισηίδας;",
+    "choices": [
+      "Απόλλωνας",
+      "Βρισεύς",
+      "Αγαμέμνονας",
+      "Αχιλλέας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια προφήτισσα των Τρώων προειδοποίησε για τον κίνδυνο του Δούρειου Ίππου;",
+    "choices": [
+      "Κασσάνδρα",
+      "Ανδρομάχη",
+      "Ελένη",
+      "Πηνελόπη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συμβούλεψε ο Τειρεσίας τον Οδυσσέα σχετικά με το ταξίδι της επιστροφής του;",
+    "choices": [
+      "Να μη σταματήσει πουθενά στο δρόμο του",
+      "Να μην πειράξει τα βόδια του θεού Ήλιου",
+      "Να αποφύγει τις Σειρήνες",
+      "Να μη θυμώσει τον Ποσειδώνα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις για τον Ηρακλή είναι σωστή;",
+    "choices": [
+      "Ο αδελφός του λεγόταν Ιφικλής",
+      "Η Ήρα τον λάτρευε πολύ",
+      "Παντρεύτηκε την Αλκμήνη και έγινε βασιλιάς",
+      "Η Αθηνά τον βοήθησε να γίνει ισχυρός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια ήταν η αιτία θανάτου του Αχιλλέα;",
+    "choices": [
+      "Τον σκότωσε ο Έκτορας με δόρυ",
+      "Πέθανε από αρρώστια στη διάρκεια του πολέμου",
+      "Τον σκότωσε ο Πάρης με βέλος στη φτέρνα",
+      "Τον σκότωσε ο Αγαμέμνονας σε μάχη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς προστάτεψε ο Οδυσσέας τους συντρόφους του από τις Σειρήνες;",
+    "choices": [
+      "Τους έδεσε όλους στα κατάρτια του πλοίου",
+      "Τους έβαλε κερί στα αυτιά",
+      "Τους προειδοποίησε να μην ακούσουν το τραγούδι τους",
+      "Άλλαξε πορεία για να τις αποφύγει"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ιλιάδα, πώς τιμώρησε ο Απόλλωνας τους Αχαιούς;",
+    "choices": [
+      "Έστειλε ανθρώπους να τους χτυπήσουν",
+      "Έφερε καταιγίδα στο στρατόπεδο",
+      "Χτυπούσε με τα βέλη του τα ζώα και τους στρατιώτες",
+      "Έστειλε άλλους θεούς να τους εξοντώσουν"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με ποιον τρόπο κατάφερε ο Ηρακλής να νικήσει τη Λερναία Ύδρα;",
+    "choices": [
+      "Με σπαθί",
+      "Κόβοντας τα κεφάλια και καυτηριάζοντας τους λαιμούς",
+      "Με τόξο",
+      "Με δόρυ"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έκανε η Καλυψώ στον Οδυσσέα στο νησί της;",
+    "choices": [
+      "Τον κράτησε στο νησί της για επτά χρόνια",
+      "Τον έδιωξε από το νησί της",
+      "Τον κράτησε κοντά της για έναν χρόνο",
+      "Τον συνόδευσε η ίδια μέχρι την Ιθάκη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις σχετικά με το μήλο της Έριδας είναι σωστή;",
+    "choices": [
+      "Η Ήρα έταξε στον Πάρη να τον κάνει τον πιο γενναίο πολεμιστή",
+      "Η Έριδα ήταν καλεσμένη στο γάμο στο Πήλιο",
+      "Η Έριδα ήταν η θεά της διχόνοιας",
+      "Η Αφροδίτη πήρε το μήλο από τον Πάρη"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς βοήθησε ο Ορφέας τους Αργοναύτες στο ταξίδι για το χρυσόμαλλο δέρας;",
+    "choices": [
+      "Έπαιξε τη λύρα του για να καλύψει το τραγούδι των Σειρήνων",
+      "Σκότωσε τον δράκο",
+      "Έκλεψε ο ίδιος το δέρας",
+      "Πολέμησε με τον Αιήτη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο βασιλιάς της Κολχίδας;",
+    "choices": [
+      "Αιήτης",
+      "Πελίας",
+      "Ορφέας",
+      "Ιάσονας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στον ένατο άθλο του Ηρακλή, σύμφωνα με την πιο διαδεδομένη εκδοχή του μύθου, τι συνέβη στη βασίλισσα των Αμαζόνων, την Ιππολύτη;",
+    "choices": [
+      "Την σκότωσε",
+      "Συμμάχησε με τον Ηρακλή",
+      "Την άφησε ελεύθερη",
+      "Την αιχμαλώτισε"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με πόσα καράβια έφυγε ο Οδυσσέας από την Τροία για την επιστροφή του στην Ιθάκη;",
+    "choices": [
+      "10 καράβια",
+      "15 καράβια",
+      "12 καράβια",
+      "8 καράβια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού πήγε ο Ηρακλής κατά τη διάρκεια του άθλου του με τα άλογα του Διομήδη;",
+    "choices": [
+      "Στη Θράκη",
+      "Στην Κρήτη",
+      "Στις Μυκήνες",
+      "Στην Κύπρο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι φορούσε και τι κρατούσε ο Ηρακλής μετά τον πρώτο του άθλο;",
+    "choices": [
+      "Το δέρμα του λιονταριού και ένα ρόπαλο από αγριελιά",
+      "Ένα σπαθί από χρυσό",
+      "Μια ασπίδα από μπρούντζο",
+      "Ένα τόξο από ξύλο πεύκου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος θεός έκλεψε τη φωτιά και την έδωσε στους ανθρώπους;",
+    "choices": [
+      "Ήφαιστος",
+      "Προμηθέας",
+      "Δίας",
+      "Ποσειδώνας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς έσωσε ο Οδυσσέας τους συντρόφους του από τον Πολύφημο;",
+    "choices": [
+      "Τυφλώνοντάς τον με μυτερό κλαδί",
+      "Με μαχαίρι",
+      "Με τόξο",
+      "Με ακόντιο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο ήταν το όνομα της μητέρας του Θησέα;",
+    "choices": [
+      "Αλκμήνη",
+      "Αίθρα",
+      "Αριάδνη",
+      "Μήδεια"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος βοήθησε τον Ηρακλή να νικήσει τη Λερναία Ύδρα;",
+    "choices": [
+      "Ο Δίας",
+      "Ο Ποσειδώνας",
+      "Ο Ιόλαος",
+      "Η Αθηνά"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο πατέρας του Θησέα;",
+    "choices": [
+      "Αιγέας",
+      "Πιτθέας",
+      "Ηρακλής",
+      "Ποσειδώνας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος αναγνώρισε πρώτος τον Οδυσσέα όταν έφτασε στο παλάτι της Ιθάκης;",
+    "choices": [
+      "Το σκυλί Άργος",
+      "Η Πηνελόπη",
+      "Ο Τηλέμαχος",
+      "Ο Εύμαιος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς έγινε ο Αχιλλέας σχεδόν άτρωτος, σύμφωνα με τον μύθο;",
+    "choices": [
+      "Η μητέρα του, η Θέτιδα, τον βούτηξε στα νερά της Στύγας",
+      "Του έδωσαν νέκταρ από τους θεούς",
+      "Φόρεσε μια μαγική πανοπλία που τον έκανε άτρωτο",
+      "Έκανε μαγικά με τον Ποσειδώνα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την ελληνική μυθολογία, θεές της γοητείας, της δημιουργίας και της γονιμότητας είναι οι",
+    "choices": [
+      "Νύμφες",
+      "Χάριτες",
+      "Ερινύες",
+      "Μούσες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την ελληνική μυθολογία, ημίθεες σχετιζόμενες με τα ποτάμια, τις λίμνες και τη βλάστηση είναι οι:",
+    "choices": [
+      "Νύμφες",
+      "Χάριτες",
+      "Ερινύες",
+      "Μούσες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια κατασκευή χρησιμοποίησαν οι Έλληνες για να καταλάβουν την Τροία στη διάρκεια του Τρωικού Πολέμου;",
+    "choices": [
+      "Από μηχανής Θεός",
+      "Πολιορκητικός κριός",
+      "Υγρόν πυρ",
+      "Δούρειος Ίππος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Αργοναυτική εκστρατεία πήρε το όνομά της από:",
+    "choices": [
+      "τους ναύτες του Ιάσονα, που έπρεπε να κωπηλατούν αργά",
+      "το καράβι του Ιάσονα, το οποίο ονομαζόταν Αργώ",
+      "τον τόπο καταγωγής των ναυτών του Ιάσονα, οι οποίοι ήταν από το Άργος",
+      "τον ναυτικό προορισμό των ναυτών, ο οποίος ήταν η Αργολίδα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη Μυθολογία των αρχαίων Ελλήνων, οι μόνοι άνθρωποι που σώθηκαν από τον μεγάλο κατακλυσμό ήταν:",
+    "choices": [
+      "Ο Ζεύς και ο Ποσειδώνας",
+      "Ο Περσέας και η Ανδρομέδα",
+      "Ο Πάρης και η Ελένη",
+      "Ο Δευκαλίων και η Πύρρα"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την ελληνική μυθολογία, θεότητες-τιμωροί εγκληματιών ηθικής και φυσικής τάξεως πραγμάτων είναι οι:",
+    "choices": [
+      "Νύμφες",
+      "Χάριτες",
+      "Ερινύες",
+      "Μούσες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη Θεογονία του Ησιόδου, η θεά Αφροδίτη γεννήθηκε:",
+    "choices": [
+      "από τον αφρό της θάλασσας",
+      "σε μία σπηλιά της Αφρικής",
+      "από τον άφρονα Κένταυρο Ακταίωνα",
+      "από την αφράτη ζύμη της αμβροσίας"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την ελληνική μυθολογία, δύο θεοί του Ολύμπου διεκδίκησαν την προστασία της πόλεως των Αθηνών. Ποιοι ήταν οι θεοί αυτοί;",
+    "choices": [
+      "Η Αθηνά και η Δήμητρα",
+      "Η Αθηνά και ο Ποσειδώνας",
+      "Η Αθηνά και ο Άρης",
+      "Η Αθηνά και η Αφροδίτη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Με ποιον από τους θεούς του Ολύμπου συνδέεται ο μύθος της Ευρώπης;",
+    "choices": [
+      "Ήφαιστος",
+      "Δίας",
+      "Ποσειδώνας",
+      "Άρης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την ελληνική μυθολογία, οι θεότητες των Τεχνών και των Γραμμάτων είναι οι:",
+    "choices": [
+      "Νύμφες",
+      "Χάριτες",
+      "Ερινύες",
+      "Μούσες"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

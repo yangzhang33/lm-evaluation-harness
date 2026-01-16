@@ -1,0 +1,54 @@
+[
+  {
+    "question": "Η Κόνιτσα συνορεύει με τη(ν):",
+    "choices": [
+      "Τουρκία",
+      "Δημοκρατία της Βόρειας Μακεδονίας",
+      "Αλβανία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ορεστιάδα συνορεύει με τη(ν):",
+    "choices": [
+      "Τουρκία",
+      "Δημοκρατία της Βόρειας Μακεδονίας",
+      "Αλβανία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ειδομένη συνορεύει με τη(ν):",
+    "choices": [
+      "Τουρκία",
+      "Δημοκρατία της Βόρειας Μακεδονίας",
+      "Αλβανία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ρόδος συνορεύει με τη(ν):",
+    "choices": [
+      "Τουρκία",
+      "Δημοκρατία της Βόρειας Μακεδονίας",
+      "Αλβανία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

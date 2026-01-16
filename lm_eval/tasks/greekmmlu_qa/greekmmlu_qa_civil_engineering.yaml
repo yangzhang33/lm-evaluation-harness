@@ -1,0 +1,5 @@
+include: _default_greekmmlu_qa_template_yaml
+tag: greekmmlu_qa_stem_tasks
+task: greekmmlu_qa_civil_engineering
+task_alias: Civil Engineering
+dataset_name: Civil_Engineering

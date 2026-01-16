@@ -1,0 +1,146 @@
+[
+  {
+    "question": "Οι αναπαραστάσεις των αντικειμένων του περιβάλλοντος θα πρέπει πάντα να είναι όσο το δυνατόν πιο ρεαλιστικές.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ο συντελεστής συσχέτισης Pearson λαμβάνει τιμές μεταξύ -1 και 1",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Για την αξιόπιστη ανάγνωση του διαγράμματος ACF είναι απαραίτητο η σειρά να είναι στάσιμη.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Η χρονοσειρά που ακολουθεί την εξίσωση αXt = αXt−1 + b λέμε ότι είναι αυτοπαλινδρομική σειρά 1ης τάξης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Οι αναπαραστάσεις των αντικειμένων του περιβάλλοντος θα πρέπει πάντα να είναι όσο το δυνατόν πιο ρεαλιστικές.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Αν x₁, x₂,..., xₙ είναι μία χρονοσειρά, τότε ο συντελεστής συσχέτισης των ζευγών (x₁, x₃), (x₂, x₄),..., (xₙ₋₂, xₙ) καλείται:",
+    "choices": [
+      "Μερική Αυτοσυσχέτιση της σειράς με υστέρηση lag = 2.",
+      "Αυτοσυσχέτιση της σειράς με υστέρηση lag = 2."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Όταν λέμε ότι μία χρονοσειρά έχει μοναδιαία ρίζα, εννοούμε ότι:",
+    "choices": [
+      "είναι στάσιμη.",
+      "δεν είναι στάσιμη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Η χρονοσειρά που ακολουθεί την εξίσωση Χt = αεt-1 + εt λέμε ότι είναι αυτοπαλινδρομική σειρά 1ης τάξης.",
+    "choices": [
+      "Σωστό",
+      "Πράγματι, η σειρά αυτής της μορφής ακολουθεί το υπόδειγμα ΜΑ(1) και όχι το AR(1)."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Για να ελέγξουμε αν ένα μοντέλο προσαρμόζεται καλώς σε μία χρονοσειρά, αρκεί να παρατηρήσουμε την κατανομή και την αυτοσυσχέτιση των υπολοίπων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Ένας στατιστικός έλεγχος εξετάζει την αληθοφάνεια μιας στατιστικής υπόθεσης Η₀ έναντι μιας εναλλακτικής πρότασης Η₁.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Ένας τυχαίος περίπατος είναι υπόδειγμα στάσιμης χρονοσειράς.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Σε μια χρονοσειρά με μεγάλη αυτοσυσχέτιση, ο έλεγχος Ljung-Box πιθανότατα θα:",
+    "choices": [
+      "έχει υψηλή p-τιμή.",
+      "έχει χαμηλή p-τιμή."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  }
+]

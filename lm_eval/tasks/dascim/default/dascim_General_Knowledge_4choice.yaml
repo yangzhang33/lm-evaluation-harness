@@ -1,0 +1,8 @@
+"description": "The following are multiple choice questions (with answers) about General\
+  \ Knowledge.\\n\\n"
+"include": "base_dascim_4choice.yaml"
+"tag": "dascim_other_tasks"
+"task": "dascim_General_Knowledge_4choice"
+"task_alias": "General Knowledge (4choice)"
+"dataset_kwargs":
+  "dataset_name": "General_Knowledge_4choice"

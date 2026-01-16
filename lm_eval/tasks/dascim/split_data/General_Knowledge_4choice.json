@@ -1,0 +1,1780 @@
+[
+  {
+    "question": "Τι φανούς φέρει η πλοηγίδα;",
+    "choices": [
+      "2 ερυθρούς",
+      "3 ερυθρούς",
+      "3 λευκούς",
+      "1 λευκό και 1 ερυθρό κατακόρυφα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=ASP390"
+  },
+  {
+    "question": "Σε μία ηλεκτρική πυρκαγιά όταν δεν έχουμε άλλο πυροσβεστικό υλικό εκτός από το νερό, τι θα κάνουμε;",
+    "choices": [
+      "Δεν θα επιχειρήσουμε κατάσβεση της φωτιάς, κίνδυνος ηλεκτροπληξίας",
+      "Θα επιχειρήσουμε κατάσβεση της φωτιάς, δεν υπάρχει κίνδυνος",
+      "Θα επιχειρήσουμε κατάσβεση με νερό αφού προκαλέσουμε BLACK OUT",
+      "Τίποτα από αυτά δεν είναι σωστό"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Με ποιο σύστημα δορυφόρων συνεργάζεται το EPIRB COSPAS-SARSAT;",
+    "choices": [
+      "Με τους δορυφόρους πολικής τροχιάς",
+      "Με τους δορυφόρους γεωστατικής τροχιάς",
+      "Και με τα δύο παραπάνω",
+      "Με κανένα από τα παραπάνω, δουλεύει αυτόνομα"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Ποια είναι η αναλογία αερίων στην ατμόσφαιρα;",
+    "choices": [
+      "21% οξυγόνο, 78% άζωτο, 1% άλλα αέρια",
+      "21% οξυγόνο, 78% υδρογόνο, 1% άλλα αέρια",
+      "78% άζωτο, 21% αργό, 1% οξυγόνο",
+      "78% άζωτο, 21% οξυγόνο, 1% υδρογόνο"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Το D.O.S. (Declaration of Security) είναι η συμφωνία για την ασφάλεια μεταξύ:",
+    "choices": [
+      "Ενός πλοίου και μιας λιμενικής εγκατάστασης",
+      "Μεταξύ δύο πλοίων που συνδέονται μεταξύ τους",
+      "Τα δύο παραπάνω είναι σωστά",
+      "Τίποτα από τα παραπάνω δεν είναι σωστό"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Σε ποιο επίπεδο ασφαλείας οι επισκέπτες θα συνοδεύονται από τα μέλη του πληρώματος σύμφωνα με τον κώδικα ISPS;",
+    "choices": [
+      "Στο επίπεδο ασφαλείας 1",
+      "Στο επίπεδο ασφαλείας 2",
+      "Στο επίπεδο ασφαλείας 3",
+      "Σε όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Τα χάπια για τη ναυτία που υπάρχουν στις σωσίβιες σχεδίες, πρέπει να τα πάρουν:",
+    "choices": [
+      "Μόνο όσοι εμφανίσουν συμπτώματα ναυτίας",
+      "Μόνο όσοι νομίζουν ότι θα τα χρειαστούν",
+      "Όλοι ανεξαιρέτως",
+      "Μόνο ο αρχηγός της σχεδίας"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Η χρήση ή και η διακίνηση ναρκωτικών ουσιών είναι αιτία:",
+    "choices": [
+      "Απολύσεως του ναυτικού από το πλοίο",
+      "Αιτία πειθαρχικής δίωξης του ναυτικού",
+      "Αιτία ποινικής δίωξης του ναυτικού",
+      "Όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Πότε θα ενεργοποιηθεί η ομάδα προετοιμασίας σωστικών μέσων;",
+    "choices": [
+      "Όταν διατάξει ο πλοίαρχος",
+      "Όταν ακουστεί το σήμα γενικού συναγερμού",
+      "Όταν διαταχθεί από τα μεγάφωνα του πλοίου",
+      "Στην εγκατάλειψη του πλοίου"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Τα στεγανά της σωσίβιας λέμβου είναι τοποθετημένα για να:",
+    "choices": [
+      "Την προφυλάσσουν από πλευρικές κρούσεις",
+      "Δίνουν στη λέμβο εφεδρική πλευστότητα",
+      "Την προφυλάσσουν σε περίπτωση πτώσης της από ύψος",
+      "Όλα τα παραπάνω είναι σωστά"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Τα καθήκοντα του πληρώματος από πλευράς ασφάλειας τα ορίζει:",
+    "choices": [
+      "Το σχέδιο ασφάλειας του πλοίου",
+      "Ο πίνακας διαίρεσης του πλοίου",
+      "Ο Πλοίαρχος του πλοίου",
+      "Ο Αξιωματικός ασφάλειας του πλοίου"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Τα κουμπιά ενεργοποίησης του SSAS βρίσκονται:",
+    "choices": [
+      "Σε δύο κρυφά σημεία στους χώρους ενδιαίτησης του πλοίου",
+      "Σε δύο κρυφά σημεία στους χώρους ενδιαίτησης του πλοίου, το ένα όμως στη γέφυρα",
+      "Στο γραφείο του πλοίου",
+      "Στην καμπίνα του πλοιάρχου"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Σε ποια μόνο περίπτωση αναγκαστικά το SECURITY (ISPS) υπερισχύει του SAFETY (SOLAS);",
+    "choices": [
+      "Αναγκαστικά μόνο στην περίπτωση της πειρατείας",
+      "Πάντα το security υπερισχύει του safety",
+      "Όταν μας το ορίζει το ship security plan",
+      "Όλα τα παραπάνω είναι λανθασμένα"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Στην καρδιοπνευμονική ανάνηψη (αναζωογόνηση) με ένα άτομο, ποια είναι η αναλογία τεχνητών αναπνοών και καρδιακών μαλάξεων αντίστοιχα;",
+    "choices": [
+      "1/5",
+      "2/15",
+      "1/1",
+      "5/1"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Με ποιο κατασβεστικό υλικό διακόπτεται η χημική αλυσιδωτή αντίδραση;",
+    "choices": [
+      "Νερό",
+      "Διοξείδιο του άνθρακα",
+      "Ξηρά χημική σκόνη",
+      "Τίποτα από όλα αυτά"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Η συνεχής εκπαίδευση των πληρωμάτων είναι:",
+    "choices": [
+      "Υποχρεωτικό να γίνεται στη στεριά",
+      "Υποχρεωτικό να γίνεται μόνο στο πλοίο",
+      "Υποχρεωτικό να γίνεται και στη στεριά και στο πλοίο",
+      "Υποχρεωτικό να γίνεται στον αέρα"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Η διαδικασία κατά την οποία οι υδρατμοί μετατρέπονται σε νερό είναι:",
+    "choices": [
+      "συμπύκνωση στην οποία απελευθερώνεται λανθάνουσα θερμότητα",
+      "εξάτμιση στην οποία απελευθερώνεται λανθάνουσα θερμότητα",
+      "συμπύκνωση στην οποία απορροφάται λανθάνουσα θερμότητα",
+      "εξάτμιση στην οποία απορροφάται λανθάνουσα θερμότητα"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποιο είναι το κριτήριο που ορίζει πόσες λέμβοι διάσωσης θα φέρει το επιβατηγό πλοίο σύμφωνα με τους κανονισμούς;",
+    "choices": [
+      "Το μήκος του πλοίου",
+      "Η χωρητικότητα του πλοίου",
+      "Τα δύο παραπάνω",
+      "Ο αριθμός των επιβαινόντων του πλοίου"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω πυροσβεστικά υλικά είναι ασφυκτικό για κάθε ζωντανό οργανισμό;",
+    "choices": [
+      "CO₂",
+      "Σκόνη τύπου D",
+      "Τα δύο παραπάνω",
+      "Halon"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Σε τροπικό κυκλώνα του Ν.Η.:",
+    "choices": [
+      "οι άνεμοι είναι δεξιόστροφοι και η τροχιά αριστερόστροφη",
+      "οι άνεμοι είναι αριστερόστροφοι και η τροχιά αριστερόστροφη",
+      "οι άνεμοι είναι δεξιόστροφοι και η τροχιά δεξιόστροφη",
+      "οι άνεμοι είναι αριστερόστροφοι και η τροχιά δεξιόστροφη"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Πότε απαγορεύεται η είσοδος στους επικίνδυνους χώρους;",
+    "choices": [
+      "Όταν δεν έχει δοθεί άδεια εισόδου από τον πλοίαρχο",
+      "Όταν δεν υπάρχει φωτισμός",
+      "Όταν δεν έχει ελεγχθεί το οξυγόνο και δεν έχουν συνεχή αερισμό",
+      "Όλα τα ανωτέρω"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Αρχηγός της ομάδας κρούσεως σε περίπτωση πυρκαγιάς στο μηχανοστάσιο είναι:",
+    "choices": [
+      "Ο υποπλοίαρχος",
+      "Ο Α' Μηχανικός",
+      "Ο Β' Μηχανικός",
+      "Ο Αξιωματικός φυλακής του μηχανοστασίου"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Η χρήση μέσων ασφαλείας εργασίας (κράνος, γάντια κτλ.) είναι ευθύνη του",
+    "choices": [
+      "Εργοδότη",
+      "Πλοιάρχου",
+      "Ναυτικού",
+      "Όλων των ανωτέρω"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Πόσο χρόνο μπορεί να μείνει ο εγκέφαλος χωρίς οξυγόνο χωρίς να θεωρηθεί κλινικά νεκρός;",
+    "choices": [
+      "4-6 λεπτά",
+      "10-12 λεπτά",
+      "10-20 δευτερόλεπτα",
+      "30 λεπτά"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Σε περίπτωση εισπνοής ερεθιστικών αερίων, ποιες είναι οι ενέργειες που πρέπει απαραίτητα να γίνουν σαν προσφορά πρώτων βοηθειών;",
+    "choices": [
+      "Παροχή του αντιδότου",
+      "Άμεσος εμβολιασμός",
+      "Τεχνητή αναπνοή και καρδιακές μαλάξεις",
+      "Απομάκρυνση από τον χώρο, τεχνητή αναπνοή και παροχή οξυγόνου"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Τα επιφανειακά θαλάσσια ρεύματα κινούνται:",
+    "choices": [
+      "κατά τη φορά του ανέμου",
+      "με τη φορά των δεικτών του ρολογιού στο Β. ημισφαίριο",
+      "με τη φορά των δεικτών του ρολογιού στο Ν. ημισφαίριο",
+      "αντίθετα από τον άνεμο"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποια από τα παρακάτω εφόδια των σωσίβιων σχεδιών δεν βρίσκονται μέσα στον ειδικό σάκο εφοδίων;",
+    "choices": [
+      "Μαχαίρι, πεταχτάρι, κουπιά, πλωτές άγκυρες",
+      "Τροφές, νερό, φαρμακείο",
+      "Βεγγαλικά, φωτοβολίδες, καπνογόνο",
+      "Όλα τα παραπάνω"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Η μάσκα της αυτόνομης αναπνευστικής συσκευής πρέπει να είναι:",
+    "choices": [
+      "Θετικής πίεσης",
+      "Αρνητικής πίεσης",
+      "Και τα δύο παραπάνω",
+      "Προστασίας από ιούς"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Με ποιο κατασβεστικό υλικό διακόπτεται η χημική αλυσιδωτή αντίδραση;",
+    "choices": [
+      "Νερό",
+      "Ξηρά χημική σκόνη",
+      "Διοξείδιο του άνθρακα",
+      "Δεν υπάρχει τέτοιο κατασβεστικό υλικό"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Το Ε.Θ.Ε. ενός τόπου εξαρτάται από:",
+    "choices": [
+      "όλα τα παραπάνω",
+      "τίποτα από τα παραπάνω",
+      "το γεωγραφικό πλάτος",
+      "την επικάλυψη του εδάφους"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Αν η λέμβος διάσωσης διαθέτει εξωλέμβιο κινητήρα, γιατί δεν θα πρέπει να ταξιδεύουμε με τον καιρό στην πρύμνη σε περίπτωση κυματισμού;",
+    "choices": [
+      "Το ταξίδεμα με τον καιρό στην πρύμνη είναι πάντα το καλύτερο",
+      "Γιατί θα μας προλάβει το κύμα και θα βουλιάξει το σκάφος",
+      "Γιατί δεν έχει ορατότητα ο χειριστής",
+      "Γιατί θα μας προλάβει το κύμα και θα σβήσει η μηχανή"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις ισχύει για τους τροπικούς κυκλώνες;",
+    "choices": [
+      "συνδέονται με την ύπαρξη μετώπων",
+      "εμφανίζονται στις αρχές της άνοιξης",
+      "αρχικά κινούνται πάντα προς τα δυτικά",
+      "η διάμετρός τους φτάνει συνήθως τα 1000 ν.μ."
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σε τραυματισμό, πότε θα πρέπει να υποψιαζόμαστε ρήξη του σπλήνα; Όταν υπάρχει αιμάτωμα και πόνος στο...",
+    "choices": [
+      "Δεξί και πάνω μέρος της κοιλίας",
+      "Δεξί και κάτω μέρος της κοιλίας",
+      "Αριστερό και πάνω μέρος της κοιλίας",
+      "Στη μύτη"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Όταν απαγκιστρωθούν οι γάντζοι των συρματόσχοινων καθαίρεσης της σωσίβιας λέμβου, η λέμβος θα απομακρυνθεί από το πλοίο;",
+    "choices": [
+      "Ναι, εφόσον λειτουργεί η μηχανή",
+      "Ναι, όταν έχουν επιβιβασθεί όλοι οι ναυαγοί",
+      "Όχι, χωρίς εντολή πλοιάρχου",
+      "Όχι, διότι είναι δεμένη στην πλευρά του πλοίου με τις μπαρούμες"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Τι δεν πρέπει να κάνουμε σε κρυοπαγήματα γιατί θεωρείται όχι μόνο επικίνδυνο αλλά πολλές φορές και καταστροφικό;",
+    "choices": [
+      "Να του κάνουμε εντριβή στα πάσχοντα μέλη",
+      "Να προσφέρουμε ζεστά ροφήματα",
+      "Να τον μετακινήσουμε",
+      "Να τον σκεπάσουμε με κουβέρτες"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Σε τι χρησιμεύουν οι διαγώνιοι συρμάτινοι μπότσοι που συνδέουν τα άκρα της σωσίβιας λέμβου με το μέσον της μπούμας κάθε επωτίδας (καπονιού);",
+    "choices": [
+      "Για την ευστάθεια της λέμβου στη θάλασσα",
+      "Για να ακουμπήσει σταθερά η λέμβος στο κατάστρωμα επιβίβασης",
+      "Για την εύκολη απομάκρυνση της λέμβου από την πλευρά του βυθιζόμενου πλοίου",
+      "Για να κρατά τη λέμβο μακριά από το πλοίο όταν θα πλησιάσει για να παραλάβει τον χειριστή βαρούλκου"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Η χημική αλυσιδωτή αντίδραση είναι:",
+    "choices": [
+      "Ένα στοιχείο του τριγώνου της πυρκαγιάς",
+      "Ένα από τα στοιχεία του τετραέδρου της πυρκαγιάς",
+      "Μία από τις πηγές ανάφλεξης",
+      "Τίποτε από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Πώς θα μάθουμε ποια είναι τα καθήκοντά μας σε περιπτώσεις πυρκαγιάς;",
+    "choices": [
+      "Από τον γενικό πίνακα διαίρεσης του πληρώματος",
+      "Από ειδικό πινακίδιο στην καμπίνα μας",
+      "Και με τους δύο παραπάνω τρόπους",
+      "Θα τα μάθουμε στο πρώτο γυμνάσιο"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιος ο βασικός κανόνας για τη χρήση του σάκου θερμικής προστασίας;",
+    "choices": [
+      "Να τον φοράμε μόνο όταν είμαστε βρεγμένοι",
+      "Να φοράμε πρώτα το ατομικό μας σωσίβιο και μετά τον σάκο",
+      "Να μην κοιμόμαστε όταν τον φοράμε",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω σωσίβια/σωστικά μέσα χρησιμοποιεί το πλήρωμα έκτακτης ανάγκης;",
+    "choices": [
+      "Άκαμπτη σχεδία",
+      "Πνευστή σχεδία καθαιρέσεως",
+      "Λέμβο διάσωσης ή σωστική λέμβο",
+      "Πλευστική συσκευή με ισχυρή εξωλέμβια μηχανή"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιος είναι ο ελάχιστος αριθμός σωσιβίων σημαντήρων σε ένα φορτηγό πλοίο;",
+    "choices": [
+      "Έντεκα",
+      "Ένας για κάθε επιβαίνοντα",
+      "Τέσσερις σε κάθε πλευρά του πλοίου",
+      "Ένας σε κάθε κατάστρωμα στο μέσο του πλοίου"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Τα κυκλικά σωσίβια (σωσίβιοι σημαντήρες) πρέπει να τα",
+    "choices": [
+      "Χρησιμοποιούμε για την εγκατάλειψη πλοίου",
+      "Διαθέτουμε γιατί τα ζητά η επιθεώρηση",
+      "Χρησιμοποιούμε για να σημαδέψουμε τον δρόμο ώστε να βρούμε άνθρωπο που έπεσε στη θάλασσα",
+      "Χρησιμοποιούμε για να ανασύρουμε πάνω από το πλοίο κάποιον που έπεσε στη θάλασσα"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποια είναι η μέθοδος κατάσβεσης στις πυρκαγιές κατηγορίας D;",
+    "choices": [
+      "Διακοπή αλυσιδωτής αντίδρασης",
+      "Κατάπνιξη με μαύρο καπνό",
+      "Απομάκρυνση οξυγόνου",
+      "Ψύξη"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Ποιο μόνιμο σύστημα καταπολέμησης πυρκαγιάς είναι αυτόματο;",
+    "choices": [
+      "Το μόνιμο σύστημα διοξειδίου του άνθρακα",
+      "Το σύστημα DRENCHER",
+      "Το σύστημα SPRINKLER",
+      "Και τα δύο παραπάνω"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω συστήματα πυρόσβεσης μπορεί να λειτουργήσει και ως σύστημα πυρανίχνευσης;",
+    "choices": [
+      "Το σύστημα DRENCHER",
+      "Το σύστημα SPRINKLER",
+      "Και τα δύο παραπάνω",
+      "Το μόνιμο σύστημα ξηράς χημικής σκόνης"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Ποια είναι η πρώτη μου υποχρέωση όταν μπω μέσα σε χώρο της φωτιάς;",
+    "choices": [
+      "Να σβήσω τη φωτιά",
+      "Να σώσω ευαίσθητα αντικείμενα",
+      "Να κάνω ψύξη του χώρου",
+      "Να περισώσω τραυματίες"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Ποιες είναι οι διαστάσεις της λέμβου διάσωσης σύμφωνα με τους κανονισμούς;",
+    "choices": [
+      "3,8 μέχρι 8,5 μέτρα",
+      "3,2 μέχρι 9,5 μέτρα",
+      "3,8 μέχρι 8,0 μέτρα",
+      "4,8 μέχρι 8,5 μέτρα"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Κατά τη διάρκεια των στροφών της, μία σωστική ταχύπλοος λέμβος, θα παίρνει επικίνδυνες κλίσεις προς",
+    "choices": [
+      "Προς το εξωτερικό της στροφής",
+      "Προς το εσωτερικό της στροφής",
+      "Δεν παίρνει κλίση",
+      "Δεν επιτρέπονται στροφές"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Η καθαίρεση του ταχύπλοου σκάφους και η απελευθέρωσή του γίνεται από:",
+    "choices": [
+      "Ένα συρματόσχοινο και χειροκίνητη απελευθέρωση",
+      "Δύο συρματόσχοινα και αυτόματη απελευθέρωση",
+      "Ένα συρματόσχοινο και αυτόματη απελευθέρωση",
+      "Όλα τα παραπάνω είναι λανθασμένα"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Αν η λέμβος διάσωσης του πλοίου σας διαθέτει εξωλέμβιο κινητήρα, πότε αυτός πρέπει να τεθεί σε λειτουργία;",
+    "choices": [
+      "Όταν η λέμβος καθελκυστεί στη θάλασσα",
+      "Όταν η λέμβος είναι ακόμα στο κατάστρωμα",
+      "Ανάλογα με τις καιρικές συνθήκες",
+      "Όταν βρισκόμαστε ένα μέτρο πάνω από την επιφάνεια της θάλασσας και για τρία λεπτά το ανώτερο."
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Τις ηλεκτρικές πυρκαγιές κάτω από 1000 volt με ποιον πυροσβεστήρα μπορώ να τις αντιμετωπίσω;",
+    "choices": [
+      "Με πυροσβεστήρα ξηράς χημικής σκόνης",
+      "Με πυροσβεστήρα διοξειδίου του άνθρακα",
+      "Και με τους δύο παραπάνω",
+      "Με κανένα από τους δύο"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Όταν πάνω στον πυροσβεστήρα δούμε γραμμένο το σύμβολο P 12, τι είδους πυροσβεστήρας είναι;",
+    "choices": [
+      "Νερού 9 κιλών",
+      "Διοξειδίου του άνθρακα",
+      "Αφρού 12 κιλών",
+      "Ξηράς χημικής σκόνης 12 κιλών"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω μόνιμα συστήματα καταπολέμησης της πυρκαγιάς μπορεί να θεωρηθεί και σαν σύστημα πυρανίχνευσης;",
+    "choices": [
+      "Το Sprinkler",
+      "Το Hi-Fog",
+      "Τα δύο παραπάνω",
+      "Το μόνιμο σύστημα ξηρής χημικής σκόνης"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Όταν μία αέρια μάζα κατέρχεται στην ατμόσφαιρα και μεταβάλλει τη θερμοκρασία της αδιαβατικά:",
+    "choices": [
+      "ψύχεται και διαστέλλεται",
+      "θερμαίνεται και διαστέλλεται",
+      "ψύχεται και συστέλλεται",
+      "θερμαίνεται και συστέλλεται"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Πλοίο έχει ταχύτητα 20 knots και πορεία 40 μοίρες. Αν ο φαινόμενος άνεμος είναι 15 knots και έχει διεύθυνση 320 μοίρες, ο πραγματικός:",
+    "choices": [
+      "είναι 19 knots και έχει διεύθυνση 261 μοίρες",
+      "είναι 19 knots και έχει διεύθυνση 81 μοίρες",
+      "είναι 10 knots και έχει διεύθυνση 39 μοίρες",
+      "είναι 10 knots και έχει διεύθυνση 219 μοίρες"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Η διαδικασία κατά την οποία το νερό μετατρέπεται σε υδρατμούς είναι:",
+    "choices": [
+      "συμπύκνωση στην οποία απελευθερώνεται λανθάνουσα θερμότητα",
+      "εξάτμιση στην οποία απελευθερώνεται λανθάνουσα θερμότητα",
+      "συμπύκνωση στην οποία απορροφάται λανθάνουσα θερμότητα",
+      "εξάτμιση στην οποία απορροφάται λανθάνουσα θερμότητα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Κατά τη διέλευση ενός θερμού μετώπου:",
+    "choices": [
+      "τα νέφη είναι στρωματόμορφα και η ορατότητα καλή",
+      "τα νέφη είναι σωρειτόμορφα και εκδηλώνονται καταιγίδες",
+      "τα νέφη είναι στρωματόμορφα και η ορατότητα κακή",
+      "τα νέφη είναι σωρειτόμορφα και η ορατότητα κακή"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποια είναι περίπου η ταχύτητα ενός θερμού μετώπου;",
+    "choices": [
+      "το 1/3 της ταχύτητας ενός ψυχρού μετώπου",
+      "τα 2/3 της ταχύτητας ενός ψυχρού μετώπου",
+      "το 1/2 της ταχύτητας ενός ψυχρού μετώπου",
+      "ίδια με αυτή ενός ψυχρού μετώπου"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Αν η διαδοχή νεφών κατά το πέρασμα ενός μετώπου είναι: Ci, Cs, As, Ns και St, τότε το μέτωπο είναι:",
+    "choices": [
+      "ψυχρό",
+      "συνεσφιγμένο",
+      "στάσιμο",
+      "θερμό"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σε ποιο ημισφαίριο και σε ποιο ημικύκλιο βρίσκεται το πλοίο;",
+    "choices": [
+      "Ν.Η. και Χ.Η.",
+      "Β.Η. και Χ.Η.",
+      "Ν.Η. και ο Ε.Η.",
+      "Β.Η. και Ε.Η."
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Στα γυμνάσια του κώδικα ISPS λαμβάνουν μέρος:",
+    "choices": [
+      "Οι επιβάτες",
+      "Το πλήρωμα του πλοίου",
+      "Και οι δύο ανωτέρω",
+      "Όσους επιτρέψει ο Πλοίαρχος"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Το δωμάτιο χειρισμού του μόνιμου συστήματος κατάσβεσης πυρκαγιάς DRENCHER είναι απαγορευμένη περιοχή;",
+    "choices": [
+      "Ναι, εφόσον το ορίζει το ship security plan",
+      "Όχι",
+      "Ναι, εφόσον το ορίζει ο πλοίαρχος",
+      "Ναι, εφόσον το ορίζει η ναυτιλιακή εταιρεία"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Στην καρδιοπνευμονική ανάνηψη (αναζωογόνηση) με δύο άτομα, ποια είναι η αναλογία τεχνητών αναπνοών και καρδιακών μαλάξεων αντίστοιχα;",
+    "choices": [
+      "1/5",
+      "10/5",
+      "2/15",
+      "5/5"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Από ποιο μέρος του σώματος χάνει ο άνθρωπος ευκολότερα τη θερμοκρασία του;",
+    "choices": [
+      "Από το στομάχι και την υπόλοιπη κοιλιακή χώρα",
+      "Από τα άκρα (χέρια – πόδια)",
+      "Από το κεφάλι και τον σβέρκο",
+      "Από το στήθος"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Οι σωσίβιες βάρκες που προστατεύονται από την πυρκαγιά με ψεκασμό, αντέχουν όταν εκτίθενται σε συνεχή πυρκαγιά πετρελαίου για:",
+    "choices": [
+      "Μέχρι να βγούμε από τη φωτιά",
+      "Για 15 λεπτά",
+      "Για 8 λεπτά",
+      "Δεν υπάρχει όριο αντοχής"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιο το όριο ύψους για να πηδήξουμε στη θάλασσα φορώντας το ατομικό μας σωσίβιο;",
+    "choices": [
+      "4,5 μέτρα και πηδάμε με τα πόδια",
+      "6 μέτρα και πηδάμε με τα πόδια",
+      "10 μέτρα και πηδάμε όπως βολεύει η κατάσταση",
+      "Δεν το φοράμε ποτέ πριν πηδήξουμε στη θάλασσα"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Τα στοιχεία του τριγώνου της πυρκαγιάς είναι:",
+    "choices": [
+      "Καύσιμη ύλη – Φωτιά – Διοξείδιο του άνθρακα",
+      "Οξυγόνο – Καύσιμη ύλη – Πηγή αναφλέξεως",
+      "Οξυγόνο – Μονοξείδιο του άνθρακα – Καύσιμη ύλη",
+      "Καύσιμη ύλη – Οξυγόνο – Θερμότητα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω πυροσβεστικά υλικά διασπάται στους 500 βαθμούς και γίνεται αναφλέξιμο;",
+    "choices": [
+      "Νερό",
+      "Ξηρή χημική σκόνη",
+      "CO2",
+      "Αφρός χαμηλής διαστολής"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Τις ηλεκτρικές πυρκαγιές κάτω από 1000 volt με ποιον πυροσβεστήρα μπορώ να τις αντιμετωπίσω;",
+    "choices": [
+      "Με πυροσβεστήρα ξηρής χημικής σκόνης",
+      "Με πυροσβεστήρα διοξειδίου του άνθρακα",
+      "Και με τους δύο παραπάνω",
+      "Με κανέναν από τους παραπάνω"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Ποιοι χώροι του πλοίου θεωρούνται επικίνδυνοι και απαγορεύεται να μπούμε χωρίς άδεια πλοιάρχου;",
+    "choices": [
+      "Διπύθμενα",
+      "Κλειστοί χώροι που έχουν να ανοιχτούν αρκετό χρονικό διάστημα",
+      "Αμπάρια πλοίου με φορτίο – δωμάτιο μπαταριών – δωμάτιο CO₂",
+      "Όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Τι σχέση έχει ο DPA με τον CSO;",
+    "choices": [
+      "Ο DPA και ο CSO δεν έχουν σχέση με τον κώδικα ISPS",
+      "Έχουν ακριβώς τα ίδια καθήκοντα",
+      "Όλα τα παραπάνω είναι σωστά",
+      "Καμία απολύτως"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Ποια η αυτοδυναμία της μηχανοκίνητης σωσίβιας λέμβου σε καύσιμα;",
+    "choices": [
+      "12 ώρες με ταχύτητα 6 κόμβων",
+      "24 ώρες με ταχύτητα 6 κόμβων",
+      "6 ώρες με ταχύτητα 12 κόμβων",
+      "48 ώρες με ταχύτητα 6 κόμβων"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Εάν για την πυρκαγιά στο μηχανοστάσιο πρέπει να χρησιμοποιηθεί το μόνιμο σύστημα διοξειδίου του άνθρακα, ποιος θα μας δώσει την τελική έγκριση;",
+    "choices": [
+      "Ο Α΄ μηχανικός",
+      "Ο Β΄ μηχανικός",
+      "Ο Πλοίαρχος",
+      "Όλοι οι παραπάνω"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Πότε πρέπει να φοράμε ζώνη ασφαλείας όταν εργαζόμαστε πάνω στο πλοίο;",
+    "choices": [
+      "Όταν διατάξει ο πλοίαρχος",
+      "Όταν εργαζόμαστε σε ψηλά σημεία του πλοίου",
+      "Όταν εργαζόμαστε στο κατάστρωμα του πλοίου",
+      "Και στις δύο παραπάνω περιπτώσεις"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Ποια είναι η πρώτη μου υποχρέωση όταν μπω μέσα στο χώρο της φωτιάς;",
+    "choices": [
+      "Να σβήσω τη φωτιά",
+      "Να σώσω ευαίσθητα αντικείμενα",
+      "Να περισώσω τραυματίες",
+      "Να κάνω ψύξη του χώρου"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Στην ενδοτροπική ζώνη συγκλίσεως:",
+    "choices": [
+      "Οι πιέσεις είναι χαμηλές, οι άνεμοι ισχυροί και επικρατεί νεφοδιάλυση",
+      "Οι πιέσεις είναι υψηλές, οι άνεμοι ασθενείς και επικρατεί νέφωση",
+      "Οι πιέσεις είναι χαμηλές, οι άνεμοι ασθενείς και η υγρασία μεγάλη",
+      "Οι πιέσεις είναι υψηλές, οι άνεμοι μεταβλητοί και ο καιρός αίθριος"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Η μετατροπή του υδρατμού σε νερό λέγεται:",
+    "choices": [
+      "συμπύκνωση",
+      "εξάτμιση",
+      "εξάχνωση",
+      "εναπόθεση"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σε ένα χαμηλό παρατηρείται;",
+    "choices": [
+      "νεφοδιάλυση",
+      "απόκλιση αέριων μαζών στο έδαφος και σύγκλιση στην ανώτερη ατμόσφαιρα",
+      "καθοδική κίνηση αέριων μαζών στο κέντρο",
+      "σύγκλιση αέριων μαζών στο έδαφος και απόκλιση στην ανώτερη ατμόσφαιρα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Αν βρεθούμε σε τροπικό κυκλώνα και φέρουμε το πλοίο σε αντιμονή, τότε:",
+    "choices": [
+      "αν είμαστε στο Β.Η. και ο άνεμος μεταπίπτει δεξιά, είμαστε στο επικίνδυνο ημικύκλιο",
+      "αν είμαστε στο Β.Η. και ο άνεμος μεταπίπτει δεξιά, είμαστε στο χειριστό ημικύκλιο",
+      "αν είμαστε στο Ν.Η. και ο άνεμος μεταπίπτει δεξιά, είμαστε στο επικίνδυνο ημικύκλιο",
+      "τίποτα από τα παραπάνω"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω δεν είναι σήμα κινδύνου;",
+    "choices": [
+      "Φωτιές στο κατάστρωμα",
+      "Η εκτόξευση φωτοβολίδων",
+      "Η εκφώνηση του MAYDAY με το VHF",
+      "Η εκφώνηση του SECURITE με το VHF"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Στην απόλυτη αστάθεια ισχύει:",
+    "choices": [
+      "Υ.Κ.Α.Θ. > Ξ.Κ.Α.Θ. > Κ.Α.Θ.",
+      "Υ.Κ.Α.Θ. < Ξ.Κ.Α.Θ. < Κ.Α.Θ.",
+      "Κ.Α.Θ. < Υ.Κ.Α.Θ. < Ξ.Κ.Α.Θ.",
+      "Υ.Κ.Α.Θ. < Κ.Α.Θ. < Ξ.Κ.Α.Θ."
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Οι mT αέριες μάζες που εισβάλλουν στον ελλαδικό χώρο είναι συνήθως:",
+    "choices": [
+      "θερμές, ξηρές",
+      "ψυχρές, ξηρές",
+      "θερμές, υγρές",
+      "ψυχρές, υγρές"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω μετωπικά συστήματα είναι πιο πιθανό να προκαλέσει καταιγίδες;",
+    "choices": [
+      "ψυχρό μέτωπο",
+      "θερμό μέτωπο",
+      "σφήνα υψηλών πιέσεων",
+      "στάσιμο μέτωπο"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Όταν δύο αέριες μάζες πλησιάζουν και ο ψυχρός αέρας εισβάλει κάτω από τον θερμό και τον σπρώχνει βίαια προς τα πάνω, το μέτωπο είναι:",
+    "choices": [
+      "στάσιμο",
+      "συνεσφιγμένο",
+      "θερμό",
+      "ψυχρό"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Η αύξηση της αλμυρότητας κατά 5ppt:",
+    "choices": [
+      "αυξάνει το σημείο πήξης κατά 0,28°C",
+      "αυξάνει το σημείο πήξης κατά 1,9°C",
+      "μειώνει το σημείο πήξης κατά 0,28°C",
+      "μειώνει το σημείο πήξης κατά 1,9°C"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Τα παγόβουνα σχηματίζονται από:",
+    "choices": [
+      "τεμάχιση ενός παγετώνα",
+      "ψύξη του θαλασσινού νερού",
+      "χιόνι",
+      "μείωση της αλμυρότητας του θαλασσινού νερού"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σε ένα κωνικό παγόβουνο το ύψος πάνω από την επιφάνεια του νερού σε σχέση με το βάθος κάτω από την επιφάνεια είναι:",
+    "choices": [
+      "πενταπλάσιο",
+      "το 1/5",
+      "επταπλάσιο",
+      "το 1/7"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σε ένα εξασθενημένο και με συμπτώματα υποθερμίας άτομο, τι δεν πρέπει να του κάνουμε ως προσφορά πρώτων βοηθειών;",
+    "choices": [
+      "Να τον ξαπλώσουμε σε οριζόντια θέση",
+      "Να τον μετακινήσουμε",
+      "Να τον σκεπάσουμε με κουβέρτες",
+      "Να του προσφέρουμε αλκοολούχο ποτό"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Τι είναι αυτό που καίγεται σε ένα υλικό;",
+    "choices": [
+      "Η μοριακή δομή",
+      "Η χημική του σύσταση",
+      "Οι υδρογονάνθρακες",
+      "Τα αέρια της πυρόλυσης"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Ποιο εξάρτημα συνοδεύει τον κυκλικό σωσίβιο σημαντήρα που βρίσκεται στις βαρδιόλες της γέφυρας πηδαλιουχίας;",
+    "choices": [
+      "Φωτιστικό και καπνογόνο",
+      "Φωτοβολίδα και σχοινί 31 μέτρων",
+      "Δεν φέρει κανένα εξάρτημα",
+      "Σχοινί 30 μέτρα"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Η εφεδρική αντλία πυρκαγιάς πού πρέπει να βρίσκεται σύμφωνα με τους κανονισμούς;",
+    "choices": [
+      "Σε χώρο εκτός μηχανοστασίου",
+      "Στο μηχανοστάσιο",
+      "Εκεί που έχει σχεδιάσει ο ναυπηγός",
+      "Δεν υπάρχει κανονισμός για τον χώρο"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Σε μια ηλεκτρική πυρκαγιά όταν δεν έχουμε άλλο πυροσβεστικό υλικό εκτός από το νερό, τι θα κάνουμε;",
+    "choices": [
+      "Δεν θα επιχειρήσουμε κατάσβεση της φωτιάς, κίνδυνος ηλεκτροπληξίας",
+      "Θα επιχειρήσουμε κατάσβεση με νερό αφού προκαλέσουμε τοπικά BLACK OUT",
+      "Θα επιχειρήσουμε κατάσβεση της φωτιάς, δεν υπάρχει κίνδυνος",
+      "Τίποτα από αυτά δεν είναι σωστό"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM104"
+  },
+  {
+    "question": "Το σήμα επτά βραχείς και μία μακρά (.......-) είναι:",
+    "choices": [
+      "Σήμα πυρκαγιάς",
+      "Σήμα γενικού συναγερμού",
+      "Σήμα διαρροής",
+      "Σήμα φαγητού"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Τι φανούς φέρει η πλοηγίδα;",
+    "choices": [
+      "2 ερυθρούς",
+      "3 ερυθρούς",
+      "3 λευκούς",
+      "1 λευκό και 1 ερυθρό κατακόρυφα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=ASP390"
+  },
+  {
+    "question": "Ποια είναι τα καθήκοντα του Αξιωματικού ασφαλείας του πλοίου;",
+    "choices": [
+      "Μεριμνά ώστε να εφαρμόζεται ο κώδικας ISPS σε όλα τα πλοία της εταιρείας",
+      "Υπεύθυνος προμηθειών πλοίου",
+      "Εκτελεί επιθεωρήσεις στα πλοία της αρμοδιότητάς του",
+      "Τίποτα από τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Ποιο είναι το καταλληλότερο σημείο του σώματος για να μετρήσουμε τον σφυγμό ενός ανθρώπου;",
+    "choices": [
+      "Στον καρπό (κερκιδική)",
+      "Στον βραχίονα (βραχιόνιος)",
+      "Στον λαιμό (καρωτίδα)",
+      "Στον θώρακα (ξιφοειδής)"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Πώς θα μάθουμε ποια είναι τα καθήκοντά μας σε περιπτώσεις έκτακτης ανάγκης;",
+    "choices": [
+      "Από τον γενικό πίνακα διαίρεσης του πληρώματος",
+      "Από ειδικό πινακίδιο στην καμπίνα μας",
+      "Και με τους δύο παραπάνω τρόπους",
+      "Θα τα μάθουμε στο πρώτο γυμνάσιο"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM105"
+  },
+  {
+    "question": "Σε ένα τραπεζοειδές παγόβουνο το βάθος κάτω από την επιφάνεια σε σχέση με το ύψος πάνω από την επιφάνεια του νερού είναι:",
+    "choices": [
+      "πενταπλάσιο",
+      "το 1/5",
+      "επταπλάσιο",
+      "το 1/7"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ο κώδικας ISPS εφαρμόζεται:",
+    "choices": [
+      "Σε όλα τα επιβατηγά πλοία ανεξαρτήτως χωρητικότητας",
+      "Στα δρομολόγια διεθνών προορισμών",
+      "Στα εσωτερικά λιμάνια",
+      "Σε όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM102"
+  },
+  {
+    "question": "Σε περίοδο καύσωνα και σε τροπικά κλίματα ποιο είδος διατροφής είναι απαραίτητο για να αποφύγουμε την αφυδάτωση;",
+    "choices": [
+      "Αλάτι",
+      "Αλκοόλ",
+      "Πρωτεϊνική",
+      "Θερμίδες"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Όταν πνέει άνεμος, από ποια μεριά θα γυρίσουμε τη σωσίβια σχεδία προκειμένου να την επαναφέρουμε όταν αυτή έχει αναποδογυρίσει στη θάλασσα;",
+    "choices": [
+      "Γυρίζοντας τη σχεδία προς την προσήνεμη πλευρά",
+      "Γυρίζοντας τη σχεδία προς την υπήνεμη πλευρά",
+      "Και τα δύο παραπάνω είναι σωστά",
+      "Δεν μας βοηθά ο άνεμος στην επαναφορά της σχεδίας"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Η εμβέλεια εντοπισμού του SART από αεροσκάφη είναι:",
+    "choices": [
+      "50 ναυτικά μίλια από ύψος 25.000 ποδών",
+      "30 ναυτικά μίλια από ύψος 30.000 ποδών",
+      "8 ναυτικά μίλια ανεξάρτητα από το ύψος",
+      "40 ναυτικά μίλια από ύψος 3.000 ποδών"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω δεν αναγράφεται στην εξωτερική πλευρά της λέμβου;",
+    "choices": [
+      "Όνομα πλοίου",
+      "Το όνομά της",
+      "Ο αριθμός της",
+      "Λιμένας νηολόγησης του πλοίου στο οποίο ανήκει η λέμβος"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Σε περίπτωση βλάβης του συστήματος εκδίπλωσης του ολισθητήρα και αφού έχει αποκλειστεί η επιβίβαση σε άλλο σωστικό μέσο, τι θα κάνω;",
+    "choices": [
+      "Θα καθαιρέσω τις σχεδίες στη θάλασσα με το παρακείμενο κρένι",
+      "Κόβω τους ιμάντες με μαχαίρι και το σύστημα πέφτει σαν ρίψεως",
+      "Και τα δύο είναι σωστά",
+      "Φοράμε σωσίβια και βουτάμε στη θάλασσα"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Ποιοι από τους σωσίβιους σημαντήρες ενός πλοίου δεν θα βγουν στην επιφάνεια όταν αυτό βυθιστεί χωρίς να χρησιμοποιηθούν τα σωσίβια μέσα του;",
+    "choices": [
+      "Αυτοί που βρίσκονται στα φτερά της γέφυρας",
+      "Αυτοί που φέρουν ορμιδοβόλο συσκευή",
+      "Οι σωσίβιοι σημαντήρες με σχοινί 30 μέτρων",
+      "Όλοι από τους παραπάνω θα επιπλεύσουν"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι μέσο επικοινωνίας της ταχυπλόου σωστικής λέμβου με το πλοίο στο οποίο ανήκει;",
+    "choices": [
+      "EPIRB",
+      "INMARSAT",
+      "Φορητό VHF",
+      "Ραδιοτηλέφωνο"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Όταν το πλοίο σας διαθέτει σωσίβια λέμβο ελεύθερης πτώσης (Free Fall), τότε αυτή μπορεί να είναι αποδεκτή και σαν λέμβος διάσωσης;",
+    "choices": [
+      "Όχι, σε καμία περίπτωση δεν είναι αποδεκτή",
+      "Αναλόγως τη χωρητικότητά της",
+      "Αναλόγως το μήκος της λέμβου",
+      "Τα δύο παραπάνω είναι σωστά"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Η εφεδρική αντλία πυρκαγιάς πού πρέπει να βρίσκεται σύμφωνα με τους κανονισμούς;",
+    "choices": [
+      "Στο μηχανοστάσιο",
+      "Σε χώρο εκτός μηχανοστασίου",
+      "Σε όλους τους παραπάνω χώρους",
+      "Εκεί που έχει σχεδιάσει ο ναυπηγός"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Ένα ρεύμα που αντιτίθεται σε ένα κύμα:",
+    "choices": [
+      "αυξάνει το μήκος και μειώνει το ύψος του",
+      "αυξάνει το μήκος και το ύψος του",
+      "μειώνει το μήκος και αυξάνει το ύψος του",
+      "μειώνει το μήκος και το ύψος του"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποια αέρια μάζα, που θα φτάσει σε μία περιοχή στα μέσα γεωγραφικά πλάτη, θα χαρακτηριστεί ψυχρή, υγρή και ασταθής;",
+    "choices": [
+      "πολική θαλάσσια",
+      "τροπική θαλάσσια",
+      "πολική ηπειρωτική",
+      "τροπική ηπειρωτική"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Τα βαθιά ρεύματα χρησιμοποιούν:",
+    "choices": [
+      "αποκλειστικά το φαινόμενο της ανάβλυσης",
+      "τη θερμόαλο κυκλοφορία",
+      "τον άνεμο ως κινητήρια δύναμη",
+      "την ανύψωση και την ταπείνωση των υδάτων"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποια είναι τα χαρακτηριστικά του καιρού κατά το πέρασμα ενός ψυχρού μετώπου;",
+    "choices": [
+      "η θερμοκρασία πέφτει και ο άνεμος στρέφεται κατά την ορθή φορά (backing)",
+      "η θερμοκρασία πέφτει και ο άνεμος στρέφεται κατά την ανάδρομη φορά (veering)",
+      "η θερμοκρασία παραμένει σταθερή και ο άνεμος στρέφεται κατά την ορθή φορά (backing)",
+      "η θερμοκρασία παραμένει σταθερή και ο άνεμος στρέφεται κατά την ανάδρομη φορά (veering)"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Οι Δ. ακτές των μέσων και μεγάλων πλατών βρέχονται από...... ρεύματα και χαρακτηρίζονται από..... κλίμα.",
+    "choices": [
+      "θερμά-ωκεάνιο",
+      "ψυχρά-ωκεάνιο",
+      "θερμά-θερμό και βροχερό",
+      "ψυχρά-θερμό και βροχερό"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Η κίνηση των παγόβουνων οφείλεται κυρίως:",
+    "choices": [
+      "στον άνεμο",
+      "στη δύναμη Coriolis",
+      "στις παλίρροιες",
+      "στα θαλάσσια ρεύματα"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Πάνω από ένα θερμό ρεύμα που κινείται προς ψυχρή περιοχή μπορεί να σχηματιστεί:",
+    "choices": [
+      "θερμό μέτωπο",
+      "θαλάσσιος καπνός",
+      "θερμή σύσφιξη",
+      "ομίχλη αναμίξεως"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Το μάτι του κυκλώνα:",
+    "choices": [
+      "Έχει διάμετρο 5-30 ν.μ.",
+      "Έχει μεγάλο κυματισμό",
+      "Έχει τη μικρότερη ατμ. πίεση και ήρεμη θάλασσα",
+      "Είναι νεφοσκεπές"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Αν πλοίο βρεθεί στο χειρότερο ημικύκλιο τροπικού κυκλώνα στο Β.Η. θα πρέπει ο πλοίαρχος:",
+    "choices": [
+      "με όλη του την ταχύτητα να κρατήσει τον άνεμο 1-4 ανεμορόμβια στο δεξί του ισχίο",
+      "με όλη του την ταχύτητα να κρατήσει τον άνεμο 1-4 ανεμορόμβια στο αριστερό του ισχίο",
+      "με όλη του την ταχύτητα να κρατήσει τον άνεμο 1-4 ανεμορόμβια στη δεξιά του παρειά",
+      "με όλη του την ταχύτητα να κρατήσει τον άνεμο 1-4 ανεμορόμβια στην αριστερή του παρειά"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Σύμφωνα με τους κανονισμούς η λέμβος διάσωσης πρέπει να είναι:",
+    "choices": [
+      "Άκαμπτη",
+      "Πνευστή",
+      "Συνδυασμός των δύο ανωτέρω",
+      "Όλα τα παραπάνω είναι σωστά"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Οι τροπικοί κυκλώνες σχηματίζονται μεταξύ των παραλλήλων:",
+    "choices": [
+      "0-10 μοίρες Β και Ν",
+      "0-20 μοίρες Β και Ν",
+      "10-30 μοίρες Β και Ν",
+      "8-20 μοίρες Β και Ν"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποια από τις παρακάτω διαδικασίες συντήρησης σωστικής ταχύπλοου λέμβου είναι λανθασμένη;",
+    "choices": [
+      "Συχνός χρωματισμός του πλαστικού τμήματος της γάστρας",
+      "Συχνός καθαρισμός του πλαστικού καλύμματος της πλώρης",
+      "Καθαρισμός από το θαλασσινό νερό του συστήματος ψύξης μηχανής",
+      "Συντήρηση του συστήματος εκκίνησης (συσσωρευτής και μπουζί)"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM107"
+  },
+  {
+    "question": "Μία σύσφιγξη καλείται θερμή όταν:",
+    "choices": [
+      "προηγείται η ψυχρή αέρια μάζα και έπεται η θερμή",
+      "προηγείται η θερμή αέρια μάζα και έπεται η ψυχρή",
+      "ο ψυχρός αέρας του θερμού μετώπου είναι ψυχρότερος από τον ψυχρό αέρα του ψυχρού μετώπου",
+      "ο ψυχρός αέρας του ψυχρού μετώπου είναι ψυχρότερος από τον ψυχρό αέρα του θερμού μετώπου"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Κατά την ανάβλυση σε θερμά κλίματα ανέρχονται:",
+    "choices": [
+      "θερμά ύδατα φτωχά σε θρεπτικές ουσίες",
+      "θερμά ύδατα πλούσια σε θρεπτικές ουσίες",
+      "ψυχρά ύδατα φτωχά σε θρεπτικές ουσίες",
+      "ψυχρά ύδατα πλούσια σε θρεπτικές ουσίες"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ο Παναγής Κουταλιανός (1847-1916) γεννήθηκε στην Κούταλη της Προποντίδας και πήρε μέρος σε πολλούς αγώνες, αποκτώντας μεγάλη φήμη Έλληνα αθλητή:",
+    "choices": [
+      "στην άρση βαρών",
+      "στο άλμα",
+      "στην πάλη",
+      "στον δίσκο"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ελλάδα κατέστη πρωταθλήτρια στους Πανευρωπαϊκούς αγώνες καλαθοσφαίρισης (Ευρωμπάσκετ) το έτος:",
+    "choices": [
+      "1953",
+      "1987",
+      "1896",
+      "2004"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Αθήνα ανέλαβε τη διοργάνωση των Ολυμπιακών Αγώνων το έτος:",
+    "choices": [
+      "1953",
+      "1987",
+      "1896",
+      "2004"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο Σπύρος Λούης κέρδισε το πρώτο μετάλλιο των Ολυμπιακών Αγώνων (1896) στην Αθήνα στο αγώνισμα:",
+    "choices": [
+      "του δίσκου",
+      "του ακοντίου",
+      "της πάλης",
+      "του δρόμου"
+    ],
+    "answer": 3,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο διεθνής αγώνας αυτοκινήτου «Ράλλυ Ακρόπολις» ξεκίνησε στην Αθήνα το έτος:",
+    "choices": [
+      "1953",
+      "1987",
+      "1896",
+      "2004"
+    ],
+    "answer": 0,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

@@ -1,0 +1,11 @@
+aggregate_metric_list:
+-   metric: acc
+    weight_by_size: true
+group: dascim
+metadata:
+    version: 2
+task:
+- dascim_humanities
+- dascim_other
+- dascim_social_sciences
+- dascim_stem

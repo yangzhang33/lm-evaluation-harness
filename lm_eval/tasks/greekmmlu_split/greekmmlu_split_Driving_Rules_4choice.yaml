@@ -1,0 +1,7 @@
+dataset_name: Driving_Rules_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Driving_Rules with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Driving_Rules_4choice
+task_alias: Driving_Rules (4choice)

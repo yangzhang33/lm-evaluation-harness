@@ -1,0 +1,8 @@
+"description": "The following are multiple choice questions (with answers) about Driving\
+  \ Rules.\\n\\n"
+"include": "base_dascim_3choice.yaml"
+"tag": "dascim_other_tasks"
+"task": "dascim_Driving_Rules_3choice"
+"task_alias": "Driving Rules (3choice)"
+"dataset_kwargs":
+  "dataset_name": "Driving_Rules_3choice"

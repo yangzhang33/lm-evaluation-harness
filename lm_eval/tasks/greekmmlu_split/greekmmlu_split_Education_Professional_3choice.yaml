@@ -1,0 +1,7 @@
+dataset_name: Education_Professional_3choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Education_Professional with 3choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Education_Professional_3choice
+task_alias: Education_Professional (3choice)

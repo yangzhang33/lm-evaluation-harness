@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Η καινοτομία για την Ώθηση:",
+    "choices": [
+      "Αποτελεί αναπόσπαστο κομμάτι της στρατηγικής της",
+      "Δεν αποτελεί βασικό ζητούμενο",
+      "Έχει σημαντικό νόημα και γι' αυτό διαθέτει τμήμα Ε&Α"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  },
+  {
+    "question": "Ο ορισμός του Ο.Ο.Σ.Α. για την καινοτομία συμπεριλαμβάνει:",
+    "choices": [
+      "μόνο την καινοτομία προϊόντος",
+      "μόνο την καινοτομία διαδικασίας",
+      "πέραν της καινοτομίας προϊόντος και της καινοτομίας διαδικασίας, ακόμη την εμπορική καινοτομία και την οργανωσιακή καινοτομία"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  },
+  {
+    "question": "Μία από τις τρεις κύριες φάσεις στη διαχείριση καινοτομίας είναι η:",
+    "choices": [
+      "Ανίχνευση της καινοτομίας προκειμένου να αξιολογηθεί η δυναμική της",
+      "Διαχείριση (managing) της επιχείρησης γνώσης, όπου η βιβλιογραφία εστιάζει στους εξής επτά παράγοντες: ανθρώπινοι πόροι, δίκτυο/κοινωνικό κεφάλαιο, υποδείγματα ανάπτυξης, θερμοκοιτίδες, σύνδεση ανάμεσα στη γνώση, την καινοτομία και την επιχειρηματικότητα, από την Ε&Α στην αγορά, δυναμική της επιχείρησης γνώσης",
+      "Οικονομική αποτίμηση του καινοτομικού αποτελέσματος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  },
+  {
+    "question": "Η καινοτομία σε επίπεδο επιχείρησης μπορεί να προκύψει:",
+    "choices": [
+      "μόνο μέσα από την αξιοποίηση των ερευνητικών αποτελεσμάτων του τμήματος Ε&Α",
+      "μόνο μέσα από την εκμετάλλευση της τεχνογνωσίας που αναδύεται από το περιβάλλον της",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  },
+  {
+    "question": "Η WIZZIT διαθέτει:",
+    "choices": [
+      "οργανωμένο τμήμα Ε&Α",
+      "ανεξάρτητο τεχνικό/μελετητικό τμήμα",
+      "και τα δύο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  },
+  {
+    "question": "Η καινοτομία για την TELENAVIS είναι:",
+    "choices": [
+      "πολυτέλεια",
+      "κάτι που φοβίζει τους ανθρώπους της και γι' αυτό δεν την επιδιώκει",
+      "απαραίτητη για την ύπαρξή της αφού: «Αν η εταιρία σταματήσει να καινοτομεί, τότε σύντομα θα πάψει να υπάρχει»"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Agriculture",
+    "level": "university",
+    "source": "https://oeclass.aua.gr/eclass/modules/exercise/index.php?course=5132"
+  }
+]

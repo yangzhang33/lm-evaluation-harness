@@ -1,0 +1,9 @@
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+group: dascim_humanities
+group_alias: humanities
+metadata:
+  version: 2
+task:
+- dascim_humanities_tasks

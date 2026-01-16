@@ -1,0 +1,2600 @@
+{
+  "results": {
+    "greekmmlu_api": {
+      "acc,none": 0.8722562784259442,
+      "acc_stderr,none": 0.0026740601573319108,
+      "alias": "greekmmlu_api"
+    },
+    "greekmmlu_api_humanities": {
+      "acc,none": 0.8845977011494253,
+      "acc_stderr,none": 0.006773097194826763,
+      "alias": " - humanities"
+    },
+    "greekmmlu_api_art_professional": {
+      "alias": "  - Art_Professional",
+      "acc,none": 0.815,
+      "acc_stderr,none": 0.01586540845074113
+    },
+    "greekmmlu_api_art_secondary_school": {
+      "alias": "  - Art_Secondary_School",
+      "acc,none": 0.9565217391304348,
+      "acc_stderr,none": 0.04347826086956522
+    },
+    "greekmmlu_api_art_university": {
+      "alias": "  - Art_University",
+      "acc,none": 0.9166666666666666,
+      "acc_stderr,none": 0.08333333333333333
+    },
+    "greekmmlu_api_greek_history_primary_school": {
+      "alias": "  - Greek History_Primary_School",
+      "acc,none": 0.9418103448275862,
+      "acc_stderr,none": 0.010879629964816714
+    },
+    "greekmmlu_api_greek_history_professional": {
+      "alias": "  - Greek History_Professional",
+      "acc,none": 0.9230769230769231,
+      "acc_stderr,none": 0.0247410584962568
+    },
+    "greekmmlu_api_greek_history_secondary_school": {
+      "alias": "  - Greek History_Secondary_School",
+      "acc,none": 0.978494623655914,
+      "acc_stderr,none": 0.015123727087070419
+    },
+    "greekmmlu_api_greek_literature": {
+      "alias": "  - Greek Literature",
+      "acc,none": 0.7857142857142857,
+      "acc_stderr,none": 0.1138039295450988
+    },
+    "greekmmlu_api_greek_mythology": {
+      "alias": "  - Greek Mythology",
+      "acc,none": 0.8823529411764706,
+      "acc_stderr,none": 0.020928472557788826
+    },
+    "greekmmlu_api_greek_traditions": {
+      "alias": "  - Greek Traditions",
+      "acc,none": 0.8936170212765957,
+      "acc_stderr,none": 0.01592194632669762
+    },
+    "greekmmlu_api_prehistory": {
+      "alias": "  - Prehistory",
+      "acc,none": 0.9365079365079365,
+      "acc_stderr,none": 0.030968459856707504
+    },
+    "greekmmlu_api_world_history": {
+      "alias": "  - World History",
+      "acc,none": 0.95,
+      "acc_stderr,none": 0.049999999999999996
+    },
+    "greekmmlu_api_world_religions": {
+      "alias": "  - World Religions",
+      "acc,none": 0.8451612903225807,
+      "acc_stderr,none": 0.029150714907681147
+    },
+    "greekmmlu_api_other": {
+      "acc,none": 0.8618568232662193,
+      "acc_stderr,none": 0.008137623689938861,
+      "alias": " - other"
+    },
+    "greekmmlu_api_driving_rules": {
+      "alias": "  - Driving Rules",
+      "acc,none": 0.8697225572979493,
+      "acc_stderr,none": 0.008269204367537236
+    },
+    "greekmmlu_api_general_knowledge": {
+      "alias": "  - General Knowledge",
+      "acc,none": 0.7615384615384615,
+      "acc_stderr,none": 0.037519775988167685
+    },
+    "greekmmlu_api_social_sciences": {
+      "acc,none": 0.8916590284142988,
+      "acc_stderr,none": 0.004138030238536266,
+      "alias": " - social_sciences"
+    },
+    "greekmmlu_api_accounting": {
+      "alias": "  - Accounting",
+      "acc,none": 0.8967391304347826,
+      "acc_stderr,none": 0.02249445133548361
+    },
+    "greekmmlu_api_economics_professional": {
+      "alias": "  - Economics_Professional",
+      "acc,none": 0.9795918367346939,
+      "acc_stderr,none": 0.010125284456261915
+    },
+    "greekmmlu_api_economics_university": {
+      "alias": "  - Economics_University",
+      "acc,none": 0.9069767441860465,
+      "acc_stderr,none": 0.03150535522951525
+    },
+    "greekmmlu_api_education_professional": {
+      "alias": "  - Education_Professional",
+      "acc,none": 0.9090909090909091,
+      "acc_stderr,none": 0.01810952438385445
+    },
+    "greekmmlu_api_education_university": {
+      "alias": "  - Education_University",
+      "acc,none": 0.9024390243902439,
+      "acc_stderr,none": 0.04691557088212523
+    },
+    "greekmmlu_api_geography_primary_school": {
+      "alias": "  - Geography_Primary_School",
+      "acc,none": 0.9666666666666667,
+      "acc_stderr,none": 0.009473937600344174
+    },
+    "greekmmlu_api_geography_secondary_school": {
+      "alias": "  - Geography_Secondary_School",
+      "acc,none": 0.9032258064516129,
+      "acc_stderr,none": 0.0378541092928044
+    },
+    "greekmmlu_api_government_and_politics_primary_school": {
+      "alias": "  - Government and Politics_Primary_School",
+      "acc,none": 0.9785714285714285,
+      "acc_stderr,none": 0.008669434577665553
+    },
+    "greekmmlu_api_government_and_politics_secondary_school": {
+      "alias": "  - Government and Politics_Secondary_School",
+      "acc,none": 0.96,
+      "acc_stderr,none": 0.022779791898059978
+    },
+    "greekmmlu_api_law": {
+      "alias": "  - Law",
+      "acc,none": 0.796420581655481,
+      "acc_stderr,none": 0.013474493293197639
+    },
+    "greekmmlu_api_management_professional": {
+      "alias": "  - Management_Professional",
+      "acc,none": 0.84399375975039,
+      "acc_stderr,none": 0.014343350661804439
+    },
+    "greekmmlu_api_management_university": {
+      "alias": "  - Management_University",
+      "acc,none": 0.88,
+      "acc_stderr,none": 0.066332495807108
+    },
+    "greekmmlu_api_modern_greek_language_primary_school": {
+      "alias": "  - Modern Greek Language_Primary_School",
+      "acc,none": 0.8809201623815968,
+      "acc_stderr,none": 0.008427468624354166
+    },
+    "greekmmlu_api_modern_greek_language_secondary_school": {
+      "alias": "  - Modern Greek Language_Secondary_School",
+      "acc,none": 0.9488636363636364,
+      "acc_stderr,none": 0.007429718937690398
+    },
+    "greekmmlu_api_stem": {
+      "acc,none": 0.8524248218320876,
+      "acc_stderr,none": 0.004623324251734232,
+      "alias": " - stem"
+    },
+    "greekmmlu_api_agriculture_professional": {
+      "alias": "  - Agriculture_Professional",
+      "acc,none": 0.8967551622418879,
+      "acc_stderr,none": 0.016550562767243447
+    },
+    "greekmmlu_api_agriculture_university": {
+      "alias": "  - Agriculture_University",
+      "acc,none": 0.8571428571428571,
+      "acc_stderr,none": 0.04212627318711347
+    },
+    "greekmmlu_api_biology": {
+      "alias": "  - Biology",
+      "acc,none": 0.9512195121951219,
+      "acc_stderr,none": 0.02393431129086137
+    },
+    "greekmmlu_api_chemistry": {
+      "alias": "  - Chemistry",
+      "acc,none": 0.8271604938271605,
+      "acc_stderr,none": 0.04227381152657761
+    },
+    "greekmmlu_api_civil_engineering": {
+      "alias": "  - Civil Engineering",
+      "acc,none": 0.8517555266579974,
+      "acc_stderr,none": 0.012822305671820803
+    },
+    "greekmmlu_api_clinical_knowledge": {
+      "alias": "  - Clinical Knowledge",
+      "acc,none": 0.8687089715536105,
+      "acc_stderr,none": 0.015815111464952028
+    },
+    "greekmmlu_api_computer_networks_and_security": {
+      "alias": "  - Computer Networks & Security",
+      "acc,none": 0.8095238095238095,
+      "acc_stderr,none": 0.04986999410368026
+    },
+    "greekmmlu_api_computer_science_professional": {
+      "alias": "  - Computer Science_Professional",
+      "acc,none": 0.9173228346456693,
+      "acc_stderr,none": 0.017313849203522184
+    },
+    "greekmmlu_api_computer_science_university": {
+      "alias": "  - Computer Science_University",
+      "acc,none": 0.8365384615384616,
+      "acc_stderr,none": 0.03643612097496369
+    },
+    "greekmmlu_api_electrical_engineering": {
+      "alias": "  - Electrical Engineering",
+      "acc,none": 0.8126232741617357,
+      "acc_stderr,none": 0.01734711241660868
+    },
+    "greekmmlu_api_mathematics": {
+      "alias": "  - Mathematics",
+      "acc,none": 0.7987421383647799,
+      "acc_stderr,none": 0.012023400997699182
+    },
+    "greekmmlu_api_medicine_professional": {
+      "alias": "  - Medicine_Professional",
+      "acc,none": 0.903448275862069,
+      "acc_stderr,none": 0.017373316921187713
+    },
+    "greekmmlu_api_medicine_university": {
+      "alias": "  - Medicine_University",
+      "acc,none": 0.875,
+      "acc_stderr,none": 0.03924911410142246
+    },
+    "greekmmlu_api_physics_primary_school": {
+      "alias": "  - Physics_Primary_School",
+      "acc,none": 0.9929742388758782,
+      "acc_stderr,none": 0.004046791984184451
+    },
+    "greekmmlu_api_physics_professional": {
+      "alias": "  - Physics_Professional",
+      "acc,none": 0.8121442125237192,
+      "acc_stderr,none": 0.012036900789461319
+    },
+    "greekmmlu_api_physics_university": {
+      "alias": "  - Physics_University",
+      "acc,none": 0.9295774647887324,
+      "acc_stderr,none": 0.030580853427707572
+    }
+  },
+  "groups": {
+    "greekmmlu_api": {
+      "acc,none": 0.8722562784259442,
+      "acc_stderr,none": 0.0026740601573319108,
+      "alias": "greekmmlu_api"
+    },
+    "greekmmlu_api_humanities": {
+      "acc,none": 0.8845977011494253,
+      "acc_stderr,none": 0.006773097194826763,
+      "alias": " - humanities"
+    },
+    "greekmmlu_api_other": {
+      "acc,none": 0.8618568232662193,
+      "acc_stderr,none": 0.008137623689938861,
+      "alias": " - other"
+    },
+    "greekmmlu_api_social_sciences": {
+      "acc,none": 0.8916590284142988,
+      "acc_stderr,none": 0.004138030238536266,
+      "alias": " - social_sciences"
+    },
+    "greekmmlu_api_stem": {
+      "acc,none": 0.8524248218320876,
+      "acc_stderr,none": 0.004623324251734232,
+      "alias": " - stem"
+    }
+  },
+  "group_subtasks": {
+    "greekmmlu_api_humanities": [
+      "greekmmlu_api_art_university",
+      "greekmmlu_api_greek_literature",
+      "greekmmlu_api_world_history",
+      "greekmmlu_api_prehistory",
+      "greekmmlu_api_art_secondary_school",
+      "greekmmlu_api_greek_history_primary_school",
+      "greekmmlu_api_art_professional",
+      "greekmmlu_api_greek_history_professional",
+      "greekmmlu_api_world_religions",
+      "greekmmlu_api_greek_mythology",
+      "greekmmlu_api_greek_traditions",
+      "greekmmlu_api_greek_history_secondary_school"
+    ],
+    "greekmmlu_api_other": [
+      "greekmmlu_api_driving_rules",
+      "greekmmlu_api_general_knowledge"
+    ],
+    "greekmmlu_api_stem": [
+      "greekmmlu_api_computer_networks_and_security",
+      "greekmmlu_api_electrical_engineering",
+      "greekmmlu_api_civil_engineering",
+      "greekmmlu_api_physics_primary_school",
+      "greekmmlu_api_agriculture_university",
+      "greekmmlu_api_physics_professional",
+      "greekmmlu_api_agriculture_professional",
+      "greekmmlu_api_computer_science_professional",
+      "greekmmlu_api_chemistry",
+      "greekmmlu_api_computer_science_university",
+      "greekmmlu_api_mathematics",
+      "greekmmlu_api_medicine_professional",
+      "greekmmlu_api_medicine_university",
+      "greekmmlu_api_clinical_knowledge",
+      "greekmmlu_api_biology",
+      "greekmmlu_api_physics_university"
+    ],
+    "greekmmlu_api_social_sciences": [
+      "greekmmlu_api_government_and_politics_secondary_school",
+      "greekmmlu_api_management_professional",
+      "greekmmlu_api_government_and_politics_primary_school",
+      "greekmmlu_api_education_university",
+      "greekmmlu_api_modern_greek_language_primary_school",
+      "greekmmlu_api_education_professional",
+      "greekmmlu_api_management_university",
+      "greekmmlu_api_law",
+      "greekmmlu_api_modern_greek_language_secondary_school",
+      "greekmmlu_api_geography_secondary_school",
+      "greekmmlu_api_accounting",
+      "greekmmlu_api_economics_university",
+      "greekmmlu_api_geography_primary_school",
+      "greekmmlu_api_economics_professional"
+    ],
+    "greekmmlu_api": [
+      "greekmmlu_api_social_sciences",
+      "greekmmlu_api_stem",
+      "greekmmlu_api_other",
+      "greekmmlu_api_humanities"
+    ]
+  },
+  "configs": {
+    "greekmmlu_api_accounting": {
+      "task": "greekmmlu_api_accounting",
+      "task_alias": "Accounting",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Accounting",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_agriculture_professional": {
+      "task": "greekmmlu_api_agriculture_professional",
+      "task_alias": "Agriculture_Professional",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Agriculture_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_agriculture_university": {
+      "task": "greekmmlu_api_agriculture_university",
+      "task_alias": "Agriculture_University",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Agriculture_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_art_professional": {
+      "task": "greekmmlu_api_art_professional",
+      "task_alias": "Art_Professional",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Art_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_art_secondary_school": {
+      "task": "greekmmlu_api_art_secondary_school",
+      "task_alias": "Art_Secondary_School",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Art_Secondary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_art_university": {
+      "task": "greekmmlu_api_art_university",
+      "task_alias": "Art_University",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Art_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_biology": {
+      "task": "greekmmlu_api_biology",
+      "task_alias": "Biology",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Biology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_chemistry": {
+      "task": "greekmmlu_api_chemistry",
+      "task_alias": "Chemistry",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Chemistry",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_civil_engineering": {
+      "task": "greekmmlu_api_civil_engineering",
+      "task_alias": "Civil Engineering",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Civil_Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_clinical_knowledge": {
+      "task": "greekmmlu_api_clinical_knowledge",
+      "task_alias": "Clinical Knowledge",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Clinical_Knowledge",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_computer_networks_and_security": {
+      "task": "greekmmlu_api_computer_networks_and_security",
+      "task_alias": "Computer Networks & Security",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Computer_Networks_and_Security",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_computer_science_professional": {
+      "task": "greekmmlu_api_computer_science_professional",
+      "task_alias": "Computer Science_Professional",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Computer_Science_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_computer_science_university": {
+      "task": "greekmmlu_api_computer_science_university",
+      "task_alias": "Computer Science_University",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Computer_Science_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_driving_rules": {
+      "task": "greekmmlu_api_driving_rules",
+      "task_alias": "Driving Rules",
+      "tag": "greekmmlu_api_other_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Driving_Rules",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_economics_professional": {
+      "task": "greekmmlu_api_economics_professional",
+      "task_alias": "Economics_Professional",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Economics_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_economics_university": {
+      "task": "greekmmlu_api_economics_university",
+      "task_alias": "Economics_University",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Economics_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_education_professional": {
+      "task": "greekmmlu_api_education_professional",
+      "task_alias": "Education_Professional",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Education_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_education_university": {
+      "task": "greekmmlu_api_education_university",
+      "task_alias": "Education_University",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Education_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_electrical_engineering": {
+      "task": "greekmmlu_api_electrical_engineering",
+      "task_alias": "Electrical Engineering",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Electrical_Engineering",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_general_knowledge": {
+      "task": "greekmmlu_api_general_knowledge",
+      "task_alias": "General Knowledge",
+      "tag": "greekmmlu_api_other_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "General_Knowledge",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_geography_primary_school": {
+      "task": "greekmmlu_api_geography_primary_school",
+      "task_alias": "Geography_Primary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Geography_Primary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_geography_secondary_school": {
+      "task": "greekmmlu_api_geography_secondary_school",
+      "task_alias": "Geography_Secondary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Geography_Secondary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_government_and_politics_primary_school": {
+      "task": "greekmmlu_api_government_and_politics_primary_school",
+      "task_alias": "Government and Politics_Primary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Government_and_Politics_Primary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_government_and_politics_secondary_school": {
+      "task": "greekmmlu_api_government_and_politics_secondary_school",
+      "task_alias": "Government and Politics_Secondary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Government_and_Politics_Secondary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_history_primary_school": {
+      "task": "greekmmlu_api_greek_history_primary_school",
+      "task_alias": "Greek History_Primary_School",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_History_Primary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_history_professional": {
+      "task": "greekmmlu_api_greek_history_professional",
+      "task_alias": "Greek History_Professional",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_History_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_history_secondary_school": {
+      "task": "greekmmlu_api_greek_history_secondary_school",
+      "task_alias": "Greek History_Secondary_School",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_History_Secondary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_literature": {
+      "task": "greekmmlu_api_greek_literature",
+      "task_alias": "Greek Literature",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_Literature",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_mythology": {
+      "task": "greekmmlu_api_greek_mythology",
+      "task_alias": "Greek Mythology",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_Mythology",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_greek_traditions": {
+      "task": "greekmmlu_api_greek_traditions",
+      "task_alias": "Greek Traditions",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Greek_Traditions",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_law": {
+      "task": "greekmmlu_api_law",
+      "task_alias": "Law",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Law",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_management_professional": {
+      "task": "greekmmlu_api_management_professional",
+      "task_alias": "Management_Professional",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Management_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_management_university": {
+      "task": "greekmmlu_api_management_university",
+      "task_alias": "Management_University",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Management_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_mathematics": {
+      "task": "greekmmlu_api_mathematics",
+      "task_alias": "Mathematics",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Mathematics",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_medicine_professional": {
+      "task": "greekmmlu_api_medicine_professional",
+      "task_alias": "Medicine_Professional",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Medicine_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_medicine_university": {
+      "task": "greekmmlu_api_medicine_university",
+      "task_alias": "Medicine_University",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Medicine_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_modern_greek_language_primary_school": {
+      "task": "greekmmlu_api_modern_greek_language_primary_school",
+      "task_alias": "Modern Greek Language_Primary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Modern_Greek_Language_Primary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_modern_greek_language_secondary_school": {
+      "task": "greekmmlu_api_modern_greek_language_secondary_school",
+      "task_alias": "Modern Greek Language_Secondary_School",
+      "tag": "greekmmlu_api_social_sciences_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Modern_Greek_Language_Secondary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_physics_primary_school": {
+      "task": "greekmmlu_api_physics_primary_school",
+      "task_alias": "Physics_Primary_School",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Physics_Primary_School",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_physics_professional": {
+      "task": "greekmmlu_api_physics_professional",
+      "task_alias": "Physics_Professional",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Physics_Professional",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_physics_university": {
+      "task": "greekmmlu_api_physics_university",
+      "task_alias": "Physics_University",
+      "tag": "greekmmlu_api_stem_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Physics_University",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_prehistory": {
+      "task": "greekmmlu_api_prehistory",
+      "task_alias": "Prehistory",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "Prehistory",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_world_history": {
+      "task": "greekmmlu_api_world_history",
+      "task_alias": "World History",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "World_History",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    },
+    "greekmmlu_api_world_religions": {
+      "task": "greekmmlu_api_world_religions",
+      "task_alias": "World Religions",
+      "tag": "greekmmlu_api_humanities_tasks",
+      "dataset_path": "mkonomi/GreekMMLU-Public",
+      "dataset_name": "World_Religions",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Format the question with choices for Greek MMLU.\n    \n    Args:\n        doc: Dictionary with 'question' and 'choices' fields\n        \n    Returns:\n        Formatted question string\n    \"\"\"\n    question = doc[\"question\"]\n    choices = doc[\"choices\"]\n    subject = doc[\"subject\"]\n    \n    # Convert English subject to Greek\n    subject_gr = subjects_gr.get(subject, subject)\n    \n    # Format choices with Greek labels\n    formatted_choices = []\n    for i, choice in enumerate(choices):\n        formatted_choices.append(f\"{LABELS[i]} {choice}\")\n    \n    choices_text = \"\\n\".join(formatted_choices)\n    \n    return PROMPT.format(subject_gr, question, choices_text)\n",
+      "doc_to_target": "answer",
+      "unsafe_code": false,
+      "process_results": "def process_results(doc, results):\n    \"\"\"\n    Process results for generate_until format (API compatibility).\n    Handles variable number of choices (2, 3, or 4).\n    \n    Args:\n        doc: Dictionary with document data including 'answer' and 'choices' fields\n        results: List containing the model's generated response\n        \n    Returns:\n        Dictionary with accuracy metric\n    \"\"\"\n    pred = results[0].strip().upper()\n\n    num_choices = len(doc[\"choices\"])\n    valid_labels = [LABELS[i][0] for i in range(num_choices)]\n\n    pred_letter = \"\"\n\n    m = ANSWER_RE.search(pred)\n    if m:\n        c = m.group(0)\n\n        if c in [\"A\", \"B\", \"C\", \"D\"]:\n            mapping = {\"A\": \"Α\", \"B\": \"Β\", \"C\": \"Γ\", \"D\": \"Δ\"}\n            c = mapping[c]\n\n        if c in valid_labels:\n            pred_letter = c\n\n    gold = valid_labels[doc[\"answer\"]]\n\n    return {\"acc\": float(pred_letter == gold)}\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "generate_until",
+      "generation_kwargs": {
+        "until": "<\n>",
+        "max_gen_toks": 10,
+        "do_sample": false,
+        "temperature": 0.0
+      },
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 2.0,
+        "model": "gpt-5.2-2025-12-11"
+      }
+    }
+  },
+  "versions": {
+    "greekmmlu_api": null,
+    "greekmmlu_api_accounting": 2.0,
+    "greekmmlu_api_agriculture_professional": 2.0,
+    "greekmmlu_api_agriculture_university": 2.0,
+    "greekmmlu_api_art_professional": 2.0,
+    "greekmmlu_api_art_secondary_school": 2.0,
+    "greekmmlu_api_art_university": 2.0,
+    "greekmmlu_api_biology": 2.0,
+    "greekmmlu_api_chemistry": 2.0,
+    "greekmmlu_api_civil_engineering": 2.0,
+    "greekmmlu_api_clinical_knowledge": 2.0,
+    "greekmmlu_api_computer_networks_and_security": 2.0,
+    "greekmmlu_api_computer_science_professional": 2.0,
+    "greekmmlu_api_computer_science_university": 2.0,
+    "greekmmlu_api_driving_rules": 2.0,
+    "greekmmlu_api_economics_professional": 2.0,
+    "greekmmlu_api_economics_university": 2.0,
+    "greekmmlu_api_education_professional": 2.0,
+    "greekmmlu_api_education_university": 2.0,
+    "greekmmlu_api_electrical_engineering": 2.0,
+    "greekmmlu_api_general_knowledge": 2.0,
+    "greekmmlu_api_geography_primary_school": 2.0,
+    "greekmmlu_api_geography_secondary_school": 2.0,
+    "greekmmlu_api_government_and_politics_primary_school": 2.0,
+    "greekmmlu_api_government_and_politics_secondary_school": 2.0,
+    "greekmmlu_api_greek_history_primary_school": 2.0,
+    "greekmmlu_api_greek_history_professional": 2.0,
+    "greekmmlu_api_greek_history_secondary_school": 2.0,
+    "greekmmlu_api_greek_literature": 2.0,
+    "greekmmlu_api_greek_mythology": 2.0,
+    "greekmmlu_api_greek_traditions": 2.0,
+    "greekmmlu_api_humanities": null,
+    "greekmmlu_api_law": 2.0,
+    "greekmmlu_api_management_professional": 2.0,
+    "greekmmlu_api_management_university": 2.0,
+    "greekmmlu_api_mathematics": 2.0,
+    "greekmmlu_api_medicine_professional": 2.0,
+    "greekmmlu_api_medicine_university": 2.0,
+    "greekmmlu_api_modern_greek_language_primary_school": 2.0,
+    "greekmmlu_api_modern_greek_language_secondary_school": 2.0,
+    "greekmmlu_api_other": null,
+    "greekmmlu_api_physics_primary_school": 2.0,
+    "greekmmlu_api_physics_professional": 2.0,
+    "greekmmlu_api_physics_university": 2.0,
+    "greekmmlu_api_prehistory": 2.0,
+    "greekmmlu_api_social_sciences": null,
+    "greekmmlu_api_stem": null,
+    "greekmmlu_api_world_history": 2.0,
+    "greekmmlu_api_world_religions": 2.0
+  },
+  "n-shot": {
+    "greekmmlu_api_accounting": 0,
+    "greekmmlu_api_agriculture_professional": 0,
+    "greekmmlu_api_agriculture_university": 0,
+    "greekmmlu_api_art_professional": 0,
+    "greekmmlu_api_art_secondary_school": 0,
+    "greekmmlu_api_art_university": 0,
+    "greekmmlu_api_biology": 0,
+    "greekmmlu_api_chemistry": 0,
+    "greekmmlu_api_civil_engineering": 0,
+    "greekmmlu_api_clinical_knowledge": 0,
+    "greekmmlu_api_computer_networks_and_security": 0,
+    "greekmmlu_api_computer_science_professional": 0,
+    "greekmmlu_api_computer_science_university": 0,
+    "greekmmlu_api_driving_rules": 0,
+    "greekmmlu_api_economics_professional": 0,
+    "greekmmlu_api_economics_university": 0,
+    "greekmmlu_api_education_professional": 0,
+    "greekmmlu_api_education_university": 0,
+    "greekmmlu_api_electrical_engineering": 0,
+    "greekmmlu_api_general_knowledge": 0,
+    "greekmmlu_api_geography_primary_school": 0,
+    "greekmmlu_api_geography_secondary_school": 0,
+    "greekmmlu_api_government_and_politics_primary_school": 0,
+    "greekmmlu_api_government_and_politics_secondary_school": 0,
+    "greekmmlu_api_greek_history_primary_school": 0,
+    "greekmmlu_api_greek_history_professional": 0,
+    "greekmmlu_api_greek_history_secondary_school": 0,
+    "greekmmlu_api_greek_literature": 0,
+    "greekmmlu_api_greek_mythology": 0,
+    "greekmmlu_api_greek_traditions": 0,
+    "greekmmlu_api_law": 0,
+    "greekmmlu_api_management_professional": 0,
+    "greekmmlu_api_management_university": 0,
+    "greekmmlu_api_mathematics": 0,
+    "greekmmlu_api_medicine_professional": 0,
+    "greekmmlu_api_medicine_university": 0,
+    "greekmmlu_api_modern_greek_language_primary_school": 0,
+    "greekmmlu_api_modern_greek_language_secondary_school": 0,
+    "greekmmlu_api_physics_primary_school": 0,
+    "greekmmlu_api_physics_professional": 0,
+    "greekmmlu_api_physics_university": 0,
+    "greekmmlu_api_prehistory": 0,
+    "greekmmlu_api_world_history": 0,
+    "greekmmlu_api_world_religions": 0
+  },
+  "higher_is_better": {
+    "greekmmlu_api": {
+      "acc": true
+    },
+    "greekmmlu_api_accounting": {
+      "acc": true
+    },
+    "greekmmlu_api_agriculture_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_agriculture_university": {
+      "acc": true
+    },
+    "greekmmlu_api_art_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_art_secondary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_art_university": {
+      "acc": true
+    },
+    "greekmmlu_api_biology": {
+      "acc": true
+    },
+    "greekmmlu_api_chemistry": {
+      "acc": true
+    },
+    "greekmmlu_api_civil_engineering": {
+      "acc": true
+    },
+    "greekmmlu_api_clinical_knowledge": {
+      "acc": true
+    },
+    "greekmmlu_api_computer_networks_and_security": {
+      "acc": true
+    },
+    "greekmmlu_api_computer_science_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_computer_science_university": {
+      "acc": true
+    },
+    "greekmmlu_api_driving_rules": {
+      "acc": true
+    },
+    "greekmmlu_api_economics_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_economics_university": {
+      "acc": true
+    },
+    "greekmmlu_api_education_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_education_university": {
+      "acc": true
+    },
+    "greekmmlu_api_electrical_engineering": {
+      "acc": true
+    },
+    "greekmmlu_api_general_knowledge": {
+      "acc": true
+    },
+    "greekmmlu_api_geography_primary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_geography_secondary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_government_and_politics_primary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_government_and_politics_secondary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_history_primary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_history_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_history_secondary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_literature": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_mythology": {
+      "acc": true
+    },
+    "greekmmlu_api_greek_traditions": {
+      "acc": true
+    },
+    "greekmmlu_api_humanities": {
+      "acc": true
+    },
+    "greekmmlu_api_law": {
+      "acc": true
+    },
+    "greekmmlu_api_management_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_management_university": {
+      "acc": true
+    },
+    "greekmmlu_api_mathematics": {
+      "acc": true
+    },
+    "greekmmlu_api_medicine_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_medicine_university": {
+      "acc": true
+    },
+    "greekmmlu_api_modern_greek_language_primary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_modern_greek_language_secondary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_other": {
+      "acc": true
+    },
+    "greekmmlu_api_physics_primary_school": {
+      "acc": true
+    },
+    "greekmmlu_api_physics_professional": {
+      "acc": true
+    },
+    "greekmmlu_api_physics_university": {
+      "acc": true
+    },
+    "greekmmlu_api_prehistory": {
+      "acc": true
+    },
+    "greekmmlu_api_social_sciences": {
+      "acc": true
+    },
+    "greekmmlu_api_stem": {
+      "acc": true
+    },
+    "greekmmlu_api_world_history": {
+      "acc": true
+    },
+    "greekmmlu_api_world_religions": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "greekmmlu_api_government_and_politics_secondary_school": {
+      "original": 75,
+      "effective": 75
+    },
+    "greekmmlu_api_management_professional": {
+      "original": 641,
+      "effective": 641
+    },
+    "greekmmlu_api_government_and_politics_primary_school": {
+      "original": 280,
+      "effective": 280
+    },
+    "greekmmlu_api_education_university": {
+      "original": 41,
+      "effective": 41
+    },
+    "greekmmlu_api_modern_greek_language_primary_school": {
+      "original": 1478,
+      "effective": 1478
+    },
+    "greekmmlu_api_education_professional": {
+      "original": 253,
+      "effective": 253
+    },
+    "greekmmlu_api_management_university": {
+      "original": 25,
+      "effective": 25
+    },
+    "greekmmlu_api_law": {
+      "original": 894,
+      "effective": 894
+    },
+    "greekmmlu_api_modern_greek_language_secondary_school": {
+      "original": 880,
+      "effective": 880
+    },
+    "greekmmlu_api_geography_secondary_school": {
+      "original": 62,
+      "effective": 62
+    },
+    "greekmmlu_api_accounting": {
+      "original": 184,
+      "effective": 184
+    },
+    "greekmmlu_api_economics_university": {
+      "original": 86,
+      "effective": 86
+    },
+    "greekmmlu_api_geography_primary_school": {
+      "original": 360,
+      "effective": 360
+    },
+    "greekmmlu_api_economics_professional": {
+      "original": 196,
+      "effective": 196
+    },
+    "greekmmlu_api_computer_networks_and_security": {
+      "original": 63,
+      "effective": 63
+    },
+    "greekmmlu_api_electrical_engineering": {
+      "original": 507,
+      "effective": 507
+    },
+    "greekmmlu_api_civil_engineering": {
+      "original": 769,
+      "effective": 769
+    },
+    "greekmmlu_api_physics_primary_school": {
+      "original": 427,
+      "effective": 427
+    },
+    "greekmmlu_api_agriculture_university": {
+      "original": 70,
+      "effective": 70
+    },
+    "greekmmlu_api_physics_professional": {
+      "original": 1054,
+      "effective": 1054
+    },
+    "greekmmlu_api_agriculture_professional": {
+      "original": 339,
+      "effective": 339
+    },
+    "greekmmlu_api_computer_science_professional": {
+      "original": 254,
+      "effective": 254
+    },
+    "greekmmlu_api_chemistry": {
+      "original": 81,
+      "effective": 81
+    },
+    "greekmmlu_api_computer_science_university": {
+      "original": 104,
+      "effective": 104
+    },
+    "greekmmlu_api_mathematics": {
+      "original": 1113,
+      "effective": 1113
+    },
+    "greekmmlu_api_medicine_professional": {
+      "original": 290,
+      "effective": 290
+    },
+    "greekmmlu_api_medicine_university": {
+      "original": 72,
+      "effective": 72
+    },
+    "greekmmlu_api_clinical_knowledge": {
+      "original": 457,
+      "effective": 457
+    },
+    "greekmmlu_api_biology": {
+      "original": 82,
+      "effective": 82
+    },
+    "greekmmlu_api_physics_university": {
+      "original": 71,
+      "effective": 71
+    },
+    "greekmmlu_api_driving_rules": {
+      "original": 1658,
+      "effective": 1658
+    },
+    "greekmmlu_api_general_knowledge": {
+      "original": 130,
+      "effective": 130
+    },
+    "greekmmlu_api_art_university": {
+      "original": 12,
+      "effective": 12
+    },
+    "greekmmlu_api_greek_literature": {
+      "original": 14,
+      "effective": 14
+    },
+    "greekmmlu_api_world_history": {
+      "original": 20,
+      "effective": 20
+    },
+    "greekmmlu_api_prehistory": {
+      "original": 63,
+      "effective": 63
+    },
+    "greekmmlu_api_art_secondary_school": {
+      "original": 23,
+      "effective": 23
+    },
+    "greekmmlu_api_greek_history_primary_school": {
+      "original": 464,
+      "effective": 464
+    },
+    "greekmmlu_api_art_professional": {
+      "original": 600,
+      "effective": 600
+    },
+    "greekmmlu_api_greek_history_professional": {
+      "original": 117,
+      "effective": 117
+    },
+    "greekmmlu_api_world_religions": {
+      "original": 155,
+      "effective": 155
+    },
+    "greekmmlu_api_greek_mythology": {
+      "original": 238,
+      "effective": 238
+    },
+    "greekmmlu_api_greek_traditions": {
+      "original": 376,
+      "effective": 376
+    },
+    "greekmmlu_api_greek_history_secondary_school": {
+      "original": 93,
+      "effective": 93
+    }
+  },
+  "config": {
+    "model": "openai-chat-completions",
+    "model_args": "model=gpt-5.2-2025-12-11",
+    "batch_size": 1,
+    "batch_sizes": [],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "009a48e",
+  "date": 1766403607.0975685,
+  "pretty_env_info": "PyTorch version: 2.9.0+cu128\nIs debug build: False\nCUDA used to build PyTorch: 12.8\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 24.04.3 LTS (x86_64)\nGCC version: (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0\nClang version: Could not collect\nCMake version: Could not collect\nLibc version: glibc-2.39\n\nPython version: 3.13.5 | packaged by Anaconda, Inc. | (main, Jun 12 2025, 16:09:02) [GCC 11.2.0] (64-bit runtime)\nPython platform: Linux-6.8.0-88-generic-x86_64-with-glibc2.39\nIs CUDA available: True\nCUDA runtime version: 12.0.140\nCUDA_MODULE_LOADING set to: \nGPU models and configuration: \nGPU 0: NVIDIA RTX 6000 Ada Generation\nGPU 1: NVIDIA RTX 6000 Ada Generation\n\nNvidia driver version: 580.95.05\ncuDNN version: Could not collect\nIs XPU available: False\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture :                          x86_64\nMode(s) opératoire(s) des processeurs : 32-bit, 64-bit\nAddress sizes:                          52 bits physical, 57 bits virtual\nBoutisme :                              Little Endian\nProcesseur(s) :                         24\nListe de processeur(s) en ligne :       0-23\nIdentifiant constructeur :              GenuineIntel\nNom de modèle :                         Intel(R) Xeon(R) w5-3425\nFamille de processeur :                 6\nModèle :                                143\nThread(s) par cœur :                    2\nCœur(s) par socket :                    12\nSocket(s) :                             1\nRévision :                              8\nCPU(s) scaling MHz:                     39%\nVitesse maximale du processeur en MHz : 4600,0000\nVitesse minimale du processeur en MHz : 800,0000\nBogoMIPS :                              6384,00\nDrapaux :                               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid dca sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb cat_l3 cat_l2 cdp_l3 intel_ppin cdp_l2 ssbd mba ibrs ibpb stibp ibrs_enhanced tpr_shadow flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid cqm rdt_a avx512f avx512dq rdseed adx smap avx512ifma clflushopt clwb intel_pt avx512cd sha_ni avx512bw avx512vl xsaveopt xsavec xgetbv1 xsaves cqm_llc cqm_occup_llc cqm_mbm_total cqm_mbm_local split_lock_detect user_shstk avx_vnni avx512_bf16 wbnoinvd dtherm ida arat pln pts hwp hwp_act_window hwp_epp hwp_pkg_req vnmi avx512vbmi umip pku ospke waitpkg avx512_vbmi2 gfni vaes vpclmulqdq avx512_vnni avx512_bitalg tme avx512_vpopcntdq la57 rdpid bus_lock_detect cldemote movdiri movdir64b enqcmd fsrm md_clear serialize tsxldtrk pconfig arch_lbr ibt amx_bf16 avx512_fp16 amx_tile amx_int8 flush_l1d arch_capabilities ibpb_exit_to_user\nVirtualisation :                        VT-x\nCache L1d :                             576 KiB (12 instances)\nCache L1i :                             384 KiB (12 instances)\nCache L2 :                              24 MiB (12 instances)\nCache L3 :                              30 MiB (1 instance)\nNœud(s) NUMA :                          1\nNœud NUMA 0 de processeur(s) :          0-23\nVulnerability Gather data sampling:     Not affected\nVulnerability Itlb multihit:            Not affected\nVulnerability L1tf:                     Not affected\nVulnerability Mds:                      Not affected\nVulnerability Meltdown:                 Not affected\nVulnerability Mmio stale data:          Not affected\nVulnerability Reg file data sampling:   Not affected\nVulnerability Retbleed:                 Not affected\nVulnerability Spec rstack overflow:     Not affected\nVulnerability Spec store bypass:        Mitigation; Speculative Store Bypass disabled via prctl\nVulnerability Spectre v1:               Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:               Mitigation; Enhanced / Automatic IBRS; IBPB conditional; RSB filling; PBRSB-eIBRS SW sequence; BHI BHI_DIS_S\nVulnerability Srbds:                    Not affected\nVulnerability Tsx async abort:          Not affected\nVulnerability Vmscape:                  Mitigation; IBPB before exit to userspace\n\nVersions of relevant libraries:\n[pip3] numpy==2.2.6\n[pip3] nvidia-cublas-cu12==12.8.4.1\n[pip3] nvidia-cuda-cupti-cu12==12.8.90\n[pip3] nvidia-cuda-nvrtc-cu12==12.8.93\n[pip3] nvidia-cuda-runtime-cu12==12.8.90\n[pip3] nvidia-cudnn-cu12==9.10.2.21\n[pip3] nvidia-cudnn-frontend==1.17.0\n[pip3] nvidia-cufft-cu12==11.3.3.83\n[pip3] nvidia-curand-cu12==10.3.9.90\n[pip3] nvidia-cusolver-cu12==11.7.3.90\n[pip3] nvidia-cusparse-cu12==12.5.8.93\n[pip3] nvidia-cusparselt-cu12==0.7.1\n[pip3] nvidia-nccl-cu12==2.27.5\n[pip3] nvidia-nvjitlink-cu12==12.8.93\n[pip3] nvidia-nvtx-cu12==12.8.90\n[pip3] onnxruntime==1.23.1\n[pip3] torch==2.9.0\n[pip3] torchaudio==2.9.0\n[pip3] torchvision==0.24.0\n[pip3] triton==3.5.0\n[conda] numpy                                2.2.6            pypi_0              pypi\n[conda] nvidia-cublas-cu12                   12.8.4.1         pypi_0              pypi\n[conda] nvidia-cuda-cupti-cu12               12.8.90          pypi_0              pypi\n[conda] nvidia-cuda-nvrtc-cu12               12.8.93          pypi_0              pypi\n[conda] nvidia-cuda-runtime-cu12             12.8.90          pypi_0              pypi\n[conda] nvidia-cudnn-cu12                    9.10.2.21        pypi_0              pypi\n[conda] nvidia-cudnn-frontend                1.17.0           pypi_0              pypi\n[conda] nvidia-cufft-cu12                    11.3.3.83        pypi_0              pypi\n[conda] nvidia-curand-cu12                   10.3.9.90        pypi_0              pypi\n[conda] nvidia-cusolver-cu12                 11.7.3.90        pypi_0              pypi\n[conda] nvidia-cusparse-cu12                 12.5.8.93        pypi_0              pypi\n[conda] nvidia-cusparselt-cu12               0.7.1            pypi_0              pypi\n[conda] nvidia-nccl-cu12                     2.27.5           pypi_0              pypi\n[conda] nvidia-nvjitlink-cu12                12.8.93          pypi_0              pypi\n[conda] nvidia-nvtx-cu12                     12.8.90          pypi_0              pypi\n[conda] torch                                2.9.0            pypi_0              pypi\n[conda] torchaudio                           2.9.0            pypi_0              pypi\n[conda] torchvision                          0.24.0           pypi_0              pypi\n[conda] triton                               3.5.0            pypi_0              pypi",
+  "transformers_version": "4.56.2",
+  "lm_eval_version": "0.4.9.1",
+  "upper_git_hash": null,
+  "task_hashes": {
+    "greekmmlu_api_government_and_politics_secondary_school": "2ed7c85508dabdaff32626145b3c22abe1ac36d7f6a3530ad73240d5307bd5d5",
+    "greekmmlu_api_management_professional": "b87680beb53633e24189176b949df8529e5a7d665c59a634f1a879bfdaa60ada",
+    "greekmmlu_api_government_and_politics_primary_school": "eb028b947190dd53d09265b8e12ab123e39abb88f60691a0a0a871342a99bd6d",
+    "greekmmlu_api_education_university": "e23696ab69468f4a68a2cc71997e5c3416786267783d40f5907c3f3690d61c36",
+    "greekmmlu_api_modern_greek_language_primary_school": "4550d62a496ac42e2afb701594434b8c6966ce7d20d75882e3a86097dfe211b6",
+    "greekmmlu_api_education_professional": "49c77833ebd36ef9db13881956d55d61689d0888ed1f53d44d8a937ed014a8cd",
+    "greekmmlu_api_management_university": "02947f65371dc5effb9bad73a2983d4c141e55a1c9930df54e3585b3dae96356",
+    "greekmmlu_api_law": "325bb5e31f88ab513c3fb572f09d519e91e5b3f31ca7745c869c5a86cbd0f93c",
+    "greekmmlu_api_modern_greek_language_secondary_school": "bb8bc2377cedd396ce4f9a26f1950dd4a56357fff3202ac5abe282743204aed3",
+    "greekmmlu_api_geography_secondary_school": "16ed4c8a122d723f615ec28ec2a2310c91271fc0be9225893e144f5127783fb7",
+    "greekmmlu_api_accounting": "64b33f32e67a5814c266f7ad6fa821e4ff288711e07de4b4ed48ec8edb23b3c9",
+    "greekmmlu_api_economics_university": "ff0fac357c9e2429451ef8242cef3eeaba2a4b394118cf0bdc514df5a8a72d30",
+    "greekmmlu_api_geography_primary_school": "afb225aee8cb78032232af433e5534e7596094f619d53040657d78d5d69a992e",
+    "greekmmlu_api_economics_professional": "580487167f834de1850db7a5f8480bd5a507a08723b61a3dfe7f2f748d4fdf8e",
+    "greekmmlu_api_computer_networks_and_security": "36caa9deafccca127883d26328528f155399ca4f346cdbe88edee5d853e0cb9a",
+    "greekmmlu_api_electrical_engineering": "9059fde5459144bdcf10d21125646f777074597432fa0f53ee30e36878991926",
+    "greekmmlu_api_civil_engineering": "71c035cc69e995856be4649aa8823888af2fba4ac7c570e950d056dcbff44dd2",
+    "greekmmlu_api_physics_primary_school": "11ab8beb88f0a463d59fac1bee8c39922ffb1a77a6709dd69424a0587e0ed258",
+    "greekmmlu_api_agriculture_university": "e4949500df2b499911b02e6fce7406e90db385319d3a9caa241e993466476288",
+    "greekmmlu_api_physics_professional": "a366434fd3dbf91ea0ce9e43de45ddf61590d6bf375d042314ee4dccda14e8ed",
+    "greekmmlu_api_agriculture_professional": "260e4cb927c63a564711e90958653c79b7e8ea67b5bfdf1dc8461f8c8974c410",
+    "greekmmlu_api_computer_science_professional": "bb1371b0be7121c37813b8dd2494e4051949f486e1f0bbf1f72cceb6d66ee83b",
+    "greekmmlu_api_chemistry": "b7e74cb799937b309234aa1c95d4750a7c3be2bdaa9743ad66e92354e015a807",
+    "greekmmlu_api_computer_science_university": "58f4aab3f12d4ceb176f85437ba88fb3bdb7ae5075e4fc3ded760696308498f2",
+    "greekmmlu_api_mathematics": "5554ef684e8568ca725681a3df12975b321bd08db6eeb0ded1e829b3d8aeb99f",
+    "greekmmlu_api_medicine_professional": "87519526e704c459189ab260a8d0c31554784c8bc558fe10e4c825e934f59549",
+    "greekmmlu_api_medicine_university": "832b8cc68c94504f2e828d92aa5422d8661ba7ef033ca657e3e3a776346258b4",
+    "greekmmlu_api_clinical_knowledge": "cd169186ecb45615bec17bb4cf7389bb089e504693b04af8bcb3026bd48ca993",
+    "greekmmlu_api_biology": "9a0ac7efba59c734af7b3a0991b43084b1a69d73458954c94047ed34c7e311f7",
+    "greekmmlu_api_physics_university": "f040ecc50486956ab9b314b8406f53a1b51ffcb08863c73c99a43702199a9e88",
+    "greekmmlu_api_driving_rules": "303c50eac59ba880147f43b480da348ef70ab5794d55ccea8fab3f282cb010f6",
+    "greekmmlu_api_general_knowledge": "a7534e69d0476177665c593ca1c18f5aa7c7886f307cedac5cfd9d6706a53ad0",
+    "greekmmlu_api_art_university": "eab7855b5a86b664efee22e58e0f957188d64dc5789361348c163fb4f5dca148",
+    "greekmmlu_api_greek_literature": "d6a0a5034618e06927f3fd64483f205de55b3dbfbce0ddc4bd6d6c0e195d42f3",
+    "greekmmlu_api_world_history": "ebb04f5c59e1cc666031e2ad01d1f1bfa00da92724c295951088a6c9c0572ada",
+    "greekmmlu_api_prehistory": "c01ac597f4fb2f1cea548e2975c7536690513a5e1041bc2694d04701349af75d",
+    "greekmmlu_api_art_secondary_school": "64d84e057c97e3f7faa9f3fafb834b97a71307c544c52ceaf3305dda6dddcdfa",
+    "greekmmlu_api_greek_history_primary_school": "8c3fed5950cd93c47e9986f9cbf4893f1a5dd555a2d3909da64cf503833f7ae3",
+    "greekmmlu_api_art_professional": "459d189a2e55ee92b294f8bc9765d004322b121ad3beeee99acd00c2cb4ed528",
+    "greekmmlu_api_greek_history_professional": "b760d53bcd9051c2ebf1982b21216be379f5a25eb8a6f5ca558ef387d56415c3",
+    "greekmmlu_api_world_religions": "9a738d96f16604067bc5f9ed023a5fd5efcfb9c708161ae4c41b32a3b988f9ca",
+    "greekmmlu_api_greek_mythology": "38d792b4cebc8246997193bf5087228abd7c3b43574b511a072f12b4adfd8e18",
+    "greekmmlu_api_greek_traditions": "ff28bd09af9b73b717b2ac0b7172c92e6bc665ea5dcfc560d433bc28f5e54489",
+    "greekmmlu_api_greek_history_secondary_school": "82676123d513b598aeb77b59838b49e8d8932cc8e110caed274e829fec845e9c"
+  },
+  "model_source": "openai-chat-completions",
+  "model_name": "gpt-5.2-2025-12-11",
+  "model_name_sanitized": "gpt-5.2-2025-12-11",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": "",
+  "chat_template_sha": null,
+  "start_time": 1200502.514265318,
+  "end_time": 1210638.718251851,
+  "total_evaluation_time_seconds": "10136.203986532986"
+}

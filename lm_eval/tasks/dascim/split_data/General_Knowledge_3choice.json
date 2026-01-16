@@ -1,0 +1,119 @@
+[
+  {
+    "question": "Ποια από τις παρακάτω σχολές ανήκει στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών;",
+    "choices": [
+      "Μηχανολόγων Μηχανικών",
+      "Νομική",
+      "Μεταλλειολόγων"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω πυροσβεστικά υλικά μπορεί να χρησιμοποιηθεί σε 4 κατηγορίες πυρκαγιών;",
+    "choices": [
+      "Το νερό",
+      "Η ξηρά χημική σκόνη",
+      "Ο αφρός"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM108"
+  },
+  {
+    "question": "Ποια από τις παρακάτω σχολές ανήκει στο Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών;",
+    "choices": [
+      "Μηχανολόγων Μηχανικών",
+      "Νομική",
+      "Μεταλλειολόγων"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=NOC198"
+  },
+  {
+    "question": "Από το καπνογόνο του κυκλικού σωσιβίου της γέφυρας ΜΟΒ για πόση ώρα εξέρχεται καπνός;",
+    "choices": [
+      "Πέντε (5) λεπτά",
+      "Δέκα (10) λεπτά",
+      "Δεκαπέντε (15) λεπτά"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Από το καπνογόνο του κυκλικού σωσιβίου της γέφυρας για πόση ώρα εξέρχεται καπνός;",
+    "choices": [
+      "Πέντε (5) λεπτά",
+      "Δέκα (10) λεπτά",
+      "Δεκαπέντε (15) λεπτά"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  },
+  {
+    "question": "Πότε ένα φορτηγό πλοίο υποχρεούται να φέρει πνευστή σχεδία στην πλώρη σύμφωνα με τους κανονισμούς;",
+    "choices": [
+      "Η σχεδία είναι προαιρετική και είναι θέμα ναυπηγείου",
+      "Όταν το μήκος του πλοίου είναι πάνω από 100 μέτρα",
+      "Όταν η απόσταση του καταστρώματος λεμβών και της πλώρης είναι πάνω από 100 μέτρα"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM106"
+  },
+  {
+    "question": "Οι τροπικοί κυκλώνες:",
+    "choices": [
+      "σχηματίζονται μεταξύ 0-8 μοίρες Β και Ν",
+      "αντλούν ενέργεια από την ανώτερη ατμόσφαιρα",
+      "έχουν θερμική ομοιογένεια"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Οι τροπικοί κυκλώνες:",
+    "choices": [
+      "σχηματίζονται μεταξύ 0-8 μοίρες Β και Ν",
+      "αντλούν ενέργεια από την ανώτερη ατμόσφαιρα",
+      "αρχικά κινούνται προς τα δυτικά"
+    ],
+    "answer": 2,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK182"
+  },
+  {
+    "question": "Ποιο ρόλο έχουν τα διαγώνια συρμάτινα παλάγκα;",
+    "choices": [
+      "Χρησιμοποιούνται για να καθελκύεται η λέμβος στη θάλασσα",
+      "Έλκουν τη λέμβο και τη σταθεροποιούν στο κατάστρωμα επιβίβασης",
+      "Δεν υπάρχουν διαγώνια παλάγκα"
+    ],
+    "answer": 1,
+    "group": "Other",
+    "subject": "General Knowledge",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=SSPMM103"
+  }
+]

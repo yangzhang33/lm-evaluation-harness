@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Πώς αντέδρασε η Ρωμαιοκαθολική Εκκλησία στην Προτεσταντική Μεταρρύθμιση;",
+    "choices": [
+      "Δεν έκανε τίποτα",
+      "Κήρυξε πόλεμο",
+      "Ξεκίνησε την Αντιμεταρρύθμιση (Καθολική Μεταρρύθμιση)",
+      "Αποδέχτηκε πλήρως τις αλλαγές"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο στάδιο της Γαλλικής Επανάστασης η εξουσία βρέθηκε στα χέρια των ακραίων ριζοσπαστών;",
+    "choices": [
+      "Πρώτο στάδιο",
+      "Τρίτο στάδιο",
+      "Δεύτερο στάδιο",
+      "Προεπαναστατικό στάδιο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος θαλασσοπόρος ανακάλυψε το Ακρωτήριο της Καλής Ελπίδας;",
+    "choices": [
+      "Βαρθολομαίος Ντιάζ",
+      "Χριστόφορος Κολόμβος",
+      "Μαγγελάνος",
+      "Βάσκο ντε Γκάμα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ανέλαβε την εξουσία στη Γαλλία μετά το πραξικόπημα του 18ου Μπρυμαίρ (1799), σηματοδοτώντας το τέλος της Γαλλικής Επανάστασης;",
+    "choices": [
+      "Λουδοβίκος ο 16ος",
+      "Ροβεσπιέρος",
+      "Μαρά",
+      "Ναπολέων Βοναπάρτης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού εμφανίστηκε το πνευματικό και καλλιτεχνικό κίνημα της Αναγέννησης;",
+    "choices": [
+      "Στην Αθήνα",
+      "Στο Παρίσι",
+      "Στη Ρώμη",
+      "Στη Βόρεια Ιταλία"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια σειρά συμβαίνουν τα παρακάτω ιστορικά γεγονότα, ξεκινώντας από το παλαιότερο;",
+    "choices": [
+      "Αναγέννηση, Γεωγραφικές ανακαλύψεις, Θρησκευτική Μεταρρύθμιση, Διαφωτισμός, Αμερικανική Επανάσταση, Γαλλική Επανάσταση",
+      "Γαλλική Επανάσταση, Αμερικανική Επανάσταση, Διαφωτισμός, Γεωγραφικές ανακαλύψεις, Θρησκευτική Μεταρρύθμιση, Αναγέννηση",
+      "Γεωγραφικές ανακαλύψεις, Αναγέννηση, Θρησκευτική Μεταρρύθμιση, Διαφωτισμός, Αμερικανική Επανάσταση, Γαλλική Επανάσταση",
+      "Αμερικανική Επανάσταση, Διαφωτισμός, Γαλλική Επανάσταση, Θρησκευτική Μεταρρύθμιση, Γεωγραφικές ανακαλύψεις, Αναγέννηση"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο γεγονός σήμανε το τέλος της καριέρας του Ναπολέοντα;",
+    "choices": [
+      "Πέθανε στον πόλεμο",
+      "Επέστρεψε στη Γαλλία",
+      "Στέφθηκε αυτοκράτορας της Γαλλίας",
+      "Ηττήθηκε στη μάχη του Βατερλώ"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε και πού ξεκίνησε ο Διαφωτισμός;",
+    "choices": [
+      "Τέλη 17ου αιώνα στην Αγγλία",
+      "18ος αιώνας στη Γαλλία",
+      "19ος αιώνας στη Γερμανία",
+      "15ος αιώνας στην Ισπανία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού ξεκίνησε το πνευματικό κίνημα του Διαφωτισμού;",
+    "choices": [
+      "Στη Γερμανία",
+      "Στην Ισπανία",
+      "Στην Ιταλία",
+      "Στην Αγγλία"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο έτος έγινε η Ανακάλυψη της Αμερικής από τον Κολόμβο;",
+    "choices": [
+      "1400",
+      "1500",
+      "1492",
+      "1550"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι μελέτησαν οι άνθρωποι του πνεύματος κατά την περίοδο της Αναγέννησης;",
+    "choices": [
+      "Τα μαθηματικά",
+      "Τη χημεία",
+      "Τη σύγχρονη τεχνολογία",
+      "Τον αρχαίο ελληνικό και ρωμαϊκό πολιτισμό"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο κύριος σκοπός του Ουμανισμού κατά την Αναγέννηση;",
+    "choices": [
+      "Να καταργήσει τη θρησκεία",
+      "Να περιορίσει την τέχνη",
+      "Να δώσει έμφαση στις δυνατότητες του ανθρώπου",
+      "Να καταργήσει τη μοναρχία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ζητούσαν οι εξεγερμένοι στην Αμερικανική και τη Γαλλική Επανάσταση;",
+    "choices": [
+      "Ελευθερία",
+      "Πόλεμο",
+      "Βασιλική εξουσία",
+      "Περισσότερους φόρους"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο επικεφαλής της Προτεσταντικής Μεταρρύθμισης;",
+    "choices": [
+      "Ουίλιαμ Σαίξπηρ",
+      "Βολταίρος",
+      "Ραφαήλ",
+      "Μαρτίνος Λούθηρος"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο έτος εκδόθηκε η Διακήρυξη της Ανεξαρτησίας των ΗΠΑ;",
+    "choices": [
+      "1776",
+      "1789",
+      "1815",
+      "1791"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ξεκίνησε την Προτεσταντική Μεταρρύθμιση;",
+    "choices": [
+      "Ο Πάπας",
+      "Ο Ιωάννης Καλβίνος",
+      "Ο Μαρτίνος Λούθηρος",
+      "Ο Έρασμος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι ήταν σημαντικοί εκπρόσωποι του Διαφωτισμού;",
+    "choices": [
+      "Αριστοτέλης και Πλάτων",
+      "Βολταίρος, Ρουσσώ, Λοκ και Μοντεσκιέ",
+      "Ναπολέων και Καίσαρας",
+      "Περικλής και Σωκράτης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο σημαντικό κείμενο εκφράζει τα δικαιώματα των πολιτών στη Γαλλική Επανάσταση;",
+    "choices": [
+      "Διακήρυξη των Δικαιωμάτων του Ανθρώπου και του Πολίτη",
+      "Σύνταγμα της Γαλλίας",
+      "Πράξη Ανεξαρτησίας",
+      "Επαναστατικό Μανιφέστο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ηγήθηκε της πρώτης αποστολής που πραγματοποίησε τον περίπλου της Γης;",
+    "choices": [
+      "Μαγγελάνος",
+      "Κολόμβος",
+      "Ντιάζ",
+      "Ντε Γκάμα"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω ήταν σημαντικός εκπρόσωπος του Διαφωτισμού;",
+    "choices": [
+      "Βολταίρος",
+      "Λεονάρντο ντα Βίντσι",
+      "Μιγκέλ ντε Θερβάντες",
+      "Νικολό Μακιαβέλι"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη συνήθη σχολική ιστοριογραφική διάκριση, σε πόσα βασικά στάδια χωρίζεται η Γαλλική Επανάσταση (1789-1799);",
+    "choices": [
+      "2 στάδια",
+      "4 στάδια",
+      "3 στάδια",
+      "5 στάδια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι χαρακτήριζε την περίοδο της Αναγέννησης;",
+    "choices": [
+      "Παρακμή των τεχνών",
+      "Στασιμότητα στις επιστήμες",
+      "Άνθηση των τεχνών και των γραμμάτων",
+      "Περιορισμός της ανθρώπινης σκέψης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο σημαντικότερος στόχος του Διαφωτισμού;",
+    "choices": [
+      "Φωτισμός του ανθρώπου μέσω της παιδείας",
+      "Πόλεμος",
+      "Εξερεύνηση",
+      "Κατάκτηση εδαφών"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι ο Διαφωτισμός;",
+    "choices": [
+      "Μία στρατιωτική εκστρατεία",
+      "Ένα πνευματικό κίνημα που στόχευε στη μόρφωση και τα ανθρώπινα δικαιώματα",
+      "Μία θρησκευτική τελετή",
+      "Ένα είδος μουσικής"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Η τουρκική εισβολή στην Κύπρο έγινε:",
+    "choices": [
+      "Την 25η Μαρτίου 1821",
+      "Στις 20 Ιουλίου 1974",
+      "Την 5η Οκτωβρίου 1985",
+      "Την 30ή Απριλίου 1890"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "World History",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

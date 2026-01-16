@@ -1,0 +1,290 @@
+[
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Ελλάδα βρίσκεται στη νοτιοανατολική Ευρώπη.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Κάσος βρίσκεται στο:",
+    "choices": [
+      "Αιγαίο Πέλαγος",
+      "Ιόνιο Πέλαγος"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Περιφερειακή Ενότητα Σποράδων ανήκει στην Περιφέρεια Κεντρικής Μακεδονίας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Το Ναύπλιο είναι πρωτεύουσα της Περιφερειακής Ενότητας Αργολίδας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Στο Θαλάσσιο Πάρκο Αλοννήσου βρίσκεται το καταφύγιο της μεσογειακής φώκιας (Monachus monachus).",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Αράχοβα βρίσκεται στην Περιφερειακή Ενότητα Φωκίδας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Αταλάντη βρίσκεται στην Περιφερειακή Ενότητα Φθιώτιδας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Στο Ιόνιο Πέλαγος βρίσκεται η Ύδρα.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Το Αμύνταιο βρίσκεται στην Περιφερειακή Ενότητα Φλώρινας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Το Γύθειο είναι πρωτεύουσα της Περιφερειακής Ενότητας Λακωνίας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Θάσος βρίσκεται στην Περιφερειακή Ενότητα Καβάλας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Αστυπάλαια ανήκει στα Δωδεκάνησα",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Τα Κύθηρα έχουν αεροδρόμιο.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Αμοργός ανήκει στα Ιόνια νησιά.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Οι Παξοί βρίσκονται στο;",
+    "choices": [
+      "Αιγαίο Πέλαγος",
+      "Ιόνιο Πέλαγος"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Σκόπελος ανήκει στις Κυκλάδες.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Τα Καλάβρυτα βρίσκονται στην Περιφερειακή Ενότητα Αχαΐας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η λίμνη Κορώνεια βρίσκεται στην Πελοπόννησο.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Αστυπάλαια βρίσκεται στο:",
+    "choices": [
+      "Αιγαίο Πέλαγος",
+      "Ιόνιο Πέλαγος"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Στο Αιγαίο Πέλαγος βρίσκονται οι Κυκλάδες και τα Δωδεκάνησα.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ιθάκη βρίσκεται στο;",
+    "choices": [
+      "Αιγαίο Πέλαγος",
+      "Ιόνιο Πέλαγος"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Τα Ψαρά βρίσκονται στο Αιγαίο Πέλαγος.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Η Σκύρος ανήκει διοικητικά στην Περιφέρεια Στερεάς Ελλάδας.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Το Μέτσοβο βρίσκεται στην Περιφερειακή Ενότητα Θεσπρωτίας",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Geography",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

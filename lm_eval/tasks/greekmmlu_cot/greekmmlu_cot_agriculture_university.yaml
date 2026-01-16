@@ -1,0 +1,5 @@
+include: _default_greekmmlu_cot_template_yaml
+tag: greekmmlu_cot_stem_tasks
+task: greekmmlu_cot_agriculture_university
+task_alias: Agriculture_University
+dataset_name: Agriculture_University

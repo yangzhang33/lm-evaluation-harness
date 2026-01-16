@@ -1,0 +1,716 @@
+[
+  {
+    "question": "Το ιξωδόμετρο Ostwald χρησιμοποιείται για τον προσδιορισμό του ιξώδους ποιων συστημάτων;",
+    "choices": [
+      "Νευτωνικών και των πλαστικών συστημάτων",
+      "Μόνον των νευτωνικών συστημάτων",
+      "Νευτωνικών και των ψευδοπλαστικών συστημάτων",
+      "Μόνον των ψευδοπλαστικών συστημάτων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Γιατί χρησιμοποιείται η ουσία 2,6-Δις-τριτ. βουτυλο-π-υδροξυ-τολουόλιο (ΒΗΤ) στα καλλυντικά;",
+    "choices": [
+      "Είναι γαλακτωματοποιητής που η χρήση του οδηγεί σε παρασκευή γαλακτωμάτων τύπου Ο/W",
+      "Είναι γαλακτωματοποιητής που η χρήση του οδηγεί σε παρασκευή γαλακτωμάτων τύπου W/O",
+      "Είναι διαλυτοποιητής των αρωμάτων",
+      "Έχει αντιοξειδωτική δράση"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Ο υδράργυρος βρίσκεται στο κανονικό σημείο ζέσεώς του (354°C). Ποια είναι η τάση ατμών του;",
+    "choices": [
+      "1 Pa",
+      "760 torr",
+      "1.01 atm",
+      "1 bar"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος συνδυασμός δεν είναι μονάδες της επιφανειακής τάσης;",
+    "choices": [
+      "Pa m",
+      "kg/s²",
+      "N m⁻²",
+      "dyn/cm"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν η προσθήκη μιας ουσίας μειώνει την επιφανειακή τάση του νερού, απαιτείται μεγαλύτερο ή μικρότερο έργο για τον σχηματισμό φυσαλίδας ορισμένου μεγέθους;",
+    "choices": [
+      "μικρότερο",
+      "ίσο",
+      "μεγαλύτερο",
+      "δεν υπάρχει συσχέτιση μεταξύ επιφανειακής τάσης και ενέργειας"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε πείραμα Joule-Thomson το δείγμα είναι σε φάση",
+    "choices": [
+      "στερεή",
+      "αέρια",
+      "στερεή και υγρή",
+      "αέρια και στερεή"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Για ιδανικό αέριο, ο συντελεστής Joule-Thomson ισούται με",
+    "choices": [
+      "4.184 K/bar",
+      "273.15°C",
+      "0",
+      "22.4 L"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ο όγκος του μίγματος που προκύπτει από την ανάμιξη 20 mL νερού και 10 mL αιθανόλης είναι 29,3 mL. Ο φαινόμενος μερικός γραμμομοριακός όγκος της αιθανόλης είναι:",
+    "choices": [
+      "0",
+      "θετικός",
+      "αρνητικός",
+      "δεν ορίζεται"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω συνδυασμούς δεν μπορεί να είναι μονάδες του συντελεστή Joule-Thomson;",
+    "choices": [
+      "mK/Pa",
+      "K atm-1",
+      "K/bar-1",
+      "K torr-1"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Για το Ar, ο συντελεστής Joule-Thomson είναι 0,36 K/bar. Σε ένα πείραμα J-T προκαλούμε πτώση πίεσης από 1,8 bar σε 1,1 bar με αρχική θερμοκρασία 298,37 Κ. Ποια η τελική θερμοκρασία;",
+    "choices": [
+      "298,12 Κ",
+      "298,73 K",
+      "298,01 Κ",
+      "2,52 °C"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιο είναι το κανονικό σημείο ζέσεως του νερού;",
+    "choices": [
+      "0°C",
+      "373 K",
+      "298 Κ",
+      "100°C"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν το βενζόλιο έχει κανονικό σημείο ζέσεως 80°C, σε ποια θερμοκρασία θα βράσει στην κορυφή του Ολύμπου;",
+    "choices": [
+      "30°C",
+      "90°C",
+      "60°C",
+      "30 K"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω συνδυασμούς μπορεί να είναι μονάδες του συντελεστή Joule-Thomson;",
+    "choices": [
+      "mK/atm-1",
+      "mK Pa",
+      "K/torr-1",
+      "mK atm-1"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Υπολογίστε την ιοντική ισχύ διαλύματος NaCl 0,1 Μ",
+    "choices": [
+      "0.2",
+      "2",
+      "0.1",
+      "0.05"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιο είναι το κανονικό σημείο ζέσεως του νερού;",
+    "choices": [
+      "373 Κ",
+      "298 Κ",
+      "0 °C",
+      "100 Κ"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Στο πυκνό ούζο πόσες φάσεις διακρίνουμε;",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Γιατί χρησιμοποιείται η ουσία 2,6-Δις-τριτ. βουτυλο-π-υδροξυ-τολουόλιο (ΒΗΤ) στα καλλυντικά;",
+    "choices": [
+      "Είναι γαλακτωματοποιητής που η χρήση του οδηγεί σε παρασκευή γαλακτωμάτων τύπου Ο/W",
+      "Είναι γαλακτωματοποιητής που η χρήση του οδηγεί σε παρασκευή γαλακτωμάτων τύπου W/O",
+      "Είναι διαλυτοποιητής των αρωμάτων",
+      "Έχει αντιοξειδωτική δράση"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Κατά την τιτλοδότηση διαλυμάτων μοριακού ιωδίου πραγματοποιείται αντίδραση:",
+    "choices": [
+      "οξειδοαναγωγής",
+      "συμπλοκοποιήσεως",
+      "εξουδετερώσεως",
+      "ενζυματική"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος είναι ο όγκος μίγματος το οποίο προκύπτει από την ανάμιξη 10 mL νερού και 20 mL νερού;",
+    "choices": [
+      "10 mL",
+      "40 mL",
+      "30 mL",
+      "21 mL"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιος είναι ο γραμμομοριακός όγκος του νερού σε σκέτο νερό σε θερμοκρασία 4°C;",
+    "choices": [
+      "55,5 L/mol",
+      "2 mL/mol",
+      "1 cm³/mol",
+      "18 cm³/mol"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποια σχέση δεν αποτελεί έκφραση ισόθερμης προσρόφησης;",
+    "choices": [
+      "Brunauer, Emmet, Teller (BET)",
+      "Langevin",
+      "Freundlich",
+      "Langmuir"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Κατά την εκτέλεση πειράματος για τη μέτρηση του συντελεστή Joule-Thomson πρέπει να διατηρείται σταθερή",
+    "choices": [
+      "η πυκνότητα",
+      "η πίεση",
+      "η ενθαλπία",
+      "η εντροπία"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποια θερμοκρασία βράζει το καθαρό νερό όταν η εξωτερική πίεση είναι μία ατμόσφαιρα;",
+    "choices": [
+      "293 Κ",
+      "100°C",
+      "100 Κ",
+      "273 Κ"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Τι σημείο ζέσεως αναμένουμε να προσδιορίσουμε για το νερό στο εργαστήριο;",
+    "choices": [
+      "λίγο μεγαλύτερο από 100°C",
+      "λίγο μικρότερο από 100°C",
+      "λίγο μεγαλύτερο από 100 Κ",
+      "100 K"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιο υγρό έχει τη μικρότερη ζεσεοσκοπική σταθερά;",
+    "choices": [
+      "C₆H₆",
+      "C₂H₅OH",
+      "C₆H₅CH₃",
+      "H₂O"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποια θερμοκρασία πήζει το θαλασσινό νερό;",
+    "choices": [
+      "2.5°C",
+      "0.0°C",
+      "2.5°C",
+      "0.5°C"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποιο διάλυμα επιτυγχάνουμε υψηλότερη συγκέντρωση κατιόντων αργύρου από AgCl;",
+    "choices": [
+      "υδατικό διάλυμα 0,1 mol KCl/L",
+      "υδατικό διάλυμα 0,1 mol KI/L",
+      "H2O",
+      "θαλασσινό νερό"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποιο διάλυμα διαλύεται μικρότερη ποσότητα AgCl;",
+    "choices": [
+      "υδατικό διάλυμα 0,1 mol KI/L",
+      "υδατικό διάλυμα 0,1 mol KCl/L",
+      "H2O",
+      "θαλασσινό νερό"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποια θερμοκρασία είναι μεγαλύτερη η πυκνότητα του νερού;",
+    "choices": [
+      "10°C",
+      "4°C",
+      "100°C",
+      "0°C"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η πυκνότητα του αέρα είναι περίπου:",
+    "choices": [
+      "10 kg/m³",
+      "1 g/mL",
+      "1 g/L",
+      "22,4 g/L"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ο συντελεστής κατανομής είναι:",
+    "choices": [
+      "πολλαπλασιαστικός παράγοντας χωρίς μονάδες",
+      "ακαθόριστη ποσότητα",
+      "σταθερά ισορροπίας",
+      "αριθμός για τον υπολογισμό κατανομής"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η επιφανειακή τάση είναι ιδιότητα που χαρακτηρίζει:",
+    "choices": [
+      "μόνο καθαρά υγρά",
+      "μόνο διαλύματα",
+      "στερεά και υγρά",
+      "κάθε φάση σε επαφή με άλλη"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η προσρόφηση παρατηρείται μεταξύ:",
+    "choices": [
+      "κανένα από όλα αυτά",
+      "ρευστών και στερεών",
+      "αερίων και υγρών",
+      "στερεών"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ισόθερμη προσρόφησης είναι:",
+    "choices": [
+      "διεργασία υπό σταθερή θερμοκρασία",
+      "προσρόφηση υπό σταθερή ενθαλπία",
+      "σχέση μεταξύ πίεσης ή συγκέντρωσης και προσροφημένης ποσότητας",
+      "προσρόφηση υπό σταθερό ποσοστό κάλυψης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ο συντελεστής κατανομής",
+    "choices": [
+      "έχει μονάδες αντίστροφης συγκέντρωσης",
+      "είναι αδιάστατος",
+      "έχει μονάδες συγκέντρωσης",
+      "έχει μονάδες συγκέντρωσης στο τετράγωνο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Το ιξωδόμετρο Ostwald χρησιμοποιείται για τον προσδιορισμό του ιξώδους ποιων συστημάτων;",
+    "choices": [
+      "Νευτωνικών και των πλαστικών συστημάτων",
+      "Μόνον των νευτωνικών συστημάτων",
+      "Νευτωνικών και των ψευδοπλαστικών συστημάτων",
+      "Μόνον των ψευδοπλαστικών συστημάτων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Αν ένα σύστημα με 3 συστατικά σχηματίζει 2 φάσεις σε ορισμένη πίεση και θερμοκρασία και έχει καθορισμένη περιεκτικότητα ως προς ένα συστατικό στη φάση Α, μπορεί να έχει αυθαίρετη περιεκτικότητα ως προς το ίδιο συστατικό στη φάση Β;",
+    "choices": [
+      "ναί",
+      "όχι",
+      "ποικίλλει",
+      "δεν μπορούμε να ξέρουμε"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η κινητική της εξάτμισης τι τάξης είναι;",
+    "choices": [
+      "δεύτερης",
+      "τρίτης",
+      "μηδενικής",
+      "πρώτης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η διεργασία στην οποία υποβάλλεται το δείγμα σε πείραμα Joule-Thomson είναι:",
+    "choices": [
+      "αδιαβατική θέρμανση",
+      "ελεύθερη εκτόνωση",
+      "ισόθερμη εκτόνωση",
+      "εκτόνωση"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν ένα σύστημα αποτελείται από 3 συστατικά τα οποία κατανέμονται σε 2 φάσεις σε ισορροπία, πόσες είναι οι ανεξάρτητες εντατικές μεταβλητές;",
+    "choices": [
+      "0",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Στο αραιωμένο ούζο πόσες φάσεις διακρίνουμε;",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ο όγκος του μίγματος που προκύπτει από την ανάμιξη 20 mL νερού και 10 mL αιθανόλης είναι 29,3 mL. Το πλεόνασμα (περίσσεια) όγκου του μίγματος έχει τιμή:",
+    "choices": [
+      "0",
+      "θετική",
+      "αρνητική",
+      "δεν ορίζεται"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν κατά την ανάμιξη 20 g NaCl με 500 mL νερού ο όγκος του διαλύματος είναι 500 mL, ο φαινόμενος μερικός γραμμομοριακός όγκος του άλατος είναι:",
+    "choices": [
+      "0",
+      "θετικός",
+      "αρνητικός",
+      "δεν ορίζεται"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν ένα σύστημα το οποίο αποτελείται από 3 συστατικά σε μία φάση, βρίσκεται σε καθορισμένη πίεση και θερμοκρασία, πόσες μεταβλητές συνθέσεως (π.χ. γραμμομοριακά κλάσματα) μπορούμε να επιλέξουμε αυθαίρετα;",
+    "choices": [
+      "3",
+      "0",
+      "2",
+      "4"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Αν ένα διαλυμένο συστατικό αυξάνει την επιφανειακή τάση του νερού, τι πίεση χρειάζεται στο εσωτερικό μιας φυσαλίδας για να έχει αυτή ορισμένο μέγεθος;",
+    "choices": [
+      "μικρότερη απ' ό,τι για καθαρό νερό",
+      "ίδια με το καθαρό νερό",
+      "μεγαλύτερη απ' ό,τι για καθαρό νερό",
+      "υπάρχει συσχέτιση επιφανειακής τάσης και πίεσης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η πλήρωση ορισμένου ποσοστού των διαθέσιμων θέσεων προσρόφησης χαρακτηρίζεται ως",
+    "choices": [
+      "ισοβαρής διεργασία",
+      "ισοστερική διεργασία",
+      "ισόποση διεργασία",
+      "ισόχωρη διεργασία"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε ποια θερμοκρασία βράζει το νερό στο βαθύτερο σημείο της Μεσογείου όπου το βάθος είναι 4.500 m και η πίεση φτάνει τα 450 bar;",
+    "choices": [
+      "100°C",
+      "450 K",
+      "δεν βράζει (η πίεση είναι υψηλότερη της κρίσιμης)",
+      "100 Κ"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η επιφανειακή τάση είναι:",
+    "choices": [
+      "εκτατικό μέγεθος",
+      "εντατικό μέγεθος",
+      "ούτε εντατικό ούτε εκτατικό",
+      "άλλοτε εντατικό και άλλοτε εκτατικό"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Σε πείραμα Joule-Thomson το δείγμα είναι:",
+    "choices": [
+      "μίγμα ιδανικών αερίων",
+      "αέριο",
+      "ιδανικό διάλυμα",
+      "αζεοτροπικό μίγμα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Με βάση τις αρχές βιωσιμότητας, ποιος είναι ο βασικός στόχος της σύγχρονης έρευνας στα απορρυπαντικά;",
+    "choices": [
+      "Να είναι πιο φθηνά",
+      "Να έχουν καλύτερο άρωμα",
+      "Να είναι πιο φιλικά προς το περιβάλλον",
+      "Να διαρκούν περισσότερο"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι οξύ;",
+    "choices": [
+      "Ξίδι",
+      "Μαγειρική σόδα",
+      "Οδοντόπαστα",
+      "Αμμωνία"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  }
+]

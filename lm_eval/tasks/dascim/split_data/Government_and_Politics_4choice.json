@@ -1,0 +1,4874 @@
+[
+  {
+    "question": "Με ποια φράση συχνά αποκαλείται η Ευρωπαϊκή Ένωση για να τονιστεί η συνεργασία και η ενότητα των κρατών-μελών της;",
+    "choices": [
+      "Ευρωπαϊκή Οικογένεια",
+      "Ευρωπαϊκό Γραφείο",
+      "Ευρωπαϊκή Επιτροπή",
+      "Ευρωπαϊκό Συμβούλιο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συμβαίνει κατά τη διάρκεια των συνεδριάσεων του Δημοτικού Συμβουλίου;",
+    "choices": [
+      "Συζητούν θέματα, προτείνουν λύσεις και αποφασίζουν κατά πλειοψηφία",
+      "Συνεδριάζουν μόνο σε έκτακτες περιπτώσεις",
+      "Μόνο ο Δήμαρχος παίρνει τις αποφάσεις",
+      "Δεν συμμετέχουν καθόλου οι κάτοικοι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στις εκλογές για το Ευρωπαϊκό Κοινοβούλιο, τι μπορούν να κάνουν οι Ευρωπαίοι πολίτες;",
+    "choices": [
+      "Να εκλέγουν και να εκλέγονται",
+      "Μόνο να παρακολουθούν",
+      "Να διορίζουν αξιωματούχους",
+      "Να μην κάνουν τίποτα"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο γεγονός βοήθησε στην καθιέρωση βασικών ανθρώπινων δικαιωμάτων;",
+    "choices": [
+      "Ο Α΄ Παγκόσμιος Πόλεμος",
+      "Η Βιομηχανική Επανάσταση",
+      "Η Γαλλική Επανάσταση",
+      "Το Διάστημα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσες επίσημες γλώσσες έχει η Ευρωπαϊκή Ένωση;",
+    "choices": [
+      "24 γλώσσες",
+      "10 γλώσσες",
+      "15 γλώσσες",
+      "50 γλώσσες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω αποτελεί αρμοδιότητα των δήμων;",
+    "choices": [
+      "Καθαριότητα και αποκομιδή απορριμμάτων",
+      "Κατασκευή μεγάλων οδικών αξόνων",
+      "Σχεδιασμός περιφερειακής ανάπτυξης",
+      "Διαχείριση κρατικού προϋπολογισμού"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε υιοθετήθηκε από τη Γενική Συνέλευση του ΟΗΕ η Οικουμενική Διακήρυξη των Ανθρωπίνων Δικαιωμάτων;",
+    "choices": [
+      "Το 1945",
+      "Το 2000",
+      "Το 1960",
+      "Το 1948"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού συνεδριάζουν οι βουλευτές;",
+    "choices": [
+      "Στο Δημαρχείο",
+      "Στο Δικαστήριο",
+      "Στη Βουλή",
+      "Στο Αστυνομικό Τμήμα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει να είσαι ενεργός πολίτης;",
+    "choices": [
+      "Να πληρώνεις τους φόρους σου",
+      "Να ενημερώνεσαι και να συμμετέχεις στα κοινά",
+      "Να ζεις σε μία πόλη",
+      "Να έχεις ηλικία άνω των 18 ετών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η επικρατούσα θρησκεία στην Ελλάδα;",
+    "choices": [
+      "Ορθόδοξη Χριστιανική (Εκκλησία)",
+      "Ισλάμ",
+      "Καθολικισμός",
+      "Προτεσταντισμός"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος καθιέρωσε την ανεξιθρησκία στη Ρωμαϊκή Αυτοκρατορία;",
+    "choices": [
+      "Κωνσταντίνος",
+      "Λικίνιος",
+      "Πάπας",
+      "Ευγένιος Βούλγαρης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει «αντιπροσωπευτική δημοκρατία»;",
+    "choices": [
+      "Ο λαός κυβερνά απευθείας",
+      "Ο λαός εκλέγει αντιπροσώπους να τον εκπροσωπούν",
+      "Μόνο οι πολιτικοί αποφασίζουν",
+      "Καμία συμμετοχή του λαού"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το Ληξιαρχείο;",
+    "choices": [
+      "Χώρος φιλοξενίας προσφύγων",
+      "Γραφείο έκδοσης διαβατηρίων",
+      "Υπηρεσία του Δήμου που καταγράφει γεγονότα όπως γεννήσεις, γάμους και θανάτους",
+      "Υπηρεσία μετανάστευσης"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο όργανο εκλέγεται απευθείας από τους πολίτες της Ευρωπαϊκής Ένωσης;",
+    "choices": [
+      "Το Ευρωπαϊκό Κοινοβούλιο",
+      "Το Ευρωπαϊκό Συμβούλιο",
+      "Η Ευρωπαϊκή Επιτροπή",
+      "Το Ευρωπαϊκό Δικαστήριο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι υιοθέτησαν την Οικουμενική Διακήρυξη Ανθρωπίνων Δικαιωμάτων;",
+    "choices": [
+      "Η Γαλλική Επανάσταση",
+      "Ο Οργανισμός Ηνωμένων Εθνών",
+      "Η Ευρωπαϊκή Ένωση",
+      "Το ΝΑΤΟ"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια ηλικία αποκτούν δικαίωμα ψήφου οι πολίτες στην Ελλάδα και σε ποιες εκλογές ισχύει;",
+    "choices": [
+      "Από τα 16 τους χρόνια σε όλες τις εκλογές",
+      "Από τα 21 τους χρόνια μόνο στις δημοτικές εκλογές",
+      "Από τα 18 τους χρόνια στις βουλευτικές και δημοτικές εκλογές",
+      "Από τα 17 τους χρόνια στις βουλευτικές, αυτοδιοικητικές και ευρωεκλογές"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος διενεργεί την ψηφοφορία στο εκλογικό τμήμα την ημέρα των εκλογών;",
+    "choices": [
+      "Η εφορευτική επιτροπή",
+      "Η αστυνομία",
+      "Η κυβέρνηση",
+      "Οι δημοσιογράφοι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος φροντίζει για τα θέματα ενός Δήμου;",
+    "choices": [
+      "Η Βουλή",
+      "Η Κυβέρνηση",
+      "Οι κάτοικοι του Δήμου",
+      "Ο Δήμαρχος και το Δημοτικό Συμβούλιο"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ίδρυσε τον Ερυθρό Σταυρό;",
+    "choices": [
+      "Ο Αϊνστάιν",
+      "Ο Μπιλ Γκέιτς",
+      "Ο Ερρίκος Ντυνάν",
+      "Ο Στίβεν Χόκινγκ"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την Οικουμενική Διακήρυξη, όλοι οι άνθρωποι γεννιούνται...",
+    "choices": [
+      "Ελεύθεροι και με ίσα δικαιώματα",
+      "Με διαφορετικά δικαιώματα",
+      "Με περιορισμένα δικαιώματα",
+      "Χωρίς καθόλου δικαιώματα"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο πολίτευμα χαρακτηρίζεται από τη λαϊκή κυριαρχία;",
+    "choices": [
+      "Μοναρχία",
+      "Δημοκρατία",
+      "Δικτατορία",
+      "Ολιγαρχία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού κατοχυρώνονται τα βασικά δικαιώματα των πολιτών στην Ελλάδα;",
+    "choices": [
+      "Στον Καταστατικό Χάρτη",
+      "Στο Σύνταγμα",
+      "Στους Νόμους",
+      "Στη Διεθνή Σύμβαση"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο έτος υιοθετήθηκε η Οικουμενική Διακήρυξη για τα Ανθρώπινα Δικαιώματα;",
+    "choices": [
+      "1789",
+      "1900",
+      "1992",
+      "1948"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο ανώτερος νόμος του κράτους;",
+    "choices": [
+      "Το Σύνταγμα",
+      "Ο Νόμος",
+      "Ο Κανονισμός",
+      "Η Διαταγή"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος σκοπός του σχολείου;",
+    "choices": [
+      "Να προσφέρει μόνο γνώσεις στους μαθητές",
+      "Να παρέχει μόνο ψυχαγωγία στα παιδιά",
+      "Να προετοιμάσει μόνο επαγγελματικά τους μαθητές",
+      "Να αναπτύξει ολόπλευρα την προσωπικότητα των παιδιών"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι ένοπλη σύγκρουση μεταξύ χωρών;",
+    "choices": [
+      "Τα ναρκωτικά",
+      "Η φτώχεια",
+      "Οι πόλεμοι",
+      "Οι κλιματικές αλλαγές"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος οργανισμός ασχολείται με την παγκόσμια συνεργασία και ειρήνη;",
+    "choices": [
+      "WWF",
+      "Ε.Κ.ΠΟΙ.ΖΩ.",
+      "Τοπική περιβαλλοντική ομάδα",
+      "Οργανισμός Ηνωμένων Εθνών"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι ψηφίζουν στις δημοτικές εκλογές στην Ελλάδα;",
+    "choices": [
+      "Όσοι είναι 17 ετών και άνω και είναι εγγεγραμμένοι στους εκλογικούς καταλόγους του δήμου",
+      "Μόνο οι ενήλικες 18 ετών και άνω",
+      "Μόνο τα παιδιά",
+      "Όλοι, ανεξάρτητα από ηλικία ή εγγραφή"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στο ελληνικό κοινοβουλευτικό σύστημα, τι εκλέγουν άμεσα οι πολίτες;",
+    "choices": [
+      "Τους βουλευτές",
+      "Τον Πρόεδρο της Δημοκρατίας",
+      "Τους δικαστές",
+      "Τους στρατηγούς"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσοι βουλευτές αποτελούν τη Βουλή των Ελλήνων;",
+    "choices": [
+      "300 βουλευτές",
+      "100 βουλευτές",
+      "250 βουλευτές",
+      "150 βουλευτές"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, πώς εκλέγεται ο Πρόεδρος της Δημοκρατίας;",
+    "choices": [
+      "Από τον λαό",
+      "Από τους στρατηγούς",
+      "Από τα πολιτικά κόμματα",
+      "Από τους βουλευτές"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο χώρος συνεδρίασης της Εκκλησίας του Δήμου στην Αρχαία Αθήνα;",
+    "choices": [
+      "Παρθενώνας",
+      "Αγορά",
+      "Πνύκα",
+      "Θέατρο Διονύσου"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο πρώτος φορέας κοινωνικοποίησης του ατόμου;",
+    "choices": [
+      "Το σχολείο",
+      "Η οικογένεια",
+      "Οι φίλοι/συνομήλικοι",
+      "Οι επαγγελματικές σχέσεις"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα άρθρα περιλαμβάνει η Σύμβαση για τα Δικαιώματα του Παιδιού;",
+    "choices": [
+      "34 άρθρα",
+      "44 άρθρα",
+      "54 άρθρα",
+      "64 άρθρα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει η Πολιτική Άμυνα;",
+    "choices": [
+      "Μόνο τις Ένοπλες Δυνάμεις",
+      "Κρατικές αρχές, υπηρεσίες, πολίτες και επιχειρήσεις",
+      "Μόνο τους κρατικούς υπαλλήλους",
+      "Μόνο τα στρατιωτικά σώματα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι η τροφή και η στέγη για κάθε άνθρωπο;",
+    "choices": [
+      "Πολυτέλεια",
+      "Επιθυμία",
+      "Προαιρετικό αγαθό",
+      "Βασική ανάγκη"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ήταν τα θεωρικά στην Αρχαία Αθήνα;",
+    "choices": [
+      "Χρήματα για πολεμικές επιχειρήσεις",
+      "Χρήματα για εκπαίδευση",
+      "Χρήματα που έδιναν οι άποροι πολίτες",
+      "Χρήματα για να παρακολουθούν παραστάσεις οι άποροι πολίτες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι σωστό για τους λαούς της Ευρώπης;",
+    "choices": [
+      "Δεν έχουν καμία κοινή πολιτιστική καταγωγή",
+      "Έχουν κοινές πολιτιστικές ρίζες",
+      "Δεν ενδιαφέρονται για τις παραδόσεις τους",
+      "Κάθε λαός είναι απολύτως διαφορετικός"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Για ποιον λόγο σχηματίζονται και λειτουργούν οι ομάδες;",
+    "choices": [
+      "Να κερδίζουν χρήματα",
+      "Να ταξιδεύουν μαζί",
+      "Να επιτύχουν έναν κοινό στόχο",
+      "Να φοράνε ίδια ρούχα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ένας από τους βασικούς στόχους της Ευρωπαϊκής Ένωσης;",
+    "choices": [
+      "Πολιτιστική ανταλλαγή",
+      "Στρατιωτική συμμαχία",
+      "Οικονομική συνεργασία",
+      "Επιστημονική έρευνα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η κυριότερη λειτουργία της Βουλής;",
+    "choices": [
+      "Έκδοση αστυνομικών αδειών",
+      "Ψήφιση νόμων",
+      "Διεξαγωγή εκλογών",
+      "Έλεγχος δικαστηρίων"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε ιδρύθηκε επίσημα η Ευρωπαϊκή Ένωση;",
+    "choices": [
+      "Το 1919, μετά τον Α' Παγκόσμιο Πόλεμο",
+      "Το 1993, με τη Συνθήκη του Μάαστριχτ",
+      "Το 1957, με τη Συνθήκη της Ρώμης",
+      "Το 1981, με την ένταξη της Ελλάδας"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε πόσες αποκεντρωμένες διοικήσεις χωρίζεται η Ελλάδα;",
+    "choices": [
+      "5 διοικήσεις",
+      "10 διοικήσεις",
+      "12 διοικήσεις",
+      "7 διοικήσεις"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο όργανο εκπροσωπεί το λαό στη δημοκρατία;",
+    "choices": [
+      "Η Βουλή",
+      "Η Αστυνομία",
+      "Το Δικαστήριο",
+      "Η Κυβέρνηση"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι ένα δικαίωμα των μελών της οικογένειας;",
+    "choices": [
+      "Να πλένουν τα πιάτα",
+      "Να τηρούν τους κανόνες",
+      "Να ξεκουράζονται",
+      "Να καθαρίζουν το σπίτι"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός λόγος που οι άνθρωποι οργανώνονται σε ομάδες στην κοινωνία;",
+    "choices": [
+      "Για να επιτύχουν κοινούς σκοπούς",
+      "Για να απομονώνονται από τους άλλους",
+      "Για να τρώνε μαζί",
+      "Για να κοιμούνται"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συμβαίνει συνήθως με τα ανθρώπινα δικαιώματα κατά τη διάρκεια των πολέμων;",
+    "choices": [
+      "Γίνονται πάντα σεβαστά",
+      "Παραβιάζονται συχνά",
+      "Δεν επηρεάζονται καθόλου",
+      "Ενισχύονται αυτόματα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει η λέξη δημοκρατία;",
+    "choices": [
+      "Κυβέρνηση των πλουσίων",
+      "Εξουσία του λαού",
+      "Εξουσία των στρατιωτικών",
+      "Κυβέρνηση μίας οικογένειας"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ΔΕΝ είναι κύριο δικαίωμα των παιδιών;",
+    "choices": [
+      "Δικαίωμα για στέγη και φαγητό",
+      "Δικαίωμα να μην κακοποιούνται",
+      "Δικαίωμα για εκπαίδευση και παιχνίδι",
+      "Δικαίωμα να εργάζονται σε οποιαδήποτε ηλικία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι τα κύρια πολιτεύματα;",
+    "choices": [
+      "Δημοκρατία, Στρατοκρατία, Πολιτοκρατία",
+      "Συνταγματική, Απόλυτη, Προεδρική",
+      "Μοναρχία, Ολιγαρχία, Δημοκρατία",
+      "Εκλογική, Κληρονομική, Επαναστατική"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε εντάχθηκε η Ελλάδα στην τότε Ευρωπαϊκή Οικονομική Κοινότητα (ΕΟΚ), σημερινή Ευρωπαϊκή Ένωση;",
+    "choices": [
+      "Το 1979",
+      "Το 1983",
+      "Το 2001",
+      "Το 1981"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί οι Αθηναίοι παρακολουθούσαν θεατρικές παραστάσεις;",
+    "choices": [
+      "Μόνο για διασκέδαση",
+      "Για να μορφωθούν και να ψυχαγωγηθούν",
+      "Μόνο για να μορφωθούν",
+      "Επειδή τους το επέβαλλαν"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με ποιους τρόπους η Εκκλησία βοηθάει τους ανθρώπους;",
+    "choices": [
+      "Με κοινωνικό και ανθρωπιστικό έργο",
+      "Με πολιτικό και οικονομικό έργο",
+      "Με κοινωνικό και στρατιωτικό έργο",
+      "Με πολεμικό και θρησκευτικό έργο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιον λογοδοτεί ο Συνήγορος του Πολίτη;",
+    "choices": [
+      "Στην Κυβέρνηση",
+      "Στα Δικαστήρια",
+      "Στη Βουλή των Ελλήνων",
+      "Στην Αστυνομία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ο θεσμός «Πολιτιστική Πρωτεύουσα της Ευρώπης»;",
+    "choices": [
+      "Μία πόλη που επιλέγεται κάθε χρόνο από την Ευρωπαϊκή Ένωση για να φιλοξενήσει πολλές πολιτιστικές εκδηλώσεις",
+      "Η πρωτεύουσα της Ευρωπαϊκής Ένωσης",
+      "Το κεντρικό μουσείο της Ευρώπης",
+      "Ένα βραβείο που δίνεται σε έναν καλλιτέχνη κάθε χρόνο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το σύνολο των ανθρώπων με κοινά πολιτιστικά στοιχεία;",
+    "choices": [
+      "Έθνος",
+      "Κράτος",
+      "Δήμος",
+      "Οργάνωση"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω είναι τρόπος συμμετοχής στα κοινά;",
+    "choices": [
+      "Να συμμετέχεις σε μαθητικό συμβούλιο",
+      "Να παρακολουθείς τηλεόραση",
+      "Να παίζεις βιντεοπαιχνίδια",
+      "Να κοιμάσαι νωρίς"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος θρησκευτικός σκοπός της Εκκλησίας της Ελλάδος;",
+    "choices": [
+      "Να συνδέει τους ανθρώπους με τον Θεό",
+      "Να συλλέγει χρήματα",
+      "Να συνδέει τους ανθρώπους μεταξύ τους",
+      "Να οργανώνει εκδηλώσεις"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τον νόμο, ποιοι μπορούν να εργάζονται στην Ελλάδα;",
+    "choices": [
+      "Μόνο οι Έλληνες πολίτες",
+      "Μόνο όσοι έχουν ειδική άδεια εργασίας",
+      "Κανείς χωρίς ελληνική ιθαγένεια",
+      "Όσοι έχουν δικαίωμα εργασίας: Έλληνες πολίτες, πολίτες της ΕΕ και πολίτες άλλων χωρών που έχουν άδεια εργασίας"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Η άσκηση των δικαιωμάτων συνεπάγεται και:",
+    "choices": [
+      "Υποχρεώσεις",
+      "Νέα παιχνίδια",
+      "Ταξίδια",
+      "Φίλους"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο επικεφαλής (προκαθήμενος) της Εκκλησίας της Ελλάδος;",
+    "choices": [
+      "Ο διάκονος",
+      "Ο Αρχιεπίσκοπος Αθηνών και πάσης Ελλάδος",
+      "Ο Μητροπολίτης",
+      "Ο Πάπας"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι εκλέγουν οι πολίτες στη δημοκρατία;",
+    "choices": [
+      "Τους δικαστές",
+      "Τους στρατηγούς",
+      "Τους αντιπροσώπους τους",
+      "Τους δημόσιους υπαλλήλους"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ότι η εξουσία πηγάζει από τον λαό;",
+    "choices": [
+      "Ο λαός εκτελεί όλες τις αποφάσεις",
+      "Ο λαός εκλέγει τους αντιπροσώπους του",
+      "Ο λαός πληρώνει τους φόρους",
+      "Ο λαός ζει στο κράτος"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι προστατεύει ο Συνήγορος του Πολίτη;",
+    "choices": [
+      "Μόνο τα δικαιώματα των ενηλίκων",
+      "Μόνο τα δικαιώματα των παιδιών",
+      "Τα δικαιώματα όλων των πολιτών",
+      "Τα δικαιώματα μόνο των δημοσίων υπαλλήλων"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν πρωθυπουργός όταν η Ελλάδα υπέγραψε τη συνθήκη προσχώρησης στην Ε.Ο.Κ.;",
+    "choices": [
+      "Κωνσταντίνος Καραμανλής",
+      "Ανδρέας Παπανδρέου",
+      "Κωνσταντίνος Μητσοτάκης",
+      "Γεώργιος Παπανδρέου"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η πιο σοβαρή συνέπεια του πολέμου;",
+    "choices": [
+      "Η καταστροφή κτιρίων",
+      "Ο θάνατος ανθρώπων",
+      "Ο χωρισμός οικογενειών",
+      "Η έλλειψη παιχνιδιών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι η Διεθνής Αμνηστία;",
+    "choices": [
+      "Μία μη κυβερνητική οργάνωση για τα ανθρώπινα δικαιώματα",
+      "Μία κυβερνητική οργάνωση",
+      "Μία περιβαλλοντική οργάνωση",
+      "Μία στρατιωτική οργάνωση"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες διεθνείς οργανώσεις βοηθούν ανθρώπους σε όλο τον κόσμο;",
+    "choices": [
+      "Η Coca Cola και η McDonald's",
+      "Τα πολιτικά κόμματα",
+      "Τα σχολεία",
+      "Γιατροί Χωρίς Σύνορα και WWF"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η πρώτη κοινωνική ομάδα στην οποία συμμετέχει ένας άνθρωπος;",
+    "choices": [
+      "Το σχολείο",
+      "Η παρέα φίλων",
+      "Ο αθλητικός σύλλογος",
+      "Η οικογένεια"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει θρησκευτική ελευθερία στην Ελλάδα;",
+    "choices": [
+      "Κάθε άνθρωπος μπορεί να πιστεύει σε όποιο θρήσκευμα θέλει",
+      "Όλοι πρέπει να είναι Χριστιανοί Ορθόδοξοι",
+      "Δεν επιτρέπεται καμία θρησκεία εκτός της Ορθοδοξίας",
+      "Μόνο οι Έλληνες πολίτες έχουν θρησκευτική ελευθερία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα είναι τα κράτη-μέλη της Ευρωπαϊκής Ένωσης (ΕΕ) σήμερα;",
+    "choices": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει η έννοια του εδάφους σε ένα κράτος;",
+    "choices": [
+      "Μία απεριόριστη περιοχή χωρίς σύνορα",
+      "Μία περιοχή χωρίς κατοίκους",
+      "Ένα κομμάτι γης που δεν ανήκει σε κανέναν",
+      "Μία γεωγραφική περιοχή που ορίζεται από σύνορα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η σωστή διαδικασία για να αποκτήσει ένας μετανάστης την ελληνική ιθαγένεια;",
+    "choices": [
+      "Να υποβάλει αίτηση πολιτογράφησης, έχοντας νόμιμη διαμονή για αρκετά χρόνια και περνώντας τις σχετικές εξετάσεις",
+      "Να παντρευτεί Έλληνα/Ελληνίδα πολίτη και να αποκτήσει αυτομάτως ιθαγένεια",
+      "Να υποβάλει αίτηση σε οποιαδήποτε υπηρεσία χωρίς δικαιολογητικά",
+      "Να αλλάξει το όνομά του σε ελληνικό"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα κράτη-μέλη έχει η Ευρωπαϊκή Ένωση το 2025;",
+    "choices": [
+      "27 κράτη",
+      "28 κράτη",
+      "24 κράτη",
+      "30 κράτη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σήμερα, πόσα χρόνια διαρκεί η υποχρεωτική εκπαίδευση στην Ελλάδα;",
+    "choices": [
+      "Έντεκα χρόνια",
+      "Δέκα χρόνια",
+      "Εννέα χρόνια",
+      "Οκτώ χρόνια"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τη νύχτα της 3ης Σεπτεμβρίου 1843, τι ζήτησαν ο λαός και ο στρατός από τον Βασιλιά Όθωνα;",
+    "choices": [
+      "Να παραχωρήσει Σύνταγμα",
+      "Να αυξήσει τους φόρους",
+      "Να αποχωρήσει από τον θρόνο",
+      "Να κηρύξει πόλεμο στην Οθωμανική Αυτοκρατορία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Μετά από ποια γεγονότα άρχισε το όραμα για μια ενωμένη Ευρώπη;",
+    "choices": [
+      "Μετά τους Ολυμπιακούς Αγώνες",
+      "Μετά τη Βιομηχανική Επανάσταση",
+      "Μετά τον Ψυχρό Πόλεμο",
+      "Μετά τους δύο Παγκόσμιους Πολέμους"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Εκτός από την Ελλάδα, σε ποια ένωση κρατών είμαστε επίσης πολίτες;",
+    "choices": [
+      "Ασία",
+      "Ευρωπαϊκή Ένωση (ΕΕ)",
+      "Αφρική",
+      "Ωκεανία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι καθορίζει επίσημα τον τρόπο λειτουργίας μιας ομάδας;",
+    "choices": [
+      "Οι κανόνες της",
+      "Οι εποχές",
+      "Οι καιρικές συνθήκες",
+      "Ο αριθμός των μελών"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα άρθρα έχει το Ελληνικό Σύνταγμα;",
+    "choices": [
+      "80 άρθρα",
+      "100 άρθρα",
+      "120 άρθρα",
+      "150 άρθρα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Κατά γενικό κανόνα, ποιοι έχουν δικαίωμα να αναλαμβάνουν δημόσιες θέσεις σε μια δημοκρατία;",
+    "choices": [
+      "Όλοι οι πολίτες που πληρούν τις νόμιμες προϋποθέσεις",
+      "Μόνο όσοι έχουν πανεπιστημιακό δίπλωμα",
+      "Μόνο όσοι έχουν προϋπηρεσία στο δημόσιο τομέα",
+      "Μόνο οι πολίτες της Ευρωπαϊκής Ένωσης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Εκτός από δικαιώματα, τι έχουν οι Ευρωπαίοι πολίτες;",
+    "choices": [
+      "Προνόμια",
+      "Αξιώσεις",
+      "Υποχρεώσεις",
+      "Διακρίσεις"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι αντιλαμβάνονται οι άνθρωποι μέσα από τη συμμετοχή τους στις ομάδες;",
+    "choices": [
+      "Την αξία της συνεργασίας",
+      "Τη σημασία του χρήματος",
+      "Τη σημασία του φαγητού",
+      "Τη σημασία του παιχνιδιού"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός ρόλος των Μέσων Μαζικής Ενημέρωσης (ΜΜΕ) σε μια δημοκρατική κοινωνία;",
+    "choices": [
+      "Να ψυχαγωγούν το κοινό",
+      "Να μεταδίδουν τις ειδήσεις με αντικειμενικότητα",
+      "Να προβάλλουν μόνο ό,τι τους συμφέρει",
+      "Να παρουσιάζουν μόνο αρνητικά νέα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια σημαντική διακήρυξη ανθρωπίνων δικαιωμάτων υιοθετήθηκε από τον ΟΗΕ το 1948, μετά τον Β΄ Παγκόσμιο Πόλεμο;",
+    "choices": [
+      "Οικουμενική Διακήρυξη των Ανθρωπίνων Δικαιωμάτων (1948)",
+      "Διακήρυξη των Δικαιωμάτων του Ανθρώπου και του Πολίτη (1789)",
+      "Χάρτης των Ηνωμένων Εθνών (1945)",
+      "Ευρωπαϊκή Σύμβαση Δικαιωμάτων του Ανθρώπου (1950)"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια μορφή διακυβέρνησης οι πολίτες συμμετέχουν σε ομάδες και παίρνουν αποφάσεις;",
+    "choices": [
+      "Στη δικτατορία",
+      "Στη δημοκρατία",
+      "Στον αυταρχισμό",
+      "Στην αναρχία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ο όρος «λαϊκή κυριαρχία»;",
+    "choices": [
+      "Οι πλούσιοι κυβερνούν",
+      "Οι στρατιωτικοί κυβερνούν",
+      "Μόνο οι πολιτικοί αποφασίζουν",
+      "Ο λαός συμμετέχει στη διακυβέρνηση"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος επιβλέπει την εκλογική διαδικασία;",
+    "choices": [
+      "Η αστυνομία",
+      "Η δημοτική αρχή",
+      "Οι υποψήφιοι",
+      "Η εφορευτική επιτροπή"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι συνέβη στην Ελλάδα το 1967;",
+    "choices": [
+      "Έγινε στρατιωτική δικτατορία (χούντα)",
+      "Διεξήχθησαν ειρηνικές εκλογές",
+      "Ιδρύθηκε ένα νέο πολιτικό κόμμα",
+      "Υπογράφηκε μια διεθνής συνθήκη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι οι συνεταιρισμοί;",
+    "choices": [
+      "Ομάδες ανθρώπων που εργάζονται μαζί για να προωθήσουν τα κοινά τους συμφέροντα",
+      "Ομάδες ανθρώπων που δεν εργάζονται μαζί",
+      "Μεμονωμένοι επαγγελματίες",
+      "Δημόσιοι υπάλληλοι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι εκλέγονται από τον λαό στις περιφέρειες;",
+    "choices": [
+      "Οι διοικητές των αποκεντρωμένων διοικήσεων",
+      "Οι δημοτικοί υπάλληλοι",
+      "Οι περιφερειάρχες",
+      "Οι δήμαρχοι"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ορίζει τους διοικητές των Αποκεντρωμένων Διοικήσεων στην Ελλάδα;",
+    "choices": [
+      "Η κυβέρνηση (Υπουργικό Συμβούλιο)",
+      "Ο λαός με εκλογές",
+      "Οι δήμαρχοι",
+      "Οι περιφερειάρχες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την Οικουμενική Διακήρυξη των Δικαιωμάτων του Ανθρώπου, πώς γεννιούνται όλοι οι άνθρωποι;",
+    "choices": [
+      "Ελεύθεροι και ίσοι στα δικαιώματα",
+      "Με προνόμια",
+      "Δούλοι",
+      "Υπηρέτες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είδους πρόγραμμα είναι το Comenius;",
+    "choices": [
+      "Ευρωπαϊκό εκπαιδευτικό πρόγραμμα για τη σχολική εκπαίδευση",
+      "Πρόγραμμα επικοινωνίας εκπαιδευτικών",
+      "Πρόγραμμα οικονομικής ενίσχυσης",
+      "Πρόγραμμα πολιτιστικών εκδηλώσεων"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι η Ευρωζώνη;",
+    "choices": [
+      "Μία γεωγραφική περιοχή",
+      "Μία ζώνη με ειδικούς κανόνες",
+      "Ένωση χωρών που χρησιμοποιούν το ευρώ",
+      "Ένα ευρωπαϊκό πρόγραμμα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ονομάζουμε τις ομάδες πολιτών που θέτουν υποψηφιότητα στις δημοτικές εκλογές;",
+    "choices": [
+      "Κόμματα",
+      "Επιτροπές",
+      "Συνδυασμοί",
+      "Οργανώσεις"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος σκοπός του Οργανισμού Ηνωμένων Εθνών (ΟΗΕ);",
+    "choices": [
+      "Προστασία των ζώων",
+      "Διαφύλαξη της διεθνούς ειρήνης και ασφάλειας",
+      "Διευκόλυνση του εμπορίου μεταξύ χωρών",
+      "Δημιουργία νέων κρατών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι τα πνευματικά δικαιώματα;",
+    "choices": [
+      "Δικαιώματα που προστατεύουν τα έργα των δημιουργών",
+      "Δικαιώματα που αναφέρονται στο Σύνταγμα",
+      "Δικαιώματα που ισχύουν μόνο στις δημόσιες υπηρεσίες",
+      "Δικαιώματα που αφορούν μόνο τους καλλιτέχνες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος στόχος του προγράμματος «Ευρώπη για τους Πολίτες»;",
+    "choices": [
+      "Οικονομική στήριξη",
+      "Πολιτιστική ανταλλαγή",
+      "Προώθηση συμμετοχής στα κοινά",
+      "Εκπαιδευτική συνεργασία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι μπορείς να κάνεις για να προστατέψεις το περιβάλλον;",
+    "choices": [
+      "Να αφήνεις τα φώτα και τις συσκευές ανοιχτά",
+      "Να κλείνεις τη βρύση όταν δεν χρησιμοποιείς νερό",
+      "Να πετάς σκουπίδια στο δρόμο",
+      "Να χρησιμοποιείς πολλά πλαστικά μιας χρήσης"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα κράτη-μέλη έχει σήμερα η Ευρωπαϊκή Ένωση;",
+    "choices": [
+      "15 κράτη",
+      "20 κράτη",
+      "27 κράτη",
+      "30 κράτη"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι η πολιτογράφηση;",
+    "choices": [
+      "Απόκτηση διαβατηρίου",
+      "Εγγραφή σε εκλογικό κατάλογο",
+      "Παροχή ιθαγένειας σε αλλοδαπούς",
+      "Έκδοση άδειας παραμονής"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος έχει την πνευματική και διοικητική ευθύνη μιας μητρόπολης στην Ορθόδοξη Εκκλησία;",
+    "choices": [
+      "Ο διάκονος",
+      "Ο μητροπολίτης",
+      "Ο παπάς",
+      "Ο ηγούμενος"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε τι είναι οργανωμένη η Εκκλησία;",
+    "choices": [
+      "Σε σχολεία και νοσοκομεία",
+      "Σε ενορίες και δήμους",
+      "Σε ενορίες και μητροπόλεις",
+      "Σε σωματεία και οργανισμούς"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ασκεί την εκτελεστική εξουσία στην Ελλάδα;",
+    "choices": [
+      "Μόνο ο Πρόεδρος της Δημοκρατίας",
+      "Μόνο οι Υπουργοί",
+      "Μόνο ο Πρωθυπουργός",
+      "Ο Πρόεδρος της Δημοκρατίας και η Κυβέρνηση"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια κατηγορία δικαιωμάτων αφορά τις παροχές που πρέπει να εξασφαλίζει η πολιτεία;",
+    "choices": [
+      "Πολιτικά δικαιώματα",
+      "Κοινωνικά δικαιώματα",
+      "Ατομικά δικαιώματα",
+      "Διεθνή δικαιώματα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού πήρε το όνομά της η Ευρώπη;",
+    "choices": [
+      "Από έναν παλιό χάρτη",
+      "Από τον πρώτο πρόεδρο της Ευρωπαϊκής Ένωσης",
+      "Από μία παλιά συνθήκη",
+      "Από την ελληνική μυθολογία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι οι δήμοι στην Ελλάδα;",
+    "choices": [
+      "Δημόσιες υπηρεσίες",
+      "Κυβερνητικά γραφεία",
+      "Σχολικά συμβούλια",
+      "Οργανισμοί Τοπικής Αυτοδιοίκησης"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το πολίτευμα;",
+    "choices": [
+      "Το σύστημα επιλογής των δημοσίων υπαλλήλων",
+      "Το σχολείο όπου μαθαίνουμε για την πολιτική",
+      "Ο νόμος που καθορίζει τις εκλογές",
+      "Ο τρόπος με τον οποίο οργανώνεται και ασκείται η κρατική εξουσία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς συμμετέχουν οι πολίτες στη διοίκηση του τόπου τους;",
+    "choices": [
+      "Με έμμεση συμμετοχή μέσω εκλογών",
+      "Με απευθείας διαχείριση",
+      "Με καθημερινές συνελεύσεις",
+      "Με προσωπικές αποφάσεις"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ένα κοινοβουλευτικό σύστημα όπως της Ελλάδας, από πού προκύπτει η κυβέρνηση;",
+    "choices": [
+      "Από την πλειοψηφία της Βουλής",
+      "Από τους δικαστές",
+      "Από τους στρατηγούς",
+      "Από τον Πρόεδρο μόνο του"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τα ανθρώπινα δικαιώματα αφορούν...",
+    "choices": [
+      "Μόνο την εσωτερική υπόθεση των κρατών",
+      "Διεθνή ευθύνη και όχι μόνο εσωτερική υπόθεση",
+      "Μόνο τα κράτη της Ευρώπης",
+      "Μόνο τους ενήλικες"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια δύο επίπεδα, ως προς το ποιος αποφασίζει, συνήθως παίρνονται οι αποφάσεις;",
+    "choices": [
+      "Σε διεθνές και παγκόσμιο",
+      "Σε εθνικό και περιφερειακό",
+      "Σε ατομικό και συλλογικό",
+      "Σε τοπικό και παγκόσμιο"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι υπεύθυνος για την οργάνωση της εκπαίδευσης στην Ελλάδα;",
+    "choices": [
+      "Οι Δήμοι",
+      "Οι Διευθυντές των Σχολείων",
+      "Το Υπουργείο Παιδείας",
+      "Οι Γονείς"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ένα δημοκρατικό πλαίσιο, πώς λαμβάνονται συνήθως οι αποφάσεις σε μια ομάδα;",
+    "choices": [
+      "Με κλήρωση",
+      "Με συναίνεση όλων",
+      "Με απόφαση του αρχηγού",
+      "Κατά πλειοψηφία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς μπορεί να ξεπεραστούν οι δυσκολίες σε μία οικογένεια;",
+    "choices": [
+      "Με καβγά και φωνές",
+      "Με σιωπή και αδιαφορία",
+      "Με απομάκρυνση των μελών",
+      "Με συνεργασία, συζήτηση και κατανόηση"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού γεννήθηκε για πρώτη φορά η δημοκρατία;",
+    "choices": [
+      "Στη Ρώμη",
+      "Στην Αμερική",
+      "Στην Αρχαία Αθήνα",
+      "Στη Γαλλία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ονομάζεται η διάκριση ανθρώπων σε ανώτερους και κατώτερους με βάση την καταγωγή τους;",
+    "choices": [
+      "Διάκριση",
+      "Ρατσισμός",
+      "Προκατάληψη",
+      "Αποκλεισμός"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι θεωρούνταν πολίτες με πολιτικά δικαιώματα στην Αρχαία Αθήνα;",
+    "choices": [
+      "Όλοι όσοι γεννιούνταν στην Αθήνα",
+      "Όλοι οι κάτοικοι της πόλης",
+      "Μόνο οι πλούσιοι",
+      "Μόνο οι ελεύθεροι ενήλικοι άνδρες με δύο Αθηναίους γονείς"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στα δημόσια σχολεία στην Ελλάδα, ποιο από τα παρακάτω αποτελεί καθολικό μέτρο στήριξης που έχει θεσπίσει το κράτος για τους μαθητές;",
+    "choices": [
+      "Χορήγηση δωρεάν βιβλίων",
+      "Αυστηρούς ελέγχους",
+      "Πρόσθετα τμήματα",
+      "Μείωση ωρών διδασκαλίας"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι δημιουργούν οι ανθρώπινες δραστηριότητες που μολύνουν το περιβάλλον;",
+    "choices": [
+      "Ρύπους",
+      "Τρόφιμα",
+      "Παιχνίδια",
+      "Κτίρια"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι στοιχείο του κράτους;",
+    "choices": [
+      "Τα βουνά",
+      "Ο λαός",
+      "Οι ποταμοί",
+      "Οι λίμνες"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι ο Συνήγορος του Πολίτη;",
+    "choices": [
+      "Ένας δικηγόρος",
+      "Μία Ανεξάρτητη Αρχή που προστατεύει τα δικαιώματα των πολιτών",
+      "Ένας δημόσιος υπάλληλος",
+      "Ένας δικαστικός λειτουργός"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η κύρια μορφή εξουσίας που ασκεί η Βουλή;",
+    "choices": [
+      "Εκτελεστική εξουσία",
+      "Νομοθετική εξουσία",
+      "Δικαστική εξουσία",
+      "Προεδρική εξουσία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος μπορεί να προσφέρει βοήθεια σε ανθρώπους που έχουν ανάγκη;",
+    "choices": [
+      "Η Εκκλησία και άλλοι φορείς",
+      "Μόνο το κράτος",
+      "Μόνο οι πλούσιοι",
+      "Κανείς"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η βασική αρχή λήψης αποφάσεων σε μια δημοκρατία;",
+    "choices": [
+      "Η αρχή της πλειοψηφίας",
+      "Η απόφαση του αρχηγού",
+      "Η γνώμη της μειοψηφίας",
+      "Η τύχη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι είναι οι αντιπρόσωποι του λαού;",
+    "choices": [
+      "Οι βουλευτές",
+      "Οι δικαστές",
+      "Οι αστυνομικοί",
+      "Οι στρατιωτικοί"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος οργανισμός ιδρύθηκε το 1945 για να διασφαλίσει την παγκόσμια ειρήνη;",
+    "choices": [
+      "Οργανισμός Ηνωμένων Εθνών",
+      "Ερυθρός Σταυρός",
+      "Unicef",
+      "Παγκόσμιος Οργανισμός Υγείας"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ρυθμίζεται η κοινωνική ζωή μιας χώρας;",
+    "choices": [
+      "Με πολιτικά κόμματα",
+      "Με κανόνες και νόμους",
+      "Με δικαστήρια",
+      "Με διαδηλώσεις"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πόσα μέλη αποτελείται η Βουλή της Ελλάδας;",
+    "choices": [
+      "200 βουλευτές",
+      "150 βουλευτές",
+      "300 βουλευτές",
+      "250 βουλευτές"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο ανώτερος νόμος στο ελληνικό κράτος;",
+    "choices": [
+      "Ο Ποινικός Κώδικας",
+      "Ο Αστικός Κώδικας",
+      "Το Σύνταγμα",
+      "Ο Εκλογικός Νόμος"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος οργανισμός υιοθέτησε την Οικουμενική Διακήρυξη των Δικαιωμάτων του Ανθρώπου το 1948;",
+    "choices": [
+      "Ο ΟΗΕ",
+      "Το ΝΑΤΟ",
+      "Η Ευρωπαϊκή Ένωση",
+      "Το Συμβούλιο της Ευρώπης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει αν ένας νόμος δεν είναι σύμφωνος με το Σύνταγμα;",
+    "choices": [
+      "Είναι νόμιμος",
+      "Είναι παράνομος",
+      "Είναι αντισυνταγματικός",
+      "Είναι έγκυρος"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στη σύγχρονη κοινωνία, ποια είναι η πιο συνηθισμένη μορφή οικογένειας;",
+    "choices": [
+      "Πυρηνική",
+      "Διευρυμένη",
+      "Μονογονεϊκή",
+      "Πολύτεκνη"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στη Ρωμαϊκή Αυτοκρατορία, πότε εκδόθηκε το Διάταγμα των Μεδιολάνων που καθιέρωσε τη θρησκευτική ελευθερία;",
+    "choices": [
+      "Το 1648",
+      "Το 313 μ.Χ.",
+      "Το 1950",
+      "Το 1786"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει το Οικογενειακό Δίκαιο;",
+    "choices": [
+      "Μόνο κανόνες για τους γονείς",
+      "Νόμους που αφορούν τον γάμο και την οικογένεια",
+      "Κανόνες για τις οικιακές εργασίες",
+      "Κανόνες συμπεριφοράς των παιδιών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε κυκλοφόρησε για πρώτη φορά το ευρώ σε μορφή κερμάτων και χαρτονομισμάτων;",
+    "choices": [
+      "1η Ιανουαρίου 2002",
+      "1η Ιανουαρίου 2000",
+      "1η Ιανουαρίου 2001",
+      "1η Ιανουαρίου 2003"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το κύριο έργο της εκτελεστικής εξουσίας;",
+    "choices": [
+      "Η ψήφιση των νόμων",
+      "Η εφαρμογή των νόμων",
+      "Η απόδοση δικαιοσύνης",
+      "Ο έλεγχος της κυβέρνησης"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είδους θέματα χειρίζονται οι αποκεντρωμένες διοικήσεις;",
+    "choices": [
+      "Μόνο τοπικά θέματα",
+      "Μόνο οικονομικά θέματα",
+      "Κρατικά θέματα",
+      "Μόνο κοινωνικά θέματα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο νομικό κείμενο προβλέπει ειδική προστασία και δικαιώματα ειδικά για τα παιδιά;",
+    "choices": [
+      "Η Διεθνής Σύμβαση για τα Δικαιώματα του Παιδιού",
+      "Η Παγκόσμια Διακήρυξη των Δικαιωμάτων του Ανθρώπου",
+      "Το Σύνταγμα",
+      "Ο Αστικός Κώδικας"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει μία διευρυμένη οικογένεια;",
+    "choices": [
+      "Γονείς, παιδιά και παππούδες",
+      "Μόνο τους γονείς",
+      "Μόνο τα παιδιά",
+      "Μόνο τους παππούδες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιες εκλογές μπορούν να συμμετέχουν όλοι οι πολίτες της Ε.Ε.;",
+    "choices": [
+      "Ευρωεκλογές",
+      "Προεδρικές εκλογές",
+      "Δημοτικές εκλογές",
+      "Σχολικές εκλογές"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες είναι κάποιες κοινές αξίες μεταξύ των ευρωπαϊκών λαών;",
+    "choices": [
+      "Ο πόλεμος",
+      "Ο ρατσισμός",
+      "Οι οικονομικές διαφορές",
+      "Η δημοκρατία και η ελευθερία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, πόσα παιδιά απαιτούνται τουλάχιστον για να χαρακτηριστεί μια οικογένεια ως πολύτεκνη;",
+    "choices": [
+      "2 παιδιά",
+      "4 παιδιά",
+      "3 παιδιά",
+      "5 παιδιά"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο πολίτευμα ο αρχηγός του κράτους έχει απόλυτη εξουσία;",
+    "choices": [
+      "Συνταγματική Μοναρχία",
+      "Απόλυτη Μοναρχία",
+      "Προεδρική Δημοκρατία",
+      "Κοινοβουλευτική Δημοκρατία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το νομοσχέδιο;",
+    "choices": [
+      "Ένα βιβλίο νόμων",
+      "Ένα σχέδιο νόμου που συζητείται",
+      "Ένα δικαστικό έγγραφο",
+      "Μία αστυνομική διάταξη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο έτος η Ελλάδα έγινε μέλος της Ευρωπαϊκής Οικονομικής Κοινότητας;",
+    "choices": [
+      "1981",
+      "2001",
+      "1979",
+      "1983"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τα δικαιώματά μας σταματούν όταν...",
+    "choices": [
+      "Κουραστούμε",
+      "Νυχτώσει",
+      "Δεν έχουμε λεφτά",
+      "Αρχίζουν τα δικαιώματα των άλλων"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια παιδιά είναι πιο πιθανό να έχουν δυσκολίες στο σχολείο λόγω κοινωνικών και οικονομικών φραγμών;",
+    "choices": [
+      "Παιδιά από εύπορες οικογένειες",
+      "Παιδιά που φοιτούν σε ιδιωτικά σχολεία",
+      "Παιδιά από μειονεκτούντα κοινωνικοοικονομικά περιβάλλοντα, όπως παιδιά μεταναστών και Ρομά",
+      "Παιδιά με άριστες επιδόσεις"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι έχουν πολιτικά δικαιώματα σε μια χώρα;",
+    "choices": [
+      "Όλοι οι κάτοικοι",
+      "Οι ξένοι πολίτες",
+      "Οι πολίτες της χώρας",
+      "Οι ανήλικοι"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες δύο υπηρεσίες έχουν τον βασικό ρόλο στην πρόληψη και αντιμετώπιση φυσικών καταστροφών στην Ελλάδα;",
+    "choices": [
+      "Η Πολιτική Προστασία και το Πυροσβεστικό Σώμα",
+      "Η Εθνική Άμυνα και το Λιμενικό Σώμα",
+      "Η Αστυνομία και η Δημοτική Αστυνομία",
+      "Το Υπουργείο Παιδείας και το Υπουργείο Πολιτισμού"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς οδηγούμε στην Ελλάδα;",
+    "choices": [
+      "Στη δεξιά πλευρά του δρόμου",
+      "Στην αριστερή πλευρά του δρόμου",
+      "Στη μέση του δρόμου",
+      "Όπου θέλει ο καθένας"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος διοικεί έναν δήμο;",
+    "choices": [
+      "Ο δήμαρχος και το δημοτικό συμβούλιο",
+      "Ο πρόεδρος",
+      "Ο αστυνομικός",
+      "Ο κάθε πολίτης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς πρέπει να προσεγγίζουμε τη λήψη αποφάσεων;",
+    "choices": [
+      "Να παίρνουμε αποφάσεις πάντα γρήγορα και χωρίς σκέψη",
+      "Να αφήνουμε πάντα άλλους να αποφασίζουν για εμάς",
+      "Να μην ακούμε τη γνώμη κανενός",
+      "Να σκεφτόμαστε τα πλεονεκτήματα και τα μειονεκτήματα κάθε πρότασης"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει να είσαι μέλος μιας ομάδας;",
+    "choices": [
+      "Να έχεις μόνο δικαιώματα",
+      "Να κάνεις ό,τι θέλεις",
+      "Να μην ακολουθείς κανόνες",
+      "Να έχεις κοινούς στόχους και υποχρεώσεις"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος πρέπει να είναι ο τρόπος παρουσίασης των ειδήσεων από τα Μ.Μ.Ε.;",
+    "choices": [
+      "Με υπερβολή και δραματοποίηση",
+      "Με προσωπική άποψη του δημοσιογράφου",
+      "Με αντικειμενικότητα και σεβασμό",
+      "Με στόχο μόνο την ψυχαγωγία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί η εκπαίδευση θεωρείται βασικό δικαίωμα κάθε παιδιού;",
+    "choices": [
+      "Γιατί προσφέρει μόνο γνώσεις",
+      "Γιατί είναι υποχρεωτική",
+      "Γιατί βοηθά στην ολόπλευρη ανάπτυξη της προσωπικότητας",
+      "Γιατί είναι δωρεάν"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρέπει να σκεφτούμε όταν δυσκολευόμαστε να πάρουμε μια απόφαση;",
+    "choices": [
+      "Μόνο τη γνώμη μας",
+      "Μόνο τη γνώμη των άλλων",
+      "Μόνο τα μειονεκτήματα",
+      "Πλεονεκτήματα και μειονεκτήματα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι αποκτούμε όταν γεννιόμαστε από Έλληνα ή Ελληνίδα γονέα;",
+    "choices": [
+      "Διαβατήριο",
+      "Δίπλωμα οδήγησης",
+      "Αστυνομική ταυτότητα",
+      "Ιθαγένεια"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι προτείνουν τα μέλη (Επιτρόπους) της Ευρωπαϊκής Επιτροπής πριν από την έγκριση του Ευρωπαϊκού Κοινοβουλίου;",
+    "choices": [
+      "Οι πολίτες της Ευρώπης",
+      "Οι κυβερνήσεις των κρατών-μελών",
+      "Το Ευρωπαϊκό Κοινοβούλιο",
+      "Οι δικαστές"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι προσπαθούν να πετύχουν οι διεθνείς οργανώσεις;",
+    "choices": [
+      "Να πλουτίσουν",
+      "Να προκαλέσουν προβλήματα",
+      "Να προάγουν τη συνεργασία και την ειρήνη μεταξύ των χωρών",
+      "Να δημιουργήσουν πολέμους"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού προέρχονται τα χρήματα των δήμων;",
+    "choices": [
+      "Μόνο από δωρεές",
+      "Από τραπεζικά δάνεια",
+      "Από κρατική επιχορήγηση, δημοτικά τέλη και μισθώσεις",
+      "Μόνο από τους φόρους"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρέπει να κάνουμε στις σχέσεις μας με τους άλλους σε μια δημοκρατία;",
+    "choices": [
+      "Να επιβάλουμε τη γνώμη μας",
+      "Να αγνοούμε τους άλλους",
+      "Να μην ακούμε κανέναν",
+      "Να σεβόμαστε τα δικαιώματα των άλλων"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω αποτελεί βασικό στοιχείο που ξεχωρίζει τους λαούς μεταξύ τους;",
+    "choices": [
+      "Η γλώσσα και οι παραδόσεις",
+      "Η πολιτική τους",
+      "Το χρώμα των ματιών",
+      "Τα επαγγέλματά τους"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο έτος υπογράφηκε η Συνθήκη του Μάαστριχτ που ίδρυσε την Ευρωπαϊκή Ένωση;",
+    "choices": [
+      "1992",
+      "1985",
+      "2000",
+      "1975"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το πολίτευμα της Ελλάδας;",
+    "choices": [
+      "Μοναρχία",
+      "Δημοκρατία",
+      "Δικτατορία",
+      "Ολιγαρχία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι μία βασική ανθρώπινη ανάγκη;",
+    "choices": [
+      "Πατίνι",
+      "Πάρτι",
+      "Ταινίες",
+      "Τροφή"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε γιορτάζεται η Παγκόσμια Ημέρα Ανθρωπίνων Δικαιωμάτων;",
+    "choices": [
+      "Η 10η Δεκεμβρίου",
+      "Η 1η Ιανουαρίου",
+      "Η 25η Μαρτίου",
+      "Η 15η Αυγούστου"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από ποιον πηγάζει η εξουσία στη δημοκρατία;",
+    "choices": [
+      "Στον Πρόεδρο",
+      "Στον λαό",
+      "Στην Κυβέρνηση",
+      "Στους βουλευτές"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η πρώτη ομάδα στην οποία ανήκουμε;",
+    "choices": [
+      "Το σχολείο",
+      "Οι φίλοι",
+      "Το κράτος",
+      "Η οικογένεια"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το νερό, το έδαφος και τα καύσιμα;",
+    "choices": [
+      "Φυσικοί πόροι",
+      "Ιστορικοί πόροι",
+      "Οικονομικοί πόροι",
+      "Πνευματικοί πόροι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι οι φυσικές καταστροφές;",
+    "choices": [
+      "Καταστροφές που προκαλούνται από τον άνθρωπο",
+      "Μόνο οι σεισμοί και οι πλημμύρες",
+      "Καταστροφές που προκαλούνται από γεωλογικά και καιρικά φαινόμενα",
+      "Καταστροφές που συμβαίνουν μόνο σε πόλεμο"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί είναι σημαντικός ο διαχωρισμός των εξουσιών;",
+    "choices": [
+      "Για να μη συγκεντρώνεται όλη η εξουσία σε ένα σημείο και να ελέγχουν οι εξουσίες η μία την άλλη",
+      "Για να μπερδεύονται οι πολίτες",
+      "Για να μειωθεί η γραφειοκρατία",
+      "Για να αυξηθεί ο αριθμός των υπαλλήλων"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το πραξικόπημα σε σχέση με τη δημοκρατία;",
+    "choices": [
+      "Ένας δημοκρατικός τρόπος ανάληψης εξουσίας",
+      "Ένας βίαιος τρόπος κατάληψης της εξουσίας",
+      "Μία διαδικασία εκλογών",
+      "Ένα σύστημα διακυβέρνησης"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο πρώτος και σημαντικότερος τύπος ομάδας που ανήκει κανείς;",
+    "choices": [
+      "Η οικογένεια",
+      "Το σχολείο",
+      "Η παρέα φίλων",
+      "Ο αθλητικός σύλλογος"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιες κατηγορίες διακρίνονται τα δικαιώματα;",
+    "choices": [
+      "Εθνικά, Διεθνή, Ευρωπαϊκά",
+      "Δημόσια, Ιδιωτικά, Κοινοτικά",
+      "Κρατικά, Προσωπικά, Επαγγελματικά",
+      "Ατομικά, Κοινωνικά, Πολιτικά"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο πολίτευμα χαρακτηρίζεται από τη διακυβέρνηση από έναν μονάρχη;",
+    "choices": [
+      "Μοναρχία",
+      "Δημοκρατία",
+      "Ολιγαρχία",
+      "Δικτατορία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς αποκτά ένα παιδί την ελληνική ιθαγένεια;",
+    "choices": [
+      "Όταν ζήσει 10 χρόνια στην Ελλάδα",
+      "Όταν γεννηθεί από Έλληνα πατέρα ή Ελληνίδα μητέρα",
+      "Όταν υποβάλει αίτηση στο Δήμο",
+      "Όταν τελειώσει το σχολείο στην Ελλάδα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι εκλέγεται στις δημοτικές εκλογές;",
+    "choices": [
+      "Ο Δήμαρχος και το Δημοτικό Συμβούλιο",
+      "Η Κυβέρνηση και ο Πρωθυπουργός",
+      "Οι Υπουργοί",
+      "Οι Βουλευτές"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, κάθε πόσα χρόνια διεξάγονται οι δημοτικές εκλογές;",
+    "choices": [
+      "Κάθε δύο χρόνια",
+      "Κάθε πέντε χρόνια",
+      "Κάθε τρία χρόνια",
+      "Κάθε τέσσερα χρόνια"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι ίσχυε για τη συμμετοχή των πολιτών στην Εκκλησία του Δήμου στην αρχαία Αθήνα;",
+    "choices": [
+      "Ήταν προαιρετική",
+      "Μόνο οι πλούσιοι συμμετείχαν",
+      "Ήταν υποχρεωτική και όποιος δεν συμμετείχε πλήρωνε πρόστιμο",
+      "Δεν είχε καμία σημασία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην πνευματική ιδιοκτησία, τι ονομάζουμε «συγγενικά δικαιώματα»;",
+    "choices": [
+      "Δικαιώματα συγγενών προσώπων",
+      "Δικαιώματα σε όσους ερμηνεύουν ή εκτελούν έργα",
+      "Δικαιώματα που αφορούν μόνο τους δημιουργούς",
+      "Δικαιώματα κληρονομιάς"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα κράτη-μέλη έχει σήμερα ο Οργανισμός Ηνωμένων Εθνών (ΟΗΕ);",
+    "choices": [
+      "51 κράτη-μέλη",
+      "191 κράτη-μέλη",
+      "193 κράτη-μέλη",
+      "195 κράτη-μέλη"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με ποια θέματα ασχολείται κυρίως το δημοτικό συμβούλιο;",
+    "choices": [
+      "Με συντήρηση δρόμων, πάρκων, πολιτιστικές εκδηλώσεις και δημοτική συγκοινωνία",
+      "Μόνο με οικονομικά θέματα",
+      "Με πολιτικά ζητήματα εθνικής σημασίας",
+      "Με θέματα εκπαίδευσης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από ποιον εκλέγεται το Ευρωπαϊκό Κοινοβούλιο;",
+    "choices": [
+      "Από τους προέδρους των κρατών",
+      "Από τις κυβερνήσεις των κρατών-μελών",
+      "Από τους δημάρχους",
+      "Από τους Ευρωπαίους πολίτες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Κάθε πόσα χρόνια εκλέγεται το Ευρωπαϊκό Κοινοβούλιο;",
+    "choices": [
+      "3 χρόνια",
+      "4 χρόνια",
+      "6 χρόνια",
+      "5 χρόνια"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι διοικούν έναν Δήμο;",
+    "choices": [
+      "Οι πολίτες",
+      "Ο Δήμαρχος και το Δημοτικό Συμβούλιο",
+      "Η τοπική αστυνομία",
+      "Οι δημόσιοι υπάλληλοι"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είδους σχέσεις αναπτύσσονται μέσα στην οικογένεια;",
+    "choices": [
+      "Αγάπης, φροντίδας και αλληλοβοήθειας",
+      "Μόνο συγκρουσιακές",
+      "Αδιάφορες",
+      "Μόνο οικονομικές"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς γίνεται η ψηφοφορία στις εκλογές;",
+    "choices": [
+      "Δημόσια",
+      "Με φωνή",
+      "Με ανύψωση χεριού",
+      "Μυστική"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, για πόσα χρόνια εκλέγεται ο Πρόεδρος της Δημοκρατίας;",
+    "choices": [
+      "Κάθε πέντε χρόνια",
+      "Κάθε δύο χρόνια",
+      "Κάθε τρία χρόνια",
+      "Κάθε τέσσερα χρόνια"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το βασικό νομικό πλαίσιο που προστατεύει τα δικαιώματα του ατόμου στην Ελλάδα;",
+    "choices": [
+      "Η Αστυνομία",
+      "Το Υπουργείο Δικαιοσύνης",
+      "Το Σύνταγμα και οι νόμοι",
+      "Οι Διεθνείς Οργανισμοί"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στη δημοκρατία, ποια από τις παρακάτω δηλώσεις είναι σωστή για τους πολίτες;",
+    "choices": [
+      "Οι πολίτες δεν έχουν καμία δύναμη",
+      "Όλοι οι πολίτες είναι ίσοι",
+      "Μόνο οι πλούσιοι έχουν δικαιώματα",
+      "Μόνο οι άνδρες έχουν δικαιώματα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω δεν αποτελεί βασική κατηγορία δικαιωμάτων του ανθρώπου;",
+    "choices": [
+      "Πολιτικά",
+      "Κοινωνικά",
+      "Ατομικά",
+      "Επαγγελματικά"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς λέγεται το πολίτευμα της Ελλάδας;",
+    "choices": [
+      "Βασιλευόμενη Δημοκρατία",
+      "Προεδρευόμενη Κοινοβουλευτική Δημοκρατία",
+      "Προεδρική Δημοκρατία",
+      "Στρατιωτική Δημοκρατία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω συμβαίνει σε περίοδο δικτατορίας;",
+    "choices": [
+      "Καταργούνται τα δημοκρατικά δικαιώματα",
+      "Οι πολίτες εκλέγουν ελεύθερα",
+      "Υπάρχει πλήρης ελευθερία έκφρασης",
+      "Όλοι οι πολίτες είναι ίσοι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες είναι οι τρεις μορφές της κρατικής εξουσίας;",
+    "choices": [
+      "Νομοθετική, Εκτελεστική και Δικαστική",
+      "Άρχοντες, Στρατός και Δικαστές",
+      "Πρόεδρος, Υπουργοί και Βουλευτές",
+      "Δήμαρχοι, Περιφερειάρχες και Πρόεδροι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς επιλέγονται οι βουλευτές;",
+    "choices": [
+      "Διορίζονται από την Κυβέρνηση",
+      "Εκλέγονται από τους πολίτες",
+      "Κληρώνονται",
+      "Επιλέγονται από το Δικαστήριο"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πού προέρχονται τα έσοδα ενός δήμου;",
+    "choices": [
+      "Μόνο από τα δημοτικά τέλη",
+      "Μόνο από τις δωρεές των πολιτών",
+      "Μόνο από τις επιχειρηματικές δραστηριότητες",
+      "Από το κράτος, τους δημότες και διάφορες επιχειρηματικές δραστηριότητες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι συγκροτούν τη Βουλή;",
+    "choices": [
+      "Οι δικαστές",
+      "Οι στρατηγοί",
+      "Οι δημόσιοι υπάλληλοι",
+      "Οι βουλευτές"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το κύριο έργο του Συνηγόρου του Παιδιού;",
+    "choices": [
+      "Να υπερασπίζεται τα δικαιώματα των ανηλίκων",
+      "Να φυλάει τα παιδιά",
+      "Να τιμωρεί τους παραβάτες",
+      "Να εκπαιδεύει τα παιδιά"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι προστατεύει κυρίως το Διεθνές Ανθρωπιστικό Δίκαιο (κατά τη διάρκεια ένοπλων συγκρούσεων);",
+    "choices": [
+      "Μόνο στρατιωτικούς",
+      "Ανθρώπους που δεν πολεμούν (άμαχους) και όσους έχουν τραυματιστεί ή παραδοθεί",
+      "Μόνο παιδιά",
+      "Μόνο περιβαλλοντικά ζητήματα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιο επίπεδο δραστηριοποιείται η UNICEF;",
+    "choices": [
+      "Τοπικό",
+      "Εθνικό",
+      "Παγκόσμιο",
+      "Περιφερειακό"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια οργάνωση του ΟΗΕ είναι αφιερωμένη στην προστασία των δικαιωμάτων των παιδιών;",
+    "choices": [
+      "Διεθνής Αμνηστία",
+      "Ερυθρός Σταυρός",
+      "UNICEF",
+      "Συνήγορος του Πολίτη"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην ελληνική εκπαίδευση, για ποιους μαθητές λειτουργούν τα Τμήματα (Τάξεις) Υποδοχής;",
+    "choices": [
+      "Για παιδιά με ειδικές ανάγκες",
+      "Για παιδιά που παρουσιάζουν δυσκολίες στα μαθήματα",
+      "Για παιδιά που δεν γνωρίζουν τα μαθηματικά",
+      "Για παιδιά που δεν γνωρίζουν την ελληνική γλώσσα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Υπάρχουν και άλλες θρησκείες στην Ελλάδα εκτός από την Ορθόδοξη;",
+    "choices": [
+      "Όχι, μόνο Ορθόδοξοι",
+      "Μόνο Καθολικοί",
+      "Ναι, όπως Μουσουλμάνοι και Ιουδαίοι",
+      "Μόνο Προτεστάντες"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια επίπεδα μπορούν να δραστηριοποιούνται οι οργανώσεις;",
+    "choices": [
+      "Μόνο σε τοπικό επίπεδο",
+      "Μόνο σε εθνικό επίπεδο",
+      "Σε παγκόσμιο επίπεδο",
+      "Σε τοπικό, εθνικό και διεθνές επίπεδο"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η επίδραση μιας πυρηνικής έκρηξης στο περιβάλλον;",
+    "choices": [
+      "Βλάπτει το περιβάλλον",
+      "Ωφελεί το περιβάλλον",
+      "Δεν επηρεάζει το περιβάλλον",
+      "Καταστρέφει μόνο τα ζώα"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι πρέπει να τηρούν τους κανόνες μέσα στην οικογένεια;",
+    "choices": [
+      "Μόνο τα παιδιά",
+      "Μόνο οι γονείς",
+      "Κανείς",
+      "Γονείς και παιδιά"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Η Οικουμενική Διακήρυξη των Ανθρωπίνων Δικαιωμάτων υιοθετήθηκε από...",
+    "choices": [
+      "τη Γενική Συνέλευση των Ηνωμένων Εθνών",
+      "την Ευρωπαϊκή Επιτροπή",
+      "το Κοινοβούλιο της Ελλάδας",
+      "την Κυβέρνηση των Ηνωμένων Πολιτειών της Αμερικής"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι πρέπει να σέβονται τους νόμους της Ελλάδας;",
+    "choices": [
+      "Μόνο οι Έλληνες πολίτες",
+      "Κανείς χωρίς ελληνική ιθαγένεια",
+      "Όλοι όσοι βρίσκονται στην Ελλάδα",
+      "Μόνο όσοι έχουν μόνιμη κατοικία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ο όρος ανεξιθρησκία;",
+    "choices": [
+      "Ελευθερία επιλογής θρησκεύματος",
+      "Απαγόρευση άλλων θρησκειών",
+      "Επιβολή μίας θρησκείας",
+      "Κατάργηση όλων των θρησκειών"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο αρχηγός του κράτους στην Ελλάδα;",
+    "choices": [
+      "Ο Πρωθυπουργός",
+      "Ο Πρόεδρος της Βουλής",
+      "Ο Πρόεδρος της Δημοκρατίας",
+      "Ο Αρχηγός της Αντιπολίτευσης"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια Μέσα Ενημέρωσης μάς βοηθούν να πληροφορηθούμε;",
+    "choices": [
+      "Μόνο η τηλεόραση",
+      "Εφημερίδες, περιοδικά, τηλεόραση και ραδιόφωνο",
+      "Μόνο οι εφημερίδες",
+      "Μόνο το ραδιόφωνο"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια έννοια περιγράφει την επικοινωνία και τη συνεργασία ανάμεσα στους πολίτες σε τοπικό και παγκόσμιο επίπεδο;",
+    "choices": [
+      "Απόσταση",
+      "Σύγκρουση",
+      "Αλληλεπίδραση",
+      "Αδιαφορία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι πρέπει να κάνει κάποιος για να θεωρηθεί ενεργός πολίτης;",
+    "choices": [
+      "Να ενημερώνεται και να ενδιαφέρεται για όσα συμβαίνουν γύρω του",
+      "Να ψηφίζει μόνο στις εκλογές",
+      "Να πληρώνει τους φόρους του",
+      "Να είναι μέλος σε πολιτικό κόμμα"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Η Οικουμενική Διακήρυξη των Ανθρωπίνων Δικαιωμάτων ισχύει...",
+    "choices": [
+      "Μόνο στην Ευρώπη",
+      "Σε όλο τον κόσμο",
+      "Μόνο στην Αμερική",
+      "Μόνο στην Ελλάδα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στις διακρατικές διεθνείς οργανώσεις (π.χ. ΟΗΕ), ποιοι αποτελούν τα βασικά μέλη που συμμετέχουν;",
+    "choices": [
+      "Κυβερνήσεις",
+      "Πρόεδροι κρατών",
+      "Στρατιωτικοί αξιωματούχοι",
+      "Ομάδες πολιτών"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος στόχος των διεθνών οργανισμών;",
+    "choices": [
+      "Να δημιουργούν πολέμους",
+      "Να κάνουν τον κόσμο καλύτερο",
+      "Να κερδίζουν χρήματα",
+      "Να ελέγχουν τις κυβερνήσεις"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι μπορούν να ψηφίσουν στις δημοτικές εκλογές στην Ελλάδα;",
+    "choices": [
+      "Μόνο Έλληνες πολίτες",
+      "Έλληνες πολίτες και πολίτες της ΕΕ που ζουν μόνιμα στην Ελλάδα",
+      "Μόνο πολίτες άνω των 18 ετών",
+      "Μόνο πολίτες κάτω των 18 ετών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κανόνας για τον αριθμό των Επιτρόπων της Ευρωπαϊκής Επιτροπής;",
+    "choices": [
+      "Δύο από κάθε κράτος-μέλος",
+      "Ένας για κάθε 10 εκατομμύρια κατοίκους",
+      "Ένας από κάθε κράτος-μέλος",
+      "Ένας μόνο από τα μεγαλύτερα κράτη-μέλη"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πότε ανακηρύχθηκε για πρώτη φορά ο Χάρτης Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης;",
+    "choices": [
+      "Το 2000",
+      "Το 1995",
+      "Το 1999",
+      "Το 2005"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο ρόλος των βουλευτών στη δημοκρατία;",
+    "choices": [
+      "Να διορίζουν δημόσιους υπαλλήλους",
+      "Να αντιπροσωπεύουν τους πολίτες στη Βουλή",
+      "Να ελέγχουν τις τιμές των προϊόντων",
+      "Να εργάζονται στα δικαστήρια"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο πρόγραμμα τέθηκε σε ισχύ το 2011 για την οργάνωση της τοπικής αυτοδιοίκησης στην Ελλάδα;",
+    "choices": [
+      "Καποδίστριας",
+      "Σχέδιο Πολιτεία",
+      "Νέα Διοίκηση",
+      "Καλλικράτης"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιες εκλογές μπορούν να ψηφίζουν οι πολίτες της ΕΕ όταν ζουν σε άλλη χώρα της ΕΕ;",
+    "choices": [
+      "Μόνο στις βουλευτικές εκλογές",
+      "Μόνο στις προεδρικές εκλογές",
+      "Στις δημοτικές και στις ευρωπαϊκές εκλογές",
+      "Σε καμία εκλογή"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσα άρθρα περιέχει ο Χάρτης των Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης;",
+    "choices": [
+      "24 άρθρα",
+      "34 άρθρα",
+      "54 άρθρα",
+      "44 άρθρα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποια χερσόνησο ανήκει η Ελλάδα;",
+    "choices": [
+      "Της Αραβίας",
+      "Της Αφρικής",
+      "Της Ιβηρικής",
+      "Της Βαλκανικής"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι μία βασική προσφορά της Εκκλησίας στην κοινωνία;",
+    "choices": [
+      "Να πληρώνει φόρους",
+      "Να οργανώνει πάρτι",
+      "Να κάνει διαφημίσεις",
+      "Να προσφέρει κοινωνικό και ανθρωπιστικό έργο"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι κάνει το κράτος για να προστατεύσει τους πολίτες;",
+    "choices": [
+      "Τίποτα",
+      "Επεμβαίνει μόνο σε περίπτωση πολέμου",
+      "Λαμβάνει προληπτικά και κατασταλτικά μέτρα",
+      "Βοηθάει μόνο σε περίπτωση φυσικών καταστροφών"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Η δημοκρατία είναι...",
+    "choices": [
+      "Ένα παιχνίδι",
+      "Ένα φαγητό",
+      "Μία μορφή πολιτεύματος",
+      "Ένα όνομα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με τη Σύμβαση για τα Δικαιώματα του Παιδιού, μέχρι ποια ηλικία ένα άτομο θεωρείται παιδί;",
+    "choices": [
+      "12 ετών",
+      "18 ετών",
+      "14 ετών",
+      "16 ετών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τα παρακάτω αποτελεί βασικό κοινωνικό ρόλο της οικογένειας;",
+    "choices": [
+      "Μόνο η κάλυψη βιολογικών αναγκών",
+      "Η συναισθηματική στήριξη και κοινωνικοποίηση των μελών της",
+      "Η οικονομική διαχείριση της χώρας",
+      "Η επιλογή σχολείου για τα παιδιά"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Με ποια έννοια συνδέονται οι Έλληνες που ζουν εντός και εκτός Ελλάδας, ανεξάρτητα από σύνορα και τόπο κατοικίας;",
+    "choices": [
+      "Το έθνος",
+      "Το κράτος",
+      "Η γλώσσα",
+      "Οι νόμοι"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι χαρακτηρίζει μία κοινωνική ομάδα;",
+    "choices": [
+      "Μόνο δικαιώματα για τα μέλη",
+      "Καμία υποχρέωση",
+      "Κοινοί στόχοι και υποχρεώσεις",
+      "Μόνο συναντήσεις χωρίς κοινό σκοπό"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς ονομάζεται το σύνολο των ανθρώπων μιας χώρας που έχουν την ιθαγένειά της;",
+    "choices": [
+      "Κράτος",
+      "Λαός",
+      "Έθνος",
+      "Κάτοικοι"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σχετίζεται με έργα και δημιουργίες που προκύπτουν από το πνεύμα του ανθρώπου;",
+    "choices": [
+      "Κρατική ιδιοκτησία",
+      "Προσωπική ιδιοκτησία",
+      "Δημόσια ιδιοκτησία",
+      "Πνευματική ιδιοκτησία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος φορέας είναι υπεύθυνος για την εθνική άμυνα της χώρας;",
+    "choices": [
+      "Το Πυροσβεστικό Σώμα",
+      "Η Αστυνομία",
+      "Οι Ένοπλες Δυνάμεις",
+      "Το Λιμενικό Σώμα"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος ήταν ο πρώτος βασιλιάς της Ελλάδας μετά την Επανάσταση του 1821;",
+    "choices": [
+      "Κωνσταντίνος",
+      "Γεώργιος",
+      "Όθωνας",
+      "Παύλος"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι η υποχρεωτική διάρκεια εκπαίδευσης στην Ελλάδα;",
+    "choices": [
+      "11 χρόνια",
+      "10 χρόνια",
+      "7 χρόνια",
+      "9 χρόνια"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σύμφωνα με το ελληνικό διοικητικό σύστημα, υπάρχει ελάχιστος αριθμός κατοίκων για να χαρακτηριστεί ένας ΟΤΑ ως Δήμος;",
+    "choices": [
+      "Όχι, δεν υπάρχει συγκεκριμένο όριο πληθυσμού· ο Δήμος καθορίζεται διοικητικά",
+      "Πάνω από 10.000 κατοίκους",
+      "Πάνω από 50.000 κατοίκους",
+      "Πάνω από 100.000 κατοίκους"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος διεθνής οργανισμός ασχολείται με τον πολιτισμό και την εκπαίδευση;",
+    "choices": [
+      "UNESCO",
+      "Ερυθρός Σταυρός",
+      "WWF",
+      "Action Aid"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες βαθμίδες περιλαμβάνει η υποχρεωτική εκπαίδευση στην Ελλάδα;",
+    "choices": [
+      "Μόνο το Δημοτικό",
+      "Νηπιαγωγείο, Δημοτικό και Γυμνάσιο",
+      "Δημοτικό και Γυμνάσιο",
+      "Μόνο το Γυμνάσιο"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, κάθε πόσα χρόνια γίνονται οι δημοτικές εκλογές;",
+    "choices": [
+      "Κάθε έναν χρόνο",
+      "Κάθε δύο χρόνια",
+      "Κάθε τέσσερα χρόνια",
+      "Κάθε πέντε χρόνια"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το πρόγραμμα Comenius της Ευρωπαϊκής Ένωσης;",
+    "choices": [
+      "Πρόγραμμα περιβαλλοντικών δράσεων",
+      "Πρόγραμμα ευρωπαϊκής συνεργασίας στη σχολική εκπαίδευση",
+      "Πρόγραμμα οικονομικής στήριξης",
+      "Πρόγραμμα αθλητικών συναντήσεων"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο καλύτερος τρόπος διατήρησης της πολιτισμικής ταυτότητας όταν κάποιος ζει σε ξένη χώρα;",
+    "choices": [
+      "Να μην επικοινωνεί με ντόπιους",
+      "Να ξεχάσει τελείως την καταγωγή του",
+      "Να μην έρχεται σε επαφή με τον δικό του πολιτισμό",
+      "Να μιλάει τη γλώσσα του και να συμμετέχει σε παραδοσιακές εκδηλώσεις"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο νομικά ακριβής όρος για τη διαδικασία με την οποία ο δήμος δίνει σε τρίτο τη χρήση τής ακίνητης περιουσίας του με αντάλλαγμα μίσθωμα;",
+    "choices": [
+      "Παραχώρηση",
+      "Ενοικίαση",
+      "Εκμίσθωση",
+      "Απαλλοτρίωση"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο κύριος στόχος της Πολιτικής Άμυνας;",
+    "choices": [
+      "Η κατασκευή δρόμων",
+      "Η προστασία του πληθυσμού από πολεμικές συρράξεις",
+      "Η εξάπλωση της τεχνολογίας",
+      "Η οικονομική ανάπτυξη"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε ποιον υπάγεται θεσμικά ο Συνήγορος του Πολίτη;",
+    "choices": [
+      "Η Βουλή των Ελλήνων",
+      "Το Υπουργείο Δικαιοσύνης",
+      "Η Αστυνομία",
+      "Το Δικαστήριο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι σημαίνει εξουσία σε ένα κράτος;",
+    "choices": [
+      "Η δύναμη να κάνει ό,τι θέλει κάποιος",
+      "Το δικαίωμα να μιλάει κάποιος δυνατά",
+      "Η επιθυμία των πολιτών",
+      "Η ευθύνη του κράτους να οργανώνει τη ζωή των κατοίκων με νόμους"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες ανάγκες ικανοποιούνται κυρίως μέσα στην οικογένεια;",
+    "choices": [
+      "Μόνο βιολογικές ανάγκες",
+      "Ελάχιστες ανθρώπινες ανάγκες",
+      "Καμία ανθρώπινη ανάγκη",
+      "Πνευματικές και συναισθηματικές ανάγκες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες ανάγκες καλύπτει η οικογένεια;",
+    "choices": [
+      "Μόνο βιολογικές ανάγκες",
+      "Μόνο συναισθηματικές ανάγκες",
+      "Βιολογικές, συναισθηματικές, πνευματικές και κοινωνικές ανάγκες",
+      "Μόνο οικονομικές ανάγκες"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός στόχος του δικαιώματος πνευματικής ιδιοκτησίας;",
+    "choices": [
+      "Να απαγορεύει τη δημιουργία νέων έργων",
+      "Να περιορίζει την πρόσβαση σε πνευματικά έργα",
+      "Να δημιουργεί γραφειοκρατικούς κανόνες",
+      "Να προστατεύει τον μόχθο του δημιουργού"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος όρος περιγράφει μία εδαφική έκταση με συγκεκριμένα σύνορα;",
+    "choices": [
+      "Λαός",
+      "Κράτος",
+      "Έθνος",
+      "Πολίτης"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Σε τι είδους χώρα όλοι οι άνθρωποι έχουν δικαιώματα;",
+    "choices": [
+      "Στρατιωτική χώρα",
+      "Δημοκρατική χώρα",
+      "Αυταρχική χώρα",
+      "Φεουδαρχική χώρα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι εκλέγονται στις δημοτικές εκλογές;",
+    "choices": [
+      "Ο Δήμαρχος και οι Δημοτικοί Σύμβουλοι",
+      "Ο Νομάρχης",
+      "Ο Περιφερειάρχης",
+      "Ο Πρόεδρος της Δημοκρατίας"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Γιατί ο ρατσισμός είναι επιβλαβής για την κοινωνία;",
+    "choices": [
+      "Επειδή προκαλεί διακρίσεις και αδικία και χωρίζει τους ανθρώπους",
+      "Επειδή όλοι οι άνθρωποι είναι ίδιοι",
+      "Επειδή βοηθά τις ομάδες να συνεργάζονται καλύτερα",
+      "Επειδή κάνει τις χώρες πιο πλούσιες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι μπορεί να προκαλέσει προβλήματα σε μία οικογένεια;",
+    "choices": [
+      "Μόνο εξωτερικοί παράγοντες",
+      "Μόνο εσωτερικοί παράγοντες",
+      "Καθόλου παράγοντες",
+      "Τόσο εσωτερικοί όσο και εξωτερικοί παράγοντες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς κατέλαβαν την εξουσία οι στρατιωτικοί το 1967;",
+    "choices": [
+      "Με δημοψήφισμα",
+      "Με ειρηνική διαδήλωση",
+      "Με πραξικόπημα (βίαιο τρόπο)",
+      "Με δικαστική απόφαση"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι αποτελούν το σύνολο της Εκκλησίας;",
+    "choices": [
+      "Οι ιερείς",
+      "Οι επίσκοποι",
+      "Οι ναοί",
+      "Οι πιστοί"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Όταν μια οικογένεια αντιμετωπίζει δυσκολίες και χρειάζεται συμβουλευτική υποστήριξη (όχι επείγον περιστατικό), πού μπορεί να απευθυνθεί;",
+    "choices": [
+      "Στην αστυνομία",
+      "Στο σχολείο",
+      "Σε οικογενειακούς συμβούλους",
+      "Στο φαρμακείο"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το πρώτο βήμα για να λάβουμε μια σωστή απόφαση;",
+    "choices": [
+      "Να αξιολογήσουμε τις προτάσεις",
+      "Να εφαρμόσουμε την απόφαση",
+      "Να διατυπώσουμε εναλλακτικές προτάσεις",
+      "Να εντοπίσουμε/ορίσουμε το πρόβλημα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω δραστηριότητες συμβάλλει στη ρύπανση της ατμόσφαιρας;",
+    "choices": [
+      "Περπάτημα και ποδήλατο",
+      "Φύτευση δέντρων",
+      "Ανακύκλωση",
+      "Εργοστάσια και αυτοκίνητα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι φροντίζει συχνά να οργανώνει ένας δήμος για τους κατοίκους του;",
+    "choices": [
+      "Μόνο πολιτικές εκδηλώσεις",
+      "Αθλητικούς αγώνες παγκόσμιας εμβέλειας",
+      "Μόνο σχολικές εκδρομές",
+      "Πολιτιστικές και πνευματικές εκδηλώσεις"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος διορίζει τον Πρωθυπουργό στην Ελλάδα;",
+    "choices": [
+      "Ο λαός με εκλογές",
+      "Η Βουλή",
+      "Ο Πρόεδρος της Δημοκρατίας",
+      "Το Υπουργικό Συμβούλιο"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει η Πρωτοβάθμια Εκπαίδευση;",
+    "choices": [
+      "Το Δημοτικό και το Γυμνάσιο",
+      "Το Νηπιαγωγείο και το Δημοτικό",
+      "Το Γυμνάσιο και το Λύκειο",
+      "Μόνο το Δημοτικό"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια είναι τα βασικά Μέσα Μαζικής Επικοινωνίας;",
+    "choices": [
+      "Τηλεόραση, εφημερίδες, ραδιόφωνο, περιοδικά και διαδίκτυο",
+      "Μόνο η τηλεόραση και το ραδιόφωνο",
+      "Μόνο οι εφημερίδες",
+      "Μόνο το διαδίκτυο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πόσες χώρες είναι μέλη της Ευρωπαϊκής Ένωσης σήμερα;",
+    "choices": [
+      "20 χώρες",
+      "25 χώρες",
+      "30 χώρες",
+      "27 χώρες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι έχουμε από τη στιγμή που γεννιόμαστε;",
+    "choices": [
+      "Παιχνίδια",
+      "Χρήματα",
+      "Δουλειά",
+      "Δικαιώματα"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι περιλαμβάνει η Τριτοβάθμια Εκπαίδευση;",
+    "choices": [
+      "Τα Πανεπιστήμια και τα ΤΕΙ",
+      "Τα Επαγγελματικά Λύκεια",
+      "Τα Γυμνάσια",
+      "Τα Δημοτικά Σχολεία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς επηρεάζει η ατμοσφαιρική ρύπανση το κλίμα της Γης;",
+    "choices": [
+      "Δεν την επηρεάζει καθόλου",
+      "Κάνει τον καιρό πιο κρύο",
+      "Αυξάνει τη θερμοκρασία της Γης",
+      "Βελτιώνει το περιβάλλον"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιες είναι οι λειτουργίες των Μ.Μ.Ε.;",
+    "choices": [
+      "Μόνο η ενημέρωση",
+      "Ενημέρωση, μόρφωση, ψυχαγωγία και επικοινωνία",
+      "Μόνο η προβολή πολιτικών θεμάτων",
+      "Έλεγχος της κοινής γνώμης"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Από πόσες Μητροπόλεις αποτελείται η Εκκλησία της Ελλάδος;",
+    "choices": [
+      "50",
+      "80",
+      "60",
+      "70"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο βασικός στόχος του ελληνικού εκπαιδευτικού συστήματος;",
+    "choices": [
+      "Την παροχή δωρεάν βιβλίων",
+      "Τον περιορισμό της εκπαίδευσης",
+      "Τη διάκριση μεταξύ των μαθητών",
+      "Την παροχή ίσων ευκαιριών στη μόρφωση"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πού περιέχονται τα δικαιώματα των Ευρωπαίων πολιτών;",
+    "choices": [
+      "Στο Σύνταγμα της Ευρωπαϊκής Ένωσης",
+      "Στη Διακήρυξη των Ανθρωπίνων Δικαιωμάτων",
+      "Στον Χάρτη των Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης",
+      "Στον Ευρωπαϊκό Καταστατικό Χάρτη"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι μπορούν να κάνουν οι βουλευτές σχετικά με την κυβέρνηση;",
+    "choices": [
+      "Να τη διορίζουν",
+      "Να ελέγχουν το έργο της",
+      "Να της επιβάλλουν πρόστιμα",
+      "Να την καταργούν"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο είναι το πρώτο βήμα όταν θέλουμε να πάρουμε μία απόφαση;",
+    "choices": [
+      "Αξιολόγηση προτάσεων",
+      "Συλλογή πληροφοριών",
+      "Προσδιορισμός του προβλήματος",
+      "Απόφαση κατά πλειοψηφία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Πώς προστατεύονται τα δικαιώματα των πολιτών στην Ελλάδα;",
+    "choices": [
+      "Από το Σύνταγμα και τους νόμους",
+      "Μόνο από τα δικαστήρια",
+      "Από τον Πρόεδρο της Δημοκρατίας",
+      "Από την Ευρωπαϊκή Ένωση"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Όλοι οι άνθρωποι έχουν:",
+    "choices": [
+      "Διαφορετικές ανάγκες",
+      "Καθόλου ανάγκες",
+      "Μόνο επιθυμίες",
+      "Παρόμοιες ανάγκες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο όργανο ενός σχολείου αποτελείται από όλους τους διδάσκοντες;",
+    "choices": [
+      "Οι μαθητές της τάξης",
+      "Η διεύθυνση του σχολείου",
+      "Το σχολικό συμβούλιο",
+      "Ο Σύλλογος Διδασκόντων"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Στα δημόσια σχολεία στην Ελλάδα, πώς προμηθεύονται οι μαθητές τα σχολικά τους βιβλία;",
+    "choices": [
+      "Τα παίρνουν δωρεάν από το σχολείο",
+      "Τα αγοράζουν από το βιβλιοπωλείο",
+      "Τα δανείζονται από τη βιβλιοθήκη",
+      "Τα φωτοτυπούν από συμμαθητές τους"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι αποτελούν τον Σύλλογο Διδασκόντων ενός σχολείου;",
+    "choices": [
+      "Οι μαθητές",
+      "Οι γονείς",
+      "Η διεύθυνση",
+      "Οι διδάσκοντες"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιοι καλούνται πρόσφυγες;",
+    "choices": [
+      "Άνθρωποι που ταξιδεύουν για αναψυχή",
+      "Άνθρωποι που πηγαίνουν σε άλλες χώρες για να εργαστούν",
+      "Άνθρωποι που αναγκάζονται να εγκαταλείψουν την πατρίδα τους λόγω πολέμου ή καταστροφών",
+      "Φοιτητές που σπουδάζουν στο εξωτερικό"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιος οργανισμός δημιούργησε τη Σύμβαση για τα Δικαιώματα του Παιδιού;",
+    "choices": [
+      "Ο Ο.Η.Ε.",
+      "Η Ευρωπαϊκή Ένωση",
+      "Το ΝΑΤΟ",
+      "Η UNESCO"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποιο πρόγραμμα διοικητικής μεταρρύθμισης εφαρμόστηκε στην Ελλάδα το 2011;",
+    "choices": [
+      "Καλλικράτης",
+      "Καποδίστριας",
+      "Πρόεδρος",
+      "Δημαρχείο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι τα Μέσα Μαζικής Ενημέρωσης (Μ.Μ.Ε.);",
+    "choices": [
+      "Μέσα ενημέρωσης και επικοινωνίας που έχουν πολλαπλούς ρόλους",
+      "Μόνο μέσα που παρουσιάζουν πολιτικά θέματα",
+      "Όργανα που ελέγχονται πλήρως από την κυβέρνηση",
+      "Μέσα που απευθύνονται μόνο σε ενήλικες"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Τι είναι το κέντρο κάθε ενορίας;",
+    "choices": [
+      "Το σχολείο",
+      "Η πλατεία",
+      "Το δημαρχείο",
+      "Ο ναός"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Ποια ηλεκτρονική υπηρεσία του ελληνικού δημοσίου είναι αρμόδια για την υποβολή αίτησης για απονομή σύνταξης γήρατος;",
+    "choices": [
+      "TaxisNet",
+      "e-ΕΦΚΑ",
+      "myKEPlive",
+      "www.diavgeia.gov.gr"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο φορέας \"Κέντρο Πιστοποίησης Αναπηρίας (ΚΕ.Π.Α.)\" είναι υπεύθυνος για:",
+    "choices": [
+      "Να ελέγχει και να εποπτεύει Νοσοκομεία, Κέντρα Υγείας ή Μονάδες Κοινωνικής Φροντίδας στα καθορισμένα όρια μιας περιφέρειας",
+      "Την κατάθεση πινακίδων ενός οχήματος",
+      "Δίνει επιδόματα ανεργίας σε εκείνους που τα δικαιούνται",
+      "Χαρακτηρίζει εκείνους που κάνουν τη σχετική αίτηση ως Άτομα με Αναπηρία"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η ηλεκτρονική υπηρεσία TAXISnet του ελληνικού δημοσίου είναι αρμόδια για:",
+    "choices": [
+      "την έκδοση βεβαίωσης φορολογικής ενημερότητας",
+      "την εύρεση απόφασης υφυπουργού της Κυβέρνησης",
+      "την ανανέωση δελτίου ανεργίας",
+      "την υποβολή αίτησης για απονομή σύνταξης γήρατος"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι σημαίνει ο όρος «ανασχηματισμός»;",
+    "choices": [
+      "είναι η διαδικασία κατά την οποία ο Πρόεδρος της Βουλής αλλάζει τους Αντιπροέδρους της Βουλής",
+      "είναι η διαδικασία κατά την οποία ο Πρωθυπουργός αλλάζει τη σύνθεση της Κυβέρνησης της χώρας",
+      "είναι η διαδικασία κατά την οποία ο Πρόεδρος της Δημοκρατίας αλλάζει τη σύνθεση της Κυβέρνησης της χώρας",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω διατυπώσεις είναι λάθος;",
+    "choices": [
+      "Αν είστε Έλληνας πολίτης, αλλά ζείτε στην Ισπανία, έχετε το δικαίωμα του εκλέγειν και εκλέγεσθαι στις δημοτικές εκλογές στη συγκεκριμένη χώρα.",
+      "Αν κάποιος τελέσει πολιτικό γάμο στην Ελλάδα, δεν είναι απαραίτητο ότι ο γάμος αυτός θα έχει ισχύ σε άλλο κράτος της ΕΕ.",
+      "Τα περιουσιακά δικαιώματα και το δικαίωμα διατροφής ενδέχεται να αλλάζουν από χώρα σε χώρα εντός της ΕΕ για τα ζευγάρια (ετερόφυλα και ομόφυλα) που έχουν συνάψει σύμφωνο συμβίωσης.",
+      "Ένας Έλληνας πολίτης, αν έχει ζήσει νόμιμα και πληροί τους όρους διαμονής σε άλλη χώρα της ΕΕ επί 5 συναπτά (συνεχόμενα) έτη, αποκτά αυτομάτως το δικαίωμα μόνιμης διαμονής στη χώρα αυτή."
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια ηλεκτρονική υπηρεσία του ελληνικού δημοσίου είναι αρμόδια για την εύρεση απόφασης υφυπουργού της Κυβέρνησης;",
+    "choices": [
+      "TaxisNet",
+      "e-ΕΦΚΑ",
+      "myKEPlive",
+      "www.diavgeia.gov.gr"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια διαδικασία ονομάζεται και «Ώρα του Πρωθυπουργού»;",
+    "choices": [
+      "Όταν ο Πρωθυπουργός απευθύνεται εκτάκτως και για σοβαρά θέματα από την τηλεόραση και το ραδιόφωνο στους πολίτες",
+      "Όταν ο Πρωθυπουργός απαντά στη Βουλή σε επίκαιρη ερώτηση που έχει γίνει στον ίδιο",
+      "Όταν ο Πρωθυπουργός κάνει δηλώσεις μετά από επίσημη επίσκεψη στη χώρα μας ξένου αρχηγού κράτους ή κυβέρνησης",
+      "Όταν ο Πρωθυπουργός κάνει ομιλία στην κοινοβουλευτική ομάδα του κόμματός του"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τα Ανώτατα Δικαστήρια στην Ελλάδα είναι:",
+    "choices": [
+      "Τρία",
+      "Δύο",
+      "Τέσσερα",
+      "Πέντε"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο σκοπός του Συνηγόρου του Πολίτη είναι:",
+    "choices": [
+      "Να παρέχει δικαστική συνδρομή στους πολίτες",
+      "Να εκπροσωπεί τους Έλληνες πολίτες στο Ευρωπαϊκό Δικαστήριο",
+      "Να διαμεσολαβεί μεταξύ των πολιτών και της διοίκησης σε περίπτωση διάκρισης εις βάρος τους ή κακοδιοίκησης",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η τελευταία αναθεώρηση του Ελληνικού Συντάγματος έγινε:",
+    "choices": [
+      "Το 2024",
+      "Το 1998",
+      "Το 2019",
+      "Το 1974"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η ηλεκτρονική υπηρεσία myKEPlive του ελληνικού Δημοσίου είναι αρμόδια για:",
+    "choices": [
+      "την έκδοση βεβαίωσης φορολογικής ενημερότητας",
+      "την εύρεση απόφασης υφυπουργού της Κυβέρνησης",
+      "την ανανέωση δελτίου ανεργίας",
+      "την υποβολή αίτησης για απονομή σύνταξης γήρατος"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "_______________ αναλαμβάνει δωρεάν διαμεσολάβηση για τη φιλική διευθέτηση διαφορών των καταναλωτών ή των ενώσεών τους με προμηθευτές του δημόσιου ή του ιδιωτικού τομέα.",
+    "choices": [
+      "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+      "Η Επιτροπή Ανταγωνισμού",
+      "Η Ρυθμιστική Αρχή Ενέργειας",
+      "Ο Συνήγορος του Καταναλωτή"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Επιλέξτε ποια από τις παρακάτω προτάσεις είναι λανθασμένη. Στην Ελλάδα, ο Πρόεδρος της Δημοκρατίας:",
+    "choices": [
+      "Απονέμει τους βαθμούς σε όσους υπηρετούν στις Ένοπλες Δυνάμεις.",
+      "Δεν έχει άλλες αρμοδιότητες, παρά μόνο όσες του απονέμουν ρητά το Σύνταγμα και οι νόμοι.",
+      "Αν παραπεμφθεί σε δίκη, ακόμη και αν στη συνέχεια αθωωθεί, δεν μπορεί να αναλάβει πάλι τα καθήκοντά του.",
+      "Μπορεί να δικαστεί μόνο από το Ειδικό Δικαστήριο."
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι είναι η Ευρωπαϊκή Κάρτα Ασφάλισης Ασθένειας (ΕΚΑΑ);",
+    "choices": [
+      "μία δωρεάν κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα ενός πολίτη της ΕΕ σε οποιοδήποτε κράτος και αν βρίσκεται",
+      "μία δωρεάν κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα κατά την προσωρινή διαμονή ενός ασφαλισμένου σε ένα κράτος-μέλος της ΕΕ",
+      "μία προπληρωμένη κάρτα που προσφέρει πρόσβαση σε ιατρική φροντίδα κατά την προσωρινή διαμονή ενός ασφαλισμένου σε ένα κράτος-μέλος της ΕΕ",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Στις αρμοδιότητες ενός Δήμου υπάγονται τα θέματα:",
+    "choices": [
+      "στάθμευσης",
+      "δημοτολογίου",
+      "καθαριότητας/ανακύκλωσης",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η αποκατάσταση της δημοκρατίας και το αίτημα ένταξης στην Ευρωπαϊκή Οικονομική Κοινότητα (ΕΟΚ) έγινε από τον",
+    "choices": [
+      "Γεώργιο Ράλλη",
+      "Κωνσταντίνο Καραμανλή",
+      "Κωνσταντίνο Σημίτη",
+      "Ανδρέα Παπανδρέου"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο φορέας \"Δημόσια Υπηρεσία Απασχόλησης (Δ.ΥΠ.Α.)\" είναι υπεύθυνος για:",
+    "choices": [
+      "Να ελέγχει και να εποπτεύει Νοσοκομεία, Κέντρα Υγείας ή Μονάδες Κοινωνικής Φροντίδας στα καθορισμένα όρια μιας περιφέρειας",
+      "Την κατάθεση πινακίδων ενός οχήματος",
+      "Δίνει επιδόματα ανεργίας σε εκείνους που τα δικαιούνται",
+      "Χαρακτηρίζει εκείνους που κάνουν τη σχετική αίτηση ως Άτομα με Αναπηρία"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Νομοθετεί η δημόσια διοίκηση;",
+    "choices": [
+      "Όχι, ρόλος της είναι η εκτέλεση των πολιτικών και η εφαρμογή των νόμων",
+      "Ναι, η δημόσια διοίκηση έχει σημαντική εξουσία προτείνοντας νομοθεσία",
+      "Ναι, η δημόσια διοίκηση εκδίδει κανονιστικές πράξεις που εξειδικεύουν τις ρυθμίσεις των νόμων που ψηφίζονται",
+      "Τίποτα από τα προηγούμενα δεν ισχύει"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το Συμβούλιο της Επικρατείας (ΣτΕ) κατατάσσεται στο είδος των ______ δικαστηρίων:",
+    "choices": [
+      "Ποινικών",
+      "Διοικητικών",
+      "Πολιτικών",
+      "Ειδικών"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Αν, διαβάζοντας μία εφημερίδα, δείτε τη φράση «τα πολιτειακά και πολιτικά όργανα» του κράτους, θα καταλάβετε ότι πρόκειται για:",
+    "choices": [
+      "τον Πρόεδρο της Δημοκρατίας, τη Βουλή, την Κυβέρνηση και τα Όργανα της Τοπικής Αυτοδιοίκησης",
+      "τον Πρόεδρο της Δημοκρατίας, τον Πρωθυπουργό, την Κυβέρνηση, τον Αρχιεπίσκοπο Αθηνών",
+      "τον Πρωθυπουργό, τα μέλη του Υπουργικού Συμβουλίου, τον Πρόεδρο της Ακαδημίας Αθηνών, τον Πρόεδρο του Αρείου Πάγου",
+      "τον Πρωθυπουργό, τον Πρόεδρο της Βουλής, τον Πρόεδρο του Αρείου Πάγου, τον Αρχιεπίσκοπο"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η επικύρωση της ένταξης της Ελλάδας στην Ευρωπαϊκή Οικονομική Κοινότητα (ΕΟΚ) έγινε από τον",
+    "choices": [
+      "Γεώργιο Ράλλη",
+      "Κωνσταντίνο Καραμανλή",
+      "Κωνσταντίνο Σημίτη",
+      "Ανδρέα Παπανδρέου"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι από τα παρακάτω δεν επιτρέπεται σε μία γυναίκα στην Ελλάδα;",
+    "choices": [
+      "Να προχωρήσει, εντός των 12 πρώτων εβδομάδων, σε διακοπή κύησης (άμβλωση/έκτρωση)",
+      "Να επισκεφθεί το Άγιο Όρος",
+      "Να γίνει Αρχηγός των Ενόπλων Δυνάμεων",
+      "Να θηλάσει σε δημόσιο χώρο"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "_______________ εποπτεύει τον βαθμό και την αποτελεσματικότητα του ανταγωνισμού στην εγχώρια αγορά ενέργειας και τις τιμές για τους οικιακούς καταναλωτές.",
+    "choices": [
+      "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+      "Η Επιτροπή Ανταγωνισμού",
+      "Η Ρυθμιστική Αρχή Ενέργειας",
+      "Ο Συνήγορος του Καταναλωτή"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω δηλώσεις σχετικά με τη στράτευση στην Ελλάδα είναι σωστή;",
+    "choices": [
+      "Κάθε Έλληνας που μπορεί να φέρει όπλα είναι υποχρεωμένος να συντελεί στην άμυνα της Πατρίδας, σύμφωνα με τους ορισμούς των νόμων",
+      "Η στρατιωτική θητεία στην Ελλάδα είναι υποχρεωτική και για τους άνδρες και για τις γυναίκες",
+      "Η διάρκεια της στρατιωτικής θητείας στην Ελλάδα είναι υποχρεωτικά 24 μήνες",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Με τη Σύμβαση _______________ καθορίζεται διάρκεια ημερήσιας ή εβδομαδιαίας ή δεκαπενθήμερης ή μηνιαίας εργασίας μικρότερη από την κανονική.",
+    "choices": [
+      "πλήρους απασχόλησης",
+      "αορίστου χρόνου",
+      "ορισμένου χρόνου",
+      "μερικής απασχόλησης"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Οι εθνικές εκλογές του Μαΐου 2023 στην Ελλάδα έγιναν με σύστημα:",
+    "choices": [
+      "απλής αναλογικής",
+      "ενισχυμένης αναλογικής",
+      "πλειοψηφικό",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο φορέας \"Υγειονομική Περιφέρεια (Υ.Πε.)\" είναι υπεύθυνος για:",
+    "choices": [
+      "Να ελέγχει και να εποπτεύει Νοσοκομεία, Κέντρα Υγείας ή Μονάδες Κοινωνικής Φροντίδας στα καθορισμένα όρια μιας περιφέρειας",
+      "Την κατάθεση πινακίδων ενός οχήματος",
+      "Δίνει επιδόματα ανεργίας σε εκείνους που τα δικαιούνται",
+      "Χαρακτηρίζει εκείνους που κάνουν τη σχετική αίτηση ως Άτομα με Αναπηρία"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια ηλεκτρονική υπηρεσία του ελληνικού δημοσίου είναι αρμόδια για την ανανέωση δελτίου ανεργίας;",
+    "choices": [
+      "TaxisNet",
+      "e-ΕΦΚΑ",
+      "myKEPlive",
+      "www.diavgeia.gov.gr"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια ηλεκτρονική υπηρεσία του ελληνικού δημοσίου είναι αρμόδια για την έκδοση βεβαίωσης φορολογικής ενημερότητας;",
+    "choices": [
+      "TaxisNet",
+      "e-ΕΦΚΑ",
+      "myKEPlive",
+      "www.diavgeia.gov.gr"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ένα πολιτικό κόμμα για να εκλέξει βουλευτές στις εθνικές εκλογές πρέπει να ψηφιστεί από τουλάχιστον το __________ του εκλογικού σώματος.",
+    "choices": [
+      "5%",
+      "4%",
+      "3%",
+      "10%"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι άλλαξε για τα άτομα ΛΟΑΤΚΙ+ στην Ελλάδα με τον ν. 5089/2024 «Ισότητα στον πολιτικό γάμο, τροποποίηση του Αστικού Κώδικα και άλλες διατάξεις»;",
+    "choices": [
+      "Νομιμοποιήθηκε το Σύμφωνο Συμβίωσης για τα ζευγάρια του ίδιου φύλου",
+      "Νομιμοποιήθηκε η σεξουαλική επαφή μεταξύ ατόμων του ίδιου φύλου",
+      "Αναγνωρίστηκε η ισότητα στον γάμο για όλα τα άτομα ανεξαρτήτως φύλου",
+      "Δεν άλλαξε κάτι ουσιαστικό"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω επιχειρήσεις δεν ανήκει στις Επιχειρήσεις Κοινής Ωφέλειας;",
+    "choices": [
+      "Εταιρεία Ύδρευσης Αποχέτευσης Θεσσαλονίκης (Ε.Υ.Α.Θ.)",
+      "Ελληνική Βιομηχανία Αλουμινίου",
+      "Δημοτική Επιχείρηση Ανάπτυξης Δήμου Ζωγράφου",
+      "Ελληνικά Ταχυδρομεία Α.Ε. (ΕΛ.ΤΑ.)"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Όσοι έχουν την ιθαγένεια ενός κράτους ονομάζονται:",
+    "choices": [
+      "Αλλοδαποί",
+      "Ημεδαποί",
+      "Ομογενείς",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο Οργανισμός Θεμελιωδών Δικαιωμάτων της Ε.Ε. για την προάσπιση των θεμελιωδών δικαιωμάτων και ελευθεριών του ανθρώπου ιδρύθηκε το:",
+    "choices": [
+      "1957",
+      "2007",
+      "1993",
+      "1985"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το Ινστιτούτο Επαγγελματικής Κατάρτισης (ΙΕΚ), ως τύπος εκπαιδευτηρίου, κατατάσσεται στη βαθμίδα της:",
+    "choices": [
+      "Πρωτοβάθμιας Εκπαίδευσης",
+      "Ανώτατης/Τριτοβάθμιας Εκπαίδευσης",
+      "Μεταλυκειακής Εκπαίδευσης",
+      "Δευτεροβάθμιας Εκπαίδευσης"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι σημαίνουν τα αρχικά Κ.Ε.Π.;",
+    "choices": [
+      "Κέντρο Ενημέρωσης Πολιτών",
+      "Κέντρο Εξυπηρέτησης Πελατών",
+      "Κέντρο Εξυπηρέτησης Πολιτών",
+      "Κεντρική Εξυπηρέτηση Πολιτών"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η ένταξη της Ελλάδας στην Οικονομική και Νομισματική Ένωση (ΟΝΕ) έγινε από τον:",
+    "choices": [
+      "Γεώργιο Ράλλη",
+      "Κωνσταντίνο Καραμανλή",
+      "Κωνσταντίνο Σημίτη",
+      "Ανδρέα Παπανδρέου"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Οι πολιτικές της Ευρωπαϊκής Ένωσης (ΕΕ) για τους τομείς πολιτικής που υπάρχει συντρέχουσα αρμοδιότητα ΕΕ και κρατών-μελών αποφασίζονται:",
+    "choices": [
+      "Από τις Βρυξέλλες",
+      "Από ισχυρά κράτη-μέλη της ΕΕ όπως η Γαλλία και η Γερμανία",
+      "Από το Ευρωπαϊκό Κοινοβούλιο",
+      "Με μια διαδικασία που απαιτεί την από κοινού απόφαση της Ευρωπαϊκής Επιτροπής, του Συμβουλίου της ΕΕ και του Ευρωπαϊκού Κοινοβουλίου (συνήθης νομοθετική διαδικασία)"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιος έχει το δικαίωμα του εκλέγειν στις βουλευτικές εκλογές στην Ελλάδα;",
+    "choices": [
+      "Οι νόμιμα διαμένοντες στην Ελλάδα",
+      "Όσοι έχουν την ελληνική ιθαγένεια, έχουν συμπληρώσει το δέκατο έβδομο (17ο) έτος της ηλικίας τους, έχουν ικανότητα για δικαιοπραξία και δεν έχουν υποστεί αμετάκλητη ποινική καταδίκη",
+      "Όλοι οι πολίτες της ΕΕ που διαμένουν στην Ελλάδα",
+      "Όσοι έχουν συμπληρώσει 10 χρόνια διαμονής στην Ελλάδα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η ηλεκτρονική υπηρεσία e-ΕΦΚΑ του ελληνικού Δημοσίου είναι αρμόδια για:",
+    "choices": [
+      "την έκδοση βεβαίωσης φορολογικής ενημερότητας",
+      "την εύρεση απόφασης υφυπουργού της Κυβέρνησης",
+      "την ανανέωση δελτίου ανεργίας",
+      "την υποβολή αίτησης για απονομή σύνταξης γήρατος"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Τι από τα παρακάτω ισχύει για τους βουλευτές του Ελληνικού Κοινοβουλίου;",
+    "choices": [
+      "Πριν νομοθετήσουν πρέπει να λαμβάνουν τη γνώμη των ψηφοφόρων τους",
+      "Ψηφίζουν ελεύθερα και κατά συνείδηση και δεν διώκονται για τη γνώμη ή την ψήφο τους",
+      "Ψηφίζουν υποχρεωτικά με βάση την πολιτική γραμμή του κόμματος από το οποίο προέρχονται",
+      "Είναι υποχρεωμένοι να καταψηφίζουν όλα τα νομοσχέδια που προέρχονται από άλλο κόμμα εκτός από το δικό τους"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο Πρόεδρος της Βουλής των Ελλήνων:",
+    "choices": [
+      "εκλέγεται από τον λαό",
+      "εκπροσωπεί τη Βουλή σε διεθνείς και διμερείς κοινοβουλευτικές επιτροπές (fora)",
+      "αναπληρώνει τον/την Πρόεδρο της Δημοκρατίας για απουσία στο εξωτερικό πάνω από 3 ημέρες",
+      "είναι το δεύτερο πολιτειακό αξίωμα μετά τον/την Πρόεδρο της Δημοκρατίας"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η απώλεια της ελληνικής ιθαγένειας γίνεται, κυρίως, με:",
+    "choices": [
+      "την κτήση αλλοδαπής ιθαγένειας",
+      "έκπτωση",
+      "δήλωση αποποίησης",
+      "Όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια από τα παρακάτω πολιτικά πρόσωπα μπορούν να αναλάβουν το αξίωμά τους, χωρίς να έχουν εκλεγεί απευθείας από τον λαό;",
+    "choices": [
+      "Πρόεδρος της Δημοκρατίας, Υπουργός, Γενικός Γραμματέας Υπουργείου",
+      "Υπουργός, Υφυπουργός, Δήμαρχος",
+      "Δήμαρχος, Περιφερειάρχης, Υπουργός άνευ Χαρτοφυλακίου",
+      "Περιφερειάρχης, Υπουργός, Αντιπρόεδρος της Κυβέρνησης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Κατά το διάστημα που η Βουλή είναι ανοιχτή, πόσες φορές την εβδομάδα απαντάει ο Πρωθυπουργός σε Επίκαιρες Ερωτήσεις (Ώρα του Πρωθυπουργού);",
+    "choices": [
+      "Μία φορά",
+      "Δύο φορές",
+      "Καμία φορά",
+      "Απεριόριστος αριθμός"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο αλλοδαπός που επιθυμεί να γίνει Έλληνας πολίτης με πολιτογράφηση πρέπει μεταξύ άλλων:",
+    "choices": [
+      "να είναι 18 ετών και άνω",
+      "να εκπληρώνει διαρκώς τις φορολογικές και ασφαλιστικές του υποχρεώσεις",
+      "να γνωρίζει επαρκώς την ελληνική γλώσσα",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποια από τις παρακάτω διατυπώσεις είναι λάθος; Το κράτος, όπως ρητά αναφέρεται στο Σύνταγμα, οφείλει να μεριμνά για:",
+    "choices": [
+      "την περίθαλψη των απόρων",
+      "την επαγγελματική ένταξη των ατόμων με αναπηρίες",
+      "την επίλυση των κληρονομικών διαφορών που προκύπτουν μεταξύ των πολιτών",
+      "την προστασία του θεσμού της οικογένειας"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο Ευρωπαίος Διαμεσολαβητής διερευνά:",
+    "choices": [
+      "αναφορές πολιτών της Ε.Ε. κατά των κυβερνήσεων των κρατών-μελών",
+      "αναφορές κακοδιοίκησης στο πλαίσιο των θεσμικών οργάνων της Ε.Ε.",
+      "αναφορές για σωστή διαχείριση των δαπανών της Ε.Ε.",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σπουδαίος Έλληνας Πρωθυπουργός του 19ου αιώνα ήταν:",
+    "choices": [
+      "Ο Κωνσταντίνος Καραμανλής",
+      "Ο Θεόδωρος Κολοκοτρώνης",
+      "Ο Χαρίλαος Τρικούπης",
+      "Ο Ρήγας Βελεστινλής"
+    ],
+    "answer": 2,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σύμφωνα με την «αρχή της δεδηλωμένης», η οποία κατοχυρώνεται στο άρθρο 84 του Συντάγματος:",
+    "choices": [
+      "Η κυβέρνηση οφείλει να λάβει ψήφο εμπιστοσύνης από τη Βουλή, ενώ παράλληλα η Βουλή έχει δικαίωμα να άρει την εμπιστοσύνη της ανά πάσα στιγμή με ψήφο δυσπιστίας",
+      "Μέσα σε 20 ημέρες από την ορκωμοσία του Πρωθυπουργού, η Κυβέρνηση υποχρεούται να ζητήσει ψήφο εμπιστοσύνης και μπορεί να τη ζητά και οποτεδήποτε άλλοτε",
+      "Η Βουλή δεν μπορεί να αποσύρει την εμπιστοσύνη της από μεμονωμένο μέλος της Κυβέρνησης",
+      "Κατά την ψηφοφορία για την ψήφο εμπιστοσύνης/δυσπιστίας δεν μπορούν να ψηφίσουν οι Υπουργοί και Υφυπουργοί που είναι μέλη της Βουλής"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η ηλεκτρονική υπηρεσία www.diavgeia.gov.gr του ελληνικού δημοσίου είναι αρμόδια για:",
+    "choices": [
+      "την έκδοση βεβαίωσης φορολογικής ενημερότητας",
+      "την εύρεση απόφασης υφυπουργού της Κυβέρνησης",
+      "την ανανέωση δελτίου ανεργίας",
+      "την υποβολή αίτησης για απονομή σύνταξης γήρατος"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "_______________ έχει την ευθύνη για την καταπολέμηση των πρακτικών που περιορίζουν ή νοθεύουν τον ανταγωνισμό και καταλήγουν σε βλάβη των καταναλωτών.",
+    "choices": [
+      "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+      "Η Επιτροπή Ανταγωνισμού",
+      "Η Ρυθμιστική Αρχή Ενέργειας",
+      "Ο Συνήγορος του Καταναλωτή"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Κάθε βουλευτής μπορεί οποτεδήποτε να παραιτηθεί από το βουλευτικό αξίωμα. Την παραίτησή του την υποβάλλει γραπτώς προς:",
+    "choices": [
+      "Τον/την Πρόεδρο της Βουλής",
+      "Τον/την Πρόεδρο της Δημοκρατίας",
+      "Τον/την αρμόδιο Υπουργό",
+      "Τον/την Πρωθυπουργό"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο φορέας \"Δημόσια Οικονομική Υπηρεσία (Δ.Ο.Υ.)\" είναι υπεύθυνος για:",
+    "choices": [
+      "Να ελέγχει και να εποπτεύει Νοσοκομεία, Κέντρα Υγείας ή Μονάδες Κοινωνικής Φροντίδας στα καθορισμένα όρια μιας περιφέρειας",
+      "Την κατάθεση πινακίδων ενός οχήματος",
+      "Δίνει επιδόματα ανεργίας σε εκείνους που τα δικαιούνται",
+      "Χαρακτηρίζει εκείνους που κάνουν τη σχετική αίτηση ως Άτομα με Αναπηρία"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "_______________ του Υπουργείου Ανάπτυξης έχει την ευθύνη για την προστασία των οφειλετών από αθέμιτες πρακτικές είσπραξης των απαιτήσεων.",
+    "choices": [
+      "Η Γενική Διεύθυνση Προστασίας Καταναλωτή",
+      "Η Επιτροπή Ανταγωνισμού",
+      "Η Ρυθμιστική Αρχή Ενέργειας",
+      "Ο Συνήγορος του Καταναλωτή"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το Δημοτικό, ως τύπος εκπαιδευτηρίου, κατατάσσεται στη βαθμίδα της:",
+    "choices": [
+      "Πρωτοβάθμιας Εκπαίδευσης",
+      "Ανώτατης/Τριτοβάθμιας Εκπαίδευσης",
+      "Μεταλυκειακής Εκπαίδευσης",
+      "Δευτεροβάθμιας Εκπαίδευσης"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Οι μεταρρυθμίσεις στο οικογενειακό δίκαιο, την εκπαίδευση και τη δημόσια διοίκηση, η ίδρυση του Εθνικού Συστήματος Υγείας έγιναν από τον",
+    "choices": [
+      "Γεώργιο Ράλλη",
+      "Κωνσταντίνο Καραμανλή",
+      "Κωνσταντίνο Σημίτη",
+      "Ανδρέα Παπανδρέου"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω θέματα περιλαμβάνεται στη Χάρτα των Θεμελιωδών Δικαιωμάτων της Ε.Ε.;",
+    "choices": [
+      "το δικαίωμα στην ελευθερία και την ασφάλεια",
+      "η ελευθερία σκέψης, συνείδησης και θρησκείας",
+      "η προστασία σε περίπτωση απομάκρυνσης, απέλασης και έκδοσης",
+      "όλα τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιος είναι ο ρόλος της κυβέρνησης στην Ελλάδα στη διαμόρφωση της δημόσιας πολιτικής;",
+    "choices": [
+      "Αδύναμος γιατί μπορεί να ανατραπεί από το Συμβούλιο της Επικρατείας",
+      "Ισχυρός γιατί έχει τη νομοθετική πρωτοβουλία",
+      "Αδύναμος, γιατί χρειάζεται τη συμφωνία των άλλων κομμάτων στο Κοινοβούλιο",
+      "Η πρώτη και η τρίτη επιλογή μαζί"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω δεν είναι πολιτικό κόμμα στην Ελλάδα;",
+    "choices": [
+      "Νέα Αριστερά",
+      "Ομόνοια",
+      "Νέα Δημοκρατία",
+      "Πανελλήνιο Σοσιαλιστικό Κίνημα – Κίνημα Αλλαγής (ΠΑ.ΣΟ.Κ.-ΚΙΝ.ΑΛ.)"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Σε ποια Ανεξάρτητη Αρχή θα πρέπει να απευθυνθεί ένας πολίτης αν θεωρεί ότι μια δημόσια υπηρεσία δεν έχει ανταποκριθεί σε αίτημά του κατά τον τρόπο που ορίζει ο νόμος και σύμφωνα με τις αρμοδιότητές της;",
+    "choices": [
+      "Στον Συνήγορο του Πολίτη",
+      "Στον Συνήγορο του Καταναλωτή",
+      "Στην Ανεξάρτητη Αρχή Δημοσίων Εσόδων",
+      "Στο Ανώτατο Συμβούλιο Επιλογής Προσωπικού"
+    ],
+    "answer": 0,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το Επαγγελματικό Λύκειο (ΕΠΑΛ), ως τύπος εκπαιδευτηρίου, κατατάσσεται στη βαθμίδα της:",
+    "choices": [
+      "Πρωτοβάθμιας Εκπαίδευσης",
+      "Ανώτατης/Τριτοβάθμιας Εκπαίδευσης",
+      "Μεταλυκειακής Εκπαίδευσης",
+      "Δευτεροβάθμιας Εκπαίδευσης"
+    ],
+    "answer": 3,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Η Ελλάδα, όπως και κάθε άλλο κράτος-μέλος της ΕΕ, ασκεί εκ περιτροπής την Προεδρία του Συμβουλίου της ΕΕ για χρονικό διάστημα __________.",
+    "choices": [
+      "12 μηνών",
+      "6 μηνών",
+      "3 μηνών",
+      "1 μήνα"
+    ],
+    "answer": 1,
+    "group": "Social Sciences",
+    "subject": "Government and Politics",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

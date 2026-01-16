@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Η Παλαιά Διαθήκη εμπεριέχει:",
+    "choices": [
+      "πολλές διαθήκες",
+      "μία, αυτή που δόθηκε στον Μωυσή στο Σινά"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL1"
+  },
+  {
+    "question": "Η Παλαιά Διαθήκη εμπεριέχει:",
+    "choices": [
+      "πολλές διαθήκες",
+      "μία, αυτή που δόθηκε στον Μωυσή στο Σινά"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=SOCTHEOL1"
+  },
+  {
+    "question": "Η δήλωση «Επικρατούσα θρησκεία στην Ελλάδα είναι η θρησκεία της Ανατολικής Ορθόδοξης Εκκλησίας του Χριστού» είναι:",
+    "choices": [
+      "Σωστή",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Χαρακτήρισε την παρακάτω πρόταση ως σωστή ή λανθασμένη: Σαράντα ημέρες μετά τον θάνατο τελείται μνημόσυνο και φτιάχνουμε κόλλυβα.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "World Religions",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

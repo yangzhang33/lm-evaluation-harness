@@ -1,0 +1,1150 @@
+[
+  {
+    "question": "Ποιο πρωτόκολλο δίνει IP διεύθυνση σε έναν χρήστη-πελάτη που συνδέεται στο διαδίκτυο;",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "IP",
+      "TCP"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ΔΕΝ είναι επίπεδο του Διαδικτύου;",
+    "choices": [
+      "Μεταφοράς",
+      "Ζεύξης",
+      "Εφαρμογής",
+      "Συνόδου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Σε μία 100Mbps Ethernet ζεύξη, αν το μήκος των πακέτων είναι 10Mbyte, η καθυστέρηση μετάδοσης είναι:",
+    "choices": [
+      "0,1 sec",
+      "0,8 sec",
+      "10 sec",
+      "80 sec"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Η μεταγωγή πακέτου στηρίζεται στην αρχή:",
+    "choices": [
+      "σταμάτησε και περίμενε",
+      "αποθήκευση και προώθηση",
+      "εγκαθίδρυση κυκλώματος και αποστολή",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Η μεταγωγή κυκλώματος στηρίζεται στην αρχή:",
+    "choices": [
+      "σταμάτησε και περίμενε",
+      "αποθήκευση και προώθηση",
+      "εγκαθίδρυση κυκλώματος και δέσμευση πόρων",
+      "εγκαθίδρυση κυκλώματος και δέσμευση πόρων"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Στον κυκλικό έλεγχο πλεονασμού το πηλίκο στον αποστολέα:",
+    "choices": [
+      "Γίνεται ο διαιρέτης στον λήπτη",
+      "Είναι το υπόλοιπο στον λήπτη",
+      "Δεν λαμβάνεται υπόψη",
+      "Στέλνεται στον λήπτη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Η καθυστέρηση διάδοσης εξαρτάται από:",
+    "choices": [
+      "το μήκος του πακέτου (σε bits)",
+      "το ρυθμό μετάδοσης",
+      "την απόσταση μεταξύ των 2 κόμβων",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πακέτο πληροφοριών που σχηματίζεται στο επίπεδο ζεύξης της αρχιτεκτονικής του διαδικτύου ονομάζεται:",
+    "choices": [
+      "Τμήμα",
+      "Πακέτο",
+      "Πλαίσιο",
+      "Μήνυμα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πακέτο πληροφοριών που σχηματίζεται στο επίπεδο μεταφοράς της αρχιτεκτονικής του διαδικτύου ονομάζεται:",
+    "choices": [
+      "Τμήμα",
+      "Πλαίσιο",
+      "Πακέτο",
+      "Μήνυμα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Η παράλληλη μετάδοση:",
+    "choices": [
+      "υλοποιείται πιο εύκολα από τη σειριακή",
+      "χρησιμοποιεί ένα κανάλι μεταφοράς δεδομένων",
+      "κάνει διαδοχική μεταφορά δεδομένων",
+      "στέλνει ταυτόχρονα bits"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Πρωτόκολλο χωρίς σύνδεση στο επίπεδο μεταφοράς στην αρχιτεκτονική του διαδικτύου:",
+    "choices": [
+      "FTP",
+      "TCP",
+      "UDP",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ΔΕΝ είναι επίπεδο του OSI;",
+    "choices": [
+      "Ελέγχου",
+      "Ζεύξης",
+      "Δικτύου",
+      "Μεταφοράς"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποια είναι η διαφορά ανάμεσα σε έναν υπολογιστή και σε ένα τερματικό σύστημα;",
+    "choices": [
+      "Ο υπολογιστής εκτελεί εφαρμογές ενώ το τερματικό σύστημα μεριμνά για τη μεταφορά των δεδομένων",
+      "Το τερματικό σύστημα είναι ένα host ενώ ο υπολογιστής όχι",
+      "Καμία",
+      "Ο υπολογιστής προσφέρει υπηρεσίες, ενώ το τερματικό σύστημα ζητά εξυπηρέτηση"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Αν μεταφέροντας ένα αρχείο από άκρο σε άκρο, οι ρυθμοί μετάδοσης στη διαδρομή μεταξύ των δύο άκρων είναι 10Mbps, 20Mbps, 30Mbps, 40Mbps, ποια είναι η διεκπεραιωτική ικανότητα;",
+    "choices": [
+      "20Mbps",
+      "10Mbps",
+      "40Mbps",
+      "50Mbps"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πρωτόκολλο DHCP δίνει στον χρήστη-πελάτη:",
+    "choices": [
+      "Διεύθυνση TCP",
+      "Διεύθυνση MAC",
+      "Διεύθυνση IP",
+      "Διεύθυνση υποδικτύου"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πρωτόκολλο DHCP:",
+    "choices": [
+      "Επιτρέπει στον χρήστη να χρησιμοποιεί τη μόνιμή του διεύθυνση καθώς μετακινείται",
+      "Εκχωρεί δυναμικά δικτυακές διευθύνσεις",
+      "Δεν ανήκει στην κατηγορία πρωτοκόλλων «πελάτη-εξυπηρετητή»",
+      "Επιτρέπει σε έναν κινητό χρήστη να διατηρεί ενεργές συνδέσεις ενώ μετακινείται ανάμεσα σε διαφορετικά δίκτυα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Είναι δυνατό να έχουμε αξιόπιστη μεταφορά δεδομένων μιας εφαρμογής με το πρωτόκολλο UDP;",
+    "choices": [
+      "Εξαρτάται από το είδος της εφαρμογής",
+      "Με ενσωμάτωση της αξιοπιστίας μέσα στην ίδια την εφαρμογή",
+      "Μόνο όταν το υποκείμενο δίκτυο είναι αξιόπιστο",
+      "Δεν είναι δυνατό"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Το μήκος της κεφαλίδας (header) στο TCP segment είναι:",
+    "choices": [
+      "8 bytes",
+      "20 bytes",
+      "μεγαλύτερο ή ίσο με 20 bytes",
+      "εξαρτάται από το μέγιστο επιτρεπόμενο μήκος του TCP segment"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Σε μία TCP σύνδεση, υποθέστε ότι υπάρχει απώλεια δεδομένων όταν το μέγεθος του παραθύρου της σύνδεσης έχει την τιμή W. Επίσης, υποθέστε ότι το RTT παραμένει σταθερό. Τότε ο μέσος ρυθμός μετάδοσης είναι περίπου:",
+    "choices": [
+      "0.75 W*MSS/RTT",
+      "W*MSS/2 RTT",
+      "MSS/RTT",
+      "W*MSS/RTT"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "32 χρήστες μοιράζονται μία ζεύξη 2,048 Mbps χρησιμοποιώντας FDM. Πόσο εύρος ζώνης λαμβάνει ο κάθε χρήστης;",
+    "choices": [
+      "2,048 Mbps για 1/32 sec",
+      "Περισσότερο από 64 Kbps λόγω στατιστικής πολυπλεξίας",
+      "64 Kbps για όλη τη διάρκεια",
+      "64 Kbps για 1/32 sec"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η μεταγωγή κυκλώματος στηρίζεται στην αρχή:",
+    "choices": [
+      "σταμάτησε και περίμενε",
+      "αποθήκευση και προώθηση",
+      "εγκαθίδρυση κυκλώματος και δέσμευση πόρων",
+      "εγκαθίδρυση κυκλώματος και δέσμευση πόρων"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Η παράλληλη μετάδοση:",
+    "choices": [
+      "υλοποιείται πιο εύκολα από τη σειριακή",
+      "χρησιμοποιεί ένα κανάλι μεταφοράς δεδομένων",
+      "κάνει διαδοχική μεταφορά δεδομένων",
+      "στέλνει ταυτόχρονα bits"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποια είναι η διαφορά ανάμεσα σε έναν υπολογιστή και σε ένα τερματικό σύστημα;",
+    "choices": [
+      "Ο υπολογιστής εκτελεί εφαρμογές ενώ το τερματικό σύστημα μεριμνά για τη μεταφορά των δεδομένων",
+      "Το τερματικό σύστημα είναι ένα host ενώ ο υπολογιστής όχι",
+      "Καμία",
+      "Ο υπολογιστής προσφέρει υπηρεσίες, ενώ το τερματικό σύστημα ζητά εξυπηρέτηση"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ΔΕΝ είναι επίπεδο του Διαδικτύου;",
+    "choices": [
+      "Μεταφοράς",
+      "Ζεύξης",
+      "Εφαρμογής",
+      "Συνόδου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Πώς ένας υπολογιστής συνδεδεμένος σε ένα δίκτυο Ethernet βρίσκει την Ethernet διεύθυνση προς την οποία θα προωθήσει ένα πλαίσιο;",
+    "choices": [
+      "Συμβουλεύεται τον πίνακα δρομολόγησης",
+      "Ρωτάει τον τοπικό εξυπηρετητή",
+      "Χρησιμοποιεί το πρωτόκολλο ARP",
+      "Από το ευρετήριο διευθύνσεων Ethernet του τοπικού δρομολογητή"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "32 χρήστες μοιράζονται μία ζεύξη 2,048 Mbps χρησιμοποιώντας TDM. Κάθε χρήστης στέλνει 8 bits σε πλήρη ρυθμό όταν έρχεται η σειρά του. Πόσο συχνά μεταδίδει ένας χρήστης;",
+    "choices": [
+      "κάθε 125 μs",
+      "κάθε 1/32 sec",
+      "κάθε 4 msec",
+      "κάθε 3,90625 μs"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Θεωρήστε έναν μεταγωγέα Ethernet με δύο υπολογιστές Α και Β συνδεδεμένους σε δύο από τις θύρες του. Ο μεταγωγέας έχει μόλις ξεκινήσει τη λειτουργία του. Ο Α στέλνει ένα πλαίσιο στον Β και έπειτα ο Β απαντάει στέλνοντας ένα πλαίσιο στον Α. Τι συμβαίνει μετά την επεξεργασία του δεύτερου πλαισίου (δηλαδή αυτού που απευθύνεται στον Α) από τον μεταγωγέα;",
+    "choices": [
+      "Από την επεξεργασία του δεύτερου πλαισίου, ο μεταγωγέας μαθαίνει τη θύρα του Α",
+      "Από την επεξεργασία του δεύτερου πλαισίου, ο μεταγωγέας δεν μαθαίνει τίποτα καινούριο",
+      "Ο μεταγωγέας εκπέμπει το δεύτερο πλαίσιο σε όλες τις θύρες του εκτός από αυτή από την οποία το έλαβε",
+      "Ο μεταγωγέας εκπέμπει το δεύτερο πλαίσιο μόνο στη θύρα του Α"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποια είναι η ισοδύναμη δυαδική μορφή της δικτυακής διεύθυνσης 193.32.216.9;",
+    "choices": [
+      "11000001 00101000 11011000 00001001",
+      "11000001 00100000 11011000 00001001",
+      "11010001 00100000 11011000 00001001",
+      "11000001 00100000 11011000 00001000"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποια από τις παρακάτω ακολουθίες πακέτων περιγράφει καλύτερα το πρώτο σύνολο μηνυμάτων που χρησιμοποιούνται όταν ο υπολογιστής Α θέλει να εγκαθιδρύσει μία TCP σύνδεση με τον υπολογιστή Β; (Υποθέστε ότι ο Β δεν συνδέεται ήδη με τον Α και ότι δεν υπάρχει απώλεια πακέτων);",
+    "choices": [
+      "(1) ο Α στέλνει στον Β ένα πακέτο SYN, (2) ο Β στέλνει στον Α ένα πακέτο SYN με ACK, (3) ο Α στέλνει στον Β ένα πακέτο SYN με ACK",
+      "(1) ο Α στέλνει στον Β ένα πακέτο SYN, (2) ο Β στέλνει στον Α ένα πακέτο SYN με ACK, (3) ο Β στέλνει στον Α ένα πακέτο SYN, (4) ο Α στέλνει στον Β ένα πακέτο SYN με ACK",
+      "(1) ο Α στέλνει στον Β ένα πακέτο SYN, (2) ο Β στέλνει στον Α ένα ACK, (3) ο Β στέλνει στον Α ένα πακέτο SYN, (4) ο Α στέλνει στον Β ένα ACK",
+      "(1) ο Α στέλνει στον Β ένα πακέτο SYN, (2) ο Β στέλνει στον Α ένα πακέτο SYN με ACK, (3) ο Α στέλνει στον Β ένα κανονικό πακέτο (δηλαδή δεν έχει θέσει το SYN flag) με ACK"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Το πρωτόκολλο IP:",
+    "choices": [
+      "Είναι υπεύθυνο για τη μετάδοση πακέτων από τον συντομότερο δρόμο",
+      "Βρίσκει τον συντομότερο δρόμο μεταξύ πηγής και προορισμού",
+      "Ελέγχει τη συμφόρηση στο δίκτυο",
+      "Ορίζει τη δομή της κεφαλίδας των πακέτων στο επίπεδο δικτύου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Επιλέξτε τη σωστή απάντηση:",
+    "choices": [
+      "Κάθε πακέτο IP πρέπει να ενθυλακώνει ένα πακέτο TCP",
+      "Ένα πακέτο TCP φέρει πληροφορίες στην κεφαλίδα TCP για να δείξει το επόμενο χαμηλότερο πρωτόκολλο",
+      "Ένα πακέτο IP φέρει πληροφορίες στην κεφαλίδα IP για να υποδείξει το επόμενο υψηλότερο πρωτόκολλο",
+      "Ένα πακέτο IP μεταφέρει πληροφορίες στην κεφαλίδα IP για να δείξει το επόμενο χαμηλότερο πρωτόκολλο"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Αυτή η ερώτηση αφορά στο πρωτόκολλο ICMP (Internet Control Message Protocol). Επιλέξτε τη σωστή απάντηση:",
+    "choices": [
+      "Η πλέον τυπική χρήση του ICMP είναι ο έλεγχος των λαθών",
+      "Τα ICMP μηνύματα συνήθως μεταφέρουν ένα τμήμα του πακέτου που προκάλεσε το σφάλμα",
+      "Το ICMP χρησιμοποιείται για τον τεμαχισμό των πακέτων",
+      "Μετά την πρόκληση ενός ICMP σφάλματος από ένα πακέτο σε έναν δρομολογητή, το πακέτο προωθείται προς τον προορισμό"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποια από τις συνιστώσες της καθυστέρησης ενός πακέτου εξαρτάται λιγότερο από το εύρος ζώνης των ζεύξεων και την ταχύτητα των δρομολογητών ενός δικτύου;",
+    "choices": [
+      "Η καθυστέρηση διάδοσης",
+      "Η καθυστέρηση μετάδοσης",
+      "Η καθυστέρηση επεξεργασίας",
+      "Η καθυστέρηση αναμονής"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Τρεις υπολογιστές, Λάζαρος, Φώτης και Πωλίνα, χρησιμοποιούν τον ίδιο τοπικό εξυπηρέτη DNS (local DNS server). Ο Λάζαρος ρωτάει για τον www.uwa.edu.au, ο Φώτης ρωτάει για τον www.uw.edu, και η Πωλίνα ρωτάει για τον www.nets.ee.uw.edu. Υποθέστε ότι ο τοπικός εξυπηρέτης αποθηκεύει προσωρινά (caches) τις απαντήσεις, ξεκινώντας με άδεια cache, και ότι κάθε επίπεδο της ιεραρχίας ονομάτων εξυπηρετείται από έναν διαφορετικό εξυπηρέτη DNS. Πόσα ερωτήματα (queries) DNS στέλνει ο τοπικός εξυπηρέτης DNS;",
+    "choices": [
+      "7",
+      "8",
+      "10",
+      "Εξαρτάται από τη σειρά των ερωτημάτων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ο αλγόριθμος του Dijkstra βρίσκει τα συντομότερα μονοπάτια προς όλους τους προορισμούς του δικτύου από έναν δεδομένο κόμβο-πηγή. Με ποια σειρά βρίσκονται τα συντομότερα μονοπάτια καθώς τρέχει ο αλγόριθμος;",
+    "choices": [
+      "Οι προορισμοί που είναι σε μικρότερη απόσταση από την πηγή βρίσκονται πρώτοι.",
+      "Οι προορισμοί που είναι σε μεγαλύτερη απόσταση από την πηγή βρίσκονται πρώτοι.",
+      "Οι προορισμοί που έχουν τα μονοπάτια ελάχιστου κόστους από όλα τα δυνατά ζεύγη πηγών και προορισμών βρίσκονται πρώτοι.",
+      "Οι προορισμοί που απέχουν τα λιγότερα «άλματα» από την πηγή βρίσκονται πρώτοι."
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Το επίπεδο μεταφοράς (transport layer) στην αρχιτεκτονική του Διαδικτύου:",
+    "choices": [
+      "Είναι υπεύθυνο για τη μεταφορά των datagrams από πηγή σε προορισμό",
+      "Παρέχει υπηρεσίες στο επίπεδο δικτύου (network layer)",
+      "Είναι υπεύθυνο για τη δρομολόγηση των πακέτων",
+      "Κάνει χρήση των υπηρεσιών του επιπέδου δικτύου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η τιμή στο πεδίο \"Receive Window\" στην κεφαλίδα ενός TCP segment:",
+    "choices": [
+      "χρησιμοποιείται στον έλεγχο ροής (flow control)",
+      "είναι ο αριθμός των bits που ο δέκτης είναι πρόθυμος να δεχτεί",
+      "καθορίζει τον αριθμό των μη επιβεβαιωμένων segments που μπορεί να στείλει ο πομπός",
+      "δεν υπάρχει τέτοιο πεδίο"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η μεταγωγή πακέτου στηρίζεται στην αρχή:",
+    "choices": [
+      "σταμάτησε και περίμενε",
+      "αποθήκευση και προώθηση",
+      "εγκαθίδρυση κυκλώματος και αποστολή",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πακέτο πληροφοριών που σχηματίζεται στο επίπεδο μεταφοράς της αρχιτεκτονικής του διαδικτύου ονομάζεται:",
+    "choices": [
+      "Τμήμα",
+      "Πλαίσιο",
+      "Πακέτο",
+      "Μήνυμα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πρωτόκολλο DHCP δίνει στον χρήστη-πελάτη:",
+    "choices": [
+      "Διεύθυνση TCP",
+      "Διεύθυνση MAC",
+      "Διεύθυνση IP",
+      "Διεύθυνση υποδικτύου"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Αν μεταφέροντας ένα αρχείο από άκρο σε άκρο, οι ρυθμοί μετάδοσης στη διαδρομή μεταξύ των δύο άκρων είναι 10Mbps, 20Mbps, 30Mbps, 40Mbps, ποια είναι η διεκπεραιωτική ικανότητα;",
+    "choices": [
+      "20Mbps",
+      "10Mbps",
+      "40Mbps",
+      "50Mbps"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πακέτο πληροφοριών που σχηματίζεται στο επίπεδο ζεύξης της αρχιτεκτονικής του διαδικτύου ονομάζεται:",
+    "choices": [
+      "Τμήμα",
+      "Πακέτο",
+      "Πλαίσιο",
+      "Μήνυμα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Το πρωτόκολλο UDP έχει τη δυνατότητα να υλοποιεί:",
+    "choices": [
+      "Έλεγχο συμφόρησης",
+      "Ανίχνευση λαθών",
+      "Έλεγχο ροής",
+      "Κανένα από τα παραπάνω"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποιο πρωτόκολλο του επιπέδου μεταφοράς είναι καταλληλότερο για την υποστήριξη αξιόπιστων δικτυακών εφαρμογών;",
+    "choices": [
+      "TCP",
+      "FTP",
+      "IP",
+      "UDP"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ο έλεγχος ροής χρησιμοποιείται για:",
+    "choices": [
+      "Αποφυγή απώλειας πακέτων στους δρομολογητές",
+      "Αποφυγή απώλειας πακέτων στον παραλήπτη",
+      "Αποφυγή απώλειας πακέτων στον αποστολέα",
+      "Εξισορρόπηση ρυθμού μετάδοσης μεταξύ των δρομολογητών"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Αυτή η ερώτηση σάς ζητά να εξερευνήσετε την απόδοση του HTTP/1.0 και του HTTP/1.1. Θεωρήστε ένα απλό πείραμα στο οποίο μία μόνο σύνδεση κάθε φορά χρησιμοποιείται για να φέρουμε πόρους από έναν μοναδικό εξυπηρέτη web χρησιμοποιώντας είτε HTTP/1.0 ή HTTP/1.1. Αγνοήστε τους χρόνους επεξεργασίας του εξυπηρέτη και τις επιπτώσεις της προσωρινής αποθήκευσης (caching). Ας υποθέσουμε ότι η σελίδα Ε αποτελείται από 12 μικρούς πόρους, ενώ η σελίδα F αποτελείται από έναν πόρο που είναι 12 φορές μεγαλύτερος από έναν μικρό πόρο. Στο πείραμα Ι, η σελίδα Ε φέρνεται μία φορά με το HTTP/1.1. Στο πείραμα ΙΙ, η σελίδα F φέρνεται μία φορά με το HTTP/1.0. Ποιο πείραμα είναι ταχύτερο και γιατί; Υποθέστε ότι δεν υπάρχουν παράλληλες συνδέσεις. Επιλέξτε την καλύτερη εξήγηση.",
+    "choices": [
+      "Το πείραμα ΙΙ είναι ταχύτερο, επειδή δεν χρησιμοποιεί HTTP/1",
+      "Το πείραμα Ι είναι ταχύτερο, επειδή οι 12 πόροι φέρνονται αποτελεσματικά με διοχέτευση (pipelining) πάνω από μία μόνο σύνδεση",
+      "Τα δύο πειράματα παίρνουν περίπου την ίδια ώρα, επειδή η HTTP/1 διοχέτευση μέσω μίας μόνο σύνδεσης στο πείραμα Ι κάνει τις πολλαπλές μεταφορές ισοδύναμες με τη μία μεγαλύτερη μεταφορά στο πείραμα ΙΙ",
+      "Το πείραμα Ι είναι ταχύτερο, επειδή χρησιμοποιεί το HTTP/1"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποια από τις ακόλουθες προτάσεις ΔΕΝ χαρακτηρίζει με ακρίβεια την TCP κεφαλίδα;",
+    "choices": [
+      "Η TCP κεφαλίδα χρησιμοποιείται για αναγνώριση του socket στο οποίο πρέπει να παραδοθεί ένα πακέτο",
+      "Η TCP κεφαλίδα δεν περιέχει πληροφορίες σχετικά με το συνολικό μέγεθος του πακέτου",
+      "Η TCP κεφαλίδα μεταφέρει ένα άθροισμα ελέγχου (checksum) για ανίχνευση λαθών",
+      "Η TCP κεφαλίδα επιτρέπει στον δέκτη να σηματοδοτήσει πόσο χώρο ενταμιευτή έχει διαθέσιμο"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Αυτή η ερώτηση ελέγχει την κατανόησή σας του NAT (Network Address Translation). Επιλέξτε τη σωστή απάντηση.",
+    "choices": [
+      "Ένας δρομολογητής NAT ξαναγράφει την IP διεύθυνση πηγής και τη θύρα πηγής για πακέτα τα οποία διέρχονται από την εξωτερική πλευρά προς την εσωτερική πλευρά του ιδιωτικού δικτύου.",
+      "Ένας δρομολογητής NAT ξαναγράφει την IP διεύθυνση προορισμού και τη θύρα προορισμού για πακέτα τα οποία διέρχονται από την εσωτερική πλευρά προς την εξωτερική πλευρά του ιδιωτικού δικτύου.",
+      "Ένας δρομολογητής NAT ξαναγράφει την IP διεύθυνση προορισμού και τη θύρα προορισμού για πακέτα τα οποία διέρχονται από την εξωτερική πλευρά προς την εσωτερική πλευρά του ιδιωτικού δικτύου.",
+      "Διευθύνσεις IP που βρίσκονται στην εσωτερική πλευρά είναι δημόσιες διευθύνσεις IP στο Internet."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Αυτή η ερώτηση αφορά στη λειτουργία του αλγορίθμου δρομολόγησης διανύσματος απόστασης (distance vector). Ας υποθέσουμε ότι ένας δρομολογητής Α είναι συνδεδεμένος με έναν δρομολογητή Β μέσω ενός συνδέσμου κόστους 1, και συνδέεται με έναν δρομολογητή Γ με έναν σύνδεσμο κόστους 3. Ο Α δέχεται ένα διάνυσμα απόστασης (1, 0, 1, 5) από τον Β που περιέχει τα κόστη προς τους προορισμούς Α, Β, Γ και Δ, με αυτή τη σειρά. Αυτό σημαίνει ότι, για παράδειγμα, ο Β μπορεί να φτάσει τον Δ με κόστος 5. Ο Α δέχεται επίσης ένα διάνυσμα απόστασης από τον Γ που είναι (3, 1, 0, 1). Ποιο είναι το επόμενο διάνυσμα απόστασης που υπολογίζει ο Α και στέλνει στους γείτονές του;",
+    "choices": [
+      "(0, 1, 2, 4)",
+      "(2, 1, 2, 4)",
+      "(0, 1, 2, 1)",
+      "(0, 1, 3, 1)"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Στο slotted Aloha με Ν ενεργούς κόμβους η πιθανότητα εμφάνισης ενός άδειου slot (Α) και η πιθανότητα εμφάνισης ενός slot με μία μετάδοση (Β) είναι (Υποθέστε ότι η πιθανότητα μετάδοσης ενός frame από ένα κόμβο ισούται με π):",
+    "choices": [
+      "Α=(1-π)^Ν και Β=Νπ(1-π)^(Ν-1)",
+      "Α=1-π^Ν και Β=(Ν-1)π^(Ν-1)",
+      "Α=π^Ν και Β=Νπ^Ν",
+      "Α=(1-π)^Ν και Β=π(1-π)^(Ν-1)"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Στον κυκλικό έλεγχο πλεονασμού το πηλίκο στον αποστολέα:",
+    "choices": [
+      "Γίνεται ο διαιρέτης στον λήπτη",
+      "Είναι το υπόλοιπο στον λήπτη",
+      "Δεν λαμβάνεται υπόψη",
+      "Στέλνεται στον λήπτη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Αυτή η ερώτηση διερευνά το πώς διαφορετικά πρωτόκολλα του επιπέδου μεταφοράς ταιριάζουν στις ανάγκες των εφαρμογών στο πλαίσιο του DNS. Το πρωτόκολλο DNS λειτουργεί κανονικά πάνω από το UDP για την επίλυση ονομάτων, αλλά μπορεί να τρέξει είτε πάνω από το UDP είτε πάνω από το TCP, όπως απαιτείται. Σκεφτείτε τις συνέπειες από τη χρήση του UDP ή του TCP στη λειτουργία του DNS. Επιλέξτε την πιο σωστή απάντηση.",
+    "choices": [
+      "Η καθυστέρηση της επίλυσης ονομάτων είναι μικρότερη με το TCP",
+      "Με το TCP και αναδρομικά ερωτήματα (recursive queries), οι nameservers δεν χρειάζεται να διατηρούν την κατάσταση σχετικά με τα τρέχοντα ερωτήματα. Μπορούν να επεξεργαστούν πλήρως κάθε ερώτημα, όπως αυτό φτάνει.",
+      "Με το UDP και επαναληπτικά ερωτήματα (iterative queries), οι nameservers δεν χρειάζεται να διατηρούν την κατάσταση σχετικά με τα τρέχοντα ερωτήματα. Μπορούν να επεξεργαστούν πλήρως κάθε ερώτημα, όπως αυτό φτάνει.",
+      "Με το UDP, η εφαρμογή επίλυσης DNS δεν χρειάζεται να υλοποιηθεί αξιόπιστα."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Το πρωτόκολλο ελέγχου μετάδοσης TCP χρησιμοποιείται για:",
+    "choices": [
+      "Έλεγχο της συμφόρησης στο δίκτυο",
+      "Τη διόρθωση λαθών στον δέκτη",
+      "Έλεγχο σφαλμάτων στη μετάδοση πακέτων μεταξύ δρομολογητών",
+      "Τη μετάδοση πακέτων από τον συντομότερο δρόμο μεταξύ πηγής και προορισμού"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Θεωρήστε τον έλεγχο συμφόρησης στο TCP. Όταν ο timer λήγει στον πομπό, τότε το κατώφλι (threshold) τίθεται",
+    "choices": [
+      "στην προηγούμενη τιμή του",
+      "στο ¼ της προηγούμενης τιμής του",
+      "στο ½ της προηγούμενης τιμής του",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Θεωρήστε μια σύνδεση TCP με RTT (καθυστέρηση διαδρομής μετ' επιστροφής) 400ms και ενταμιευτή λήψης (receive buffer) μεγέθους 75 KB. Ας υποθέσουμε ότι η χωρητικότητα του δικτύου είναι 1 Mbps και ότι τα πακέτα έχουν μήκος 1250 bytes. Ποιο είναι το μικρότερο μέγεθος του παραθύρου ολίσθησης που μεγιστοποιεί τη χρήση (utilization) του δικτύου, ενώ δεν υπερβαίνει τον ενταμιευτή λήψης;",
+    "choices": [
+      "40 πακέτα",
+      "20 πακέτα",
+      "200 kilobits",
+      "75 KB"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ο τεμαχισμός ενός μεγάλου μηνύματος σε μικρότερα πακέτα:",
+    "choices": [
+      "Μειώνει την πολυπλοκότητα",
+      "Αυξάνει τον συνολικό αριθμό των bits που πρέπει να μεταδοθούν",
+      "Διευκολύνει τη δρομολόγηση του μηνύματος",
+      "Αυξάνει την καθυστέρηση αλλά μειώνει τον ρυθμό λαθών"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Επιλέξτε την πιο σωστή πρόταση σχετικά με την κατάσταση των κόμβων αμέσως μετά τα παραπάνω γεγονότα.",
+    "choices": [
+      "Ο Α θα περιμένει την επιβεβαίωση σωστής λήψης του πλαισίου που μετέδωσε από τον παραλήπτη πριν επιχειρήσει να στείλει το επόμενο πλαίσιό του.",
+      "Ο Β θα ξαναστείλει όταν αφουγκραστεί το κανάλι αδρανές.",
+      "Ο Β θα επιλέξει τυχαία έναν αριθμό Κ μεταξύ των αριθμών 0 και 1, και θα ξαναστείλει το πλαίσιό του μετά από Κ θυρίδες (1 θυρίδα = 512 bit times).",
+      "Ο Β θα επιλέξει τυχαία έναν αριθμό Κ μεταξύ των αριθμών 0, 1, 2 και 3, και θα ξαναστείλει μετά από Κ θυρίδες (1 θυρίδα = 512 bit times)."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Υποθέστε ότι ένας κλασικός Ethernet σταθμός προσπαθεί να στείλει ένα πλαίσιο και έχει δύο διαδοχικές συγκρούσεις πριν καταφέρει να μεταδώσει το πλαίσιο. Ποιοι οι αριθμοί των θυρίδων επί των οποίων τυχαιοποιείται κάθε επαναμετάδοση, από την πρώτη σύγκρουση μέχρι και την τελευταία επιτυχή μετάδοση;",
+    "choices": [
+      "1, 2, 3",
+      "2, 4, 8",
+      "1, 2, 4",
+      "0, 1, 2, 3"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η καθυστέρηση διάδοσης εξαρτάται από:",
+    "choices": [
+      "το μήκος του πακέτου (σε bits)",
+      "τον ρυθμό μετάδοσης",
+      "την απόσταση μεταξύ των 2 κόμβων",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Πρωτόκολλο χωρίς σύνδεση στο επίπεδο μεταφοράς στην αρχιτεκτονική του διαδικτύου:",
+    "choices": [
+      "FTP",
+      "TCP",
+      "UDP",
+      "κανένα από τα παραπάνω"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Σε μία 100Mbps Ethernet ζεύξη, αν το μήκος των πακέτων είναι 10Mbyte, η καθυστέρηση μετάδοσης είναι:",
+    "choices": [
+      "0,1 sec",
+      "0,8 sec",
+      "10 sec",
+      "80 sec"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω ΔΕΝ είναι επίπεδο του OSI;",
+    "choices": [
+      "Ελέγχου",
+      "Ζεύξης",
+      "Δικτύου",
+      "Μεταφοράς"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Ποιο πρωτόκολλο δίνει IP διεύθυνση σε έναν χρήστη-πελάτη που συνδέεται στο διαδίκτυο;",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "IP",
+      "TCP"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=TH103"
+  },
+  {
+    "question": "Στη μεταγωγή εικονικού κυκλώματος (virtual circuit switching):",
+    "choices": [
+      "Ένα πακέτο φέρει στην κεφαλίδα έναν σταθερό αριθμό κυκλώματος",
+      "Γίνεται χρήση μεταγωγής πακέτων",
+      "Δεν γίνεται χρήση στατιστικής πολυπλεξίας",
+      "Γίνεται χρήση εικονικής μεταγωγής πακέτων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Το πρωτόκολλο UDP:",
+    "choices": [
+      "Χρησιμοποιεί το πρωτόκολλο TCP για την αξιόπιστη μεταφορά πακέτων",
+      "Χρησιμοποιείται από εφαρμογές που απαιτούν αξιόπιστη μεταφορά πακέτων",
+      "Παρέχει μηχανισμούς ελέγχου της συμφόρησης",
+      "Δεν απαιτεί την εγκαθίδρυση σύνδεσης πριν από τη μεταφορά πακέτων"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Σε τι χρησιμεύει το πεδίο «Διάρκεια ζωής» (TTL-Time To Live) στην κεφαλίδα (header) ενός TCP segment;",
+    "choices": [
+      "χρησιμεύει στον έλεγχο συμφόρησης",
+      "χρησιμοποιείται για να εξασφαλίσει ότι τα πακέτα δεν κυκλοφορούν για πάντα μέσα στο δίκτυο",
+      "χρησιμεύει στον έλεγχο ροής",
+      "δεν υπάρχει τέτοιο πεδίο"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Αυτό το ερώτημα αφορά στον έλεγχο συμφόρησης του TCP. Επιλέξτε την καλύτερη εξήγηση:",
+    "choices": [
+      "Με βάση τη νεότερη έκδοση του TCP, το TCP Reno, το CongWin τίθεται στην τιμή 1 μετά από ένα συμβάν τριάδας διπλότυπων επιβεβαιώσεων (ACK)",
+      "Αν η σύνδεση είναι στη φάση αποφυγής συμφόρησης, το CongWin αυξάνεται κατά 1 μετά από κάθε λήψη επιβεβαίωσης (ACK)",
+      "Αν η σύνδεση είναι στη φάση αποφυγής συμφόρησης, ο συνολικός αριθμός των πακέτων που μεταδίδονται από την αρχή της μεταφοράς αυξάνεται κατά 1 για κάθε RTT",
+      "Εάν η σύνδεση είναι σε φάση αργής εκκίνησης, το παράθυρο συμφόρησης CongWin αυξάνεται κατά 1 μετά από κάθε λήψη επιβεβαίωσης (ACK)"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η στατιστική πολυπλεξία:",
+    "choices": [
+      "Μας δίνει στατιστικά στοιχεία σχετικά με την καθυστέρηση των πακέτων",
+      "Μειώνει την πολυπλοκότητα διαχείρισης πολλαπλών ροών πακέτων στο δίκτυο",
+      "Βελτιώνει τη χρήση των πόρων του δικτύου",
+      "Δεν χρησιμοποιείται σε δίκτυα μεταγωγής εικονικών κυκλωμάτων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Στη στοίβα πρωτοκόλλων του Διαδικτύου, ποιο είναι το υψηλότερο επίπεδο του οποίου τα πρωτόκολλα υλοποιούν οι δρομολογητές;",
+    "choices": [
+      "Μεταφοράς",
+      "Δικτύου",
+      "Ελέγχου συμφόρησης",
+      "Ζεύξης"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ένας δρομολογητής του Διαδικτύου προωθεί πακέτα με βάση:",
+    "choices": [
+      "Τη διεύθυνση Ethernet του προορισμού",
+      "Τη διεύθυνση δικτύου της πηγής και του προορισμού",
+      "Τη διεύθυνση δικτύου του προορισμού",
+      "Τον αριθμό του κυκλώματος στο οποίο τα πακέτα ανήκουν"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Γιατί το μοντέλο αναφοράς της δικτυακής αρχιτεκτονικής σε επίπεδα είναι σημαντικό;",
+    "choices": [
+      "Οδηγεί σε πιο αποτελεσματικά πρωτόκολλα",
+      "Εξασφαλίζει τη συμβατότητα συστημάτων διαφορετικών κατασκευαστών",
+      "Είναι ένα διεθνές πρότυπο που ακολουθείται από όλους τους ISP",
+      "Βοηθάει στην κατανόηση των λειτουργιών ενός δικτύου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Τα πρότυπα πρωτοκόλλων του Internet εμπεριέχονται σε RFC, συντομογραφία που προέρχεται από τα αρχικά των λέξεων:",
+    "choices": [
+      "Request For Comments",
+      "Ready For Commerce",
+      "Ready For Communication",
+      "Review Federal Commission"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω δεν ανήκει στην κεφαλίδα ενός πακέτου TCP;",
+    "choices": [
+      "Μήκος πλαισίου",
+      "Ακολουθιακός αριθμός του πρώτου byte δεδομένων που φέρει το πακέτο",
+      "Αριθμός επιβεβαίωσης",
+      "Δείκτης επειγόντων δεδομένων"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ας υποθέσουμε ότι μία ροή TCP είναι σε φάση αργής εκκίνησης και ότι k πακέτα αποστέλλονται μεταξύ χρόνου t και t + RTT. Πόσα πακέτα περιμένετε να αποσταλούν μεταξύ t + RTT και t + 2 RTT, αν υποτεθεί ότι η ροή παραμένει στη φάση αργής εκκίνησης;",
+    "choices": [
+      "k+1",
+      "2^k",
+      "k",
+      "2k"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Πακέτα με πρόθεμα προορισμού 57.6.96.0/21 στέλνονται μέσω της γραμμής 1:",
+    "choices": [
+      "Διαδρομή προς το 57.6.96.0/20 μέσω της γραμμής 1, διαδρομή προς το 57.6.112.0/21 μέσω της γραμμής 2 και διαδρομή προς το 57.6.120.0/21 μέσω της γραμμής 1",
+      "Διαδρομή προς το 57.6.96.0/20 μέσω της γραμμής 1, διαδρομή προς το 57.6.112.0/20 μέσω της γραμμής 2 και διαδρομή προς το 57.6.120.0/21 μέσω της γραμμής 1",
+      "Διαδρομή προς το 57.6.96.0/19 μέσω της γραμμής 1 και διαδρομή προς το 57.6.112.0/20 μέσω της γραμμής 2",
+      "Διαδρομή προς το 57.6.96.0/19 μέσω της γραμμής 1 και διαδρομή προς το 57.6.112.0/21 μέσω της γραμμής 2"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Η πληροφορία που μεταδίδει ένας κόμβος στους άμεσους γείτονές του στον αλγόριθμο δρομολόγησης distance vector αφορά στο:",
+    "choices": [
+      "Νέο ελάχιστο κόστος από τον κόμβο προς κάποιο προορισμό και την ταυτότητα του άμεσου γείτονα μέσω του οποίου αυτό επιτυγχάνεται",
+      "Ελάχιστο κόστος από τον κόμβο προς κάποιο προορισμό",
+      "Κόστος των συνδέσμων του κόμβου προς τους άμεσους γείτονές του",
+      "Νέο ελάχιστο κόστος από τον κόμβο προς κάποιο προορισμό"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Τι υλοποιούν τα εικονικά (νοητά) κυκλώματα (virtual circuits);",
+    "choices": [
+      "Ασυνδεσμικές (connectionless) επικοινωνιακές υπηρεσίες",
+      "Μετάδοση αυτοδύναμων πακέτων",
+      "Συνδέσεις σημείου-προς-σημείο",
+      "Μεταγωγή κυκλώματος"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Σε ένα δίκτυο τύπου 10Mbps CSMA/CD η καθυστέρηση διάδοσης μεταξύ δύο κόμβων Α και Β είναι 201 bit times. Υποθέστε ότι ο κόμβος Α αρχίζει τη μετάδοση ενός frame και πριν την ολοκληρώσει ο κόμβος Β ξεκινά τη μετάδοση ενός frame (σ.σ. υποθέστε frames με ελάχιστο μέγεθος πεδίου δεδομένων, ήτοι 72 bytes frame). Τι από τα παρακάτω θα συμβεί;",
+    "choices": [
+      "Ο κόμβος Α θα ολοκληρώσει τη μετάδοση του frame με σύγκρουση",
+      "Ο κόμβος Α θα αναστείλει τη μετάδοση των τελευταίων bits του frame",
+      "Ο κόμβος Α θα ολοκληρώσει τη μετάδοση του frame χωρίς σύγκρουση",
+      "Με βάση τα διαθέσιμα δεδομένα δεν είναι σαφές τι θα συμβεί"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ας υποθέσουμε ότι ένας router στον ISP Α λαμβάνει μια ανακοίνωση διαδρομής BGP που λέει \"To prefix P, path ISP A, ISP B, ISP C, at nexthop N\". Τι θα συμβεί; Επιλέξτε την καλύτερη απάντηση.",
+    "choices": [
+      "Η διαδρομή θα μειωθεί για να αποκόψει βρόχους.",
+      "Η διαδρομή θα διαδοθεί με τον ISP Α να έχει προταχθεί στην αρχή της διαδρομής.",
+      "Η ανακοίνωση διαδρομής θα πεταχτεί, διότι περιέχει βρόχο.",
+      "Η πολιτική του ISP Α θα χρησιμοποιηθεί για να αποφασιστεί εάν θα επιλεγεί αυτή η διαδρομή."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Θεωρήστε μία απλή εγκατάσταση με έναν μεταγωγέα να συνδέεται με τους υπολογιστές Α, Β και C. Ο μεταγωγέας ξεκινά από μία αρχική κατάσταση όπου δε γνωρίζει τίποτα. Ο Α στέλνει ένα πλαίσιο που απευθύνεται στον Β, μετά ο Β στέλνει ένα πλαίσιο στον C, μετά ο A στέλνει στον C. Ποια από τις παρακάτω προτάσεις είναι σωστή;",
+    "choices": [
+      "Ο μεταγωγέας κάνει δύο ευρυεκπομπές (broadcasts).",
+      "Ο μεταγωγέας μαθαίνει τη θέση του C.",
+      "Ο μεταγωγέας μαθαίνει τη θέση των A, B και C.",
+      "Ο μεταγωγέας ευρυεκπέμπει δύο πλαίσια που απευθύνονται στον C."
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Ο αριθμός των επαναλήψεων που απαιτείται για τον τερματισμό του αλγόριθμου δρομολόγησης του Dijkstra:",
+    "choices": [
+      "Δεν μπορεί να υπολογιστεί εκ των προτέρων",
+      "Εξαρτάται από τα κόστη των συνδέσμων",
+      "Ισούται με τον αριθμό των συνδέσμων του δικτύου",
+      "Ισούται με τον αριθμό των κόμβων του δικτύου"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  },
+  {
+    "question": "Πότε η μεταγωγή πακέτου (packet switching) είναι προτιμητέα της μεταγωγής κυκλώματος (circuit switching);",
+    "choices": [
+      "Όταν η καθυστέρηση πρέπει να είναι μικρή",
+      "Όταν απαιτείται μικρός ρυθμός σφαλμάτων στη μετάδοση",
+      "Όταν η κίνηση είναι σποραδική",
+      "Όταν ο ρυθμός μετάδοσης είναι μεγάλος"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Networks & Security",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=DI19"
+  }
+]

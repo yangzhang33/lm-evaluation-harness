@@ -1,0 +1,15 @@
+[
+  {
+    "question": "Ποια από τις παρακάτω προτάσεις είναι ΛΑΘΟΣ;",
+    "choices": [
+      "Η μυελίνη είναι ένας υδρογονάνθρακας",
+      "Η μυελίνη έχει το χαρακτηριστικό της ηλεκτρικής μόνωσης",
+      "Η μυελίνη επιτρέπει την αύξηση της ταχύτητας αγωγής"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  }
+]

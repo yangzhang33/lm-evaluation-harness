@@ -1,0 +1,7 @@
+dataset_name: Civil_Engineering_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Civil_Engineering with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_stem_tasks
+task: greekmmlu_split_Civil_Engineering_4choice
+task_alias: Civil_Engineering (4choice)

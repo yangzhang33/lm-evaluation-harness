@@ -1,0 +1,548 @@
+[
+  {
+    "question": "Τι είναι οι ομογενείς (homogeneous) πίνακες μετασχηματισμού;",
+    "choices": [
+      "Πίνακες 4 x 4 που υποστηρίζουν όλα τα είδη μετασχηματισμών",
+      "Πίνακες 3 x 3 που πολλαπλασιάζονται με τα διανύσματα κορυφών για να τα μετασχηματίσουν",
+      "Πίνακες 3 x 3 οι οποίοι αναπαριστούν περιστροφή και αλλαγή κλίμακας"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η ανάκλαση διάχυσης υπολογίζεται βάσει:",
+    "choices": [
+      "Της γωνίας μεταξύ της διεύθυνσης του φωτός και του κάθετου διανύσματος επιφάνειας",
+      "Της γωνίας μεταξύ της διεύθυνσης του φωτός και της διεύθυνσης παρατήρησης",
+      "Της γωνίας μεταξύ της διεύθυνσης παρατήρησης και του κάθετου διανύσματος της επιφάνειας"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Μπορεί ένα πολυγωνικό πλέγμα να περιλαμβάνει καμπύλες επιφάνειες;",
+    "choices": [
+      "Ναι, στις επιφάνειες που επιθυμούμε μπορούμε να δηλώσουμε παραμέτρους καμπυλότητας",
+      "Όχι, όλες οι επιφάνειες είναι επίπεδες",
+      "Όχι, αλλά μπορούμε με τη χρήση ειδικής φωτοσκίασης να δώσουμε οπτικά την αίσθηση καμπυλότητας"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι είναι η ομαλή φωτοσκίαση (smooth shading);",
+    "choices": [
+      "Εξομαλύνονται οι χρωματικές διαφοροποιήσεις στη φωτοσκίαση",
+      "Εξομαλύνονται οι 'τραχείες' επιφάνειες του αντικειμένου ώστε να αποφεύγονται οι απότομες χρωματικές εναλλαγές",
+      "Ορίζεται διαφορετικό κανονικό διάνυσμα σε κάθε κορυφή του πολυγώνου και η φωτοσκίαση δημιουργεί την αίσθηση καμπυλότητας"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι είναι η σφαιρική γραμμική παρεμβολή;",
+    "choices": [
+      "Μία τεχνική παρεμβολής για τον ορισμό καμπύλης κίνησης αντικειμένων",
+      "Μία τεχνική ομαλής περιστροφής μεταξύ δύο quaternions που διασφαλίζει σταθερή ταχύτητα",
+      "Μία επέκταση της γραμμικής παρεμβολής για σφαιρική κίνηση συμπαγών αντικειμένων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι είναι η σφαιρική γραμμική παρεμβολή;",
+    "choices": [
+      "Μία τεχνική παρεμβολής για τον ορισμό καμπύλης κίνησης αντικειμένων",
+      "Μία τεχνική ομαλής περιστροφής μεταξύ δύο quaternions που διασφαλίζει σταθερή ταχύτητα",
+      "Μία επέκταση της γραμμικής παρεμβολής για σφαιρική κίνηση συμπαγών αντικειμένων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι βασικό πλεονέκτημα χρήσης Εικονικών Κόσμων για προβολή και εξερεύνηση περιεχομένου;",
+    "choices": [
+      "Χρήση ενσαρκώσεων",
+      "Πρόσθετες πληροφορίες/αφηγήσεις",
+      "Εξερεύνηση αφηρημένων/υποθετικών δομών"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι βασικό πλεονέκτημα χρήσης Εικονικών Κόσμων για προβολή και εξερεύνηση περιεχομένου;",
+    "choices": [
+      "Χρήση ενσαρκώσεων",
+      "Πρόσθετες πληροφορίες/αφηγήσεις",
+      "Διαδραστικότητα"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι ένα βασικό πλεονέκτημα της κίνησης με καρέ κλειδιά (keyframing) έναντι των εναλλακτικών τεχνικών;",
+    "choices": [
+      "Είναι πιο φυσική",
+      "Ο σχεδιαστής έχει μεγαλύτερο έλεγχο στο αποτέλεσμα",
+      "Η διαδικασία ορισμού της κίνησης είναι εύκολη και γρήγορη."
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η ανάκλαση διάχυσης υπολογίζεται βάσει:",
+    "choices": [
+      "Της γωνίας μεταξύ της διεύθυνσης του φωτός και του κάθετου διανύσματος επιφάνειας",
+      "Της γωνίας μεταξύ της διεύθυνσης του φωτός και της διεύθυνσης παρατήρησης",
+      "Της γωνίας μεταξύ της διεύθυνσης παρατήρησης και του κάθετου διανύσματος της επιφάνειας"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι πλεονέκτημα της μαγνητικής σύλληψης κίνησης έναντι της οπτικής;",
+    "choices": [
+      "Χαμηλότερο κόστος",
+      "Μεγαλύτερη ελευθερία κινήσεων",
+      "Αποτελέσματα διαθέσιμα σε πραγματικό χρόνο"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τα προσανατολισμένα (oriented) bounding boxes:",
+    "choices": [
+      "Η αναγνώριση σύγκρουσης μεταξύ δύο oriented BBs γίνεται με απλούς ελέγχους",
+      "Υπολογίζονται μία μόνο φορά κατά τη δημιουργία του αντικειμένου",
+      "Είναι προτιμότερα σε στατικά αντικείμενα και μεγάλες περιοχές του περιβάλλοντος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι από τα παρακάτω ισχύει για τη χρονοσειρά του διαγράμματος;",
+    "choices": [
+      "Η χρονοσειρά έχει τάση (αρνητική)",
+      "Η χρονοσειρά έχει περιοδικότητα",
+      "Η χρονοσειρά έχει μεταβαλλόμενη διακύμανση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Η αξιολόγηση με πλατφόρμα δοκιμών (Bowman & Hodges):",
+    "choices": [
+      "είναι μία μεθοδολογία σχεδίασης και αξιολόγησης ολοκληρωμένων εφαρμογών εικονικής πραγματικότητας",
+      "παράγει γενικευμένα και επαναχρησιμοποιήσιμα συμπεράσματα",
+      "συμπεριλαμβάνει αξιολόγηση από ειδικούς βάσει σχεδιαστικών κατευθύνσεων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η δοκιμασία Dickey-Fuller μπορεί να χρησιμοποιηθεί για να βρούμε αν μία χρονοσειρά:",
+    "choices": [
+      "Είναι στάσιμη.",
+      "Είναι τάσης στάσιμη (δηλαδή είναι στάσιμη ύστερα από την αφαίρεση μίας τάσης).",
+      "Όλα τα παραπάνω."
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Τι είναι οι ομογενείς (homogeneous) πίνακες μετασχηματισμού;",
+    "choices": [
+      "Πίνακες 4 x 4 που υποστηρίζουν όλα τα είδη μετασχηματισμών",
+      "Πίνακες 3 x 3 που πολλαπλασιάζονται με τα διανύσματα κορυφών για να τα μετασχηματίσουν",
+      "Πίνακες 3 x 3 οι οποίοι αναπαριστούν περιστροφή και αλλαγή κλίμακας"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι είναι η ομαλή φωτοσκίαση (smooth shading);",
+    "choices": [
+      "Εξομαλύνονται οι χρωματικές διαφοροποιήσεις στη φωτοσκίαση",
+      "Εξομαλύνονται οι «τραχιές» επιφάνειες του αντικειμένου ώστε να αποφεύγονται οι απότομες χρωματικές εναλλαγές",
+      "Ορίζεται διαφορετικό κανονικό διάνυσμα σε κάθε κορυφή του πολυγώνου και η φωτοσκίαση δημιουργεί την αίσθηση καμπυλότητας"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η αξιολόγηση με πλατφόρμα δοκιμών (Bowman & Hodges):",
+    "choices": [
+      "είναι μία μεθοδολογία σχεδίασης και αξιολόγησης ολοκληρωμένων εφαρμογών εικονικής πραγματικότητας",
+      "δίνει έμφαση σε βασικές τεχνικές διάδρασης, όχι σε περίπλοκες διεργασίες",
+      "συμπεριλαμβάνει αξιολόγηση από ειδικούς βάσει σχεδιαστικών κατευθύνσεων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι το κοινό στοιχείο μεταξύ των αρχικών παιχνιδιών πολλαπλών χρηστών (MUDs) και των σημερινών εικονικών κόσμων;",
+    "choices": [
+      "Η πολυχρηστικότητα",
+      "Τα τρισδιάστατα γραφικά",
+      "Η αλλαγή της εμφάνισης του avatar"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι το κοινό στοιχείο μεταξύ των αρχικών παιχνιδιών πολλαπλών χρηστών (MUDs) και των σημερινών εικονικών κόσμων;",
+    "choices": [
+      "τα τρισδιάστατα γραφικά",
+      "η αλλαγή της εμφάνισης του άβαταρ",
+      "η διάρκεια (persistence)"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι το κοινό στοιχείο μεταξύ των αρχικών παιχνιδιών πολλαπλών χρηστών (MUDs) και των σημερινών εικονικών κόσμων;",
+    "choices": [
+      "τα τρισδιάστατα γραφικά",
+      "η αλλαγή της εμφάνισης του άβαταρ",
+      "η επικοινωνία μεταξύ χρηστών"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Μπορεί ένα πολυγωνικό πλέγμα να περιλαμβάνει καμπύλες επιφάνειες;",
+    "choices": [
+      "Ναι, στις επιφάνειες που επιθυμούμε μπορούμε να δηλώσουμε παραμέτρους καμπυλότητας",
+      "Όχι, όλες οι επιφάνειες είναι επίπεδες",
+      "Όχι, αλλά μπορούμε με τη χρήση ειδικής φωτοσκίασης να δώσουμε οπτικά την αίσθηση καμπυλότητας"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η εύρεση πορείας (wayfinding):",
+    "choices": [
+      "είναι νοητική διεργασία",
+      "αναφέρεται στον έλεγχο κίνησης της κάμερας",
+      "σε Desktop περιβάλλοντα γίνεται με τη χρήση του πληκτρολογίου ή του ποντικιού"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Σε έναν στατιστικό έλεγχο απορρίπτεται η μηδενική υπόθεση όταν η p-τιμή είναι ___________________ το επίπεδο σημαντικότητας.",
+    "choices": [
+      "μικρότερη από",
+      "μεγαλύτερη από",
+      "ίση με"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.duth.gr/modules/exercise/index.php?course=1021383"
+  },
+  {
+    "question": "Τι είναι το πλέγμα πλοήγησης;",
+    "choices": [
+      "ένας μηχανισμός που βοηθάει την πλοήγηση των χρηστών στο περιβάλλον",
+      "οποιοδήποτε κινούμενο αντικείμενο έχει τη δυνατότητα να πλοηγείται σε ένα περίπλοκο περιβάλλον",
+      "μία αναπαράσταση που βοηθάει στην εύρεση μονοπατιού"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η εύρεση πορείας (wayfinding):",
+    "choices": [
+      "αναφέρεται στον έλεγχο κίνησης της κάμερας",
+      "σε Desktop περιβάλλοντα γίνεται με τη χρήση του πληκτρολογίου ή του ποντικιού",
+      "αναφέρεται στην αντίληψη της θέσης και της πορείας που θα ακολουθηθεί"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τα εικονικά στοιχεία ελέγχου στη μετατόπιση αντικειμένων (εικονικοί άξονες):",
+    "choices": [
+      "Είναι μία φυσική και διαισθητική τεχνική",
+      "Έχουν τρεις βαθμούς ελευθερίας",
+      "Βοηθούν στην εκτίμηση αποστάσεων μεταξύ των αντικειμένων για καλύτερη τοποθέτηση"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η σχεδίαση στους ΕΚ σε σχέση με την παραδοσιακή:",
+    "choices": [
+      "είναι πιο εύκολη η πρόβλεψη της συμπεριφοράς των χρηστών",
+      "η ανάπτυξη περιεχομένου είναι πιο επίπονη και χρονοβόρα διαδικασία",
+      "υπάρχουν πλούσιες σχεδιαστικές οδηγίες και πρότυπα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η σχεδίαση στους ΕΚ σε σχέση με την παραδοσιακή:",
+    "choices": [
+      "είναι πιο εύκολη η πρόβλεψη της συμπεριφοράς των χρηστών",
+      "η διεπαφή είναι πολύ διαφορετική από αυτές που έχουν συνηθίσει οι χρήστες",
+      "υπάρχουν πλούσιες σχεδιαστικές οδηγίες και πρότυπα"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι το βασικό στοιχείο της μεθοδολογίας «Συνάντηση στη Μέση» (S. Bryson);",
+    "choices": [
+      "Συμβιβασμός μεταξύ αισθητικών και λειτουργικών στοιχείων",
+      "Έμφαση στη σχεδίαση της διεπαφής",
+      "Διασφάλιση από νωρίς στην επίτευξη των στόχων απόδοσης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι το βασικό στοιχείο της μεθοδολογίας «Συνάντηση στη Μέση» (S. Bryson);",
+    "choices": [
+      "Συμβιβασμός μεταξύ αισθητικών και λειτουργικών στοιχείων",
+      "Έμφαση στη σχεδίαση της διεπαφής",
+      "Συμβιβασμός μεταξύ υποστηριζόμενων λειτουργιών και απόδοσης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η αξιολόγηση με πλατφόρμα δοκιμών (Bowman & Hodges):",
+    "choices": [
+      "είναι μια μεθοδολογία αξιολόγησης τεχνικών αλληλεπίδρασης",
+      "είναι μια μεθοδολογία σχεδίασης και αξιολόγησης ολοκληρωμένων εφαρμογών εικονικής πραγματικότητας",
+      "συμπεριλαμβάνει αξιολόγηση από ειδικούς βάσει σχεδιαστικών κατευθύνσεων"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι ΔΕΝ περιλαμβάνει η περικοπή τμημάτων κατά τη διαδικασία απεικόνισης;",
+    "choices": [
+      "Την αφαίρεση αντικειμένων που βρίσκονται έξω από το στερεό παρατήρησης",
+      "Την αφαίρεση επιφανειών των οποίων η εξωτερική όψη δεν είναι προσανατολισμένη προς την κάμερα",
+      "Την απλοποίηση της γεωμετρίας σύνθετων αντικειμένων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο είναι ένα βασικό πλεονέκτημα της κίνησης με καρέ κλειδιά (keyframing) έναντι των εναλλακτικών τεχνικών;",
+    "choices": [
+      "Είναι πιο φυσική",
+      "Η διαδικασία ορισμού της κίνησης είναι εύκολη και γρήγορη",
+      "Ο σχεδιαστής μπορεί να επεξεργαστεί και να διορθώσει την κίνηση εκ των υστέρων"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι πλεονέκτημα της μαγνητικής σύλληψης κίνησης έναντι της οπτικής;",
+    "choices": [
+      "Χαμηλότερο κόστος",
+      "Μεγαλύτερη ακρίβεια",
+      "Μεγαλύτερη ελευθερία κινήσεων"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι βασικό εργαλείο για την εύρεση πορείας σε εικονικούς κόσμους;",
+    "choices": [
+      "τα εικονικά χειριστήρια",
+      "τα ορόσημα",
+      "το HUD"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι βασικό εργαλείο για την εύρεση πορείας σε εικονικούς κόσμους;",
+    "choices": [
+      "τα ορόσημα",
+      "το HUD",
+      "τα ίχνη χρήστη"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τα προσανατολισμένα (oriented) bounding boxes:",
+    "choices": [
+      "Η αναγνώριση σύγκρουσης μεταξύ δύο oriented BBs γίνεται με απλούς ελέγχους",
+      "Εφαρμόζεται σε αυτά ο μετασχηματισμός του αντικειμένου στο οποίο αποδίδονται",
+      "Είναι προτιμότερα σε στατικά αντικείμενα και μεγάλες περιοχές του περιβάλλοντος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Ποιο από τα παρακάτω είναι βασικό εργαλείο για την εύρεση πορείας σε εικονικούς κόσμους;",
+    "choices": [
+      "τα ορόσημα",
+      "το HUD",
+      "οι χάρτες κάτοψης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τα εικονικά στοιχεία ελέγχου στη μετατόπιση αντικειμένων (εικονικοί άξονες):",
+    "choices": [
+      "Προσφέρουν μεγαλύτερη ακρίβεια στη μετακίνηση σε σχέση με τον άμεσο χειρισμό",
+      "Είναι μία φυσική και διαισθητική τεχνική",
+      "Βοηθούν στην εκτίμηση αποστάσεων μεταξύ των αντικειμένων για καλύτερη τοποθέτηση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Τι είναι το πλέγμα πλοήγησης;",
+    "choices": [
+      "μία κατάτμηση του χώρου σε σύνολο κυρτών πολυγώνων",
+      "ένας μηχανισμός που βοηθάει την πλοήγηση των χρηστών στο περιβάλλον",
+      "οποιοδήποτε κινούμενο αντικείμενο έχει τη δυνατότητα να πλοηγείται σε ένα περίπλοκο περιβάλλον"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  },
+  {
+    "question": "Η εύρεση πορείας (wayfinding):",
+    "choices": [
+      "αναφέρεται στον έλεγχο κίνησης της κάμερας",
+      "σε Desktop περιβάλλοντα γίνεται με τη χρήση του πληκτρολογίου ή του ποντικιού",
+      "περιλαμβάνει τη δημιουργία νοητικού μοντέλου του περιβάλλοντος"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Computer Science",
+    "level": "university",
+    "source": "https://eclass.aegean.gr/modules/exercise/index.php?course=511278"
+  }
+]

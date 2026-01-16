@@ -1,0 +1,41 @@
+[
+  {
+    "question": "Συγκρίνετε: 213.213 ____ 123.123",
+    "choices": [
+      "<",
+      ">",
+      "="
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Mathematics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Συγκρίνετε: 25.746 ____ 25.846",
+    "choices": [
+      ">",
+      "=",
+      "<"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Mathematics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  },
+  {
+    "question": "Συγκρίνετε: 15.348 ____ 15.348",
+    "choices": [
+      "<",
+      "=",
+      ">"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Mathematics",
+    "level": "primary_school",
+    "source": "https://www.taexeiola.gr/"
+  }
+]

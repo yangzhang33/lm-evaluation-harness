@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Στην Ελλάδα ο βιασμός εντός του γάμου θεωρείται κακούργημα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Μπορεί κάποιος να αρνηθεί να πληρώσει διοικητικό πρόστιμο αν έλαβε έγγραφη βεβαίωση προστίμου με ανεπαρκή αιτιολογία;",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Μπορεί κάποιος να αρνηθεί να πληρώσει διοικητικό πρόστιμο αν δεν γνώριζε τον παράνομο χαρακτήρα της πράξης του;",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα η απλή σωματική βλάβη που μπορεί να προκαλέσει ένας άνδρας στην έγκυο σύζυγό του κατά τη διάρκεια ενός τσακωμού, τιμωρείται με φυλάκιση.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Μπορεί κάποιος να αρνηθεί να πληρώσει διοικητικό πρόστιμο αν του επιβλήθηκε προφορικά από όργανο της δημόσιας τάξης (π.χ. δημοτική αστυνομία);",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα η ενδοοικογενειακή βία είναι ένα έγκλημα που διώκεται αυτεπάγγελτα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Στην Ελλάδα, αν η γυναίκα κατά τη διάρκεια ενός τσακωμού προσβάλει την αξιοπρέπεια του συζύγου της, μιλώντας του με ιδιαίτερα ταπεινωτικό λόγο ή έργο που ανάγεται στη γενετήσια ζωή του, μπορεί να τιμωρηθεί με φυλάκιση.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Law",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

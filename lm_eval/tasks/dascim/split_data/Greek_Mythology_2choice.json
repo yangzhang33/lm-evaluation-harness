@@ -1,0 +1,878 @@
+[
+  {
+    "question": "Ο πλοίαρχος της Αργοναυτικής Εκστρατείας ήταν ο Ηρακλής και το πλοίο λεγόταν Αργώ.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι θεές του Ολύμπου ήταν η Ήρα, η Αθηνά, η Αφροδίτη, η Δήμητρα, η Άρτεμις και η Εστία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Άτλαντας πήρε τα χρυσά μήλα από τον κήπο των Εσπερίδων στη θέση του Ηρακλή.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Απόλλωνας στήριζε τους Τρώες κατά τη διάρκεια του Τρωικού Πολέμου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι Τιτάνες, αφού έχασαν την Τιτανομαχία, ρίχτηκαν στα Τάρταρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Τρωικός Πόλεμος διήρκεσε μόνο για λίγους μήνες πριν η Τροία πέσει.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Κατά τη διάρκεια της Οδύσσειας, ο Οδυσσέας και οι σύντροφοί του συνάντησαν τον Πολύφημο, έναν Κύκλωπα, ο οποίος τους βοήθησε να φύγουν από το νησί του.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Οδυσσέας τύφλωσε τον Πολύφημο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Ιάσονας πήρε το Χρυσόμαλλο Δέρας με τη βοήθεια της Μήδειας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Τον λαβύρινθο του Μίνωα τον έφτιαξε ο Ίκαρος.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι Αθηναίοι ως φόρο στον Μίνωα έστελναν κάθε χρόνο πέντε νέες και πέντε νέους.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο πρώτος άθλος του Ηρακλή ήταν η Λερναία Ύδρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Αιγέας είδε στον ορίζοντα τα μαύρα πανιά του πλοίου του Θησέα και έπεσε στη θάλασσα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Πελίας πήρε χρησμό να φοβάται τον άνδρα με το ένα σανδάλι.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Ηρακλής νίκησε τις Αμαζόνες και πήρε τη ζώνη της βασίλισσάς τους Ιππολύτης ως λάφυρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Πάρης σημάδεψε τη δεξιά φτέρνα του Αχιλλέα και τον σκότωσε.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Οδυσσέας επέστρεψε στην Ιθάκη χωρίς να αντιμετωπίσει κανένα εμπόδιο μετά την Τροία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Προμηθέας έκλεψε τον κεραυνό του Δία και για αυτό τιμωρήθηκε.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Το κατόρθωμα της δρακοντοκτονίας αποτελεί μοτίβο για την απόδειξη αριστείας, που εμφανίζεται σε πολλούς μύθους ηρώων ακόμα και στη χριστιανική παράδοση",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τον λαβύρινθο του Μίνωα τον έφτιαξε ο Ίκαρος.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Αιγέας είδε στον ορίζοντα τα μαύρα πανιά του πλοίου του Θησέα και έπεσε στη θάλασσα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι Τιτάνες, αφού έχασαν την Τιτανομαχία, ρίχτηκαν στα Τάρταρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Πάρης σημάδεψε τη δεξιά φτέρνα του Αχιλλέα και τον σκότωσε.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Οδυσσέας επέστρεψε στην Ιθάκη χωρίς να αντιμετωπίσει κανένα εμπόδιο μετά την Τροία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Θεόκριτος παρουσιάζει στο 11ο ειδύλλιό του τον Κύκλωπα πρόθυμο να αλλάξει, προβάλλοντας έτσι τη μεταμόρφωση που υφίσταται ο μύθος του στη νέου τύπου ποίηση.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Τρωικός Πόλεμος διήρκεσε μόνο για λίγους μήνες πριν η Τροία πέσει.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Μόνο Έλληνες επισκέπτονταν το μαντείο για να ζητήσουν χρησμό.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο δεύτερος ομηρικός ύμνος στον Απόλλωνα, ερμηνευμένος με την τελετουργική θεωρία της μύησης, αφηγείται την πορεία καταξίωσης του Απόλλωνα ως Ολύμπιου θεού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Καθώς ο Απόλλωνας αναζητά τοποθεσία για να ιδρύσει μαντείο, η Τελφούσα τον υποδέχεται και συμφωνεί να ιδρυθεί εκεί ο ναός.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο πρώτος άθλος του Ηρακλή ήταν η Λερναία Ύδρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Άτλαντας πήρε τα χρυσά μήλα από τον κήπο των Εσπερίδων στη θέση του Ηρακλή.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η εξωτερική διακόσμηση των αρχαίων ελληνικών ναών και η τοποθέτηση του βωμού εκτός του ναού υποδεικνύουν τον διαφανή και δημόσιο χαρακτήρα της λατρείας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αναφορά του Βιργιλίου στη «regina» παραπέμπει αναμφίβολα στην Αριάδνη. (Λ) Η αναφορά στην ετήσια θυσία επτά νέων παιδιών που στέλνονταν από την Αθήνα στην Κρήτη είναι προγραμματική για την απώλεια νέων ανδρών στις μάχες του Αινεία στην Ιταλία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η υφαντική τέχνη συχνά χρησιμοποιείται στην ποίηση ως συμβολισμός του δόλου και της μηχανορραφίας αλλά και της ποιητικής τέχνης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Προμηθέας έκλεψε τον κεραυνό του Δία και για αυτό τιμωρήθηκε.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι Αθηναίοι ως φόρο στον Μίνωα έστελναν κάθε χρόνο πέντε νέες και πέντε νέους.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Η ποίηση της ελληνιστικής εποχής είναι ποίηση ευρυμάθειας που απευθύνεται σε μορφωμένο κοινό.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στα Αἴτια του ο Καλλίμαχος επιδιώκει να εξηγήσει τις απαρχές διαφόρων εθνικών παραδόσεων και θρησκευτικών εορτών, δημιουργώντας την αιτιολογική ποίηση με μια επιστημονική προσέγγιση.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στον μύθο της Αράχνης η Αθηνά τιμωρεί για πρώτη φορά μία θνητή για την αλαζονεία που έδειξε.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το επίτευγμα της δρακοντοκτονίας από τον ήρωα δηλώνει τον θρίαμβο των χθόνιων δυνάμεων",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι θεές του Ολύμπου ήταν η Ήρα, η Αθηνά, η Αφροδίτη, η Δήμητρα, η Άρτεμις και η Εστία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Πελίας πήρε χρησμό να φοβάται τον άνδρα με το ένα σανδάλι.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Απόλλωνας στήριζε τους Τρώες κατά τη διάρκεια του Τρωικού Πολέμου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Οδυσσέας τύφλωσε τον Πολύφημο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Εφόσον το σημείο αφετηρίας ενός μύθου και οι αλληλεπιδράσεις του με την υπόλοιπη λογοτεχνική παράδοση, προγενέστερη και σύγχρονή του, είναι αδύνατον να διευκρινιστούν με απόλυτη βεβαιότητα, η μελέτη της μυθολογίας ενός αρχαίου πολιτισμού δεν έχει νόημα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με το λεξικό της Αρχαίας Ελληνικής Γλώσσας των Liddell-Scott ο αρχαιοελληνικός όρος 'μύθος' είναι μονοσήμαντος.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Για την επιβίωση ενός μύθου είναι καίρια η μεταφορά ιδεών, προτύπων και αναμνήσεων του παρελθόντος, σημαντικών για τον πολιτισμό που τον διασώζει και τον κληροδοτεί.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι αρχαίοι Έλληνες δεν αντιμετώπιζαν τους μύθους ως αντικείμενο ερμηνείας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι ελληνιστικοί ποιητές επιλέγουν να πραγματευτούν νέα θέματα ή θέματα της προηγούμενης παράδοσης από νέα οπτική γωνία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σημασία, σύμφωνα με τον Πρόλογο των Αἰτίων, έχει η έκταση του ποιήματος και όχι η λεπτότητα και η ποιότητά του.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στο 6ο βιβλίο της Αινειάδας του Βιργιλίου ο Αινείας βρίσκεται στην Κρήτη και η έκφραση απεικονίζει αναπαράσταση πάνω στον λαβύρινθο που έκτισε εκεί ο Δαίδαλος.",
+    "choices": [
+      "Σωστό",
+      "1"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στην ποίηση του Οβιδίου ο έρωτας είναι ένα συναίσθημα που προκύπτει αβίαστα και δεν μπορεί να είναι ποιητικό κατασκεύασμα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο ανταγωνισμός μεταξύ καλλιτεχνών εμφανίζεται συχνά στις Μεταμορφώσεις, καθώς ο Οβίδιος γνωρίζει ότι γράφει ένα πρωτοποριακό ποίημα και θα επικριθεί.",
+    "choices": [
+      "1",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Πριν την ίδρυση του μαντείου των Δελφών δεν υπήρχε ιερός χώρος στην περιοχή.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι Μεταμορφώσεις του Οβιδίου ανήκουν ειδολογικά στην επική ποίηση επειδή πραγματεύονται κλέα ανδρών και πολεμικά κατορθώματα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Διασταύρωση των λογοτεχνικών ειδών (Kreuzung der Gattungen) σημαίνει ότι σε πολλούς μύθους ο Οβίδιος συνδυάζει στοιχεία της επικής, λυρικής και τραγικής ποίησης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το ταλέντο της Αράχνης την κάνει αλαζονική και αγνώμονα απέναντι στην παλιά γενιά.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το υφαντό της Αράχνης, που απεικονίζει πολλές ιστορίες με την ίδια θεματική χωρίς αρχή και τέλος, αποτελεί προβολή της συνεχώς ανανεούμενης ποίησης και των ίδιων των Μεταμορφώσεων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο πλοίαρχος της Αργοναυτικής Εκστρατείας ήταν ο Ηρακλής και το πλοίο λεγόταν Αργώ.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Οι τροποποιήσεις ενός μύθου ανά τους αιώνες και οι ποικίλες εκδοχές οφείλονται στην προσαρμογή του στο ακροατήριο που τον προσλαμβάνει, τα πολιτικά ενδιαφέροντα που ενδεχομένως εξυπηρετεί και την οπτική γωνία, από την οποία ερμηνεύεται.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο χριστιανός διανοητής Fulgentius χρησιμοποιεί την αλληγορική ερμηνεία των μύθων για να επιβεβαιώσει τα δόγματα του Χριστιανισμού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ιστορία της Ατλαντίδας του Πλάτωνα είναι μύθος.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Θεοδόσιος ήταν παγανιστής αυτοκράτορας, στα χρόνια του οποίου η λειτουργία του μαντείου αναβίωσε",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Σίβυλλα της Κύμης και η Κασσάνδρα απορρίπτουν τον Απόλλωνα αφού πάρουν ως δώρο την ικανότητα της μαντικής",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Απόλλωνας συνδυάζει αντιφατικές καταστάσεις στη θρησκευτική σκέψη των Ελλήνων, όπως τον πολιτισμό και τη βιαιότητα, την ιατρική και τον θάνατο των παιδιών και τις απότομες αλλαγές του γεωπεριβάλλοντος",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Απόλλωνας και όσα εκπροσωπεί ως θεότητα εμφανίζονται και σε άλλους πολιτισμούς.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αντιμετώπιση του μύθου ως σεβαστής παράδοσης κατά την αρχαϊκή περίοδο σημαίνει την προσπάθεια των ανθρώπων να εκλογικεύσουν τις αφηγήσεις που κληρονομούσαν από το παρελθόν.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Ιάσονας πήρε το Χρυσόμαλλο Δέρας με τη βοήθεια της Μήδειας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Κατά τη διάρκεια της Οδύσσειας, ο Οδυσσέας και οι σύντροφοί του συνάντησαν τον Πολύφημο, έναν Κύκλωπα, ο οποίος τους βοήθησε να φύγουν από το νησί του.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Ηρακλής νίκησε τις Αμαζόνες και πήρε τη ζώνη της βασίλισσάς τους Ιππολύτης ως λάφυρα.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "primary_school",
+    "source": "https://demo.openeclass.org/modules/exercise/index.php?course=DEMO-A2548"
+  },
+  {
+    "question": "Ο Θεαγένης από το Ρήγιο αμφισβήτησε τον ανθρωπομορφισμό των θεών και τον πολυθεϊσμό.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Πτολεμαίος στην Αλεξάνδρεια και οι διάδοχοί του δεν ενδιαφέρθηκαν για τη συγκέντρωση λογοτεχνικών κειμένων και τον σχολιασμό τους.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Πριν τη σύνθεση των ομηρικών επών δεν υπήρχαν μύθοι στην προφορική ή γραπτή παράδοση.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Ρίχνουμε 9 νομίσματα. Η πιθανότητα να είναι όλα ίδια είναι:",
+    "choices": [
+      "2⁻⁹",
+      "1·2⁻⁸",
+      "2⁻⁸",
+      "2⁻⁷"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Ρίχνουμε ένα νόμισμα το οποίο φέρνει κορώνα με πιθανότητα 1/3 και έστω Χ η μεταβλητή που μετράει τις κορώνες (δηλαδή Χ=1 αν έρθει κορώνα και Χ=0 αν έρθουν γράμματα). Η διακύμανση της Χ είναι ίση με:",
+    "choices": [
+      "2/9",
+      "4/9",
+      "2/3",
+      "1/4"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Ρίχνουμε ένα τίμιο ζάρι 2 φορές και έστω Χ η διαφορά του πρώτου αποτελέσματος από το δεύτερο αποτέλεσμα της ρίψης. Η μέση τιμή της Χ είναι ίση με:",
+    "choices": [
+      "0",
+      "7/2",
+      "7",
+      "7/2"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Για τον παρακάτω πίνακα δειγμάτων του ζεύγους Χ, Υ:",
+    "choices": [
+      "0,993",
+      "0,113",
+      "0,113",
+      "0,993"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Σε μία πόλη το βάρος των κατοίκων ακολουθεί κατά προσέγγιση την κανονική κατανομή με μέση τιμή μ=78 kg και τυπική απόκλιση σ=10 kg. Επιλέγουμε έναν κάτοικο στην τύχη. Η πιθανότητα το βάρος του να είναι μεγαλύτερο από 80,5 kg είναι ίση με:",
+    "choices": [
+      "0,9013",
+      "0,4013",
+      "0,8026",
+      "0,5"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Σε μία παραλία η μάζα των χαλικιών ακολουθεί κατά προσέγγιση την κανονική κατανομή με μέση τιμή μ=32gr και τυπική απόκλιση σ=2gr. Επιλέγουμε ένα χαλίκι στην τύχη. Η πιθανότητα να έχει μάζα μεγαλύτερη από 33,5gr είναι ίση με:",
+    "choices": [
+      "0,7266",
+      "0,2734",
+      "0,1133",
+      "0,2266"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Ρίχνουμε ένα τίμιο νόμισμα 3 φορές. Η πιθανότητα να προκύψουν περισσότερες κορώνες απ' ό,τι γράμματα είναι ίση με",
+    "choices": [
+      "3/4",
+      "1/3",
+      "2/8",
+      "1/2"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Έστω Α, Β είναι ανεξάρτητα ενδεχόμενα με πιθανότητες P(A)=0,4 και P(B)=0,6. Η πιθανότητα της ένωσής τους είναι ίση με:",
+    "choices": [
+      "0,55",
+      "0,48",
+      "0,76",
+      "1"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  },
+  {
+    "question": "Η πιθανότητα ένα κουτάβι να γεννηθεί Τετάρτη και στο χρονικό διάστημα από 13:00 έως 14:00 είναι ίση με:",
+    "choices": [
+      "0,0059",
+      "0,0011",
+      "0,0039",
+      "0,0041"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Statistics",
+    "level": "university",
+    "source": "https://eclass.hmu.gr/modules/exercise/?course=NDS177"
+  }
+]

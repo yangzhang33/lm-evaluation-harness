@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Οι μικροοργανισμοί αναπτύσσονται κυρίως στην υδατική φάση των γαλακτωμάτων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Το μόριο μιας επιφανειοδραστικής ουσίας περιέχει πάντα αρνητικά και θετικά φορτισμένες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Όταν διασπείρεται παραφινέλαιο με τη μορφή μικρών σταγονιδίων μέσα σε νερό, το σύστημα που προκύπτει είναι σταθερό γιατί κατά τη διασπορά αυξάνεται η ελεύθερη επιφανειακή ενέργεια.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Η ενεργή συγκέντρωση ενός συντηρητικού που είναι οργανικό οξύ είναι η συγκέντρωση του συντηρητικού που βρίσκεται με τη μορφή ιόντων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Οι μη ιοντικές επιφανειοδραστικές ουσίες φέρουν μόνον λιπόφιλες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Το μόριο ενός γαλακτωματοποιητή που είναι επιφανειοδραστική ουσία περιέχει μόνον υδρόφιλες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Οι ιονικές επιφανειοδραστικές ουσίες χαρακτηρίζονται δευτερογενείς γαλακτωματοποιητές.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Η εβουλλιοσκοπική σταθερά ενός διαλύτη εξαρτάται από την ενθαλπία εξατμίσεως. Η αναλογία είναι:",
+    "choices": [
+      "αντίστροφη",
+      "ευθεία"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ποιο διάλυμα εμφανίζει μεγαλύτερη μεταβολή σημείου ζέσεως για ίδια συγκέντρωση διαλυμένης ουσίας;",
+    "choices": [
+      "το διάλυμα του βενζολίου",
+      "το διάλυμα του νερού"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Ο συντελεστής κατανομής",
+    "choices": [
+      "εξαρτάται από τη θερμοκρασία",
+      "δεν εξαρτάται από τη θερμοκρασία"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Η σταθερά ισορροπίας:",
+    "choices": [
+      "έχει μονάδες συγκεντρώσεως σε κατάλληλη δύναμη",
+      "είναι αδιάστατη ποσότητα"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Το μόριο ενός γαλακτωματοποιητή που είναι επιφανειακοενεργή ουσία περιέχει μόνον υδρόφιλες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Όταν διασπείρεται παραφινέλαιο με τη μορφή μικρών σταγονιδίων μέσα σε νερό, το σύστημα που προκύπτει είναι σταθερό γιατί κατά τη διασπορά αυξάνεται η ελεύθερη επιφανειακή ενέργεια.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Οι μη ιονικές επιφανειοδραστικές ουσίες φέρουν μόνον λιπόφιλες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Οι ιονικές επιφανειοδραστικές ουσίες χαρακτηρίζονται δευτερογενείς γαλακτωματοποιητές.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Η ενεργή συγκέντρωση ενός συντηρητικού που είναι οργανικό οξύ είναι η συγκέντρωση του συντηρητικού που βρίσκεται με τη μορφή ιόντων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Η μέτρηση του δείκτη διάθλασης εξαρτάται από το μήκος της οπτικής διαδρομής του φωτός μέσα από το δείγμα;",
+    "choices": [
+      "ναί",
+      "όχι"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  },
+  {
+    "question": "Το μόριο μιας επιφανειοδραστικής ουσίας περιέχει πάντα αρνητικά και θετικά φορτισμένες ομάδες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Οι μικροοργανισμοί αναπτύσσονται κυρίως στην υδατική φάση των γαλακτωμάτων.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://ocp.teiath.gr/modules/exercise/?course=AISTH_UNDE100"
+  },
+  {
+    "question": "Ο δείκτης διαθλάσεως είναι εντατική ή εκτατική ιδιότητα;",
+    "choices": [
+      "εντατική",
+      "εκτατική"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Chemistry",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=CHEM107"
+  }
+]

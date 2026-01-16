@@ -1,0 +1,142 @@
+[
+  {
+    "question": "Ένα από τα πιο γνωστά λογοτεχνικά έργα της συγγραφέως Άλκης Ζέη είναι _____________.",
+    "choices": [
+      "Οι Έμποροι των Εθνών",
+      "Το νούμερο 31328",
+      "Η Αρραβωνιαστικιά του Αχιλλέα",
+      "Οι Πανθέοι"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο συγγραφέας Αλέξανδρος Παπαδιαμάντης έγραψε το λογοτεχνικό έργο ____________.",
+    "choices": [
+      "Οι Έμποροι των Εθνών",
+      "Το νούμερο 31328",
+      "Η Αρραβωνιαστικιά του Αχιλλέα",
+      "Οι Πανθέοι"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το έργο \"Η Φόνισσα\" έχει γραφτεί από τον/την συγγραφέα;",
+    "choices": [
+      "Πηνελόπη Δέλτα",
+      "Μαρία Ιορδανίδου",
+      "Νίκος Καζαντζάκης",
+      "Αλέξανδρος Παπαδιαμάντης"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ο συγγραφέας Τάσος Αθανασιάδης έγραψε το μυθιστόρημα _____________.",
+    "choices": [
+      "Οι Έμποροι των Εθνών",
+      "Το νούμερο 31328",
+      "Η Αρραβωνιαστικιά του Αχιλλέα",
+      "Οι Πανθέοι"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιος από τους παρακάτω Έλληνες συγγραφείς ανήκει στον χώρο της παιδικής λογοτεχνίας;",
+    "choices": [
+      "Γιώργος Ιωάννου",
+      "Ισίδωρος Ζουργός",
+      "Αντώνης Σαμαράκης",
+      "Ευγένιος Τριβιζάς"
+    ],
+    "answer": 3,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Ποιοι Έλληνες ποιητές πήραν το Νόμπελ Λογοτεχνίας;",
+    "choices": [
+      "Κωστής Παλαμάς και Γιάννης Ρίτσος",
+      "Γιώργος Σεφέρης και Οδυσσέας Ελύτης",
+      "Ανδρέας Κάλβος και Κώστας Βάρναλης",
+      "Κώστας Καρυωτάκης και Κωνσταντίνος Καβάφης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το έργο «Τα μυστικά του βάλτου» έχει γραφτεί από τον/την συγγραφέα:",
+    "choices": [
+      "Πηνελόπη Δέλτα",
+      "Μαρία Ιορδανίδου",
+      "Νίκος Καζαντζάκης",
+      "Αλέξανδρος Παπαδιαμάντης"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το έργο «Λωξάντρα» έχει γραφτεί από τον/την συγγραφέα:",
+    "choices": [
+      "Πηνελόπη Δέλτα",
+      "Μαρία Ιορδανίδου",
+      "Νίκος Καζαντζάκης",
+      "Αλέξανδρος Παπαδιαμάντης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "____________ είναι ένα από τα σπουδαιότερα μυθιστορήματα του λογοτέχνη Ηλία Βενέζη.",
+    "choices": [
+      "Οι Έμποροι των Εθνών",
+      "Το Νούμερο 31328",
+      "Η Αρραβωνιαστικιά του Αχιλλέα",
+      "Οι Πανθέοι"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  },
+  {
+    "question": "Το έργο \"Βίος και Πολιτεία του Αλέξη Ζορμπά\" έχει γραφτεί από τον/την συγγραφέα:",
+    "choices": [
+      "Πηνελόπη Δέλτα",
+      "Μαρία Ιορδανίδου",
+      "Νίκος Καζαντζάκης",
+      "Αλέξανδρος Παπαδιαμάντης"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

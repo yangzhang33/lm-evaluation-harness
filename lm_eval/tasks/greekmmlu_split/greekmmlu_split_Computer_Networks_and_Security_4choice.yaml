@@ -1,0 +1,8 @@
+dataset_name: Computer_Networks_and_Security_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Computer_Networks_and_Security with 4choice
+  answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Computer_Networks_and_Security_4choice
+task_alias: Computer_Networks_and_Security (4choice)

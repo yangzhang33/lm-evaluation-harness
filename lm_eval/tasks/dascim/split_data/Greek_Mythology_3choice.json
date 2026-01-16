@@ -1,0 +1,951 @@
+[
+  {
+    "question": "Στη Θεογονία ο φόβος του ευνουχισμού και η συνακόλουθη υποσυνείδητη σεξουαλικότητα παραπέμπουν:",
+    "choices": [
+      "στην ψυχανάλυση",
+      "στον στρουκτουραλισμό",
+      "στην τελετουργική ερμηνεία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αμαζονομαχία και η Κενταυρομαχία προβάλλονται ως παραλληλισμοί για:",
+    "choices": [
+      "τους Περσικούς πολέμους",
+      "τον Πελοποννησιακό πόλεμο",
+      "τη Δηλιακή συμμαχία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η χρήση του μύθου του Θησέα καθώς και η έμφαση στην αυτοχθονία των Αθηναίων ως πλαίσιο πολιτικής οργάνωσης παραπέμπει:",
+    "choices": [
+      "στην ανθρωπολογική ερμηνεία/μύθοι charter",
+      "στον στρουκτουραλισμό",
+      "στην ψυχαναλυτική ερμηνεία"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στον μύθο της κοσμογονίας η πάλη αρσενικού-θηλυκού παραπέμπει:",
+    "choices": [
+      "στη διακειμενικότητα",
+      "στην τελετουργική θεωρία",
+      "στη στρουκτουραλιστική θεωρία των δίπολων"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο κόκκος ροδιού που προσφέρει ο Άδης στην Περσεφόνη:",
+    "choices": [
+      "τη συνδέει για πάντα με τον Κάτω Κόσμο",
+      "ήταν το τελευταίο δώρο πριν αυτή φύγει για τον Άνω Κόσμο",
+      "είναι το δέλεαρ για να την πείσει να μείνει"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι τέσσερις βασιλιάδες Τριπτόλεμος, Διοκλής, Εύμολπος, Κελεός στους οποίους η Δήμητρα δίδαξε την καλλιέργεια της γης:",
+    "choices": [
+      "ήταν βασιλείς της Ελευσίνας ο ένας διάδοχος του άλλου",
+      "αδέλφια βασιλικού οίκου",
+      "βασιλείς διαφόρων εποχών αλλά παρουσιάζονται μαζί στον ύμνο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Αισχύλος, βάζοντας την Αθηνά να είναι αυτή που ιδρύει τον Άρειο Πάγο, έχει ως στόχο:",
+    "choices": [
+      "να τονίσει την αρχαιότητά του",
+      "να υπενθυμίσει στους Αθηναίους πως δεν πρέπει να βλάψουν άλλο το θεόπνευστο αυτό δικαστήριο",
+      "να τονίσει τον δημοκρατικό του χαρακτήρα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αθηναϊκή πατριαρχία αντικατοπτρίζεται:",
+    "choices": [
+      "στην Αθηνά",
+      "στον Απόλλωνα",
+      "στις Ερινύες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η διαφορά του ησιόδειου προοιμίου από εκείνο του Ομήρου είναι ότι επικαλείται:",
+    "choices": [
+      "μία Μούσα",
+      "καμία Μούσα",
+      "όλες τις Μούσες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τα Μυστήρια ήταν μυστικά γιατί:",
+    "choices": [
+      "αποτελούσαν γνώση της ελίτ της Αθήνας",
+      "γιατί μιμούνταν την άδηλη φύση του θείου",
+      "για να υπάρχει ετησίως μεγάλο ενδιαφέρον προσέλευσης"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι θεωρίες που εφαρμόζονται στον Ύμνο στη Δήμητρα είναι:",
+    "choices": [
+      "στρουκτουραλιστικές – φεμινιστικές – τελετουργικές – ρασιοναλιστικές",
+      "στρουκτουραλιστικές – ψυχαναλυτική θεωρία του Φρόιντ – φεμινιστικές",
+      "φεμινιστικές – στρουκτουραλιστικές – νέου ιστορισμού"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Από τα γεννητικά όργανα του Ουρανού γεννήθηκαν:",
+    "choices": [
+      "η Αφροδίτη, οι Ερινύες, οι Γίγαντες",
+      "η Αφροδίτη, οι Μούσες, οι Γίγαντες",
+      "η Αφροδίτη, οι Μούσες, οι Κύκλωπες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αθηνά στη Ρώμη:",
+    "choices": [
+      "είχε τον αντίστοιχο σεβασμό από τους πιστούς",
+      "υπήρχε κατά τους πρώτους ρωμαϊκούς χρόνους",
+      "είχε ως αντίστοιχο τις Vestales"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι Βακχικές τελετές του Διονύσου ήταν:",
+    "choices": [
+      "γιορτή προς τιμήν του κρασιού",
+      "ευκαιρία για τις γυναίκες να κάνουν πράγματα μη «γυναικεία»",
+      "γιορτή στην οποία λαμβάνουν μέρος άνδρες και γυναίκες"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με τον Ελλάνικο τον Μυτιληναίο αυτόχθονες θεωρούνταν:",
+    "choices": [
+      "Αθηναίοι, Αρκάδες, Αιγινήτες, Θηβαίοι",
+      "Αθηναίοι, Αρκάδες, Κρήτες, Θηβαίοι",
+      "Αθηναίοι, Αρκάδες, Αιγινήτες, Κρήτες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η προηγμένη νομοθετική ωριμότητα της νέας γενιάς θεών:",
+    "choices": [
+      "δίνει ελαφρυντικό και άλλοθι στον Ορέστη",
+      "δεν είναι τόσο λεπτομερής αλλά βασίζεται σε γενικές αρχές",
+      "εξετάζει αυστηρά και αποκλειστικά το είδος του εγκλήματος αυτού καθ' αυτού"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ίδρυση του Αρείου Πάγου και η αρχή της λατρείας των Ευμενίδων στις «Ευμενίδες» εξηγείται από:",
+    "choices": [
+      "τις φεμινιστικές ερμηνείες",
+      "στρουκτουραλιστικές θεωρίες",
+      "τις λειτουργικές θεωρίες"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι θεωρίες που υποστηρίζουν ότι οι μύθοι αποτελούν προϊόντα του νου, της διάνοιας χαρακτηρίζονται ως:",
+    "choices": [
+      "εξωγενείς",
+      "πρωτογενείς",
+      "ενδογενείς"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η άποψη ότι οι δομές των μύθων είναι ακολουθίες μοτίβων (motifems) έχει διατυπωθεί από:",
+    "choices": [
+      "τον Sigmund Freud",
+      "τον Walter Burkert",
+      "τη Mary Lefkowitz"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Συγγραφέας του βιβλίου \"The Golden Bough\" σχετικά με την τελετουργική θεωρία των μύθων είναι",
+    "choices": [
+      "ο Ludwig Laistner",
+      "ο Sir James Frazer",
+      "ο Bronislaw Malinowski"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Claude Lévi-Strauss είναι βασικός εισηγητής:",
+    "choices": [
+      "της αφηγηματολογίας",
+      "της θεωρίας των δίπολων",
+      "της συγκριτικής μυθολογίας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Vladimir Propp στο πλαίσιο της θεωρίας του μελέτησε:",
+    "choices": [
+      "100 παραμύθια",
+      "τις μητριαρχικές κοινωνίες της προϊστορικής Ευρώπης",
+      "αρχαίες ελληνικές τραγωδίες"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Από τον 21ο αιώνα και μετά οι μύθοι αποτελούν κυρίως πεδίο μελέτης από:",
+    "choices": [
+      "τη θεωρία της λογοτεχνίας",
+      "τη λαογραφία",
+      "την ψυχανάλυση"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με το χωρίο Ξ 198-204 της Ιλιάδας μαρτυρείται ότι ο Όμηρος:",
+    "choices": [
+      "έγραψε τη Θεογονία",
+      "γνώριζε τη Θεογονία",
+      "δεν γνώριζε τη Θεογονία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τα Μυστήρια αποτελούν τελετουργίες οι οποίες περιλαμβάνουν δρώμενα, τα οποία μόνο ορισμένοι έχουν τη δυνατότητα να δουν. Στα Ελευσίνια Μυστήρια μύστες είχαν το δικαίωμα να είναι:",
+    "choices": [
+      "πλούσιοι πολίτες της Αθήνας",
+      "μόνο άνδρες πολίτες και μέτοικοι της Αθήνας",
+      "όλοι οι ενήλικες που μιλούσαν ελληνικά και δεν είχαν διαπράξει φόνο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η υποβάθμιση της γυναίκας στην ανδροκρατούμενη αθηναϊκή κοινωνία (φεμινιστικές θεωρίες) αντικατοπτρίζεται στις Ευμενίδες:",
+    "choices": [
+      "στην αντίληψη του Απόλλωνα ότι ο πατέρας έχει ισχυρότερη σχέση με το παιδί",
+      "στην αντίληψη των Ερινύων ότι ο πατέρας έχει ισχυρότερη σχέση με το παιδί",
+      "ο Ορέστης προέβη σε μητροκτονία προκειμένου να εκδικηθεί για τον φόνο του πατέρα του"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αταλάντη «αναιρεί» την αντίληψη ότι οι γυναίκες επιζητούσαν την ερωτική συνεύρεση επειδή:",
+    "choices": [
+      "κυνηγά στα δάση",
+      "συναναστρέφεται μόνο με τις υπόλοιπες Αμαζόνες",
+      "δεν θέλει να παντρευτεί"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τά Ἐλευσίνια Μυστήρια ἦταν:",
+    "choices": [
+      "ἐξ ἀρχῆς ἀθηναϊκή τελετή",
+      "πανελλήνια γιορτή με ἕδρα τήν Ἐλευσίνα",
+      "ἀρχικά τοπικές τελετές τῆς Ἐλευσίνας γιά τίς ὁποῖες ἐνδιαφέρθηκε ἡ Ἀθήνα προκειμένου νά προσαρτήσει τήν Ἐλευσίνα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με τον Όμηρο, στην Τροία βασιλιάς των Αθηναίων ήταν:",
+    "choices": [
+      "ο Θησέας",
+      "ο Κέκρωψ",
+      "ο Μενεσθέας"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αντίδραση του Αισχύλου στον περιορισμό των αρμοδιοτήτων του Αρείου Πάγου δείχνει:",
+    "choices": [
+      "ότι ήταν υπέρ του εκδημοκρατισμού της Αθήνας",
+      "ότι τέτοιες ενέργειες θα έφερναν την πτώση της παλιάς χρυσής εποχής μετά τη νίκη εναντίον των Περσών",
+      "ότι δεν επιθυμούσε ο θεσμός του Αρείου Πάγου να χάσει την κοινωνική του «αριστοκρατική» δύναμη"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο νόμος της αντεκδίκησης (lex talionis), που υπαγορεύει κάθε φόνος να πληρώνεται με φόνο, έχει ως αποτέλεσμα:",
+    "choices": [
+      "την αποτελεσματική αποτροπή των ανθρώπων από εγκληματικές πράξεις",
+      "τη δημιουργία ενός πολύ στέρεου εθιμικού δικαίου",
+      "τη διαιώνιση του εγκλήματος"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στις Ευμενίδες μπορεί να εφαρμοστεί η στρουκτουραλιστική θεωρία των διπόλων ως προς:",
+    "choices": [
+      "τη παλαιά και τη νέα γενιά των θεών",
+      "τον Άρειο Πάγο και την Εκκλησία του Δήμου",
+      "τον Ορέστη και τον Αίγισθο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ίδρυση του Αρείου Πάγου στον μύθο αντικατοπτρίζεται στην πραγματικότητα:",
+    "choices": [
+      "στις μεταρρυθμίσεις του Εφιάλτη",
+      "στις μεταρρυθμίσεις του Σόλωνα",
+      "στις μεταρρυθμίσεις του Κλεισθένη"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η επιφυλακτική στάση των ανδρών απέναντι στις γυναίκες στην αρχαία κοινωνία είχε ως αίτια:",
+    "choices": [
+      "την όντως ύποπτη φύση των γυναικών",
+      "την απουσία επικοινωνίας και ουσιαστικής επαφής ανδρών – γυναικών",
+      "την αντίληψή τους ότι οι γυναίκες δεν έχουν κάποιο άλλο ενδιαφέρον πέραν των «γυναικείων πραγμάτων»"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αφροδίτη στον Ύμνο της Αφροδίτης μπορεί να παραλληλιστεί με:",
+    "choices": [
+      "την Περσεφόνη, η οποία βίωσε την κυριαρχία του αρσενικού",
+      "την Πανδώρα, η οποία είναι η τιμωρία των ανθρώπων και έχει ως όπλο της τον δόλο",
+      "την Ήρα, που παρουσιάζεται πάντα ως η ζηλόφρων γυναίκα του Δία"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Αθηνά – αν και γυναίκα – ήταν προστάτιδα της ανδροκρατούμενης Αθήνας γιατί:",
+    "choices": [
+      "αν και είχε θηλυκό sex είχε αρσενικό gender",
+      "ήταν κόρη του Δία, του βασιλιά των θεών",
+      "ήταν σοφή και θεά του πολέμου"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στις εξωγενείς θεωρίες συγκαταλέγονται:",
+    "choices": [
+      "οι μύθοι charter",
+      "η ψυχανάλυση",
+      "η τελετουργική θεωρία και ο στρουκτουραλισμός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι μελετητές Sir James Frazer, Gilbert Murray και Jane Ellen Harrison έχουν συνδέσει το όνομά τους με:",
+    "choices": [
+      "την ψυχαναλυτική θεωρία",
+      "τον στρουκτουραλισμό",
+      "την τελετουργική θεωρία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σύμφωνα με τη Θεογονία τα πρώτα στοιχεία του κόσμου είναι:",
+    "choices": [
+      "Χάος, Γαία, Τάρταρα, Ωκεανός",
+      "Χάος, Γαία, Τάρταρα, Έρως",
+      "Χάος, Γαία, Ωκεανός, Ουρανός"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ενσωμάτωση της Μήτιδος από τον Δία στο πλαίσιο της φονξιοναλιστικής θεωρίας παρουσιάζει",
+    "choices": [
+      "το πέρασμα από την πατριαρχία στη μητριαρχία",
+      "το πέρασμα από το χρυσό γένος στο ασημένιο",
+      "το πέρασμα από τη μητριαρχία στην πατριαρχία"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η πρώιμη φάση του κόσμου με τους συνεχείς σεισμούς και τις εκρήξεις ηφαιστείων που οδήγησαν στον σχηματισμό της γης αιτιολογείται:",
+    "choices": [
+      "στη Γιγαντομαχία",
+      "στον ευνουχισμό του Ουρανού",
+      "στη γέννηση των θεών"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η γυναίκα εμφανίζεται στη Θεογονία ως:",
+    "choices": [
+      "επιβράβευση του ανθρώπου",
+      "τιμωρία του ανθρώπου",
+      "θεότητα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το όνομα Πανδώρα εμφανίζεται πρώτη φορά:",
+    "choices": [
+      "στη Θεογονία του Ησιόδου",
+      "στο Έργα και Ημέραι του Ησιόδου",
+      "σε κανένα από τα δύο"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Τα «Επιδαύρια» ή «Ασκληπιεία» καθυστερούσαν μία μέρα (από τη δεύτερη όχι στην τρίτη αλλά στην τέταρτη) γιατί:",
+    "choices": [
+      "τα λουτρά και οι θυσίες απαιτούσαν πολύ χρόνο",
+      "χρειαζόταν χρόνος για την ιατρική περίθαλψη των μυστών πριν την πομπή",
+      "κατά παράδοση, ο μύστης Ασκληπιός είχε αργήσει να προσέλθει μία μέρα, γι' αυτό καθιερώθηκε αυτή η καθυστέρηση"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η άγνοια της Αθηνάς για την ύπαρξη των Ερινύων υποδηλώνει:",
+    "choices": [
+      "το χάσμα ανάμεσα στη νέα και στην παλαιά γενιά των θεών",
+      "την έλλειψη ενημέρωσης της Αθηνάς καθώς βρισκόταν στον Σκάμανδρο",
+      "το γεγονός ότι δεν είχε τύχει να ξανασυναντηθούν"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο μύθος της Δήμητρας και τα Ελευσίνια Μυστήρια:",
+    "choices": [
+      "τονίζουν τη δυνατή σχέση μάνας-κόρης",
+      "υπενθυμίζουν την παρουσία του θανάτου",
+      "είναι η πρώτη έκφραση της δυνατότητας ευτυχισμένης ζωής μετά θάνατον"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η προσφώνηση της Δήμητρας από την Εκάτη ως κόρης της Ρέας και όχι του Κρόνου υπενθυμίζει:",
+    "choices": [
+      "τη στενή σχέση Ρέας – Δήμητρας",
+      "το δίπολο αρσενικό – θηλυκό της Θεογονίας",
+      "τη βοήθεια της Ρέας στη Δήμητρα"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η ζωφόρος του Ηφαιστείου παρουσιάζει τον Θησέα και τον Ηρακλή στον ίδιο άθλο:",
+    "choices": [
+      "της θανάτωσης του Μινώταυρου",
+      "της Κενταυρομαχίας",
+      "της καθόδου στον Άδη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η τραγωδία:",
+    "choices": [
+      "αναφέρεται σε παρελθοντικά έργα ανδρών και θεών",
+      "παρουσιάζει ήρωες με τους οποίους οι θεατές δεν μπορούν να ταυτιστούν και να συμπάσχουν",
+      "παγιώνει τους μύθους δημιουργώντας κυρίαρχες εκδοχές"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στην αντίληψη των Αθηναίων, οι Αμαζόνες:",
+    "choices": [
+      "ήταν τα μυθικά πρόσωπα αντίστοιχα της θεάς Αθηνάς",
+      "όντα γυναικεία και ανεξέλεγκτα, χωρίς καθόλου αισθησιασμό",
+      "πρότυπα πολεμικής ικανότητας"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Στη Βοιωτική εκδοχή του μύθου της Αταλάντης:",
+    "choices": [
+      "Η Αταλάντη έχει τους ίδιους γονείς",
+      "Η Αταλάντη με βάση το γυναικείο φύλο θέλει να παντρευτεί",
+      "Υπερισχύει το γυναικείο της φύλο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο μύθος της αρπαγής της Περσεφόνης είναι αιτιολογικός ως προς:",
+    "choices": [
+      "την έναρξη της τέλεσης των Ελευσίνιων Μυστηρίων και της εναλλαγής των εποχών",
+      "τη στάση της κοινωνίας να παντρεύει τις κοπέλες χωρίς τη θέλησή τους",
+      "την τάση των βίαιων αρπαγών των κοριτσιών από τα λιβάδια"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αιτιολόγηση της αυτοχθονίας του πρώτου βασιλιά της Αθήνας, Κέκροπα, είναι ορατή στη μορφή του, καθώς ήταν:",
+    "choices": [
+      "μισός άνθρωπος και μισός σκύλος",
+      "μισός άνθρωπος και μισός φίδι",
+      "μισός άνθρωπος και μισός χέλι"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η εκδοχή που θέλει ως πατέρα του Θησέα τον Αιγέα εμφανίζεται:",
+    "choices": [
+      "στον Βακχυλίδη",
+      "στον Οβίδιο",
+      "στον Αισχύλο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο Θησέας θεωρείται σύμφωνα με την παράδοση ιδρυτής:",
+    "choices": [
+      "του Αρείου Πάγου",
+      "του συνοικισμού",
+      "των Ολυμπιακών Αγώνων"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η υποταγή της Κρήτης στην Αθήνα υποδηλώνεται μέσω:",
+    "choices": [
+      "του γάμου του Θησέα με τη Φαίδρα",
+      "των μαύρων πανιών της επιστροφής",
+      "της εγκατάλειψης της Αριάδνης στη Νάξο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Ο μύθος του Θησέα ενισχύθηκε πολιτικά κυρίως από:",
+    "choices": [
+      "τον Σόλωνα",
+      "τον Κλεισθένη",
+      "τον Πεισίστρατο"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η θεωρία της Julia Kristeva για την άρνηση της υπόστασης του συγγραφέα είναι γνωστή ως:",
+    "choices": [
+      "νέος ιστορικισμός",
+      "διακειμενικότητα",
+      "αποδόμηση"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η Θεογονία του Ησιόδου χαρακτηρίζεται ως αυτόματη γιατί:",
+    "choices": [
+      "τα πρώτα 4 στοιχεία εμφανίζονται από το πουθενά",
+      "όλα τα στοιχεία πλάθονται από έναν θεό",
+      "όλα τα στοιχεία δημιουργούνται από τον άνθρωπο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Σταδιακά τα Ελευσίνια Μυστήρια εμπλουτίστηκαν με:",
+    "choices": [
+      "στοιχεία από μυητικές αιγυπτιακές τελετές",
+      "από τη βακχική λατρεία",
+      "από τα βακχικά και τα ορφικά μυστήρια"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Δεδομένου του μυστικιστικού χαρακτήρα, τα τελεστήρια, σε αντίθεση με τους ναούς:",
+    "choices": [
+      "δεν έχουν καθόλου διάκοσμο",
+      "είναι περιορισμένου μεγέθους",
+      "διαθέτουν μόνο εσωτερική διακόσμηση"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η «άφθογγος» Δήμητρα κατευθύνει την εξής υποχρέωση των μυστών:",
+    "choices": [
+      "το γεγονός ότι οι μύστες απαγορεύεται να ομολογήσουν τα ιερά",
+      "το γεγονός ότι απαγορεύεται να μιλήσουν για δύο μέρες μετά την αποκάλυψη των ιερών",
+      "το γεγονός ότι δεν έπρεπε να μιλούν καθ' όλη τη διάρκεια των μυστηρίων"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η αθηναϊκή τραγωδία παρουσιάζει την Αθήνα σε έργα με ευτυχή κατάληξη. Αυτό δικαιολογείται από την έκβαση:",
+    "choices": [
+      "στον Αίαντα του Σοφοκλή",
+      "στον Οιδίποδα Τύραννο του Σοφοκλή",
+      "στον Οιδίποδα επί Κολωνώ του Σοφοκλή"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η μετάβαση από την παλαιά γενιά θεών στη νέα είναι συνυφασμένη με:",
+    "choices": [
+      "τη μετάβαση στην υπεράσπιση της δίκης του αίματος",
+      "την ευνομία και την πολιτική ωριμότητα",
+      "τον περιορισμό των αρμοδιοτήτων του Αρείου Πάγου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Οι φεμινιστικές ερμηνείες αναπτύχθηκαν:",
+    "choices": [
+      "επειδή οι απεικονίσεις των γυναικών στην τέχνη περιορίζονται μόνο στον ρόλο τους ως θεότητες, νοικοκυρές ή εταίρες",
+      "εξαιτίας του δευτερεύοντος ρόλου των γυναικών στους μύθους",
+      "με βάση τη διάκριση sex – gender"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η θεωρία για τον μύθο ως θεσμοθετημένη βία αποδίδεται:",
+    "choices": [
+      "στον F. Max Müller",
+      "στον Carl Jung",
+      "στον W. Burkert"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το μοτίβο του ανθρώπου που πλάθεται απαντάται τόσο στη Θεογονία όσο και στη χριστιανική Γένεση. Το πεδίο μελέτης είναι:",
+    "choices": [
+      "η συγκριτική μυθολογία (ρατιοναλιστική θεωρία)",
+      "ο στρουκτουραλισμός",
+      "ο αποδομισμός"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Μία διαφορά του αοιδού και του τραγωδού είναι ότι:",
+    "choices": [
+      "ο αοιδός σπάει τα δεσμά του χρόνου και περιορίζει το ακροατήριο σε μία εκδοχή του μύθου",
+      "ο αοιδός και συνθέτει και παρουσιάζει το έργο του",
+      "ο τραγωδός απευθύνεται σε ένα πανελλήνιο ακροατήριο"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Μία μεγάλη πρωτοπορία της τραγωδίας, απαραίτητη για τον διαχωρισμό της από το έπος, ήταν:",
+    "choices": [
+      "το γεγονός ότι κατέλυσε τα άκρα και εστίασε στην κριτική θεώρηση και στην ψυχολογία των χαρακτήρων",
+      "το γεγονός ότι παγίωσε τους μύθους",
+      "το γεγονός ότι κατάφερε να επιβάλει στο κοινό πρότυπα καλού-κακού, δίκαιου-άδικου"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η παρουσία του Αρείου Πάγου στην Ορέστεια:",
+    "choices": [
+      "ενισχύει τον δικανικό χαρακτήρα της τραγωδίας",
+      "είναι κατάλοιπο από το έπος",
+      "είναι η αθηναϊκή προσθήκη στον μύθο των Ατρειδών"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Το πρότυπο που επιβεβαιώνει τον φόβο των ανδρών ότι οι γυναίκες ήταν η τιμωρία των ανδρών ήταν:",
+    "choices": [
+      "η θεά Αφροδίτη",
+      "η θεά Ήρα",
+      "η Πανδώρα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Η κρίση του Τειρεσία στη διαμάχη Δία – Ήρας:",
+    "choices": [
+      "είναι πλήρως αντικειμενική, καθώς ο Τειρεσίας έχει ζήσει και ως άνδρας και ως γυναίκα",
+      "είναι δίκαιη, γιατί ο Τειρεσίας ως σοφός μάντης ήταν άτομο πλήρους εμπιστοσύνης",
+      "δεν είναι πλήρως αντικειμενική, καθώς μπορεί να είχε ζήσει και με θηλυκό φύλο, ωστόσο το κοινωνικό φύλο παρέμενε πάντα αρσενικό"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  },
+  {
+    "question": "Με τη φεμινιστική προσέγγιση του μύθου έχουν ασχοληθεί:",
+    "choices": [
+      "οι Mary Lefkowitz, Lillian Doherty, Barbara Gold",
+      "οι Marija Gimbutas, Irene De Jong, Julia Kristeva",
+      "οι Marija Gimbutas, St. Greenblatt, Van Gennep"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Mythology",
+    "level": "university",
+    "source": "https://opencourses.uoa.gr/modules/exercise/?course=PHIL5"
+  }
+]

@@ -1,0 +1,5 @@
+include: _default_greekmmlu_api_template_yaml
+tag: greekmmlu_api_social_sciences_tasks
+task: greekmmlu_api_modern_greek_language_secondary_school
+task_alias: Modern Greek Language_Secondary_School
+dataset_name: Modern_Greek_Language_Secondary_School

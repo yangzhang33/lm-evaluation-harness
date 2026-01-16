@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Σκοπός της εκστρατείας του Μαρδονίου ήταν η καταστροφή της Αθήνας και της Ερέτριας.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Ο περσικός στρατός ηττήθηκε στη Θάσο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Ο περσικός στόλος διαλύθηκε κοντά στο Όρος Άθως, λόγω θαλασσοταραχής.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Το 490 π.Χ. ο Μαρδόνιος υποκίνησε την Α' Περσική εκστρατεία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Ο Ηρόδοτος παρουσιάζεται ως:",
+    "choices": [
+      "ο γενάρχης της ιστοριογραφίας.",
+      "ο γενάρχης του πεζογραφικού αφηγήματος."
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Ο Μαρδόνιος με τις πράξεις του αποδεικνύεται διώκτης της τυραννίδος και θεμελιωτής της δημοκρατίας στην Ιωνία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Η παρακάτω πρόταση είναι σωστή ή λανθασμένη; Ο Αριστοφάνης ήταν σπουδαίος αρχαίος ποιητής που έγραψε τραγωδίες.",
+    "choices": [
+      "Σωστή",
+      "Λανθασμένη"
+    ],
+    "answer": 1,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "secondary_school",
+    "source": "https://exetaseis-ithageneia.ypes.gr/"
+  }
+]

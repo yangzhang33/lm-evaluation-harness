@@ -1,0 +1,8 @@
+dataset_name: Greek_History_Professional_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Greek_History_Professional with 4choice
+  answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Greek_History_Professional_4choice
+task_alias: Greek_History_Professional (4choice)

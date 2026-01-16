@@ -1,0 +1,338 @@
+[
+  {
+    "question": "Η επεξεργασία μετάδοσης δύο ή περισσότερων σημάτων ταυτόχρονα μέσα στο ίδιο κανάλι καλείται:",
+    "choices": [
+      "Πολυπλεξία",
+      "Τηλεμετρία",
+      "Μίξη",
+      "Διαμόρφωση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ένας ΑΜ πομπός έχει ισχύ φορέα 200W. Το ποσοστό διαμόρφωσης είναι 60%. Ποια είναι η ολική ισχύς σήματος;",
+    "choices": [
+      "236W",
+      "286W",
+      "336W",
+      "287W"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ποιο από τα ακόλουθα δεν είναι ένα κύριο πλεονέκτημα της FM ως προς την ΑΜ;",
+    "choices": [
+      "Μεγαλύτερη απόδοση",
+      "Ασφάλεια από θόρυβο",
+      "Φαινόμενο σύλληψης",
+      "Μικρότερη πολυπλοκότητα και κόστος"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ο λόγος της μέγιστης τάσης του διαμορφώνοντος σήματος προς τη μέγιστη τάση φέροντος αναφέρεται ως:",
+    "choices": [
+      "Λόγος τάσης",
+      "dB",
+      "Δείκτης διαμόρφωσης",
+      "Παράγοντας μίξης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Στην SSB, ποια πλευρική ζώνη είναι καλύτερο να χρησιμοποιείται;",
+    "choices": [
+      "Η άνω",
+      "Η κάτω",
+      "Εξαρτάται από τη χρήση",
+      "Καμία"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ποιο είναι το σχετικό πλάτος του τρίτου ζεύγους των πλευρικών ενός σήματος FM με m=6;",
+    "choices": [
+      "0,11",
+      "0,1",
+      "0,24",
+      "0,36"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ποιο είναι το ιδανικό ποσοστό διαμόρφωσης για μέγιστο πλάτος μετάδοσης πληροφορίας;",
+    "choices": [
+      "80%",
+      "90%",
+      "110%",
+      "100%"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Για αντιστάθμιση των αυξήσεων της απόκλισης της συχνότητας φορέα με μια αύξηση της συχνότητας του διαμορφώνοντος σήματος, ποιο κύκλωμα χρησιμοποιείται μεταξύ του διαμορφώνοντος σήματος και του διαμορφωτή φάσης;",
+    "choices": [
+      "Χαμηλοπερατό φίλτρο",
+      "Υψηλοπερατό φίλτρο",
+      "Ολισθητής φάσης",
+      "Ζωνοπερατό φίλτρο"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ο λόγος της μέγιστης τάσης του διαμορφώνοντος σήματος προς τη μέγιστη τάση φέροντος αναφέρεται ως:",
+    "choices": [
+      "Λόγος τάσης",
+      "dB",
+      "Δείκτης διαμόρφωσης",
+      "Παράγοντας μίξης"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ποιο είναι το ιδανικό ποσοστό διαμόρφωσης για μέγιστο πλάτος μετάδοσης πληροφορίας;",
+    "choices": [
+      "80%",
+      "90%",
+      "110%",
+      "100%"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ποιο είναι το σχετικό πλάτος του τρίτου ζεύγους των πλευρικών ενός σήματος FM με m=6;",
+    "choices": [
+      "0,11",
+      "0,1",
+      "0,24",
+      "0,36"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Η επεξεργασία μετάδοσης δύο ή περισσότερων σημάτων ταυτόχρονα μέσα στο ίδιο κανάλι καλείται:",
+    "choices": [
+      "Πολυπλεξία",
+      "Τηλεμετρία",
+      "Μίξη",
+      "Διαμόρφωση"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Για αντιστάθμιση των αυξήσεων της απόκλισης της συχνότητας φορέα με μια αύξηση της συχνότητας του διαμορφώνοντος σήματος, ποιο κύκλωμα χρησιμοποιείται μεταξύ του διαμορφώνοντος σήματος και του διαμορφωτή φάσης;",
+    "choices": [
+      "Χαμηλοπερατό φίλτρο",
+      "Υψηλοπερατό φίλτρο",
+      "Ολισθητής φάσης",
+      "Ζωνοπερατό φίλτρο"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Ένας ΑΜ πομπός έχει ισχύ φορέα 200W. Το ποσοστό διαμόρφωσης είναι 60%. Ποια είναι η ολική ισχύς σήματος;",
+    "choices": [
+      "236W",
+      "286W",
+      "336W",
+      "287W"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Στην SSB, ποια πλευρική ζώνη είναι καλύτερο να χρησιμοποιείται;",
+    "choices": [
+      "Η άνω",
+      "Η κάτω",
+      "Εξαρτάται από τη χρήση",
+      "Καμία"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  },
+  {
+    "question": "Δ=22398 και KG=7,14m. Το πλοίο κατά την έναρξη του ταξιδιού έχει καύσιμα κατανεμημένα ως εξής: FOT=220MT, No5 DBT(P&S)=170MT, No6 DBT(P&S)=280MT. Στη διάρκεια του ταξιδιού κατανάλωσε το σύνολο της ποσότητας που βρισκόταν στα FOT και No6 DBT(P&S). Να βρεθεί το νέο KG του λιμένα άφιξης.",
+    "choices": [
+      "6.25m",
+      "7.25m",
+      "8.25m",
+      "9.25m"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "dm=6,67m και GM=1,30m. Τα No5DBT(P&S) γεμίζουν 100% με θαλασσινό νερό ρ=1,025ΜΤ/m³, ενώ στα Νο6DBT(P&S) φορτώνονται ισομερώς 200ΜΤ FO. Να βρεθεί το GoM (Ι΄max.)",
+    "choices": [
+      "1.81m",
+      "1.61m",
+      "1.41m",
+      "1.21m"
+    ],
+    "answer": 2,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Freedom df: 7,45m, da: 8,15m στις καθέτους. Υπολείπονται προς φόρτωση 1841 ΜΤ. Από αυτούς οι 900 ΜΤ θα φορτωθούν στο #3 κύτος. Οι υπόλοιποι θα κατανεμηθούν στα κύτη #1 και #5. Να υπολογιστεί ο τρόπος καταμερισμού ώστε το πλοίο να αναχωρήσει με trim 0,20m by stern.",
+    "choices": [
+      "w1: 442MT",
+      "w1: 402MT",
+      "w1: 4992MT",
+      "w1: 342MT"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Freedom df: 7,15m, da: 8,25m στις καθέτους. Πόσοι τόνοι θα πρέπει να μεταγγιστούν από το #6DBT(P&S) στο FOT για να έχουμε Trim: 0,42m by stern;",
+    "choices": [
+      "w: 150MT",
+      "w: 200MT",
+      "w: 100MT",
+      "w: 250MT"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Freedom df: 4,90m, da: 5,00m στις καθέτους. Φορτώνει bulk 1.150 ΜΤ στο #2 κύτος και 1.350 ΜΤ στο #4 κύτος. Να υπολογιστούν τα τελικά βυθίσματα.",
+    "choices": [
+      "df: 6,34m",
+      "df: 5,90m",
+      "df: 5,14m",
+      "df: 6,14m"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Πλοίο έχει Δ=10.000 ΜΤ και KG=7,5m. Βάρος 250 ΜΤ μετακινείται κατακόρυφα προς τα πάνω, σε απόσταση d=5m. Να υπολογιστεί το νέο KG.",
+    "choices": [
+      "7,33m",
+      "7,63m",
+      "7,93m",
+      "8,23m"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "dm=7,96m, KG=8,48m και I΄=1890T-M. Θα παραληφθούν 306ΜΤ FO και θα κατανεμηθούν οι 100ΜΤ στο άδειο FOT και το υπόλοιπο ισομερώς στα άδεια Νο5DBT(P&S). Να υπολογιστεί το GoM (I΄ max.)",
+    "choices": [
+      "0.10m",
+      "0.03m",
+      "0.20m",
+      "0.30m"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Δ=16.588 ΜΤ και KG=7,80m. Στο κενό Νο3 κύτος φορτώνονται 2.000 ΜΤ φορτίου με s.f.=1,25m³/MT και συγχρόνως ξεσαβουρώνεται το Νο1 DBT που ήταν γεμάτο 100% με SW (1,025 MT/m³). Να υπολογιστεί το νέο KG του πλοίου.",
+    "choices": [
+      "7.59m",
+      "7.89m",
+      "8.29m",
+      "8.59m"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "professional",
+    "source": "https://maredu.hcg.gr/modules/exercise/?course=MAK136"
+  },
+  {
+    "question": "Ποιο από τα ακόλουθα δεν είναι ένα κύριο πλεονέκτημα της FM ως προς την ΑΜ;",
+    "choices": [
+      "Μεγαλύτερη απόδοση",
+      "Ασφάλεια από θόρυβο",
+      "Φαινόμενο σύλληψης",
+      "Μικρότερη πολυπλοκότητα και κόστος"
+    ],
+    "answer": 3,
+    "group": "STEM",
+    "subject": "Electrical Engineering",
+    "level": "university",
+    "source": "https://opencourses.teiwest.gr/modules/exercise/index.php?course=CIED106"
+  }
+]

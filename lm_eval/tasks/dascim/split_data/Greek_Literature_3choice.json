@@ -1,0 +1,28 @@
+[
+  {
+    "question": "Το έργο του Ηροδότου «Ιστορίαι» είναι:",
+    "choices": [
+      "Το αρχαιότερο μερικώς σωζόμενο έργο πεζογραφίας της κλασικής αρχαιότητας.",
+      "Το αρχαιότερο πλήρως σωζόμενο έργο πεζογραφίας της κλασικής αρχαιότητας.",
+      "Το μοναδικό πλήρως σωζόμενο έργο πεζογραφίας της κλασικής αρχαιότητας."
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  },
+  {
+    "question": "Τα στοιχεία των «Ιστοριών» που είναι απαγορευτικά της διαχρονικής επιβίωσής τους είναι:",
+    "choices": [
+      "το μέγεθος του έργου",
+      "η αρχαιότητα και η γλώσσα",
+      "η αρχαιότητα, το μέγεθος, η γλώσσα"
+    ],
+    "answer": 2,
+    "group": "Humanities",
+    "subject": "Greek Literature",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=LIT1802"
+  }
+]

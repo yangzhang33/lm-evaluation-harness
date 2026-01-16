@@ -1,0 +1,7 @@
+dataset_name: World_History_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for World_History with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_humanities_tasks
+task: greekmmlu_split_World_History_4choice
+task_alias: World_History (4choice)

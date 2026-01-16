@@ -1,0 +1,7 @@
+dataset_name: General_Knowledge_3choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for General_Knowledge with 3choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_General_Knowledge_3choice
+task_alias: General_Knowledge (3choice)

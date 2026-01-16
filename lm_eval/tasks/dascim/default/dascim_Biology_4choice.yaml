@@ -1,0 +1,8 @@
+"description": "The following are multiple choice questions (with answers) about Biology.\\\
+  n\\n"
+"include": "base_dascim_4choice.yaml"
+"tag": "dascim_stem_tasks"
+"task": "dascim_Biology_4choice"
+"task_alias": "Biology (4choice)"
+"dataset_kwargs":
+  "dataset_name": "Biology_4choice"

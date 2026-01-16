@@ -1,0 +1,9 @@
+aggregate_metric_list:
+- metric: acc
+  weight_by_size: true
+group: dascim_other
+group_alias: other
+metadata:
+  version: 2
+task:
+- dascim_other_tasks

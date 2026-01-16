@@ -1,0 +1,7 @@
+dataset_name: Greek_Literature_2choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Greek_Literature with 2choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_humanities_tasks
+task: greekmmlu_split_Greek_Literature_2choice
+task_alias: Greek_Literature (2choice)

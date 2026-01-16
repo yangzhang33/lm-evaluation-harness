@@ -1,0 +1,7 @@
+dataset_name: Mathematics_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Mathematics with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_stem_tasks
+task: greekmmlu_split_Mathematics_4choice
+task_alias: Mathematics (4choice)

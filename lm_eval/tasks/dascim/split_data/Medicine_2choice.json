@@ -1,0 +1,470 @@
+[
+  {
+    "question": "Η διαφορική διάγνωση του οστεοποιού ινώματος από τον αδενοματοειδή οδοντογενή όγκο είναι δύσκολη επειδή έχουν πολλά κοινά χαρακτηριστικά.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το οστεϊνοβλάστωμα και το οστεοποιό ίνωμα (που σχετίζεται με τα δόντια) είναι σπάνιες βλάβες, που εντοπίζονται στα οπίσθια δόντια της κάτω γνάθου, σε ηλικίες μικρότερες των 40 ετών.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ανταλλαγή αερίων πραγματοποιείται με ενεργητικό τρόπο και απαιτείται κατανάλωση ενέργειας περίπου 2 joules/αναπνευστικό κύκλο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η κύστη του Gorlin και ο όγκος του Pindborg είναι μικτές βλάβες που σχετίζονται πάντα με τη μύλη έγκλειστου δοντιού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Σε όλες τις περιακρορριζικές βλάβες που σχετίζονται με τα δόντια, οι σκιάσεις που υπάρχουν μέσα στη διαυγαστική περιοχή είναι νησίδες ενασβεστιωμένου ιστού.",
+    "choices": [
+      "σωστό",
+      "λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία, η ινώδης δυσπλασία και το οστεοποιό ίνωμα είναι ινοοστικές βλάβες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Ο αδενωματοειδής οδοντογενής όγκος εντοπίζεται συχνά στην περιοχή του κυνόδοντα της άνω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Στο σύμπλεκτο οδόντωμα, οι οδοντικοί ιστοί παρουσιάζουν μεγάλη ομοιότητα με δόντια, ενώ στο σύνθετο όχι.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία εντοπίζεται κατά 90% στους τομείς της κάτω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ενασβεστιούμενη οδοντογενής κύστη όπως και ο αδενοματοειδής οδοντογενής όγκος, εμφανίζονται πιο συχνά στην άνω γνάθο, ενώ ο όγκος του Pindborg στην κάτω γνάθο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Όλες οι περιακρορριζικές βλάβες που σχετίζονται με τα δόντια έχουν 3 εξελικτικά στάδια, από τα οποία το ενδιάμεσο στάδιο είναι αυτό της μικτής βλάβης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Για να προκληθεί η οστεοακτινονέκρωση πρέπει να προϋπάρχει γενικό νόσημα και να συμβεί τραυματισμός και λοίμωξη της περιοχής.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το χόνδρωμα πρέπει να διαφοροδιαγνωσθεί από το χονδροσάρκωμα επειδή το πρώτο είναι καλοήθης βλάβη, ενώ το δεύτερο κακοήθης.",
+    "choices": [
+      "σωστό",
+      "λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το οστεοβλάστωμα και το οστεοποιό ίνωμα (που σχετίζεται με τα δόντια) είναι σπάνιες βλάβες, που εντοπίζονται στα οπίσθια δόντια της κάτω γνάθου, σε ηλικίες μικρότερες των 40 ετών.",
+    "choices": [
+      "σωστό",
+      "λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η διαφορική διάγνωση του οστεοποιού ινώματος από τον αδενοματοειδή οδοντογενή όγκο είναι δύσκολη επειδή έχουν πολλά κοινά χαρακτηριστικά.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Σε όλες τις περιακρορριζικές βλάβες που σχετίζονται με τα δόντια, οι σκιάσεις που υπάρχουν μέσα στη διαυγαστική περιοχή είναι νησίδες ενασβεστιωμένου ιστού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η εντοπισμένη οστεΐνική δυσπλασία εμφανίζεται σε μεγάλο ποσοστό σε γυναίκες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ινώδης δυσπλασία προσβάλλει νεαρά άτομα <20 ετών.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Ο αδενωματοειδής οδοντογενής όγκος εντοπίζεται συχνά στην περιοχή του κυνόδοντα της άνω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία, η ινώδης δυσπλασία και το οστεοποιό ίνωμα είναι ινο-οστικές βλάβες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Ο αδενωματοειδής οδοντογενής όγκος εντοπίζεται συχνά στην περιοχή του κυνόδοντα της άνω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η διαφορική διάγνωση του οστεοποιού ινώματος από τον αδενοματοειδή οδοντογενή όγκο είναι δύσκολη επειδή έχουν πολλά κοινά χαρακτηριστικά.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η οστεοακτινονέκρωση, όταν αυξάνεται πολύ σε μέγεθος, μπορεί να προκαλέσει παραισθησία ή υπαισθησία.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Όλες οι περιακρορριζικές βλάβες που σχετίζονται με τα δόντια έχουν 3 εξελικτικά στάδια, από τα οποία το ενδιάμεσο στάδιο είναι αυτό της μικτής βλάβης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Στο σύμπλεκτο οδόντωμα, οι οδοντικοί ιστοί παρουσιάζουν μεγάλη ομοιότητα με δόντια, ενώ στο σύνθετο όχι.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ενασβεστιούμενη οδοντογενής κύστη όπως και ο αδενοματοειδής οδοντογενής όγκος, εμφανίζονται πιο συχνά στην άνω γνάθο, ενώ ο όγκος του Pindborg στην κάτω γνάθο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ινώδης δυσπλασία και η νόσος του Paget μπορούν να προσβάλουν πολλά οστά.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ανταλλαγή αερίων πραγματοποιείται με ενεργητικό τρόπο και απαιτείται κατανάλωση ενέργειας περίπου 2 joules/αναπνευστικό κύκλο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.upatras.gr/modules/exercise/index.php?course=NURS268"
+  },
+  {
+    "question": "Η κύστη του Gorlin και ο όγκος του Pindborg είναι μικτές βλάβες που σχετίζονται πάντα με τη μύλη έγκλειστου δοντιού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία, η ινώδης δυσπλασία και το οστεοποιό ίνωμα είναι ινοοστικές βλάβες.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία εντοπίζεται κατά 90% στους τομείς της κάτω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η ενασβεστιούμενη οδοντογενής κύστη όπως και ο αδενοματοειδής οδοντογενής όγκος, εμφανίζονται πιο συχνά στην άνω γνάθο, ενώ ο όγκος του Pindborg στην κάτω γνάθο.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Σε όλες τις περιακρορριζικές βλάβες που σχετίζονται με τα δόντια, οι σκιάσεις που υπάρχουν μέσα στη διαυγαστική περιοχή είναι νησίδες ενασβεστιωμένου ιστού.",
+    "choices": [
+      "σωστό",
+      "λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το οστεοποιό ίνωμα και η εντοπισμένη οστεΐνική δυσπλασία εντοπίζονται συνήθως στην οπίσθια περιοχή της κάτω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η κύστη του Gorlin και ο όγκος του Pindborg είναι μικτές βλάβες που σχετίζονται πάντα με τη μύλη έγκλειστου δοντιού.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Το οστεϊνοβλάστωμα και το οστεοποιό ίνωμα (που σχετίζεται με τα δόντια) είναι σπάνιες βλάβες, που εντοπίζονται στα οπίσθια δόντια της κάτω γνάθου, σε ηλικίες μικρότερες των 40 ετών.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Στο σύμπλεκτο οδόντωμα, οι οδοντικοί ιστοί παρουσιάζουν μεγάλη ομοιότητα με δόντια, ενώ στο σύνθετο όχι.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 1,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Όλες οι περιακρορριζικές βλάβες που σχετίζονται με τα δόντια έχουν 3 εξελικτικά στάδια, από τα οποία το ενδιάμεσο στάδιο είναι αυτό της μικτής βλάβης.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  },
+  {
+    "question": "Η περιακρορριζική οστεΐνική δυσπλασία εντοπίζεται κατά 90% στους τομείς της κάτω γνάθου.",
+    "choices": [
+      "Σωστό",
+      "Λάθος"
+    ],
+    "answer": 0,
+    "group": "STEM",
+    "subject": "Medicine",
+    "level": "university",
+    "source": "https://eclass.uoa.gr/modules/exercise/index.php?course=DENT179"
+  }
+]

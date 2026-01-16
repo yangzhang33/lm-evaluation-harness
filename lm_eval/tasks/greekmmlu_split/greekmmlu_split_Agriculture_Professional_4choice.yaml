@@ -1,0 +1,7 @@
+dataset_name: Agriculture_Professional_4choice
+dataset_path: mkonomi/GreekMMLU-Public-Split
+description: Multiple choice questions for Agriculture_Professional with 4choice answers.\n\n
+include: _default_greekmmlu_api_split_template_yaml
+tag: greekmmlu_split_other_tasks
+task: greekmmlu_split_Agriculture_Professional_4choice
+task_alias: Agriculture_Professional (4choice)

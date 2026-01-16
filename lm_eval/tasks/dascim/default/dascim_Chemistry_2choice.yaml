@@ -1,0 +1,8 @@
+"description": "The following are multiple choice questions (with answers) about Chemistry.\\\
+  n\\n"
+"include": "base_dascim_2choice.yaml"
+"tag": "dascim_stem_tasks"
+"task": "dascim_Chemistry_2choice"
+"task_alias": "Chemistry (2choice)"
+"dataset_kwargs":
+  "dataset_name": "Chemistry_2choice"
