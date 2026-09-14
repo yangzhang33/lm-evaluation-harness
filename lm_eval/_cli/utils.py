@@ -23,7 +23,7 @@ def try_parse_json(value: str | dict[str, Any] | None) -> str | dict[str, Any] |
     try:
         return json.loads(value)
     except json.JSONDecodeError:
-        if "{" in value:
+        if value.lstrip().startswith("{"):
             raise ValueError(
                 f"Invalid JSON: {value}. Hint: Use double quotes for JSON strings."
             ) from None
