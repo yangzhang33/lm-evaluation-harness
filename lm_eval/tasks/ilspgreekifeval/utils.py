@@ -34,7 +34,10 @@ def test_instruction_following_strict(
         instruction = instruction_cls(instruction_id)
 
         # Remove None values from kwargs to avoid unexpected keyword argument errors in build_description method.
-        kwargs = {k: v for k, v in inp.kwargs[index].items() if v}
+        # ilsp/ifeval_greek stores every numeric kwarg as a float (num_words=300.0, num_highlights=3.0).
+        # The instruction verifiers use them as list indices / range bounds, so coerce whole floats to int.
+        kwargs = {k: (int(v) if isinstance(v, float) and float(v).is_integer() else v)
+                  for k, v in inp.kwargs[index].items() if v}
         instruction.build_description(**kwargs)
         args = instruction.get_instruction_args()
         if args and "prompt" in args:
@@ -85,7 +88,10 @@ def test_instruction_following_loose(
         instruction = instruction_cls(instruction_id)
 
         # Remove None values from kwargs to avoid unexpected keyword argument errors in build_description method.
-        kwargs = {k: v for k, v in inp.kwargs[index].items() if v}
+        # ilsp/ifeval_greek stores every numeric kwarg as a float (num_words=300.0, num_highlights=3.0).
+        # The instruction verifiers use them as list indices / range bounds, so coerce whole floats to int.
+        kwargs = {k: (int(v) if isinstance(v, float) and float(v).is_integer() else v)
+                  for k, v in inp.kwargs[index].items() if v}
         instruction.build_description(**kwargs)
         args = instruction.get_instruction_args()
         if args and "prompt" in args:

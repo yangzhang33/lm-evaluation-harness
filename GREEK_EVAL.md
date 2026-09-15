@@ -156,6 +156,22 @@ not call it one in a report. Details and calibration in the training repo's `eva
 
 ## Gotchas
 
+**Reasoning-style chat templates open a think block by default — close it, or every generative score is wrong.**
+Qwen3.5 and K2-Horizon templates end the generation prompt with `<think>\n` / `<ifm|think>\n`, so the model reasons
+first and the harness cuts or mis-extracts the answer (Qwen3.5-4B-Base read 5% on MGSM). Pass
+`enable_thinking=false` for Qwen; K2 has no such switch, so this fork adds the model arg
+`chat_template_suffix` (e.g. `"</ifm|think>"`) which is appended verbatim after the rendered generation prompt.
+Also pass `--gen_kwargs '{"until": ["<turn-end token>"]}'` for chat runs: the Qwen base snapshot has no
+`generation_config.json` and its tokenizer eos is `<|endoftext|>`, so generation would otherwise run to the cap,
+and task-level newline stops (MGSM, Civics QA) cut multi-line chat answers after the first line. Note this fork
+auto-enables `--fewshot_as_multiturn` with a chat template; K2 needs `--fewshot_as_multiturn false` because its
+template rejects assistant messages without a `reasoning_content` field.
+
+**`ilsp/ifeval_greek` stores numeric kwargs as floats** (`num_words: 300.0`); the instruction verifiers index with
+them. `ilspgreekifeval/utils.py` coerces whole floats to int before `build_description`, otherwise every row raises
+`TypeError` — after all generations have already been paid for.
+
+
 **ROUGE is silently zero for Greek.** `rouge_score`'s tokenizer replaces every character outside `[a-z0-9]` with a
 space, so Greek text tokenizes to an empty list and two identical Greek sentences score 0. `ilspgreektruthfulqa_gen`
 ships a Unicode tokenizer to fix this; **anything else in lm-eval that scores Greek generation with ROUGE has the same

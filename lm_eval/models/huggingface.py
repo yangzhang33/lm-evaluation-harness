@@ -112,6 +112,9 @@ class HFLM(TemplateLM):
         think_end_token: str | int | None = None,
         enable_thinking: bool | None = None,
         chat_template_args: dict[str, Any] | None = None,
+        # appended verbatim after the rendered generation prompt (e.g. '</ifm|think>' to close K2's mandatory
+        # think block, matching the prefix the model was fine-tuned with). Only used with --apply_chat_template.
+        chat_template_suffix: str | None = None,
         **kwargs,
     ) -> None:
         """Initialize an HFLM instance for evaluating HuggingFace models.
@@ -407,6 +410,7 @@ class HFLM(TemplateLM):
             else (chat_template_args or {})
         )
         self.enable_thinking = enable_thinking
+        self.chat_template_suffix = chat_template_suffix
 
         if enable_thinking and think_end_token is None:
             raise ValueError(
@@ -1739,6 +1743,10 @@ class HFLM(TemplateLM):
                 continue_final_message=not add_generation_prompt,
                 **self.chat_template_args,
             )
+
+        if add_generation_prompt and getattr(self, 'chat_template_suffix', None):
+
+            chat_templated = chat_templated + self.chat_template_suffix
 
         return chat_templated
 
