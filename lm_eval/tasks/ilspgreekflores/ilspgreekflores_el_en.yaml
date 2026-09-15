@@ -1,0 +1,6 @@
+include: _default_template_yaml
+tag:
+  - ilspgreekflores
+task: ilspgreekflores_el_en
+doc_to_text: "Μετάφρασε το κείμενο απο τα Ελληνικά στα Αγγλικά.\n\nΕλληνικά:\n{{el}}\n\nΑγγλικά:\n"
+doc_to_target: "{{en}}"
