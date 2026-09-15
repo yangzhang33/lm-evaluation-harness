@@ -34,6 +34,17 @@ Because of these fixes — and because lighteval scores mc1/mc2 jointly from one
 choice list while lm-eval keeps them as separate tasks — numbers here are comparable in
 setup to ILSP's published results, but not expected to match them exactly.
 
-`utils.py` is the upstream `truthfulqa` one with a single change: the fallback answer
-appended to `correct_answers` is `Δεν έχω κανένα σχόλιο.`, the phrasing used by the
-dataset and by the primer, instead of the English `I have no comment.`.
+### Changes to `utils.py`
+
+It is the upstream `truthfulqa` one with two changes, both needed for Greek:
+
+1. The fallback answer appended to `correct_answers` is `Δεν έχω κανένα σχόλιο.`, the
+   phrasing used by the dataset and by the primer, instead of the English
+   `I have no comment.`. Without this, a correctly refusing model is scored against an
+   English reference it can never match.
+2. `RougeScorer` is given a Unicode-aware tokenizer. `rouge_score`'s default replaces
+   every character outside `[a-z0-9]` with a space, so Greek text tokenizes to an empty
+   list and every ROUGE score comes out exactly 0 — even when the prediction is identical
+   to the reference. BLEU is unaffected, since sacrebleu is called with `tokenize="intl"`.
+   ROUGE numbers here are therefore not comparable to ROUGE numbers from the English
+   `truthfulqa` task, which uses the default tokenizer.

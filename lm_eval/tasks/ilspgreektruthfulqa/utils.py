@@ -1,3 +1,5 @@
+import re
+
 import datasets
 import numpy as np
 import sacrebleu
@@ -5,6 +7,20 @@ from rouge_score import rouge_scorer, scoring
 
 
 ROUGE_SCORER = None
+
+
+class UnicodeTokenizer:
+    """Unicode-aware replacement for rouge_score's default tokenizer.
+
+    rouge_score substitutes every character outside ``[a-z0-9]`` with a space,
+    which reduces Greek text to an empty token list and makes every ROUGE score
+    exactly 0 -- even for two identical Greek sentences. This keeps the
+    default's lowercasing and stemmer-free behaviour but splits on Unicode word
+    boundaries instead.
+    """
+
+    def tokenize(self, text):
+        return [token for token in re.split(r"\W+", text.lower()) if token]
 
 
 def process_results_mc2(doc, results):
@@ -162,7 +178,7 @@ def rouge(refs, preds):
     global ROUGE_SCORER
     if ROUGE_SCORER is None:
         # init RougeScorer once (https://github.com/EleutherAI/lm-evaluation-harness/issues/1692)--rouge_types are constant
-        ROUGE_SCORER = rouge_scorer.RougeScorer(rouge_types)
+        ROUGE_SCORER = rouge_scorer.RougeScorer(rouge_types, tokenizer=UnicodeTokenizer())
     scorer = ROUGE_SCORER
     # Add newlines between sentences to correctly compute `rougeLsum`.
 
