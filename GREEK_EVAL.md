@@ -1,5 +1,7 @@
 # Greek evaluation suite
 
+> 中文版：[`GREEK_EVAL.zh.md`](GREEK_EVAL.zh.md)
+
 A complete, runnable Greek LLM evaluation stack built on lm-evaluation-harness: 13 Greek benchmarks across 12 task
 directories (116 leaf tasks), plus a rule-based diagnostic for generation quality. Everything runs offline once the
 datasets are cached, and every task records how it differs from its reference implementation.
