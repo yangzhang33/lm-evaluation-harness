@@ -1,0 +1,21 @@
+task: ilspgreekcivicsqa
+dataset_path: ilsp/greek_civics_qa
+dataset_name: null
+output_type: generate_until
+test_split: default
+num_fewshot: 0
+doc_to_text: "Απάντησε στην παρακάτω ερώτηση που σχετίζεται με το μάθημα της κοινωνικής και πολιτικής αγωγής.\n\nΕρώτηση:\n{{question.strip()}}\n\nΑπάντηση:\n"
+doc_to_target: "{{answer.strip()}}"
+target_delimiter: ""
+generation_kwargs:
+  max_gen_toks: 100
+  do_sample: false
+  temperature: 0.0
+  until:
+    - "\n"
+metric_list:
+  - metric: bleu
+    aggregation: bleu
+    higher_is_better: true
+metadata:
+  version: 1.0
