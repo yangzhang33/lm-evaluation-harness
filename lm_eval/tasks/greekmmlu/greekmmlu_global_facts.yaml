@@ -1,4 +1,0 @@
-"dataset_name": "global_facts"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Παγκόσμια Γεγονότα, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_global_facts"

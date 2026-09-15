@@ -1,4 +1,0 @@
-"dataset_name": "medical_genetics"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Ιατρική Γενετική, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_medical_genetics"

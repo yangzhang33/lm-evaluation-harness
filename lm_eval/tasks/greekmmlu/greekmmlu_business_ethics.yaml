@@ -1,4 +1,0 @@
-"dataset_name": "business_ethics"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Επιχειρηματική Ηθική, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_business_ethics"

@@ -1,4 +1,0 @@
-"dataset_name": "human_sexuality"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Ανθρώπινη Σεξουαλικότητα, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_human_sexuality"

@@ -1,4 +1,5 @@
-"dataset_name": "prehistory"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Προϊστορία, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_prehistory"
+include: _default_greekmmlu_template_yaml
+tag: greekmmlu_humanities_tasks
+task: greekmmlu_prehistory
+task_alias: Prehistory
+dataset_name: Prehistory

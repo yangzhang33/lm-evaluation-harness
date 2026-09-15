@@ -1,4 +1,5 @@
-"dataset_name": "electrical_engineering"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Ηλεκτρολογική Μηχανική, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_electrical_engineering"
+include: _default_greekmmlu_template_yaml
+tag: greekmmlu_stem_tasks
+task: greekmmlu_electrical_engineering
+task_alias: Electrical Engineering
+dataset_name: Electrical_Engineering

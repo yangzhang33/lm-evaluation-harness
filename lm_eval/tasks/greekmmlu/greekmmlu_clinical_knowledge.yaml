@@ -1,4 +1,5 @@
-"dataset_name": "clinical_knowledge"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Κλινική Γνώση, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_clinical_knowledge"
+include: _default_greekmmlu_template_yaml
+tag: greekmmlu_stem_tasks
+task: greekmmlu_clinical_knowledge
+task_alias: Clinical Knowledge
+dataset_name: Clinical_Knowledge

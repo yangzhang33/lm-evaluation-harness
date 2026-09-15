@@ -1,4 +1,0 @@
-"dataset_name": "moral_disputes"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Ηθικές Διαμάχες, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_moral_disputes"

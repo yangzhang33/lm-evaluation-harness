@@ -1,4 +1,5 @@
-"dataset_name": "world_religions"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Παγκόσμιες Θρησκείες, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_world_religions"
+include: _default_greekmmlu_template_yaml
+tag: greekmmlu_humanities_tasks
+task: greekmmlu_world_religions
+task_alias: World Religions
+dataset_name: World_Religions

@@ -1,4 +1,0 @@
-"dataset_name": "college_computer_science"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Πανεπιστημιακή Επιστήμη Υπολογιστών, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_college_computer_science"

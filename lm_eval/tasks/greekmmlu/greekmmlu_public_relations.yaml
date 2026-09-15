@@ -1,4 +1,0 @@
-"dataset_name": "public_relations"
-"description": "Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το Δημόσιες Σχέσεις, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-"include": "_default_template_yaml"
-"task": "greekmmlu_public_relations"

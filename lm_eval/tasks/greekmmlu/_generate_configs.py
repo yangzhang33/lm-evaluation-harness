@@ -1,5 +1,7 @@
 """
-Take in a YAML, and output all other splits with this YAML
+Generate Greek MMLU task configurations from gmmlu_qa.json dataset.
+Creates individual YAML files for each subject and category group files.
+Also generates subject+level configs for subjects with educational level splits.
 """
 
 import argparse
@@ -13,147 +15,236 @@ from tqdm import tqdm
 eval_logger = logging.getLogger(__name__)
 
 
+# Subject to category mapping based on the 'group' field in the dataset
 SUBJECTS = {
-    "abstract_algebra": "Αφηρημένη Άλγεβρα",
-    # "all": "Όλα",
-    "anatomy": "Ανατομία",
-    "astronomy": "Αστρονομία",
-    "business_ethics": "Επιχειρηματική Ηθική",
-    "clinical_knowledge": "Κλινική Γνώση",
-    "college_biology": "Πανεπιστημιακή Βιολογία",
-    "college_chemistry": "Πανεπιστημιακή Χημεία",
-    "college_computer_science": "Πανεπιστημιακή Επιστήμη Υπολογιστών",
-    "college_mathematics": "Πανεπιστημιακά Μαθηματικά",
-    "college_medicine": "Πανεπιστημιακή Ιατρική",
-    "college_physics": "Πανεπιστημιακή Φυσική",
-    "computer_security": "Ασφάλεια Υπολογιστών",
-    "conceptual_physics": "Εννοιολογική Φυσική",
-    "econometrics": "Οικονομετρία",
-    "electrical_engineering": "Ηλεκτρολογική Μηχανική",
-    "elementary_mathematics": "Στοιχειώδη Μαθηματικά",
-    "formal_logic": "Τυπική Λογική",
-    "global_facts": "Παγκόσμια Γεγονότα",
-    "high_school_biology": "Λυκειακή Βιολογία",
-    "high_school_chemistry": "Λυκειακή Χημεία",
-    "high_school_computer_science": "Λυκειακή Επιστήμη Υπολογιστών",
-    "high_school_european_history": "Λυκειακή Ευρωπαϊκή Ιστορία",
-    "high_school_geography": "Λυκειακή Γεωγραφία",
-    "high_school_government_and_politics": "Λυκειακή Κυβέρνηση και Πολιτική",
-    "high_school_macroeconomics": "Λυκειακή Μακροοικονομία",
-    "high_school_mathematics": "Λυκειακά Μαθηματικά",
-    "high_school_microeconomics": "Λυκειακή Μικροοικονομία",
-    "high_school_physics": "Λυκειακή Φυσική",
-    "high_school_psychology": "Λυκειακή Ψυχολογία",
-    "high_school_statistics": "Λυκειακή Στατιστική",
-    "high_school_us_history": "Λυκειακή Ιστορία ΗΠΑ",
-    "high_school_world_history": "Λυκειακή Παγκόσμια Ιστορία",
-    "human_aging": "Γήρανση του Ανθρώπου",
-    "human_sexuality": "Ανθρώπινη Σεξουαλικότητα",
-    "international_law": "Διεθνές Δίκαιο",
-    "jurisprudence": "Νομολογία",
-    "logical_fallacies": "Λογικά Σφάλματα",
-    "machine_learning": "Μηχανική Μάθηση",
-    "management": "Διοίκηση",
-    "marketing": "Μάρκετινγκ",
-    "medical_genetics": "Ιατρική Γενετική",
-    "miscellaneous": "Διάφορα",
-    "moral_disputes": "Ηθικές Διαμάχες",
-    "moral_scenarios": "Ηθικά Σενάρια",
-    "nutrition": "Διατροφή",
-    "philosophy": "Φιλοσοφία",
-    "prehistory": "Προϊστορία",
-    "professional_accounting": "Επαγγελματική Λογιστική",
-    "professional_law": "Επαγγελματικό Δίκαιο",
-    "professional_medicine": "Επαγγελματική Ιατρική",
-    "professional_psychology": "Επαγγελματική Ψυχολογία",
-    "public_relations": "Δημόσιες Σχέσεις",
-    "security_studies": "Σπουδές Ασφαλείας",
-    "sociology": "Κοινωνιολογία",
-    "us_foreign_policy": "Εξωτερική Πολιτική ΗΠΑ",
-    "virology": "Ιολογία",
-    "world_religions": "Παγκόσμιες Θρησκείες"
+    # Humanities
+    "Art": "humanities",
+    "Greek History": "humanities",
+    "Greek Literature": "humanities",
+    "Greek Mythology": "humanities",
+    "Greek Traditions": "humanities",
+    "Prehistory": "humanities",
+    "World History": "humanities",
+    "World Religions": "humanities",
+    # Social Sciences
+    "Accounting": "social_sciences",
+    "Economics": "social_sciences",
+    "Education": "social_sciences",
+    "Geography": "social_sciences",
+    "Government and Politics": "social_sciences",
+    "Law": "social_sciences",
+    "Management": "social_sciences",
+    "Modern Greek Language": "social_sciences",
+    # STEM
+    "Agriculture": "stem",
+    "Biology": "stem",
+    "Chemistry": "stem",
+    "Civil Engineering": "stem",
+    "Clinical Knowledge": "stem",
+    "Computer Networks & Security": "stem",
+    "Computer Science": "stem",
+    "Electrical Engineering": "stem",
+    "Mathematics": "stem",
+    "Medicine": "stem",
+    "Physics": "stem",
+    # Other
+    "Driving Rules": "other",
+    "General Knowledge": "other",
+    "Maritime_Safety_and_Rescue_Operations": "other",
 }
 
+# Subjects WITH level splits - these get subject+level configs instead of plain subject configs
+SUBJECTS_WITH_LEVELS = {
+    "Agriculture": ["Professional", "University"],
+    "Art": ["Professional", "Secondary_School", "University"],
+    "Computer Science": ["Professional", "University"],
+    "Economics": ["Professional", "University"],
+    "Education": ["Professional", "University"],
+    "Geography": ["Primary_School", "Secondary_School"],
+    "Government and Politics": ["Primary_School", "Secondary_School"],
+    "Greek History": ["Primary_School", "Professional", "Secondary_School"],
+    "Management": ["Professional", "University"],
+    "Medicine": ["Professional", "University"],
+    "Modern Greek Language": ["Primary_School", "Secondary_School"],
+    "Physics": ["Primary_School", "Professional", "University"],
+}
+
+# Subjects WITHOUT level splits - these keep plain subject configs
+SUBJECTS_WITHOUT_LEVELS = [
+    "Accounting",
+    "Biology",
+    "Chemistry",
+    "Civil Engineering",
+    "Clinical Knowledge",
+    "Computer Networks & Security",
+    "Driving Rules",
+    "Electrical Engineering",
+    "General Knowledge",
+    "Greek Literature",
+    "Greek Mythology",
+    "Greek Traditions",
+    "Law",
+    "Mathematics",
+    "Prehistory",
+    "World History",
+    "World Religions",
+    "Maritime Safety and Rescue Operations",
+]
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--base_yaml_path", required=True)
+    parser.add_argument("--base_yaml_path", default="_default_greekmmlu_template_yaml")
     parser.add_argument("--save_prefix_path", default="greekmmlu")
-    parser.add_argument("--cot_prompt_path", default=None)
-    parser.add_argument("--task_prefix", default="")
+    # parser.add_argument("--data_path", default="/home/mersin-konomi/gmmlu_qa.json")
     return parser.parse_args()
+
+
+def normalize_subject_name(subject):
+    """Convert subject name to valid filename."""
+    return subject.lower().replace(" ", "_").replace("&", "and")
 
 
 if __name__ == "__main__":
     args = parse_args()
 
-    # get filename of base_yaml so we can `"include": ` it in our other YAMLs.
+    # Get filename of base_yaml so we can `"include":` it in our "other" YAMLs
     base_yaml_name = os.path.split(args.base_yaml_path)[-1]
-    with open(args.base_yaml_path, encoding="utf-8") as f:
-        base_yaml = yaml.full_load(f)
-    if args.cot_prompt_path is not None:
-        import json
 
-        with open(args.cot_prompt_path, encoding="utf-8") as f:
-            cot_file = json.load(f)
+    eval_logger.info("Generating configs for Greek MMLU...")
 
-    for subject_eng, subject_el in tqdm(SUBJECTS.items()):
-        if args.cot_prompt_path is not None:
-            description = cot_file[subject_eng]
-        else:
-            description = (
-                f"Ακολουθεί μια ερώτηση πολλαπλής επιλογής σχετικά με το {subject_el}, παρακαλώ δώστε απευθείας τη σωστή απάντηση.\n\n"
-            )
+    ALL_CATEGORIES = []
+    all_tasks = []  # Track all tasks for main benchmark file
+
+    # 1. Generate plain subject configs (for subjects WITHOUT level splits)
+    print("\n=== Generating Plain Subject Configs ===")
+    for subject in tqdm(SUBJECTS_WITHOUT_LEVELS, desc="Plain subject configs"):
+        category = SUBJECTS[subject]
+        if category not in ALL_CATEGORIES:
+            ALL_CATEGORIES.append(category)
+
+        normalized_subject = normalize_subject_name(subject)
+        hf_config_name = subject.replace(" ", "_").replace("&", "and")
 
         yaml_dict = {
             "include": base_yaml_name,
-            "task": f"greekmmlu_{args.task_prefix}_{subject_eng}"
-            if args.task_prefix != ""
-            else f"greekmmlu_{subject_eng}",
-            "dataset_name": subject_eng,
-            "description": description,
+            "tag": f"greekmmlu_{category}_tasks",
+            "task": f"greekmmlu_{normalized_subject}",
+            "task_alias": subject,
+            "dataset_name": hf_config_name,
         }
-        print(args.save_prefix_path)
-        file_save_path = args.save_prefix_path + f"_{subject_eng}.yaml"
-        print(file_save_path)
-        eval_logger.info(f"Saving yaml for subset {subject_eng} to {file_save_path}")
+
+        file_save_path = f"{args.save_prefix_path}_{normalized_subject}.yaml"
         with open(file_save_path, "w", encoding="utf-8") as yaml_file:
             yaml.dump(
                 yaml_dict,
                 yaml_file,
-                width=float("inf"),
                 allow_unicode=True,
-                default_style='"',
+                default_flow_style=False,
+                sort_keys=False,
             )
 
-    # write group config out
+        all_tasks.append(f"greekmmlu_{normalized_subject}")
+        print(f"  ✓ {file_save_path}")
 
-    group_yaml_dict = {
-        "group": "greekmmlu",
-        "task": [
-            (
-                f"greekmmlu_{args.task_prefix}_{subject_eng}"
-                if args.task_prefix != ""
-                else f"greekmmlu_{subject_eng}"
+    # 2. Generate subject+level configs (for subjects WITH level splits)
+    print("\n=== Generating Subject+Level Configs ===")
+    for subject, levels in tqdm(
+        SUBJECTS_WITH_LEVELS.items(), desc="Subject+level configs"
+    ):
+        category = SUBJECTS[subject]
+        if category not in ALL_CATEGORIES:
+            ALL_CATEGORIES.append(category)
+
+        normalized_subject = normalize_subject_name(subject)
+
+        for level in levels:
+            # Config name: Subject_Level (e.g., Physics_Professional)
+            hf_config_name = f"{subject.replace(' ', '_').replace('&', 'and')}_{level}"
+            normalized_level = level.lower()
+            task_name = f"greekmmlu_{normalized_subject}_{normalized_level}"
+
+            # Alias: Subject_Level e.g. "Physics_Professional"
+            task_alias = f"{subject}_{level}"
+
+            yaml_dict = {
+                "include": base_yaml_name,
+                "tag": f"greekmmlu_{category}_tasks",
+                "task": task_name,
+                "task_alias": task_alias,
+                "dataset_name": hf_config_name,
+            }
+
+            file_save_path = (
+                f"{args.save_prefix_path}_{normalized_subject}_{normalized_level}.yaml"
             )
-            for subject_eng in SUBJECTS.keys()
-        ],
-        "aggregate_metric_list": [
-            {"metric": "acc", "aggregation": "mean", "weight_by_size": True},
-            {"metric": "acc_norm", "aggregation": "mean", "weight_by_size": True},
-        ],
-        "metadata": {"version": 0.0},
-    }
+            with open(file_save_path, "w", encoding="utf-8") as yaml_file:
+                yaml.dump(
+                    yaml_dict,
+                    yaml_file,
+                    allow_unicode=True,
+                    default_flow_style=False,
+                    sort_keys=False,
+                )
 
-    file_save_path = "_" + args.save_prefix_path + ".yaml"
+            all_tasks.append(task_name)
+            print(f"  ✓ {file_save_path}")
 
-    with open(file_save_path, "w", encoding="utf-8") as group_yaml_file:
-        yaml.dump(
-            group_yaml_dict,
-            group_yaml_file,
-            width=float("inf"),
-            allow_unicode=True,
-            default_style='"',
+    # 3. Generate category group files (using tag as task instead of listing individual tasks)
+    print("\n=== Generating Category Group Configs ===")
+    for category in ALL_CATEGORIES:
+        # Count tasks for this category (for logging purposes)
+        task_count = 0
+        for subject in SUBJECTS_WITHOUT_LEVELS:
+            if SUBJECTS[subject] == category:
+                task_count += 1
+        for subject, levels in SUBJECTS_WITH_LEVELS.items():
+            if SUBJECTS[subject] == category:
+                task_count += len(levels)
+
+        file_save_path = f"_greekmmlu_{category}.yaml"
+        with open(file_save_path, "w", encoding="utf-8") as yaml_file:
+            yaml.dump(
+                {
+                    "group": f"greekmmlu_{category}",
+                    "group_alias": category,
+                    "task": [f"greekmmlu_{category}_tasks"],
+                    "aggregate_metric_list": [
+                        {"metric": "acc", "weight_by_size": True}
+                    ],
+                },
+                yaml_file,
+                indent=4,
+                default_flow_style=False,
+            )
+        print(
+            f"  ✓ {file_save_path} (task: greekmmlu_{category}_tasks, {task_count} tasks)"
         )
-# python _generate_configs.py --base_yaml_path _default_template_yaml --save_prefix_path greekmmlu
+
+    # 4. Generate main benchmark file
+    print("\n=== Generating Main Benchmark Config ===")
+    greekmmlu_subcategories = [f"greekmmlu_{category}" for category in ALL_CATEGORIES]
+
+    file_save_path = f"_{args.save_prefix_path}.yaml"
+    with open(file_save_path, "w", encoding="utf-8") as yaml_file:
+        yaml.dump(
+            {
+                "group": "greekmmlu",
+                "task": greekmmlu_subcategories,
+                "aggregate_metric_list": [
+                    {"metric": "acc", "aggregation": "mean", "weight_by_size": True}
+                ],
+            },
+            yaml_file,
+            indent=4,
+            default_flow_style=False,
+        )
+    print(f"  ✓ {file_save_path}")
+
+    print("\n✅ Generation complete!")
+    print(f"   Plain subject configs: {len(SUBJECTS_WITHOUT_LEVELS)}")
+    print(
+        f"   Subject+level configs: {sum(len(v) for v in SUBJECTS_WITH_LEVELS.values())}"
+    )
+    print(f"   Category groups: {len(ALL_CATEGORIES)}")
+    print(f"   Total tasks: {len(all_tasks)}")
