@@ -1,0 +1,3 @@
+include: ilspgreekarc_easy.yaml
+task: ilspgreekarc_challenge
+dataset_name: ARC-Challenge

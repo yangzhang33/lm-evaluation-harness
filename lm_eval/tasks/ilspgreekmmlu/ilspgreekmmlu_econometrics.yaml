@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_econometrics
+task_alias: econometrics
+dataset_name: econometrics

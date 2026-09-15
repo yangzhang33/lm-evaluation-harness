@@ -1,0 +1,65 @@
+group: ilspgreekmmlu
+task:
+- ilspgreekmmlu_abstract_algebra
+- ilspgreekmmlu_anatomy
+- ilspgreekmmlu_astronomy
+- ilspgreekmmlu_business_ethics
+- ilspgreekmmlu_clinical_knowledge
+- ilspgreekmmlu_college_biology
+- ilspgreekmmlu_college_chemistry
+- ilspgreekmmlu_college_computer_science
+- ilspgreekmmlu_college_mathematics
+- ilspgreekmmlu_college_medicine
+- ilspgreekmmlu_college_physics
+- ilspgreekmmlu_computer_security
+- ilspgreekmmlu_conceptual_physics
+- ilspgreekmmlu_econometrics
+- ilspgreekmmlu_electrical_engineering
+- ilspgreekmmlu_elementary_mathematics
+- ilspgreekmmlu_formal_logic
+- ilspgreekmmlu_global_facts
+- ilspgreekmmlu_high_school_biology
+- ilspgreekmmlu_high_school_chemistry
+- ilspgreekmmlu_high_school_computer_science
+- ilspgreekmmlu_high_school_european_history
+- ilspgreekmmlu_high_school_geography
+- ilspgreekmmlu_high_school_government_and_politics
+- ilspgreekmmlu_high_school_macroeconomics
+- ilspgreekmmlu_high_school_mathematics
+- ilspgreekmmlu_high_school_microeconomics
+- ilspgreekmmlu_high_school_physics
+- ilspgreekmmlu_high_school_psychology
+- ilspgreekmmlu_high_school_statistics
+- ilspgreekmmlu_high_school_us_history
+- ilspgreekmmlu_high_school_world_history
+- ilspgreekmmlu_human_aging
+- ilspgreekmmlu_human_sexuality
+- ilspgreekmmlu_international_law
+- ilspgreekmmlu_jurisprudence
+- ilspgreekmmlu_logical_fallacies
+- ilspgreekmmlu_machine_learning
+- ilspgreekmmlu_management
+- ilspgreekmmlu_marketing
+- ilspgreekmmlu_medical_genetics
+- ilspgreekmmlu_miscellaneous
+- ilspgreekmmlu_moral_disputes
+- ilspgreekmmlu_moral_scenarios
+- ilspgreekmmlu_nutrition
+- ilspgreekmmlu_philosophy
+- ilspgreekmmlu_prehistory
+- ilspgreekmmlu_professional_accounting
+- ilspgreekmmlu_professional_law
+- ilspgreekmmlu_professional_medicine
+- ilspgreekmmlu_professional_psychology
+- ilspgreekmmlu_public_relations
+- ilspgreekmmlu_security_studies
+- ilspgreekmmlu_sociology
+- ilspgreekmmlu_us_foreign_policy
+- ilspgreekmmlu_virology
+- ilspgreekmmlu_world_religions
+aggregate_metric_list:
+- metric: acc
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

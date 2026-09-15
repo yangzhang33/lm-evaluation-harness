@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_professional_law
+task_alias: professional law
+dataset_name: professional_law

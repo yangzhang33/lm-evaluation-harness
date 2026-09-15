@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_business_ethics
+task_alias: business ethics
+dataset_name: business_ethics

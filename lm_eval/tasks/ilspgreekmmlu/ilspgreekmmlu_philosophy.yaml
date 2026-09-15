@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_philosophy
+task_alias: philosophy
+dataset_name: philosophy

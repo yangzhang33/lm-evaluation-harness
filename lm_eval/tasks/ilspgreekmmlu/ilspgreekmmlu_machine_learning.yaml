@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_machine_learning
+task_alias: machine learning
+dataset_name: machine_learning

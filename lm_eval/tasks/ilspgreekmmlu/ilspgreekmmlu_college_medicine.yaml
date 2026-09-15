@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_college_medicine
+task_alias: college medicine
+dataset_name: college_medicine

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_human_sexuality
+task_alias: human sexuality
+dataset_name: human_sexuality

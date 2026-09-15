@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_public_relations
+task_alias: public relations
+dataset_name: public_relations

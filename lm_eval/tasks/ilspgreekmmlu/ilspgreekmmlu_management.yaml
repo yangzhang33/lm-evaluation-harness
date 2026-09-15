@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_management
+task_alias: management
+dataset_name: management

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_prehistory
+task_alias: prehistory
+dataset_name: prehistory

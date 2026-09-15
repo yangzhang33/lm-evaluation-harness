@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_world_religions
+task_alias: world religions
+dataset_name: world_religions

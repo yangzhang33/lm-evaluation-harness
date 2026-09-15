@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_elementary_mathematics
+task_alias: elementary mathematics
+dataset_name: elementary_mathematics

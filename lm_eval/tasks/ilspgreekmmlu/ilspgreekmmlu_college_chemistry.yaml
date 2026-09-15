@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_college_chemistry
+task_alias: college chemistry
+dataset_name: college_chemistry

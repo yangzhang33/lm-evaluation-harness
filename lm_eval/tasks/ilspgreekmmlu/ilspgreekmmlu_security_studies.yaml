@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_security_studies
+task_alias: security studies
+dataset_name: security_studies

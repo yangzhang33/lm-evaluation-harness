@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_abstract_algebra
+task_alias: abstract algebra
+dataset_name: abstract_algebra

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_professional_medicine
+task_alias: professional medicine
+dataset_name: professional_medicine

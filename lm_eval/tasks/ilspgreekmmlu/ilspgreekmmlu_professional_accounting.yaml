@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_professional_accounting
+task_alias: professional accounting
+dataset_name: professional_accounting

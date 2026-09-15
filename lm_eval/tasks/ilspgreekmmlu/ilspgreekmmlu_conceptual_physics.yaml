@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_conceptual_physics
+task_alias: conceptual physics
+dataset_name: conceptual_physics

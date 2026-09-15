@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_college_physics
+task_alias: college physics
+dataset_name: college_physics

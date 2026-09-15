@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_formal_logic
+task_alias: formal logic
+dataset_name: formal_logic

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_college_mathematics
+task_alias: college mathematics
+dataset_name: college_mathematics

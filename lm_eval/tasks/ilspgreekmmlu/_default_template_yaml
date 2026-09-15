@@ -1,0 +1,16 @@
+dataset_path: ilsp/mmlu_greek
+test_split: test
+fewshot_split: dev
+fewshot_config:
+  sampler: first_n
+output_type: multiple_choice
+description: "Οι ακόλουθες ερωτήσεις πολλαπλής επιλογής (που παρουσιάζονται μαζί με της απαντήσεις τους) έχουν να κάνουν με {{subject.replace('_', ' ')}}.\n\n"
+doc_to_text: "{{question.strip()}}\nΑ. {{choices[0]}}\nΒ. {{choices[1]}}\nΓ. {{choices[2]}}\nΔ. {{choices[3]}}\nΑπάντηση:"
+doc_to_choice: ["Α", "Β", "Γ", "Δ"]
+doc_to_target: answer
+metric_list:
+  - metric: acc
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0
