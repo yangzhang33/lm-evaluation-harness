@@ -81,7 +81,8 @@ Not built here, but available in the same harness and worth knowing about. Verif
 | `arc_challenge_mt_el` | `LumiOpen/arc_challenge_mt` | MCQ | A second MT of ARC-Challenge — useful as a translation-variance check against `ilspgreekarc_challenge` |
 | `multiblimp_ell` / `multiblimp_grc` | `jumelet/multiblimp` | MCQ | Minimal-pair grammaticality. `grc` is **Ancient** Greek |
 
-`mmlu`, `mmlu_pro`, `winogrande`, `mgsm`, `ifeval` (English) are the forgetting guards.
+`mmlu`, `mmlu_pro`, `winogrande`, `mgsm`, `ifeval` (English) are the forgetting guards; `ilspgreekwinogrande`
+is the Greek counterpart (see "Not included, and why" for its filter).
 
 ## How to run
 
@@ -202,10 +203,13 @@ model — it can reproduce benchmark items verbatim.
 
 ## Not included, and why
 
-- **`ilsp/winogrande_greek`** — the dataset keeps `sentence`, `option1` and `option2` in **English**; only
-  `multiple_choice_targets` is Greek, and its two candidates are independently machine-translated (of 100 sampled
-  rows, 14% have the whole sentence retranslated differently and 7% leave a Latin name in one branch only, which a
-  model can exploit). ILSP's own suite has no winogrande task either.
+- **`ilsp/winogrande_greek`** — *now included as `ilspgreekwinogrande`, filtered* (2026-09-21). The dataset keeps
+  `sentence`, `option1` and `option2` in **English**; only `multiple_choice_targets` is Greek, and its two candidates
+  are independently machine-translated. Measured over the full validation split: 18.9% of pairs have the whole
+  sentence retranslated differently and 0.5% leave a Latin name in one branch only. Both classes are dropped in
+  `process_docs` (1,021 of 1,267 rows survive; the few-shot pool is filtered the same way) and the surviving pair is
+  scored upstream-`winogrande` style: shared prefix as context, only the differing remainders compared. ILSP's own
+  suite has no winogrande task; scores are not comparable to anything computed on the unfiltered pairs.
 - **MT-Bench Greek, Arena-Hard Greek** — multi-turn and pairwise judging do not fit lm-eval. The Greek judge prompts
   are saved in the training repo's `evaluation/ilsp-assets/`.
 - **`ilsp/greek_lyceum_mathematics`** — answers are worked solutions, so it needs a scoring decision (judge, or
