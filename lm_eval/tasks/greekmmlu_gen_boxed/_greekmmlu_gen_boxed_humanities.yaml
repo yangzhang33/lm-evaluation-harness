@@ -1,0 +1,9 @@
+aggregate_metric_list:
+- metric: exact_match
+  weight_by_size: true
+- metric: parsed
+  weight_by_size: true
+group: greekmmlu_gen_boxed_humanities
+group_alias: humanities_gen_boxed
+task:
+- greekmmlu_gen_boxed_humanities_tasks

@@ -1,0 +1,32 @@
+dataset_path: dascim/GreekMMLU
+test_split: test
+fewshot_split: dev
+fewshot_config:
+  sampler: first_n
+output_type: generate_until
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
+generation_kwargs:
+  until: []
+  max_gen_toks: 8
+  do_sample: false
+  temperature: 0.0
+filter_list:
+  - name: letter
+    filter:
+      # The first standalone option letter, optionally wrapped in ( or [ and followed by punctuation.
+      # A letter that starts a word ("Απάντηση", "Δεν", ...) is not an answer, hence the trailing \b.
+      # Greek and Latin letters are both accepted; utils.process_results maps Latin onto Greek by position.
+      - function: regex
+        regex_pattern: "^\\s*[\\(\\[]?([ΑΒΓΔαβγδABCDabcd])\\b"
+      - function: take_first
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+  - metric: parsed
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

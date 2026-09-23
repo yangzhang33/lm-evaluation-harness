@@ -1,0 +1,5 @@
+include: _default_greekmmlu_gen_boxed_template_yaml
+tag: greekmmlu_gen_boxed_social_sciences_tasks
+task: greekmmlu_gen_boxed_economics_professional
+task_alias: Economics_Professional
+dataset_name: Economics_Professional

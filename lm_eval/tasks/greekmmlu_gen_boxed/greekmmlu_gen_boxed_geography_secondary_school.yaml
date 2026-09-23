@@ -1,0 +1,5 @@
+include: _default_greekmmlu_gen_boxed_template_yaml
+tag: greekmmlu_gen_boxed_social_sciences_tasks
+task: greekmmlu_gen_boxed_geography_secondary_school
+task_alias: Geography_Secondary_School
+dataset_name: Geography_Secondary_School

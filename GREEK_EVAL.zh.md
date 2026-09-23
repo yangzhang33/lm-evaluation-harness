@@ -2,7 +2,7 @@
 
 > English version: [`GREEK_EVAL.md`](GREEK_EVAL.md)
 
-基于 lm-evaluation-harness 搭建的完整希腊语 LLM 评测栈：**13 个 benchmark，分布在 12 个任务目录里，共 116 个叶子任务**，外加一个规则式的生成质量诊断。数据集缓存好之后全部可离线运行，每个任务都记录了它与参考实现的差异。
+基于 lm-evaluation-harness 搭建的完整希腊语 LLM 评测栈：**13 个 benchmark，分布在 14 个任务目录里，共 206 个叶子任务**，外加一个规则式的生成质量诊断。数据集缓存好之后全部可离线运行，每个任务都记录了它与参考实现的差异。
 
 **状态：已建成并验证。** 下面每个任务都用真实模型端到端跑过（`ilsp/Meltemi-7B-Instruct-v1.5`，第一批另用了 `models/e1_qwen3.5-4b-base_*_merged`）—— 不是只验证能加载。真正跑评测是另一件事，外层训练仓库的 `evaluation/TASKS_TODO.md` 记录了哪些是刻意没做的以及原因。
 
@@ -39,6 +39,8 @@ python -c "import nltk; nltk.download('punkt_tab')"  # 希腊语断句，约 11 
 | 任务 | 数据集 | 类型 | 评测集 | 来源性质 | ILSP few-shot |
 |---|---|---|---|---|---|
 | `greekmmlu` | `dascim/GreekMMLU` | 选择题 | 公开 16,857，45 学科 | **原生** | — |
+| `greekmmlu_gen` | `dascim/GreekMMLU` | 生成式，模型写字母；prompt 与 `greekmmlu` 逐字节相同 | 16,632，45 学科 | **原生** | 5 |
+| `greekmmlu_gen_boxed` | `dascim/GreekMMLU` | 生成式，带格式指令，抽 `\boxed{}` 里的字母 | 16,632，45 学科 | **原生** | 0 |
 | `ilspgreekmmlu` | `ilsp/mmlu_greek` | 选择题 | 14,042，57 学科 | 机翻 | 5 |
 | `ilspgreekmmlupro` | `ilsp/MMLU-Pro_greek` | 生成式，10 选 1 | 12,032 | 机翻 | 0 |
 | `ilspgreekarc_easy` / `_challenge` | `ilsp/arc_greek` | 选择题 | 2,376 / 1,168 | 机翻 | 25 |
@@ -54,7 +56,7 @@ python -c "import nltk; nltk.download('punkt_tab')"  # 希腊语断句，约 11 
 
 组与标签：`ilspgreekmmlu` 聚合它的 57 个学科；`greekmmlu` 聚合 45 个学科，另有 `greekmmlu_stem` / `_humanities` / `_social_sciences` / `_other` 四个分类组。标签 `ilspgreekarc`、`ilspgreektruthfulqa`、`ilspgreekflores` 可以把各自的成员一起跑。
 
-按 benchmark 算是 **7 个选择题 : 6 个生成式** —— 比任务数看起来均衡得多，因为两个 MMLU 自己就占了 116 个叶子任务里的 102 个。算上下面的 `belebele_ell_Grek` 就是 8:6。
+按 benchmark 算是 **7 个选择题 : 6 个生成式** —— 比任务数看起来均衡得多，因为两个 MMLU 自己就占了 116 个叶子任务里的 102 个。算上下面的 `belebele_ell_Grek` 就是 8:6。GreekMMLU 另外有两种生成式打分（`greekmmlu_gen` 用于 5-shot，`greekmmlu_gen_boxed` 用于 0-shot），用来判断 log-likelihood 的变化是校准还是知识。
 
 ## lm-eval 自带的希腊语任务
 

@@ -1,0 +1,30 @@
+dataset_path: dascim/GreekMMLU
+test_split: test
+fewshot_split: dev
+fewshot_config:
+  sampler: first_n
+output_type: generate_until
+doc_to_text: !function utils.doc_to_text
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
+generation_kwargs:
+  until: ["<|im_end|>", "<|endoftext|>", "<|eot_id|>", "<|ifm|endoftext|>", "</s>"]
+  max_gen_toks: 64
+  do_sample: false
+  temperature: 0.0
+filter_list:
+  - name: boxed
+    filter:
+      # The letter inside the first \boxed{...}; Latin letters are mapped onto Greek by position in utils.
+      - function: regex
+        regex_pattern: "\\\\boxed\\{\\s*([ΑΒΓΔαβγδABCDabcd])\\s*\\}"
+      - function: take_first
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+  - metric: parsed
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

@@ -1,0 +1,13 @@
+aggregate_metric_list:
+- aggregation: mean
+  metric: exact_match
+  weight_by_size: true
+- aggregation: mean
+  metric: parsed
+  weight_by_size: true
+group: greekmmlu_gen_boxed
+task:
+- greekmmlu_gen_boxed_social_sciences
+- greekmmlu_gen_boxed_stem
+- greekmmlu_gen_boxed_other
+- greekmmlu_gen_boxed_humanities

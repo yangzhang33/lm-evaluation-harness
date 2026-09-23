@@ -2,8 +2,8 @@
 
 > 中文版：[`GREEK_EVAL.zh.md`](GREEK_EVAL.zh.md)
 
-A complete, runnable Greek LLM evaluation stack built on lm-evaluation-harness: 13 Greek benchmarks across 12 task
-directories (116 leaf tasks), plus a rule-based diagnostic for generation quality. Everything runs offline once the
+A complete, runnable Greek LLM evaluation stack built on lm-evaluation-harness: 13 Greek benchmarks across 14 task
+directories (206 leaf tasks), plus a rule-based diagnostic for generation quality. Everything runs offline once the
 datasets are cached, and every task records how it differs from its reference implementation.
 
 **Status: built and verified.** Every task below was executed end to end against a real model
@@ -46,6 +46,8 @@ contamination risk apply.
 | task | dataset | type | eval set | source | ILSP few-shot |
 |---|---|---|---|---|---|
 | `greekmmlu` | `dascim/GreekMMLU` | MCQ | 16,857 public, 45 subjects | **native** | — |
+| `greekmmlu_gen` | `dascim/GreekMMLU` | generative, writes the letter; prompt identical to `greekmmlu` | 16,632, 45 subjects | **native** | 5 |
+| `greekmmlu_gen_boxed` | `dascim/GreekMMLU` | generative, `\boxed{}` letter with a format instruction | 16,632, 45 subjects | **native** | 0 |
 | `ilspgreekmmlu` | `ilsp/mmlu_greek` | MCQ | 14,042, 57 subjects | MT | 5 |
 | `ilspgreekmmlupro` | `ilsp/MMLU-Pro_greek` | generative, 10-way | 12,032 | MT | 0 |
 | `ilspgreekarc_easy` / `_challenge` | `ilsp/arc_greek` | MCQ | 2,376 / 1,168 | MT | 25 |
@@ -64,7 +66,9 @@ Groups and tags: `ilspgreekmmlu` aggregates its 57 subjects; `greekmmlu` aggrega
 `ilspgreekflores` run their members together.
 
 Counted as benchmarks that is **7 multiple-choice and 6 generative** — a far more even split than the task count
-suggests, since the two MMLUs alone contribute 102 of the 116 leaf tasks. Add `belebele_ell_Grek` below and it is 8:6.
+suggests, since the two MMLUs alone contribute 102 of the 116 leaf tasks. Add `belebele_ell_Grek` below and it is 8:6. GreekMMLU additionally has two generative scorings
+(`greekmmlu_gen` for 5-shot, `greekmmlu_gen_boxed` for 0-shot) that test whether a log-likelihood change is
+calibration or knowledge.
 
 ## Greek tasks that already ship with lm-eval
 

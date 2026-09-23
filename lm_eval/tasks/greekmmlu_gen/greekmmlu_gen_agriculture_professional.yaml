@@ -1,0 +1,5 @@
+include: _default_greekmmlu_gen_template_yaml
+tag: greekmmlu_gen_stem_tasks
+task: greekmmlu_gen_agriculture_professional
+task_alias: Agriculture_Professional
+dataset_name: Agriculture_Professional

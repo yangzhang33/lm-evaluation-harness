@@ -1,0 +1,5 @@
+include: _default_greekmmlu_gen_boxed_template_yaml
+tag: greekmmlu_gen_boxed_humanities_tasks
+task: greekmmlu_gen_boxed_art_university
+task_alias: Art_University
+dataset_name: Art_University

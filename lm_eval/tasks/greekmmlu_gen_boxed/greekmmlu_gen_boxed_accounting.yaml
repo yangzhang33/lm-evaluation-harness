@@ -1,0 +1,5 @@
+include: _default_greekmmlu_gen_boxed_template_yaml
+tag: greekmmlu_gen_boxed_social_sciences_tasks
+task: greekmmlu_gen_boxed_accounting
+task_alias: Accounting
+dataset_name: Accounting
