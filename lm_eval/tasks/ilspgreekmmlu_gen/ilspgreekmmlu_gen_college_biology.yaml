@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_college_biology
+task_alias: college biology
+dataset_name: college_biology

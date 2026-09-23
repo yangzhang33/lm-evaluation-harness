@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_virology
+task_alias: virology
+dataset_name: virology

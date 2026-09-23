@@ -1,0 +1,33 @@
+task: belebele_ell_Grek_gen
+dataset_path: facebook/belebele
+dataset_name: ell_Grek
+test_split: test
+fewshot_split: test
+fewshot_config:
+  sampler: first_n
+output_type: generate_until
+should_decontaminate: true
+doc_to_decontamination_query: "{{question}}"
+doc_to_text: "P: {{flores_passage}}\nQ: {{question.strip()}}\nA: {{mc_answer1}}\nB: {{mc_answer2}}\nC: {{mc_answer3}}\nD: {{mc_answer4}}\nAnswer:"
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
+generation_kwargs:
+  until: []
+  max_gen_toks: 8
+  do_sample: false
+  temperature: 0.0
+filter_list:
+  - name: letter
+    filter:
+      - function: regex
+        regex_pattern: "^\\s*[\\(\\[]?([ΑΒΓΔαβγδABCDabcd])\\b"
+      - function: take_first
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+  - metric: parsed
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

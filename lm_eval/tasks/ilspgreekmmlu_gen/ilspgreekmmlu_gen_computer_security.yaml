@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_computer_security
+task_alias: computer security
+dataset_name: computer_security

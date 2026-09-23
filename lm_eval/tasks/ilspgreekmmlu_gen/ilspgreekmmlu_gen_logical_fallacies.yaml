@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_logical_fallacies
+task_alias: logical fallacies
+dataset_name: logical_fallacies

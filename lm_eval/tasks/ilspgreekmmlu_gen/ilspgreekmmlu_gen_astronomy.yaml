@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_astronomy
+task_alias: astronomy
+dataset_name: astronomy

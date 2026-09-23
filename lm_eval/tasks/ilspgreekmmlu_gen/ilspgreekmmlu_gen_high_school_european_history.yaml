@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_high_school_european_history
+task_alias: high school european history
+dataset_name: high_school_european_history

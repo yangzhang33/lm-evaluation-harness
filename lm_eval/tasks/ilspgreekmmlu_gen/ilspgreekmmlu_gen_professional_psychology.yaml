@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_professional_psychology
+task_alias: professional psychology
+dataset_name: professional_psychology

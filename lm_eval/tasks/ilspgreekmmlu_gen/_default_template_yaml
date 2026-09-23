@@ -1,0 +1,30 @@
+dataset_path: ilsp/mmlu_greek
+test_split: test
+fewshot_split: dev
+fewshot_config:
+  sampler: first_n
+output_type: generate_until
+description: "Οι ακόλουθες ερωτήσεις πολλαπλής επιλογής (που παρουσιάζονται μαζί με της απαντήσεις τους) έχουν να κάνουν με {{subject.replace('_', ' ')}}.\n\n"
+doc_to_text: "{{question.strip()}}\nΑ. {{choices[0]}}\nΒ. {{choices[1]}}\nΓ. {{choices[2]}}\nΔ. {{choices[3]}}\nΑπάντηση:"
+doc_to_target: !function utils.doc_to_target
+process_results: !function utils.process_results
+generation_kwargs:
+  until: []
+  max_gen_toks: 8
+  do_sample: false
+  temperature: 0.0
+filter_list:
+  - name: letter
+    filter:
+      - function: regex
+        regex_pattern: "^\\s*[\\(\\[]?([ΑΒΓΔαβγδABCDabcd])\\b"
+      - function: take_first
+metric_list:
+  - metric: exact_match
+    aggregation: mean
+    higher_is_better: true
+  - metric: parsed
+    aggregation: mean
+    higher_is_better: true
+metadata:
+  version: 1.0

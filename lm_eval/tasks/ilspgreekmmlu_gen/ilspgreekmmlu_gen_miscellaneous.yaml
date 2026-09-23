@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_miscellaneous
+task_alias: miscellaneous
+dataset_name: miscellaneous

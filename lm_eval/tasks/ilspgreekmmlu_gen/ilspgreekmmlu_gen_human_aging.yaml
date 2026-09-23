@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_human_aging
+task_alias: human aging
+dataset_name: human_aging

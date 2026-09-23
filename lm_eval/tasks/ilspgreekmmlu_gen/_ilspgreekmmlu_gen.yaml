@@ -1,0 +1,68 @@
+group: ilspgreekmmlu_gen
+task:
+- ilspgreekmmlu_gen_abstract_algebra
+- ilspgreekmmlu_gen_anatomy
+- ilspgreekmmlu_gen_astronomy
+- ilspgreekmmlu_gen_business_ethics
+- ilspgreekmmlu_gen_clinical_knowledge
+- ilspgreekmmlu_gen_college_biology
+- ilspgreekmmlu_gen_college_chemistry
+- ilspgreekmmlu_gen_college_computer_science
+- ilspgreekmmlu_gen_college_mathematics
+- ilspgreekmmlu_gen_college_medicine
+- ilspgreekmmlu_gen_college_physics
+- ilspgreekmmlu_gen_computer_security
+- ilspgreekmmlu_gen_conceptual_physics
+- ilspgreekmmlu_gen_econometrics
+- ilspgreekmmlu_gen_electrical_engineering
+- ilspgreekmmlu_gen_elementary_mathematics
+- ilspgreekmmlu_gen_formal_logic
+- ilspgreekmmlu_gen_global_facts
+- ilspgreekmmlu_gen_high_school_biology
+- ilspgreekmmlu_gen_high_school_chemistry
+- ilspgreekmmlu_gen_high_school_computer_science
+- ilspgreekmmlu_gen_high_school_european_history
+- ilspgreekmmlu_gen_high_school_geography
+- ilspgreekmmlu_gen_high_school_government_and_politics
+- ilspgreekmmlu_gen_high_school_macroeconomics
+- ilspgreekmmlu_gen_high_school_mathematics
+- ilspgreekmmlu_gen_high_school_microeconomics
+- ilspgreekmmlu_gen_high_school_physics
+- ilspgreekmmlu_gen_high_school_psychology
+- ilspgreekmmlu_gen_high_school_statistics
+- ilspgreekmmlu_gen_high_school_us_history
+- ilspgreekmmlu_gen_high_school_world_history
+- ilspgreekmmlu_gen_human_aging
+- ilspgreekmmlu_gen_human_sexuality
+- ilspgreekmmlu_gen_international_law
+- ilspgreekmmlu_gen_jurisprudence
+- ilspgreekmmlu_gen_logical_fallacies
+- ilspgreekmmlu_gen_machine_learning
+- ilspgreekmmlu_gen_management
+- ilspgreekmmlu_gen_marketing
+- ilspgreekmmlu_gen_medical_genetics
+- ilspgreekmmlu_gen_miscellaneous
+- ilspgreekmmlu_gen_moral_disputes
+- ilspgreekmmlu_gen_moral_scenarios
+- ilspgreekmmlu_gen_nutrition
+- ilspgreekmmlu_gen_philosophy
+- ilspgreekmmlu_gen_prehistory
+- ilspgreekmmlu_gen_professional_accounting
+- ilspgreekmmlu_gen_professional_law
+- ilspgreekmmlu_gen_professional_medicine
+- ilspgreekmmlu_gen_professional_psychology
+- ilspgreekmmlu_gen_public_relations
+- ilspgreekmmlu_gen_security_studies
+- ilspgreekmmlu_gen_sociology
+- ilspgreekmmlu_gen_us_foreign_policy
+- ilspgreekmmlu_gen_virology
+- ilspgreekmmlu_gen_world_religions
+aggregate_metric_list:
+- metric: exact_match
+  aggregation: mean
+  weight_by_size: true
+- metric: parsed
+  aggregation: mean
+  weight_by_size: true
+metadata:
+  version: 1.0

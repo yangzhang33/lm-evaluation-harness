@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_electrical_engineering
+task_alias: electrical engineering
+dataset_name: electrical_engineering

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_us_foreign_policy
+task_alias: us foreign policy
+dataset_name: us_foreign_policy

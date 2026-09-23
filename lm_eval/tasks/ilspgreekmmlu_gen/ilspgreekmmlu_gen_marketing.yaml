@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_marketing
+task_alias: marketing
+dataset_name: marketing

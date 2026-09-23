@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_global_facts
+task_alias: global facts
+dataset_name: global_facts

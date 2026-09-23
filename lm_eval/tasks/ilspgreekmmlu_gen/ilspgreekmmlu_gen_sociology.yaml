@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_sociology
+task_alias: sociology
+dataset_name: sociology

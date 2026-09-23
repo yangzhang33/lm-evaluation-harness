@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_anatomy
+task_alias: anatomy
+dataset_name: anatomy

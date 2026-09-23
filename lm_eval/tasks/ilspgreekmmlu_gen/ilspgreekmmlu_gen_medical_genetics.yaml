@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_medical_genetics
+task_alias: medical genetics
+dataset_name: medical_genetics

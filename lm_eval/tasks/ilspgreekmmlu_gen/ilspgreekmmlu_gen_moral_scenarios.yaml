@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_moral_scenarios
+task_alias: moral scenarios
+dataset_name: moral_scenarios

@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_clinical_knowledge
+task_alias: clinical knowledge
+dataset_name: clinical_knowledge

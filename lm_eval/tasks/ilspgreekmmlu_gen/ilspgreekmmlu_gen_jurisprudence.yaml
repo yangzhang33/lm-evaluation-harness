@@ -1,0 +1,4 @@
+include: _default_template_yaml
+task: ilspgreekmmlu_gen_jurisprudence
+task_alias: jurisprudence
+dataset_name: jurisprudence
