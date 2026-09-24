@@ -60,6 +60,60 @@ subjects (GreekMMLU also has `_stem` / `_humanities` / `_social_sciences` / `_ot
 | `arc_challenge_mt_el` | a second translation of ARC-Challenge | MCQ | `acc`, `acc_norm` | 1,172 | 25 | raw | MT |
 | `global_piqa_*_ell_grek`, `multiblimp_ell` / `_grc` | physical commonsense / grammaticality (`grc` = Ancient Greek) | MCQ | `acc` | — | 0 | raw | — |
 
+## Which set to run
+
+Three self-contained sets. Pick by the question you are asking; each line is one `lm-eval` call (template under
+*Commands* below), and the `run_suite --groups` names are for the training repo's driver.
+
+### A. Log-likelihood only (multiple choice) — the headline set, comparable with published Greek numbers
+
+Raw prompt for every model, no chat template. Nothing is generated, so there is no parse column to watch.
+
+| shots | tasks | `run_suite --groups` |
+|---:|---|---|
+| 5 | `greekmmlu`, `belebele_ell_Grek`, `ilspgreekasep` | `mcq_fs5` |
+| 5 | `ilspgreekmmlu` | `mcq_fs5b` |
+| 5 | `ilspgreekwinogrande` | `mcq_fs5w` |
+| 5 | `mmlu` (English guard, `--limit 40`) | `mcq_fs5_en` |
+| 0 | `greekmmlu`, `ilspgreektruthfulqa_mc1`, `ilspgreektruthfulqa_mc2` | `mcq_fs0` |
+| 10 | `ilspgreekhellaswag` | `mcq_fs10` |
+| 15 | `ilspgreekmedicalmcqa` | `mcq_fs15` |
+| 25 | `ilspgreekarc_easy`, `ilspgreekarc_challenge` | `mcq_fs25` |
+
+Caveat: the 0-shot `greekmmlu` line underrates chat-tuned models by 2–4 pt (letter calibration); use set B/C to check
+it, or quote the 5-shot number.
+
+### B. Generative, 5-shot — the model writes the letter; raw prompt, same exemplars as set A
+
+Use it to verify a log-likelihood result: at 5-shot it agrees with set A within 0.7 pt on every model tested, so a
+disagreement means a calibration artefact, not knowledge. Read `exact_match` together with `parsed`.
+
+| shots | tasks | `run_suite --groups` |
+|---:|---|---|
+| 5 | `greekmmlu_gen` | `gen_mmlu_fs5` |
+| 5 | `ilspgreekmmlu_gen` | `gen_ilsp_fs5` |
+| 5 | `belebele_ell_Grek_gen` | `gen_bele_fs5` |
+| 5 | `mmlu_generative` (English guard, `--limit 40`; no `parsed` key) | `gen_mmlu_en_fs5` |
+| 8 | `ilspgreekmgsm` — the one few-shot generative task that needs the chat template for instruct models | `gen_fs8` |
+
+### C. Generative, 0-shot — no exemplars, so the prompt has to carry the format
+
+Two different things live here. The first line is the 0-shot counterpart of set A's `greekmmlu` (raw prompt with a
+`\boxed{}` instruction, parses ≈100% for base and fine-tuned models alike; the exception is Meltemi-7B-base, which
+degenerates into newlines). The rest are the open-ended tasks, run with the chat template for instruct models and the
+raw prompt for bases.
+
+| shots | tasks | prompt | `run_suite --groups` |
+|---:|---|---|---|
+| 0 | `greekmmlu_gen_boxed` | raw | `gen_mmlu_fs0` |
+| 0 | `ilspgreekifeval` (+ English `ifeval`) | chat | `gen_fs0` |
+| 0 | `ilspgreekcivicsqa` | chat | `gen_civics` |
+| 0 | `ilspgreekflores_en_el`, `ilspgreekflores_el_en`, `ilspgreektruthfulqa_gen` | chat | `gen_trans` |
+| 0 | `ilspgreekmmlupro` (`--limit 2000`; long chain-of-thought) | chat | `gen_mmlupro` |
+
+`run_suite --raw_gen` re-runs the chat lines as raw completion into `<group>_raw/` for base models; never put raw and
+chat numbers in the same column.
+
 ## Commands
 
 Base template — set the model, the task and the shot count; keep `--log_samples` (it is the only record of what the
