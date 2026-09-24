@@ -1,6 +1,6 @@
 # 希腊语评测套件
 
-> English version: [`GREEK_EVAL.md`](GREEK_EVAL.md)
+> English version: [`GREEK_EVAL.md`](GREEK_EVAL.md) · 一页速查（任务表 + 命令）：[`GREEK_BENCHMARKS.md`](GREEK_BENCHMARKS.md)
 
 基于 lm-evaluation-harness 搭建的完整希腊语 LLM 评测栈：**13 个 benchmark，分布在 16 个任务目录里，共 264 个叶子任务**，外加一个规则式的生成质量诊断。数据集缓存好之后全部可离线运行，每个任务都记录了它与参考实现的差异。
 
