@@ -1,0 +1,96 @@
+# The evaluation plan: every run the driver knows how to make, one line each. The driver runs every line that is not
+# commented out, for every model you name (`python -m greekeval.run_suite --models <key> ...`), and skips a run whose
+# output folder already holds a results file. Comment out the lines you do not want to run; a commented-out line is
+# still a legal folder name for old results. The driver reads this file (or the one named with --plan).
+#
+# One line = one lm-eval call = one output folder: <runs>/<root>/<model>/<name>/ (see GREEK_BENCHMARKS.md, "Output format").
+#
+#   name          the output folder. Same name under two roots = the same run in two thinking settings.
+#   form          A  multiple choice, log-likelihood: raw prompt, the model generates nothing
+#                 B  multiple choice, the model writes the option letter
+#                 C  open-ended generation, scored by rule checkers or against references
+#                 D  reasoning (chain of thought), scored on the final answer
+#   shots         few-shot exemplars (lm-eval --num_fewshot)
+#   batch         batch size for a 4B model on a 48 GB card; for A and B the model's `mcq_batch` policy applies on top
+#   tasks         lm-eval task names, comma-separated, in quotes
+#   template      none = raw prompt (default for A and B), chat = the model's chat template (default for C and D).
+#                 With chat the generation stops at the model's turn-end token.
+#   think         on = the think block is left open so the model reasons first (chat only; a model whose registry entry
+#                 has no `think` field is skipped). Default: the block is closed and empty.
+#   max_gen_toks  generation cap. Set it whenever the answer can be long; lm-eval's default is 256.
+#   root          eval (default) or eval_think. Every think-on run goes to eval_think, with its think-off control
+#                 (`_closed`) next to it: the two share the run name and only the root tells them apart.
+#
+# The B lines exist to check the A scores for calibration artefacts: compare each with the A line at the same shot
+# count (gen_mmlu_fs5 <-> greekmmlu in mcq_fs5, gen_mmlu_fs0 <-> greekmmlu in mcq_fs0, gen_ilsp_fs5 <-> mcq_fs5b,
+# gen_bele_fs5 <-> mcq_fs5, gen_mmlu_en_fs5 <-> mcq_fs5_en). Only these five A tasks have a letter-writing version;
+# the other A tasks score the option text, not a letter. 0-shot letter writing uses the `\boxed{}` task: without
+# exemplars a plain prompt gives a base model nothing to infer the answer format from.
+
+runs:
+  # ---- A. Multiple choice, log-likelihood. Raw prompt for every model: what published Greek numbers use. ----------
+  - {name: mcq_fs0,               form: A, shots: 0,  batch: 8, tasks: "greekmmlu,ilspgreektruthfulqa_mc1,ilspgreektruthfulqa_mc2"}
+  - {name: mcq_fs5,               form: A, shots: 5,  batch: 4, tasks: "greekmmlu,belebele_ell_Grek,ilspgreekasep"}
+  - {name: mcq_fs5b,              form: A, shots: 5,  batch: 4, tasks: "ilspgreekmmlu"}
+  - {name: mcq_fs5w,              form: A, shots: 5,  batch: 8, tasks: "ilspgreekwinogrande"}
+  - {name: mcq_fs5_en,            form: A, shots: 5,  batch: 4, tasks: "mmlu"}
+  - {name: mcq_fs10,              form: A, shots: 10, batch: 4, tasks: "ilspgreekhellaswag"}
+  - {name: mcq_fs15,              form: A, shots: 15, batch: 2, tasks: "ilspgreekmedicalmcqa"}
+  - {name: mcq_fs25,              form: A, shots: 25, batch: 2, tasks: "ilspgreekarc_easy,ilspgreekarc_challenge"}
+
+  # ---- B. Multiple choice, the model writes the letter. Raw prompt, same exemplars as A. ---------------------------
+  - {name: gen_mmlu_fs0,          form: B, shots: 0,  batch: 8, tasks: "greekmmlu_gen_boxed"}   # the task caps at 64 tokens
+  - {name: gen_mmlu_fs5,          form: B, shots: 5,  batch: 8, tasks: "greekmmlu_gen"}
+  - {name: gen_ilsp_fs5,          form: B, shots: 5,  batch: 8, tasks: "ilspgreekmmlu_gen"}
+  - {name: gen_bele_fs5,          form: B, shots: 5,  batch: 8, tasks: "belebele_ell_Grek_gen"}
+  - {name: gen_mmlu_en_fs5,       form: B, shots: 5,  batch: 8, tasks: "mmlu_generative"}
+
+  # ---- B with the chat template, think block closed: how a chat-tuned model is used in practice. -------------------
+  # A chat-tuned model explains before it writes \boxed{}, so the 0-shot task needs a larger cap than its 64 tokens.
+  - {name: gen_mmlu_fs0_chat,     form: B, shots: 0,  batch: 8, template: chat, max_gen_toks: 1024, tasks: "greekmmlu_gen_boxed"}
+  - {name: gen_mmlu_fs5_chat,     form: B, shots: 5,  batch: 8, template: chat, tasks: "greekmmlu_gen"}
+  - {name: gen_ilsp_fs5_chat,     form: B, shots: 5,  batch: 8, template: chat, tasks: "ilspgreekmmlu_gen"}
+  - {name: gen_bele_fs5_chat,     form: B, shots: 5,  batch: 8, template: chat, tasks: "belebele_ell_Grek_gen"}
+  - {name: gen_mmlu_en_fs5_chat,  form: B, shots: 5,  batch: 8, template: chat, tasks: "mmlu_generative"}
+
+  # ---- C and D. Open-ended and reasoning, chat template, think block closed. --------------------------------------
+  - {name: gen_fs0,               form: C, shots: 0,  batch: 8, tasks: "ilspgreekifeval,ifeval"}
+  - {name: gen_civics,            form: C, shots: 0,  batch: 8, max_gen_toks: 100, tasks: "ilspgreekcivicsqa"}
+  - {name: gen_trans,             form: C, shots: 0,  batch: 8, tasks: "ilspgreekflores_en_el,ilspgreekflores_el_en,ilspgreektruthfulqa_gen"}
+  - {name: gen_fs8b,              form: D, shots: 8,  batch: 8, max_gen_toks: 2048, tasks: "ilspgreekmgsm"}
+  # gen_mmlupro: 12,032 machine-translated items at up to 2,048 new tokens each; it dominates a campaign.
+  # - {name: gen_mmlupro,           form: D, shots: 0,  batch: 8, tasks: "ilspgreekmmlupro"}
+  # gen_fs8 is gen_fs8b at lm-eval's default 256-token cap, which cuts Greek chain-of-thought answers off. Retired;
+  # listed only so that old results can be read.
+  # - {name: gen_fs8,             form: D, shots: 8,  batch: 8, tasks: "ilspgreekmgsm"}
+
+  # ---- C and D as raw completion: for a base model that cannot follow its chat template. Task stop rules apply. ---
+  - {name: gen_fs0_raw,           form: C, shots: 0,  batch: 8, template: none, tasks: "ilspgreekifeval,ifeval"}
+  - {name: gen_civics_raw,        form: C, shots: 0,  batch: 8, template: none, max_gen_toks: 100, tasks: "ilspgreekcivicsqa"}
+  - {name: gen_trans_raw,         form: C, shots: 0,  batch: 8, template: none, tasks: "ilspgreekflores_en_el,ilspgreekflores_el_en,ilspgreektruthfulqa_gen"}
+  - {name: gen_fs8b_raw,          form: D, shots: 8,  batch: 8, template: none, max_gen_toks: 2048, tasks: "ilspgreekmgsm"}
+  # - {name: gen_mmlupro_raw,       form: D, shots: 0,  batch: 8, template: none, tasks: "ilspgreekmmlupro"}
+  # - {name: gen_fs8_raw,         form: D, shots: 8,  batch: 8, template: none, tasks: "ilspgreekmgsm"}
+
+  # ---- Think block OPEN: the model reasons before it answers. Diagnostic, not the campaign protocol. ---------------
+  # 3,072 tokens hold the reasoning and the answer; lm-eval strips the reasoning before scoring. When the block never
+  # closes, the reasoning itself is scored. For B prefer 0-shot: exemplars show direct answers, which invite the
+  # model to skip thinking.
+  - {name: gen_fs0,               form: C, shots: 0,  batch: 8, root: eval_think, think: on, max_gen_toks: 3072, tasks: "ilspgreekifeval,ifeval"}
+  # - {name: gen_civics,            form: C, shots: 0,  batch: 8, root: eval_think, think: on, max_gen_toks: 3072, tasks: "ilspgreekcivicsqa"}
+  # - {name: gen_trans,             form: C, shots: 0,  batch: 8, root: eval_think, think: on, max_gen_toks: 3072, tasks: "ilspgreekflores_en_el,ilspgreekflores_el_en,ilspgreektruthfulqa_gen"}
+  - {name: gen_fs8b,              form: D, shots: 8,  batch: 8, root: eval_think, think: on, max_gen_toks: 3072, tasks: "ilspgreekmgsm"}
+  # - {name: gen_mmlupro,           form: D, shots: 0,  batch: 8, root: eval_think, think: on, max_gen_toks: 3072, tasks: "ilspgreekmmlupro"}
+  - {name: gen_mmlu_fs0_chat,     form: B, shots: 0,  batch: 8, root: eval_think, template: chat, think: on, max_gen_toks: 3072, tasks: "greekmmlu_gen_boxed"}
+  # - {name: gen_mmlu_fs5_chat,     form: B, shots: 5,  batch: 8, root: eval_think, template: chat, think: on, max_gen_toks: 3072, tasks: "greekmmlu_gen"}
+  # - {name: gen_ilsp_fs5_chat,     form: B, shots: 5,  batch: 8, root: eval_think, template: chat, think: on, max_gen_toks: 3072, tasks: "ilspgreekmmlu_gen"}
+  # - {name: gen_bele_fs5_chat,     form: B, shots: 5,  batch: 8, root: eval_think, template: chat, think: on, max_gen_toks: 3072, tasks: "belebele_ell_Grek_gen"}
+  # - {name: gen_mmlu_en_fs5_chat,  form: B, shots: 5,  batch: 8, root: eval_think, template: chat, think: on, max_gen_toks: 3072, tasks: "mmlu_generative"}
+
+  # ---- Think-off controls of the B think-on runs, next to them under eval_think. C and D need none: their think-off
+  # run is the campaign run under eval. -----------------------------------------------------------------------------
+  - {name: gen_mmlu_fs0_chat_closed,    form: B, shots: 0, batch: 8, root: eval_think, template: chat, max_gen_toks: 1024, tasks: "greekmmlu_gen_boxed"}
+  # - {name: gen_mmlu_fs5_chat_closed,    form: B, shots: 5, batch: 8, root: eval_think, template: chat, tasks: "greekmmlu_gen"}
+  # - {name: gen_ilsp_fs5_chat_closed,    form: B, shots: 5, batch: 8, root: eval_think, template: chat, tasks: "ilspgreekmmlu_gen"}
+  # - {name: gen_bele_fs5_chat_closed,    form: B, shots: 5, batch: 8, root: eval_think, template: chat, tasks: "belebele_ell_Grek_gen"}
+  # - {name: gen_mmlu_en_fs5_chat_closed, form: B, shots: 5, batch: 8, root: eval_think, template: chat, tasks: "mmlu_generative"}

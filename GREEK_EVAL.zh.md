@@ -50,7 +50,7 @@ lm-eval-adapted/lm-evaluation-harness/lm_eval/tasks/
 
 组与标签：`ilspgreekmmlu` 聚合它的 57 个学科；`greekmmlu` 聚合 45 个学科，另有 `greekmmlu_stem` / `_humanities` / `_social_sciences` / `_other` 四个分类组。标签 `ilspgreekarc`、`ilspgreektruthfulqa`、`ilspgreekflores` 可以把各自的成员一起跑。
 
-按 benchmark 算是 **7 个选择题 : 6 个生成式** —— 比任务数看起来均衡得多，因为两个 MMLU 自己就占了 116 个叶子任务里的 102 个。算上下面的 `belebele_ell_Grek` 就是 8:6。`belebele_ell_Grek_gen`（在 `belebele_gen/`）是 Belebele 的同款写字母打分；英文防遗忘那侧由上游自带的 `mmlu_generative` 承担。GreekMMLU 另外有两种生成式打分（`greekmmlu_gen` 用于 5-shot，`greekmmlu_gen_boxed` 用于 0-shot），用来判断 log-likelihood 的变化是校准还是知识。
+按 benchmark 算是 **7 个选择题 : 6 个生成式** —— 比任务数看起来均衡得多，因为两个 MMLU 自己就占了 264 个叶子任务里的 249 个。算上下面的 `belebele_ell_Grek` 就是 8:6。`belebele_ell_Grek_gen`（在 `belebele_gen/`）是 Belebele 的同款写字母打分；英文防遗忘那侧由上游自带的 `mmlu_generative` 承担。GreekMMLU 另外有两种生成式打分（`greekmmlu_gen` 用于 5-shot，`greekmmlu_gen_boxed` 用于 0-shot），用来判断 log-likelihood 的变化是校准还是知识。
 
 ## lm-eval 自带的希腊语任务
 
@@ -74,10 +74,10 @@ lm-eval-adapted/lm-evaluation-harness/lm_eval/tasks/
 ```bash
 lm-eval --model hf --model_args pretrained=<model>,dtype=bfloat16 \
         --tasks greekmmlu --num_fewshot 5 --batch_size 4 --device cuda:0 \
-        --log_samples --output_path runs/eval/<name>
+        --log_samples --seed 1234 --output_path runs/eval/<模型键>/mcq_fs5
 ```
 
-**务必加 `--log_samples`**：下面的生成诊断要读这些 dump，而且它们是模型到底说了什么的唯一记录。
+输出路径遵循 [`GREEK_BENCHMARKS.md`](GREEK_BENCHMARKS.md#output-format) 的目录约定，不同人跑的结果才能进同一张表；那里介绍的驱动会自动生成这个路径。**务必加 `--log_samples`**：下面的生成诊断要读这些 dump，而且它们是模型到底说了什么的唯一记录。
 
 ### 两种 prompt 格式
 

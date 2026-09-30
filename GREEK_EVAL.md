@@ -58,7 +58,7 @@ Groups and tags: `ilspgreekmmlu` aggregates its 57 subjects; `greekmmlu` aggrega
 `ilspgreekflores` run their members together.
 
 Counted as benchmarks that is **7 multiple-choice and 6 generative** — a far more even split than the task count
-suggests, since the two MMLUs alone contribute 102 of the 116 leaf tasks. Add `belebele_ell_Grek` below and it is 8:6. `belebele_ell_Grek_gen` (in `belebele_gen/`) is the
+suggests, since the two MMLUs alone contribute 249 of the 264 leaf tasks. Add `belebele_ell_Grek` below and it is 8:6. `belebele_ell_Grek_gen` (in `belebele_gen/`) is the
 same letter-writing scoring for Belebele; for the English guard the upstream `mmlu_generative` tasks play that role. GreekMMLU additionally has two generative scorings
 (`greekmmlu_gen` for 5-shot, `greekmmlu_gen_boxed` for 0-shot) that test whether a log-likelihood change is
 calibration or knowledge.
@@ -86,10 +86,11 @@ is the Greek counterpart (see "Not included, and why" for its filter).
 ```bash
 lm-eval --model hf --model_args pretrained=<model>,dtype=bfloat16 \
         --tasks greekmmlu --num_fewshot 5 --batch_size 4 --device cuda:0 \
-        --log_samples --output_path runs/eval/<name>
+        --log_samples --seed 1234 --output_path runs/eval/<model key>/mcq_fs5
 ```
 
-Always pass `--log_samples`: the generation diagnostic below reads those dumps, and they are the only record of what
+The output path follows the layout in [`GREEK_BENCHMARKS.md`](GREEK_BENCHMARKS.md#output-format), so that runs made
+by different people land in one table; the driver described there builds it for you. Always pass `--log_samples`: the generation diagnostic below reads those dumps, and they are the only record of what
 the model actually said.
 
 ### The two prompt formats

@@ -31,7 +31,7 @@ METRICS = [
     ("greekmmlu_gen",            "  · parsed",                              "parsed,letter",      "gen_mmlu_fs5"),
     ("greekmmlu_gen_boxed",      "GreekMMLU gen 0-shot (boxed)",            "exact_match,boxed",  "gen_mmlu_fs0"),
     ("greekmmlu_gen_boxed",      "  · parsed",                              "parsed,boxed",       "gen_mmlu_fs0"),
-    # the same letter-writing tasks WITH each model's chat template (`run_suite --chat_mcq`, output <group>_chat/)
+    # the same letter-writing tasks WITH each model's chat template (the `_chat` lines of the plan, output <group>_chat/)
     ("greekmmlu_gen",            "GreekMMLU gen 5-shot, chat template",     "exact_match,letter", "gen_mmlu_fs5_chat"),
     ("greekmmlu_gen",            "  · parsed",                              "parsed,letter",      "gen_mmlu_fs5_chat"),
     ("greekmmlu_gen_boxed",      "GreekMMLU gen 0-shot, chat template",     "exact_match,boxed",  "gen_mmlu_fs0_chat"),

@@ -76,8 +76,9 @@ def verify(d: str) -> bool:
     if not any(os.path.exists(os.path.join(d, f)) for f in TOKENIZER_ANY):
         print(f"  missing a tokenizer file (any of {TOKENIZER_ANY})"); ok = False
     tc = os.path.join(d, "tokenizer_config.json")
-    if os.path.exists(tc):
-        print(f"  chat_template: {'present' if json.load(open(tc)).get('chat_template') else 'ABSENT'}")
+    if os.path.exists(tc):   # transformers >= 4.50 may save the template as chat_template.jinja instead
+        has = bool(json.load(open(tc)).get("chat_template")) or os.path.exists(os.path.join(d, "chat_template.jinja"))
+        print(f"  chat_template: {'present' if has else 'ABSENT'}")
     print("  VERDICT:", "complete" if ok and not partials else "INCOMPLETE")
     return ok and not partials
 

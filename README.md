@@ -1,23 +1,25 @@
-# evaluation/
+# Greek evaluation toolkit
 
-The Greek evaluation toolkit: the lm-eval fork with the Greek tasks, and the tools that run a campaign with it. It
-holds no model list and no results. Those belong to the project that uses it: the project supplies a model registry
-and a root folder, and the toolkit writes its outputs there.
+The lm-eval fork with the Greek tasks, and the tools that run a campaign with it, in one repository. It holds no
+model list and no results: you list your models in a local, git-ignored file, and the outputs go to the project
+folder you name there.
 
 ## Docs
 
 | doc | read it for |
 |---|---|
 | this page | what is here, install, the model registry, tool commands, paths |
-| [`GREEK_BENCHMARKS.md`](GREEK_BENCHMARKS.md) | the one-page reference: every task, the groups the driver runs (shots, caps, prompt), the output format, thinking settings, plain lm-eval commands |
+| [`GREEK_BENCHMARKS.md`](GREEK_BENCHMARKS.md) | the rules: every task and what it measures, the output format, the thinking settings, how a plan line maps to lm-eval flags. Which runs exist is in `plan.yaml`, not there |
 | [`GREEK_EVAL.md`](GREEK_EVAL.md) ([中文](GREEK_EVAL.zh.md)) | the background: task sources, protocol trade-offs, known pitfalls, what is not included and why |
 
 ## What is here
 
 | path | what it is |
 |---|---|
-| `lm-eval-adapted/lm-evaluation-harness/` | the lm-eval fork with the Greek tasks; its own git repo (`yangzhang33/lm-evaluation-harness`, branch `el`). Each Greek task directory has a README on how it differs from its reference implementation |
-| `greekeval/run_suite.py` | campaign driver: every model × every task group, resumable |
+| `lm-eval-adapted/lm-evaluation-harness/` | lm-evaluation-harness with the Greek tasks added (`lm_eval/tasks/ilspgreek*`, `greekmmlu*`, `belebele_gen`) and a few fixes for reasoning-style chat templates; a plain subfolder of this repository. Each Greek task directory has a README on how it differs from its reference implementation |
+| `greekeval/run_suite.py` | campaign driver: every model × every line of the plan, resumable |
+| `config/plan.yaml` | the plan: every run the toolkit knows, one line each; comment out what you do not want (see "Plan") |
+| `config/models.yaml` | your model registry; git-ignored, start from `config/models.example.yaml` (see "Model registry") |
 | `greekeval/models.py` | loads the project's model registry (see "Model registry") |
 | `greekeval/collect.py`, `export_scores.py` | headline tables (`summary*.csv/md`) and the long table of every score (`all_scores.csv`) |
 | `greekeval/status.py` | what is done and what is running, read off the filesystem and `/proc` |
@@ -26,16 +28,15 @@ and a root folder, and the toolkit writes its outputs there.
 | `greekeval/verify_model_dir.py` | checks a local model directory is complete before GPU hours are spent on it |
 | `greekeval/paths.py` | how every path is resolved (see "Paths") |
 | `greekeval/langid.py`, `templates.py`, `log.py` | small helpers (language ID, chat-message preparation, logging) |
-| `models.example.yaml` | example model registry |
 | `ilsp-assets/` | ILSP's Greek MT-Bench judge prompts |
 
 ## Install
 
 ```bash
-pip install -e evaluation/lm-eval-adapted/lm-evaluation-harness              # the fork; adds ~28 packages, touches no torch/transformers pin
+pip install -e lm-eval-adapted/lm-evaluation-harness                         # the fork; adds ~28 packages, touches no torch/transformers pin
 pip install langdetect immutabledict                                          # ilspgreekifeval
 python -c "import nltk; nltk.download('punkt_tab')"                           # Greek sentence splitting, ~11 MB
-pip install -e evaluation --no-deps --no-build-isolation                      # this toolkit
+pip install -e . --no-deps --no-build-isolation                               # this toolkit, from the repository root
 ```
 
 `greekeval` declares no dependencies and uses what the environment already has (torch, transformers, pyyaml,
@@ -45,24 +46,37 @@ afterwards run everything with `HF_HUB_OFFLINE=1 HF_DATASETS_OFFLINE=1`. Every m
 
 ## Model registry
 
-The models are not part of the toolkit. List them in a YAML file in your project, `configs/eval/models.yaml` under
-the project root (or any file named by `$GREEKEVAL_MODELS`). Start from `models.example.yaml`, which documents the
-fields: local path, turn-end token, how the think block is closed, batch policy, judge budget. The key of a model is
+All configuration lives in `config/`, inside this folder. The models are listed in `config/models.yaml`, which is
+git-ignored: it holds local paths, so it never leaves your machine (or use any file named by `$GREEKEVAL_MODELS`).
+Start from `config/models.example.yaml`, which documents the
+fields: local path, turn-end token, how the think block is closed, batch policy, judge budget. The same file names
+your `project_root` (see "Paths"). The key of a model is
 what you pass to `--models` and the name of its output folder; table columns follow the order of the file.
+
+On another machine keep the keys and change only the paths: the key is what makes results from two machines land in
+the same folder and the same table column. A machine-local copy of the registry is selected with `$GREEKEVAL_MODELS`.
+
+## Plan
+
+What gets run is not decided on the command line but in the plan file: `config/plan.yaml` lists every run the toolkit
+knows (log-likelihood MCQ, letter-writing MCQ, open-ended, reasoning; raw prompt or chat template; think block closed
+or open), one line each, with its tasks, shots, cap and output folder. Comment out the lines you do not want; the
+driver runs the rest for the models you name and skips a run whose folder already has results. The file's header
+explains every field. `--groups <name> ...` narrows one call to the named lines; `--plan <file>` reads another file.
 
 ## Commands
 
 ```bash
-python -m greekeval.run_suite --list --models <key>                     # the plan for one model
-python -m greekeval.run_suite --gpu 0 --models <key> --groups mcq_fs5 gen_fs8b
-python -m greekeval.run_suite --gpu 0 --models <key> --raw_gen          # chat groups as raw completion -> <group>_raw/
-python -m greekeval.run_suite --gpu 0 --models <key> --chat_mcq --groups gen_mmlu_fs5 gen_mmlu_fs0   # letter groups with the chat template -> <group>_chat/
-python -m greekeval.run_suite --gpu 0 --models <key> --think --out_root runs/eval_think    # think block open
+python -m greekeval.run_suite --list --models <key>                     # every line of the plan: done or todo
+python -m greekeval.run_suite --gpu 0 --models <key>                    # run them all; skips what is done
+python -m greekeval.run_suite --gpu 0 --models <key> --groups mcq_fs5 gen_fs8b   # only these lines
+python -m greekeval.run_suite --dp 2 --models <key> --groups gen_mmlu_fs0        # one run over both GPUs
+python -m greekeval.run_suite --gpu 0 --models <key> --limit 1 --runs runs/smoke # smoke test: 1 item per task, same layout under runs/smoke/
 
-python -m greekeval.collect --csv reports/eval_results/summary.csv --md reports/eval_results/summary.md
-python -m greekeval.collect --protocol raw --csv reports/eval_results/summary_raw.csv --md reports/eval_results/summary_raw.md
+python -m greekeval.collect --csv runs/eval/summary.csv --md runs/eval/summary.md
+python -m greekeval.collect --protocol raw --csv runs/eval/summary_raw.csv --md runs/eval/summary_raw.md
 python -m greekeval.export_scores                                       # -> reports/eval_results/all_scores.csv
-python -m greekeval.status                                              # --watch 300 keeps runs/eval/STATUS.md
+python -m greekeval.status                                              # --watch 300 keeps runs/eval/STATUS.md; --runs runs/smoke for a smoke folder
 python -m greekeval.failure_profile --runs base=runs/eval/<key> sft=runs/eval/<key> --tokenizer <model dir>
 python -m greekeval.verify_model_dir <model dir>
 
@@ -76,12 +90,11 @@ Which groups to run, how many shots, which token caps and which prompt: [`GREEK_
 ## Paths
 
 A relative path is always taken from the **project root**, never from the current directory. That covers the model
-paths in the registry, `--out_root`, `--root`, `--runs`, and output files such as `--csv`. An absolute path is used
-as is.
+paths in the registry, `--runs`, `--root`, and output files such as `--csv`. An absolute path is used as is.
 
-The project root is the folder above `evaluation/`. Set `GREEKEVAL_PROJECT=/some/dir` to use another one: the
-registry, `models/`, `runs/`, `data/` and `reports/` are then looked up there. The lm-eval fork is always the one
-next to this package.
+The project root is where `models/`, `runs/`, `data/` and `reports/` live. Set it as `project_root` in
+`config/models.yaml`; `$GREEKEVAL_PROJECT` overrides it. Without either, it is this folder itself, and the outputs
+(`runs/`, `data/`) are git-ignored here. The lm-eval fork is always the one in this repository.
 
 Outputs: `runs/eval/`, `runs/eval_think/`, `runs/judge/`, `data/judge/`, `reports/eval_results/`, all under the
 project root.

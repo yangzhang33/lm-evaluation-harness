@@ -1,5 +1,5 @@
-# Example model registry. Copy it to <project root>/configs/eval/models.yaml (or point $GREEKEVAL_MODELS at your
-# copy) and list your own models. The key is what you pass to --models and the name of the output folder; the
+# Example model registry. Copy it to models.yaml next to this file (git-ignored: it holds local paths), or point
+# $GREEKEVAL_MODELS at your copy, and list your own models. The key is what you pass to --models and the name of the output folder; the
 # columns of every score table follow the order of this file.
 #
 # Fields
@@ -14,6 +14,10 @@
 #   judge_max_new      new-token budget of the judge generator (default 1024); raise it for tokenizers that
 #                      spend more tokens per Greek character, so every model may write the same amount of text
 #   judge              false = the judge generator refuses this model (it cannot follow its chat template)
+
+# Where models/, runs/, data/ and reports/ live. Relative paths (the model paths below, the outputs) are taken from
+# here. Leave it out to keep everything inside the toolkit folder. $GREEKEVAL_PROJECT overrides it.
+project_root: /path/to/your/project
 
 judge_baseline: my_instruct         # opponent of the pairwise judge rubric
 

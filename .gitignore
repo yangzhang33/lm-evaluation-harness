@@ -1,0 +1,7 @@
+# local configuration: model paths and names stay on the machine
+config/models.yaml
+# outputs, when no project_root is set
+runs/
+data/
+__pycache__/
+*.egg-info/
