@@ -16,7 +16,7 @@ exams — not a translation, so contamination risk is low.
 Evaluated on `train` (1602), few-shot examples drawn sequentially from `validation` (432),
 which is what the reference implementation does — despite the split names. Swap
 `test_split` and `fewshot_split` if you would rather evaluate on the smaller held-out
-half; the numbers will not be comparable with ILSP's published 48.0% if you do.
+half; the numbers will not be comparable with ILSP's published number if you do.
 
 ### Prompt
 

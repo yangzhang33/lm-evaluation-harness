@@ -1,8 +1,8 @@
 """Generative GreekMMLU with an explicit answer-format instruction, for 0-shot use.
 
-Without exemplars a base model has nothing telling it to answer with a letter: at 0-shot Qwen3.5-4B-Base
-produced a parseable letter for only 87% of items under the plain prompt, and lost 11 points against its own
-log-likelihood score on the same items; with this instruction it parsed 100% and matched it (+0.6).
+Without exemplars a base model has nothing telling it to answer with a letter: at 0-shot under the plain prompt
+it often answers in a sentence, fails to parse, and scores below its own log-likelihood on the same items. This
+instruction removes that format penalty.
 The wording is the one used for the earlier boxed-answer runs on this benchmark, so numbers are comparable
 with those."""
 

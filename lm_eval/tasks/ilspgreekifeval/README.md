@@ -53,11 +53,11 @@ registry.
 ### Running it
 
 Instruct models need `--apply_chat_template`. Without it they see a bare prompt and many
-of them emit EOS immediately: on Meltemi-7B-Instruct-v1.5, 8 of 15 sampled generations
-came back empty and instruction-level accuracy was 0.087, against 0.565 with the template.
-Base models take the raw prompt, as usual.
+of them emit EOS immediately: the generations come back empty and the accuracy reads near
+zero. Base models take the raw prompt, as usual.
 
 ### Caveat for reports
 
-The SFT mix contains ~42K rows of `openeurollm/EU-Instruct-Synthetic`, the same
-constrained-instruction genre. Scores on this benchmark are optimistic; say so.
+If a model's fine-tuning data contains instructions of this constrained genre (for
+example `openeurollm/EU-Instruct-Synthetic`), its scores on this benchmark are optimistic;
+say so.

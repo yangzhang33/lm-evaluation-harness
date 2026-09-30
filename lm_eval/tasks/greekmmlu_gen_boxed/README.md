@@ -41,14 +41,8 @@ under this protocol.
 
 ### Why the instruction is worth the prompt change
 
-0-shot, 180 items per model, against the log-likelihood score on the same items:
-
-| model | plain prompt (`greekmmlu_gen`) | boxed instruction |
-|---|---|---|
-| Qwen3.5-4B-Base | parse 86.7%, −11.1 pt | parse 100%, +0.6 pt |
-| Qwen3.5-4B SFT (e3) | parse 100%, ±0.0 pt | parse 100%, +4.4 pt |
-| K2-Horizon-3.7B base | parse 96.1%, −1.7 pt | parse 100%, +0.6 pt |
-
-Base models follow the instruction as reliably as the fine-tuned one, so it removes the format penalty without
-tilting the comparison. Few-shot is possible (`fewshot_split: dev` is configured) but every exemplar then repeats
+At 0-shot under the plain prompt (`greekmmlu_gen`) a base model often answers in a sentence instead of a letter,
+fails to parse, and scores below its own log-likelihood on the same items. Base models follow the boxed instruction
+as reliably as fine-tuned ones, so it removes the format penalty without tilting the comparison. Read `parsed`
+next to `exact_match` to confirm it for your model. Few-shot is possible (`fewshot_split: dev` is configured) but every exemplar then repeats
 the instruction paragraph; for few-shot use `greekmmlu_gen`.

@@ -16,7 +16,7 @@ Configs are derived from the sibling directory by `_generate_configs.py`; re-run
 
 - **Prompt: byte-identical to `greekmmlu`.** Same `utils.doc_to_text`, same Greek option labels, same trailing
   ` Απάντηση:`; few-shot exemplars from the same `dev` split in the same order, rendered as `Απάντηση: Δ`.
-  Verified against the campaign's own sample dumps.
+  Verified against sample dumps of `greekmmlu`.
 - **Generation:** greedy, 8 new tokens, no stop string (the extractor only looks at the start).
 - **Extraction (`letter` filter):** the first standalone option letter, optionally in `(`/`[` and followed by
   punctuation. A letter that begins a word — `Απάντηση`, `Δεν` — is not an answer. Greek `Α-Δ` and Latin `A-D`
@@ -27,18 +27,13 @@ Configs are derived from the sibling directory by `_generate_configs.py`; re-run
 
 ### Use it 5-shot; use `greekmmlu_gen_boxed` for 0-shot
 
-With five exemplars the format is unambiguous and the score tracks log-likelihood on the very same items
-(Qwen3.5-4B-Base, its SFT `e3`, and K2-Horizon-3.7B base; 180 items each):
+With five exemplars the format is unambiguous and the score tracks log-likelihood on the very same items.
 
-| | parse | generative − log-likelihood, same items |
-|---|---|---|
-| 5-shot | 100% / 100% / 99.4% | +0.6 / +0.6 / −2.2 pt |
-
-At 0-shot nothing tells the model to answer with a letter. The SFT model still does; the base models write
-`Η σωστή απάντηση είναι …`, restate `Απάντηση:`, or give the answer text, and pay for it: Qwen3.5-4B-Base parsed
-86.7% and scored 11 points under its own log-likelihood on the same items. That is a format effect, not knowledge,
-and it is not evenly distributed across models — so for 0-shot use `greekmmlu_gen_boxed`, which adds an explicit
-answer-format instruction and parses 100% for base and fine-tuned models alike.
+At 0-shot nothing tells the model to answer with a letter. A chat-tuned model usually still does; a base model
+tends to write `Η σωστή απάντηση είναι …`, restate `Απάντηση:`, or give the answer text, and is scored wrong for
+it. That is a format effect, not knowledge, and it is not evenly distributed across models — so for 0-shot use
+`greekmmlu_gen_boxed`, which adds an explicit answer-format instruction that base and fine-tuned models follow
+alike.
 
 Run it under the multiple-choice protocol: raw prompt, no chat template, `--num_fewshot 5`. Compare with the
 5-shot `greekmmlu` run, not the 0-shot one.

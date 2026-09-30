@@ -12,11 +12,11 @@ tell a calibration shift of single-letter continuations apart from a change in k
 ### Protocol
 
 - **Prompt: byte-identical to `ilspgreekmmlu`** — ILSP's instruction with the subject from the dataset, Greek
-  option labels, trailing `Απάντηση:`, exemplars from `dev` in order. Verified against the campaign's sample dumps.
+  option labels, trailing `Απάντηση:`, exemplars from `dev` in order. Verified against sample dumps of `ilspgreekmmlu`.
 - **Generation:** greedy, 8 new tokens, no stop string.
 - **Extraction (`letter` filter):** the first standalone option letter; Greek `Α-Δ` and Latin `A-D` accepted, Latin
   mapped onto Greek by position.
 - **Metrics:** `exact_match` (unparsed = wrong) and `parsed`. Result keys `exact_match,letter`, `parsed,letter`.
 
 Run it as `ilspgreekmmlu` is run: raw prompt, no chat template, `--num_fewshot 5` (ILSP's setting), and compare
-with the 5-shot `ilspgreekmmlu` result. Smoke on Qwen3.5-4B-Base: parsed 100%.
+with the 5-shot `ilspgreekmmlu` result.

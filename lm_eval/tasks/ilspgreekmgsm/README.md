@@ -23,6 +23,6 @@ the target and drops the prefix.
 
 ### Running it
 
-Instruct models need `--apply_chat_template --fewshot_as_multiturn`. Without it,
-Meltemi-7B-Instruct-v1.5 returned empty generations for 36 of 40 sampled rows and scored
-0.0; with it, flexible-extract 0.25 / strict-match 0.20.
+Instruct models need `--apply_chat_template --fewshot_as_multiturn`. Without it an
+instruct model tends to emit EOS at once: the generations come back empty and the task
+reads 0 for a reason that has nothing to do with ability.
