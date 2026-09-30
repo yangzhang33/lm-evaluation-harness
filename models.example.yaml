@@ -1,0 +1,32 @@
+# Example model registry. Copy it to <project root>/configs/eval/models.yaml (or point $GREEKEVAL_MODELS at your
+# copy) and list your own models. The key is what you pass to --models and the name of the output folder; the
+# columns of every score table follow the order of this file.
+#
+# Fields
+#   path               local model directory; a relative path is taken from the project root   (required)
+#   turn_end           the chat template's end-of-turn token, used as the generation stop       (required)
+#   think              how the think block is closed when the template opens one:
+#                      enable_thinking = the template has a switch; suffix = a closing tag is appended
+#   trust_remote_code  passed to lm-eval / transformers
+#   mcq_batch          half = run the likelihood and letter groups at half the group's batch size
+#                      (the group sizes fit a 4B model on a 48 GB card)
+#   tokenizer          load the tokenizer from this directory instead of `path`
+#   judge_max_new      new-token budget of the judge generator (default 1024); raise it for tokenizers that
+#                      spend more tokens per Greek character, so every model may write the same amount of text
+#   judge              false = the judge generator refuses this model (it cannot follow its chat template)
+
+judge_baseline: my_instruct         # opponent of the pairwise judge rubric
+
+models:
+  my_base:
+    path: /path/to/base-model
+    turn_end: "<|im_end|>"
+    think: enable_thinking
+  my_sft:
+    path: models/my-sft-run_merged
+    turn_end: "<|im_end|>"
+    think: enable_thinking
+  my_instruct:
+    path: /path/to/instruct-model
+    turn_end: "<|eot_id|>"
+    mcq_batch: half
